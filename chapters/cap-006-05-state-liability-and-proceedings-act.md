@@ -92,7 +92,9 @@ This Chapter contains no subsidiary legislation
 
 **19.** Proceedings in rem.
 
-**20.** State entitled to rely on written law applicable to private parties as a defence to an action.
+*State*
+
+**20.** entitled to rely on written law applicable to private parties as a defence to an action.
 
 **21.** Application of other written law to the State.
 
@@ -160,11 +162,9 @@ subject to this Act, the State shall, in respect of a failure to comply with tha
 
 (2) Nothing in the preceding subsection or in any
 
-other provisions of this Act shall affect the rights of any department of the Government under sections 33 and 72 of
-
 *c. 90:03*
 
-the Patents and Designs Act.
+other provisions of this Act shall affect the rights of any department of the Government under sections 33 and 72 of the Patents and Designs Act.
 
 (3) Save as expressly provided by this section, no proceedings shall lie against the State by virtue of this Act in respect of the infringement of a patent, a registered trade mark or any such copyright as is mentioned in subsection (1).
 
@@ -174,17 +174,13 @@ the Patents and Designs Act.
 
 (2) Without prejudice to the effect of subsection (1)—
 
-(a) Parts II and III of the Law Reform
-
 *c. 6:02*
 
-(Miscellaneous Provisions) Act shall bind the State;
-
-(b) sections 1, 2 and 3 of the applied Act
+(a) Parts II and III of the Law Reform (Miscellaneous Provisions) Act shall bind the State;
 
 *1 & 2 Geo. 5c. 57*
 
-entitled the Maritime Convention Act, 1911, shall apply in the case of vessels belonging to the State as they apply in the case of other vessels.
+(b) sections 1, 2 and 3 of the applied Act entitled the Maritime Convention Act, 1911, shall apply in the case of vessels belonging to the State as they apply in the case of other vessels.
 
 (3) In this section “vessels” has the same meaning as in the aforesaid Maritime Convention Act, 1911.
 
@@ -236,11 +232,9 @@ such certificate shall, for the purposes of this section, be conclusive evidence
 
 (a) brought in the High Court in a suit instituted by the claimant as plaintiff against the Attorney General as defendant or any other officer authorized by law, or from time to time designated for that purpose by the Minister; or
 
-(b) enforced by proceedings instituted in a magistrate’s court against the Attorney General or other officer referred to in paragraph (a) under the Summary Jurisdiction (Petty Debt)
-
 *c. 7:01*
 
-Act,
+(b) enforced by proceedings instituted in a magistrate’s court against the Attorney General or other officer referred to in paragraph (a) under the Summary Jurisdiction (Petty Debt) Act,
 
 may after the commencement of this Act, be enforced, subject to the provisions of this Act, as of right, and without the fiat of the Minister, by proceedings instituted against the State in accordance with this Act.
 

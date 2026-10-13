@@ -74,7 +74,9 @@ An Act to regulate the writing of Petitions and Letters in the names of persons 
 
 **3.** Everyone who contravenes any of the provisions of subsection (1) of the last preceding section, or gives a
 
-certificate which is false in any particular (including the statement of place of abode), shall be liable on summary conviction to a fine of nine thousand seven hundred and fifty dollars or to imprisonment for two months.
+*certificate statement of conviction to a dollars or to*
+
+which is false in any particular (including the place of abode), shall be liable on summary fine of nine thousand seven hundred and fifty imprisonment for two months.
 
 *Exceptions.*
 
@@ -83,3 +85,7 @@ certificate which is false in any particular (including the statement of place o
 (a) shall apply to any petition or other Act addressed to, or to be filed or lodged in any proceeding in, a court of law which has been prepared or drawn by a legal practitioner duly admitted to practise in the courts of Guyana;
 
 (b) shall be construed to affect the criminal jurisdiction of the High Court.
+
+*1/2022*
+
+L.R.O.

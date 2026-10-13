@@ -510,11 +510,9 @@ lease, easement or any other right, liability, or burden, on, in or over land;
 
 **3.** (1) Except as otherwise provided in this Act, no other Act and no regulations, rules, laws, practice or procedure relating to land shall apply to registered land so far as they are inconsistent with this Act, and in particular but without prejudice to the generality of the foregoing, the law and practice relating to conventional mortgages or hypothecs of immovable property and to easements, profits a prendre or real servitudes and to oppositions shall not apply to registered land, but unless a contrary intention appears nothing contained in this Act shall be construed as permitting any dealing or other act which is forbidden under the express provisions of any other Act or as overriding any provision of any other Act requiring the consent or approval of any authority or person to any dealing or other act.
 
-(2) Except as otherwise provided in this Act, the Deeds Registry Act shall not apply to registered land and, unless the context otherwise requires, reference in any Act or
-
 *c. 5:01*
 
-other law to the Deeds Registry Act or to the Deeds Registry
+(2) Except as otherwise provided in this Act, the Deeds Registry Act shall not apply to registered land and, unless the context otherwise requires, reference in any Act or other law to the Deeds Registry Act or to the Deeds Registry
 
 or to the Registrar of Deeds in relation to any land or in relation to any dealing or instrument affecting any land shall, if the land is registered land, be deemed to be a reference to this Act or to the land registry or to the Registrar of Lands as the case may be.
 
@@ -624,11 +622,9 @@ consisting of one or more Commissioners, a practising attorney-at-law to make ru
 
 (3) Rules of court shall be subject to the approval of the Minister who may amend them, and such rules shall not come into operation until they have been so approved and published in the Gazette.
 
-(4) Until rules are made under subsections (1) and
-
 *c. 3:05 Sub Leg.*
 
-(2), the Summary Jurisdiction (Civil Procedure) Rules shall apply with such adaptations as may be necessary and so far as the same can be applied to proceedings in the Land Court.
+(4) Until rules are made under subsections (1) and (2), the Summary Jurisdiction (Civil Procedure) Rules shall apply with such adaptations as may be necessary and so far as the same can be applied to proceedings in the Land Court.
 
 ## PART IV FIRST REGISTRATION
 
@@ -922,11 +918,9 @@ necessary, of his intention to make a declaration of absolute title unless an ob
 
 (3) Any person may pass transport of any land to himself as registered proprietor and in such case no duty shall be payable in respect of such transport.
 
-(4) Any transport passed in accordance with this section shall be passed in the same manner and subject to the
-
 *c. 5:01*
 
-same conditions as transports passed under the Deeds Registry Act save and except –
+(4) Any transport passed in accordance with this section shall be passed in the same manner and subject to the same conditions as transports passed under the Deeds Registry Act save and except –
 
 (a) that in the vendors instructions to advertise and in every advertisement and in the transport the transferee shall be described by the addition of the words as registered proprietor under the Land Registry Act; and
 
@@ -1148,11 +1142,9 @@ by that section.
 
 (b) see to the application of the purchase money or any part thereof;
 
-(c) give effect to, nor be affected in any way by, any notice of any instrument, fact or thing, whether registered or
-
 *c. 5:01*
 
-not under the Deeds Registry Act or under any other act, or of any trust, right or interest, unregistered or unprotected by caveat, any rule of law or equity to the contrary notwithstanding.
+(c) give effect to, nor be affected in any way by, any notice of any instrument, fact or thing, whether registered or not under the Deeds Registry Act or under any other act, or of any trust, right or interest, unregistered or unprotected by caveat, any rule of law or equity to the contrary notwithstanding.
 
 (2) The protection granted by this section shall not apply to a person who is privy to or has notice of any fraud relating to the transfer to such person, but knowledge of the existence of any instrument, fact or thing, trust, right or interest, unregistered or unprotected as aforesaid, or omission
 
@@ -1252,11 +1244,9 @@ mortgage the same by an instrument
 
 of mortgage in Form C of the First Schedule; or
 
-(b) charge the same to secure the payment of a rent- charge, annuity or other periodical sum by an instrument of charge in Form D of the
-
 *First Schedule.*
 
-First Schedule.
+(b) charge the same to secure the payment of a rent- charge, annuity or other periodical sum by an instrument of charge in Form D of the First Schedule.
 
 (2) There may be included in any instrument of mortgage or charge such terms and conditions as the parties
 
@@ -1532,11 +1522,9 @@ of any registered land may by instrument create an easement thereover or subject
 
 (2) An easement or restrictive covenant the benefit of which is appurtenant to any land shall not be registered unless the dominant land is either registered under this Act or is held under a document of title. Upon registration of such an easement or covenant, the Registrar shall enter a memorial thereof in the register of the servient land, and the Registrar or Registrar of Deeds as the case may be shall enter a memorial thereof in the register of the dominant land or upon the relevant document of title.
 
-(3) The Registrar may, upon the application of any interested person, enter upon the register of any dominant land a memorial of any easement or restrictive covenant
-
 *c. 5:01*
 
-registered under the provisions of the Deeds Registry Act, notwithstanding that the servient land is unregistered.
+(3) The Registrar may, upon the application of any interested person, enter upon the register of any dominant land a memorial of any easement or restrictive covenant registered under the provisions of the Deeds Registry Act, notwithstanding that the servient land is unregistered.
 
 (4) Subject as hereinafter provided, no easement hereafter created and no restrictive covenant hereafter entered into shall be binding on any registered proprietor who subsequently acquires the land bona fide for value, unless such easement or covenant has been registered.
 
@@ -1642,11 +1630,9 @@ Provided that on registration of a writ issued pursuant to a registered judgment
 
 *Caveats.*
 
-**125.** (1) Any person claiming any interest in any registered land whether under an unregistered instrument or otherwise may lodge with the Registrar a caveat in Form G in
-
 *First Schedule.*
 
-the First Schedule, and the statements therein shall be verified by a statutory declaration.
+**125.** (1) Any person claiming any interest in any registered land whether under an unregistered instrument or otherwise may lodge with the Registrar a caveat in Form G in the First Schedule, and the statements therein shall be verified by a statutory declaration.
 
 (2) No caveat shall be accepted by the Registrar unless there is therein specified an address for service in the district in which the land registry is situate.
 
@@ -1730,13 +1716,9 @@ shall be entitled to recover compensation out of the Fund.
 
 (d) the exercise of any power conferred by this Act where the person suffering loss, damage or deprivation has been privy to the application or dealing in connexion with which such power was exercised or derives title otherwise than for value under or through a person who has been privy as aforesaid.
 
-*Persons not entitled to*
+*Persons not entitled to of the Fund – compensation.*
 
 **130.** No person shall be entitled to compensation out
-
-*of the Fund –*
-
-*compensation.*
 
 (a) where such person or his agent caused or substantially contributed to the loss, damage or deprivation by fraud, neglect or wilful default or derives title otherwise than for value from a person who or whose agent
 
@@ -1998,11 +1980,9 @@ refuse to make a complete discovery by answer in any legal proceeding or to answ
 
 **161.** (1) Subject to any order made under subsection (2), there shall be paid to the Registrar the fees set out in the Second Schedule in respect of the matters specified therein. In
 
-case of first registration by transport, such fees shall be
-
 *c. 5:01*
 
-payable in lieu of any fees payable under the Deeds Registry Act.
+case of first registration by transport, such fees shall be payable in lieu of any fees payable under the Deeds Registry Act.
 
 (2) The Minister may by order amend or add to the fees set out in the Second Schedule.
 
@@ -2072,7 +2052,9 @@ Block: Parcel:
 
 Description and location of land:
 
-I, A.B., of (address), being the registered proprietor under the Land Registry Act of (the above parcel), in consideration of the sum of (dollars) paid to me by C.D. of (address),
+*I,*
+
+A.B., of (address), being the registered proprietor under the Land Registry Act of (the above parcel), in consideration of the sum of (dollars) paid to me by C.D. of (address),
 
 receipt of which I hereby acknowledge, do hereby transfer to the said C.D. (all my interest in the said parcel).
 
@@ -2104,7 +2086,9 @@ NOTICE OF DEPOSIT OF CERTIFICATE OF TITLE (Section 87)
 
 To the Registrar of Lands:
 
-I, A.B., of (address) hereby give notice that the certificate of title of parcel (number) has been deposited with me with the intention of creating a lien thereover to secure the sum of (dollars).
+*I,*
+
+A.B., of (address) hereby give notice that the certificate of title of parcel (number) has been deposited with me with the intention of creating a lien thereover to secure the sum of (dollars).
 
 ### FORM E
 
@@ -2114,7 +2098,9 @@ Block: Parcel:
 
 Description and location of land:
 
-I, A.B., of (address) being the registered proprietor under the Land Registry Act of (the above parcel), do hereby lease to C.D. of (address) (all my interest in the said parcel) for a period of (years) from (date) at a yearly rent of (dollars) payable on (date or dates) in each year.
+*I,*
+
+A.B., of (address) being the registered proprietor under the Land Registry Act of (the above parcel), do hereby lease to C.D. of (address) (all my interest in the said parcel) for a period of (years) from (date) at a yearly rent of (dollars) payable on (date or dates) in each year.
 
 (Here state any special terms or conditions and any modification of the terms and conditions implied by the Act.)
 
@@ -2142,7 +2128,9 @@ My address for service is (address).
 
 I, the above named A.B., (or C.D. solicitor or attorney for the said A.B.) do solemnly and sincerely declare that the statements in the above caveat are true in substance and in fact (as I have been informed by the above named A.B. and verily believe).
 
-I make this declaration etc.
+*I*
+
+make this declaration etc.
 
 ### NOTES TO FORMS B, C, D, AND F
 
@@ -2185,6 +2173,8 @@ Provided that in the case referred to in provisos (a), (b) and (d) of item 1 of 
 one-tenth of one per cent of the value of land or consideration;
 
 (c) on registration of a transfer for value, or any mortgage, charge,
+
+*L.R.O. 1/2022*
 
 lease, or transmission of any land held under a provisional title –
 
@@ -3016,11 +3006,9 @@ Where the description of any easement or restrictive covenant as set out in the 
 
 (C) Encumbrances
 
-Memorials of encumbrances shall be in the forms set out
-
 *Second Schedule.*
 
-in the Second Schedule or (subject to the direction of the Registrar) as near thereto as the circumstances of the case permit.
+Memorials of encumbrances shall be in the forms set out in the Second Schedule or (subject to the direction of the Registrar) as near thereto as the circumstances of the case permit.
 
 *Provision as to instruments.*
 
@@ -3114,17 +3102,13 @@ Description of parcel
 
 Easements and restrictive covenants –
 
-B. PROPRIETORSHIP Name and Address of Date of Instrument How
+*No.*
+
+B. PROPRIETORSHIP Name and Address of Date of Instrument How Registration Number Proprietor Acquired
 
 *No.*
 
-Registration Number Proprietor Acquired
-
-C. ENCUMBRANCES Date of Instrument
-
-*No.*
-
-Number Registration
+C. ENCUMBRANCES Date of Instrument Number Registration
 
 Particulars
 

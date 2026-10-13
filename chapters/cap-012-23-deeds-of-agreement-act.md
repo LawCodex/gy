@@ -262,11 +262,9 @@ he shall be liable on summary conviction to a fine of four thousand eight hundre
 
 (2) If any trustee fails to transmit that account, he
 
-shall be liable on summary conviction to a fine of four thousand eight hundred and seventy-five dollars for each day during which the default continues, and the High Court on the application of the Registrar may exercise all the powers
-
 *c. 12:21*
 
-conferred on the Court by section 86(2) of the Insolvency Act.
+shall be liable on summary conviction to a fine of four thousand eight hundred and seventy-five dollars for each day during which the default continues, and the High Court on the application of the Registrar may exercise all the powers conferred on the Court by section 86(2) of the Insolvency Act.
 
 (3) The accounts transmitted to the Registrar in pursuance of this section shall be open to inspection by the debtor or any creditor or other person interested on payment of the prescribed fee, and copies of or extracts from the accounts shall, on payment of the prescribed fee, be furnished to the debtor, the creditors, or any other persons interested.
 
@@ -274,21 +272,17 @@ conferred on the Court by section 86(2) of the Insolvency Act.
 
 *Transmission of accounts to creditors.*
 
-**15.** Every trustee under a deed of arrangement shall, at the expiration of six months from the date of the registration of the deed, and thereafter at the expiration of every subsequent period of six months until the estate has been finally wound up, send to each creditor who has assented to the deed a statement of the trustee’s accounts and of the proceedings under the deed down to the date of the statement, and shall, in his affidavit, verifying his accounts transmitted to the Registrar state whether or not he has duly sent that statement, and the dates on which the statements were sent; and, if a trustee fails to comply with any of the provisions of this section, the Court may, for the purpose of enforcing these provisions, exercise on the application of the Registrar all the powers conferred on the Court by section
-
 *c. 12:21*
 
-86(2) of the Insolvency Act.
+**15.** Every trustee under a deed of arrangement shall, at the expiration of six months from the date of the registration of the deed, and thereafter at the expiration of every subsequent period of six months until the estate has been finally wound up, send to each creditor who has assented to the deed a statement of the trustee’s accounts and of the proceedings under the deed down to the date of the statement, and shall, in his affidavit, verifying his accounts transmitted to the Registrar state whether or not he has duly sent that statement, and the dates on which the statements were sent; and, if a trustee fails to comply with any of the provisions of this section, the Court may, for the purpose of enforcing these provisions, exercise on the application of the Registrar all the powers conferred on the Court by section 86(2) of the Insolvency Act.
 
 *Audit of accounts.*
 
 **16.** (1) Where in the course of the administration of the estate of a debtor who has executed a deed of arrangement, or within twelve months from the date when the final accounts
 
-of the estate were rendered to the Registrar, an application in writing is made to the Registrar by a majority in number and value of the creditors who have assented to the deed for an official audit of the trustee’s accounts, the Registrar may cause the trustee’s accounts to be audited, and in that case all
-
 *c. 12:21*
 
-the provisions of the Insolvency Act, or any other Act dealing with insolvency relating to the institution and enforcement of an audit of the accounts of a trustee in insolvency (including the provisions as to fees) shall, with necessary modifications, apply to the audit of the trustee’s accounts, and the Registrar shall have power on the audit to require production of a certificate for the taxed costs of any attorney-at-law whose costs have been paid or charged by the trustee, and to disallow the whole or any part of any costs in respect of which no certificate is produced.
+of the estate were rendered to the Registrar, an application in writing is made to the Registrar by a majority in number and value of the creditors who have assented to the deed for an official audit of the trustee’s accounts, the Registrar may cause the trustee’s accounts to be audited, and in that case all the provisions of the Insolvency Act, or any other Act dealing with insolvency relating to the institution and enforcement of an audit of the accounts of a trustee in insolvency (including the provisions as to fees) shall, with necessary modifications, apply to the audit of the trustee’s accounts, and the Registrar shall have power on the audit to require production of a certificate for the taxed costs of any attorney-at-law whose costs have been paid or charged by the trustee, and to disallow the whole or any part of any costs in respect of which no certificate is produced.
 
 (2) The Registrar may determine how and by what parties the costs, charges and expenses of and incidental to the audit (including any prescribed fees chargeable in respect thereof) are to be borne, whether by the applicants or by the trustee or out of the estate, and may, before granting an application for an audit, require the applicants to give security for the costs of the audit.
 

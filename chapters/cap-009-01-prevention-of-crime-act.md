@@ -92,37 +92,31 @@ Prisoners Identification Regulations 20 (Reg. 11/2/1929)
 
 Master of vessel to bring to on signal of police vessel.
 
-*SECTION*
+*SECTION Signals to Master Saving as Power to Schedules:-First Second 1929 Ed. c. 19 1953 Ed. c. 78*
 
-Signals to be used.
+be used.
 
-Master and others hindering police constable.
+and others hindering police constable.
 
-**19.** Saving as to capital punishment.
+**19.** to capital punishment.
 
-**19A.** Power to amend schedule.
+**19A.** amend schedule.
 
-*Schedules:-*
+Schedule—General Offences
 
-First Schedule—General Offences
+Schedule---Specific Offences
 
-Second Schedule---Specific Offences
+### CHAPTER 9:01 PREVENTION OF CRIMES ACT
 
-*1929 Ed. c. 19 1953 Ed. c. 78*
+*1 of 1885 An*
 
-### CHAPTER 9:01
-
-### PREVENTION OF CRIMES ACT
-
-*1 of 1885*
-
-An Act for the more effectual Prevention of Crime.
+Act for the more effectual Prevention of Crime.
 
 ### [1 ST JULY , 1885]
 
-*Short title.*
+*Short title. Act.*
 
-**1.** This Act may be cited as the Prevention of Crimes Act.
+**1.** This Act may be cited as the Prevention of Crimes
 
 *Interpretation. [ 8 of 2002]*
 
@@ -184,9 +178,21 @@ An Act for the more effectual Prevention of Crime.
 
 (8) The application referred to in the opening part of subsection (1) shall be made by the Commissioner within two years of the arrival of any person referred to in paragraph (a), (b) and (c) of that subsection, but the commissioner may on good and sufficient grounds be permitted by the Court to make the application after the expiration of two years.
 
-*Notification by person under supervision of his residence or change [11 of 2011 8 of 2002]*
+*Notification by*
 
-**4.** (1) Every person subject to the supervision of the police who is at large in Guyana shall notify the place of his residence to the police authorities of the police division in which his residence is situate, and shall, whenever he changes his residence within the same police division, notify the change to the police authorities of that police division, and,
+*police*
+
+*person under supervision of*
+
+*which*
+
+*his residence or*
+
+*his*
+
+*change [11 of 2011 8 of 2002]*
+
+**4.** (1) Every person subject to the supervision of the who is at large in Guyana shall notify the place of his residence to the police authorities of the police division in his residence is situate, and shall, whenever he changes residence within the same police division, notify the change to the police authorities of that police division, and,
 
 *t h e r e o f .*
 
@@ -288,11 +294,9 @@ fifteen t h o u s a n d d o l l a r s and for the second and every subsequent of
 
 *Children of woman convicted of crime. [4 of 1972]*
 
-**11.** When any woman is convicted of a crime or an indictable offence, and a previous conviction of a crime or an indictable offence is proved against her, any of her children under the age of fourteen years, and under her care and control at the time of her conviction for the last of those crimes or offences, who have no visible means of subsistence or are without proper guardianship, shall be deemed to be
-
 *c. 10:03*
 
-children to whom section 17 of the Juvenile Offenders Act applies and the court by which the woman is convicted or a magistrate’s court may make an order under that section in respect of those children or any of them as if it were a juvenile court and the provisions of the Juvenile Offenders Act shall mutatis mutandis apply to such order.
+**11.** When any woman is convicted of a crime or an indictable offence, and a previous conviction of a crime or an indictable offence is proved against her, any of her children under the age of fourteen years, and under her care and control at the time of her conviction for the last of those crimes or offences, who have no visible means of subsistence or are without proper guardianship, shall be deemed to be children to whom section 17 of the Juvenile Offenders Act applies and the court by which the woman is convicted or a magistrate’s court may make an order under that section in respect of those children or any of them as if it were a juvenile court and the provisions of the Juvenile Offenders Act shall mutatis mutandis apply to such order.
 
 *Person in public place with offensive weapon. [21 of 1954 9 of 1997 11 of 1998]*
 
@@ -430,9 +434,13 @@ Offences involving the use or possession of a firearm.
 
 REGISTER OF CONVICTED PERSONS ORDER made under section 5(1)
 
-**1.** This Order may be cited as the Register of Convic-ted Persons Order.
+*ted*
 
-**2.** The Register to be kept under section 5(1) of the Act shall be kept in such form as the Commissioner of Police shall deem most suitable for the accurate record of the particulars required to be kept therein.
+**1.** This Order may be cited as the Register of Convic-Persons Order.
+
+*shall deem*
+
+**2.** The Register to be kept under section 5(1) of the Act be kept in such form as the Commissioner of Police shall most suitable for the accurate record of the particulars required to be kept therein.
 
 **3.** The Register shall contain the following particulars relative to each person recorded therein –
 
@@ -486,11 +494,9 @@ made under section 5
 
 **2.** In these Regulations –
 
-“crime” means any felony, or the offence of uttering false or counterfeit coin, or of possessing counterfeit gold or silver coin, or of obtaining goods or money by false pretences, or of conspiracy to defraud, or any misdemeanour under section 228 of the Criminal Law
-
 *c. 8:01*
 
-(Offences) Act;
+“crime” means any felony, or the offence of uttering false or counterfeit coin, or of possessing counterfeit gold or silver coin, or of obtaining goods or money by false pretences, or of conspiracy to defraud, or any misdemeanour under section 228 of the Criminal Law (Offences) Act;
 
 “criminal prisoner” means any prisoner charged with or convicted of crime.
 

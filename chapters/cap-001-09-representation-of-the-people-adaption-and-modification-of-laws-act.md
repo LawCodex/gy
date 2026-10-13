@@ -40,39 +40,37 @@ Page Age of Majority Order (O. 4/1974) 6
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-**1.** Short title.
+**1.** title.
 
-**2.** Reduction of the age of majority from twenty-one years to eighteen years.
+**2.** Reduction of the age of majority from twenty-one years to eighteen
 
-**3.** Time at which person attains a particular age.
+*years. Time at Persons infants.*
 
-**4.** Persons under full age may be described as minors instead of infants.
+**3.** which person attains a particular age.
 
-7 of 1973 An Act for reducing the age of majority generally and for matters connected therewith.
+**4.** under full age may be described as minors instead of
+
+*7 of 1973*
+
+An Act for reducing the age of majority generally and for matters connected therewith.
 
 ### [ 1 ST JANUARY, 1974]
 
-Short title.
+*Short title.*
 
 **1.** This Act may be cited as the Representation of the People (Adaptation and Modification of Laws) Act.
 
-Reduction 2. (1) As from the 1st January, 1974 a person of the age of
+*Reduction of the age of majority from twenty-one years to eighteen years.*
 
-shall attain full age on attaining the age of eighteen years majority
-
-*from*
-
-instead of on attaining the age of twenty-one years; and a twenty-one
-
-person shall attain full age on that date if he has then years to already attained the age of eighteen years but not the age eighteen
-
-of twenty- one years.
-
-years.
+**2.** (1) As from the 1st January, 1974 a person shall attain full age on attaining the age of eighteen years instead of on attaining the age of twenty-one years; and a person shall attain full age on that date if he has then already attained the age of eighteen years but not the age of twenty- one years.
 
 (2) Subsection (1) applies for the purposes of any rule of law and, in the absence of a definition or of any indication of a contrary intention, for the construction of the expressions “full age”, “infant”, “infancy”, “minor”,
+
+*Cap.*
+
+1:09
 
 “minority” and similar expressions in—
 
@@ -114,11 +112,9 @@ made under section 2(3)
 
 **1.** (1) This Order may be cited as the Age of Majority Order.
 
-(2) The amendment effected by clause 2 to section
-
 *Cap. 10:01*
 
-20 (b) of the Criminal Law (Procedure) Act shall have effect for the purposes of any revision of the list of jurors to be carried out pursuant to section 25 of that Act after the coming into force of this Order.
+(2) The amendment effected by clause 2 to section 20 (b) of the Criminal Law (Procedure) Act shall have effect for the purposes of any revision of the list of jurors to be carried out pursuant to section 25 of that Act after the coming into force of this Order.
 
 *Statutory provisions Schedule.*
 

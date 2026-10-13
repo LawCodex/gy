@@ -80,23 +80,25 @@ This Chapter contains no subsidiary legislation.
 
 **19.** Natural justice.
 
-*SECTION*
+*SECTION 20. Power to 21. Power of 22. Right of*
 
-**20.** Power to remit.
+remit.
 
-**21.** Power of Court to refuse relief.
+Court to refuse relief.
 
-**22.** Right of appeal.
+appeal.
 
-**23.** Act binds the State.
+*\23. Act binds*
+
+the State.
 
 ### CHAPTER 3:06
 
 ### JUDICIAL REVIEW ACT
 
-*_ 23 of 2010*
+*_ 23 of 2010 An*
 
-An Act to provide for an application to the High Court of the Supreme Court of Judicature for relief by way of judicial review and for related matters.
+Act to provide for an application to the High Court of the Supreme Court of Judicature for relief by way of judicial review and for related matters.
 
 ## PART I — PRELIMINARY
 

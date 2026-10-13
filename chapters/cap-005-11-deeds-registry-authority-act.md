@@ -52,7 +52,7 @@ Act 17 of 1919 Amended by 19 of 1927 O. 166/1974 44 of 1929
 
 Current Authorised Pages
 
-Pages Authorised (inclusive) by L.R.O. 1 – 70 … 1/2022
+Pages Authorised (inclusive) by L.R.O. 1 – 70 …
 
 Index of Subsidiary Legislation Page Rules of the Supreme Court (Deeds Registry) 51 (R. 14/6/1923)
 
@@ -198,11 +198,9 @@ An Act to regulate the Office of the Registrar of Deeds of Guyana and to amend t
 
 “the Court” means the High Court or a judge thereof;
 
-“deed” includes not only instruments so called according to the common law, but also instruments known in Guyana as
-
 *c. 82:01*
 
-Acts, and bonds given under the Customs Act;
+“deed” includes not only instruments so called according to the common law, but also instruments known in Guyana as Acts, and bonds given under the Customs Act;
 
 “judicial sale transport” means a transport passed by the officer of the Court under section 27;
 
@@ -234,11 +232,9 @@ Provided that no person shall be appointed a notary public or to act as a notary
 
 (b) is an attorney-at-law of not less than one year’s standing, may be appointed a notary public for such time as he may hold a public office in the deeds registry.
 
-(4) For the purpose of subsection (3) “attorney-at-law” means any person whose name is enrolled on the Court Roll in
-
 *c. 4:01*
 
-accordance with the Legal Practitioners Act.
+(4) For the purpose of subsection (3) “attorney-at-law” means any person whose name is enrolled on the Court Roll in accordance with the Legal Practitioners Act.
 
 *Duties of officers of staff generally. [44 of 1929 2 of 1993]*
 
@@ -246,11 +242,9 @@ accordance with the Legal Practitioners Act.
 
 in force, and may lawfully demand and receive on behalf of the registry the fees in respect of those duties and services.
 
-(2) Except where otherwise specially provided, each assistant sworn clerk may lawfully do and perform, subject to the directions and instructions of the Registrar, all and any of the
-
 *First Schedule.*
 
-duties and services mentioned in the First Schedule, in the same manner to all intents and purposes as if he were a notary public, and may lawfully demand and receive on behalf of the registry the fees in respect of those duties and services.
+(2) Except where otherwise specially provided, each assistant sworn clerk may lawfully do and perform, subject to the directions and instructions of the Registrar, all and any of the duties and services mentioned in the First Schedule, in the same manner to all intents and purposes as if he were a notary public, and may lawfully demand and receive on behalf of the registry the fees in respect of those duties and services.
 
 (3) Each and every member of the staff shall likewise perform all duties, other than as assistant sworn clerk, from time to time assigned to him by the Registrar.
 
@@ -334,11 +328,9 @@ but no rules and regulations made under this section shall be of any force or ef
 
 (2) All rules and regulations made in pursuance of this section shall be laid before the National Assembly at the first Session thereof after they have been made.
 
-(3) Until those rules shall have been made, the rules
-
 *Second Schedule*
 
-contained in the Second Schedule shall be in force and shall apply to all proceedings under this Act.
+(3) Until those rules shall have been made, the rules contained in the Second Schedule shall be in force and shall apply to all proceedings under this Act.
 
 *Proof required under oath. [2 of 1993]*
 
@@ -412,15 +404,11 @@ Provided that the original of any transport, mortgage, lease, or other document 
 
 in relation to the property referred to in paragraph (a) the donor or vendor, as the case may be, and in relation to the property referred to in paragraph (b) the lessor, or transferor or assignor, as the case may be, presents to the Registrar–
 
-(i) a certificate of the Commissioner General of the
-
 *c. 79:04 s.8 (13 of 1996)*
-
-Revenue Authority appointed under the Revenue Authority Act (hereinafter referred to as the
 
 *c. 81:01*
 
-Commissioner) stating that he has in accordance with section 60 of the Income Tax Act delivered to the Commissioner all his returns, including the return for the preceding year of income, and has paid all taxes due and payable to the Commissioner by him or has made arrangements to the satisfaction of the Commissioner for the payment of all such taxes that are due and payable; and
+(i) a certificate of the Commissioner General of the Revenue Authority appointed under the Revenue Authority Act (hereinafter referred to as the Commissioner) stating that he has in accordance with section 60 of the Income Tax Act delivered to the Commissioner all his returns, including the return for the preceding year of income, and has paid all taxes due and payable to the Commissioner by him or has made arrangements to the satisfaction of the Commissioner for the payment of all such taxes that are due and payable; and
 
 (ii) a certificate from such officer of the local democratic organ, within the boundaries of which such immovable property is situated, as may be authorised by that local democratic organ in that behalf stating that the donor, vendor, lessor, transferor or assignor, as the case may be, has paid or made arrangements to the satisfaction of that officer for the payment of all rates and other sums due and payable by him in respect of such immovable property.
 
@@ -448,11 +436,9 @@ mortgage only and for no other purpose shall be in the form and be executed in t
 
 (2) Whenever it appears to the Registrar that all the subscribing witnesses are either dead or absent from Guyana, the person wishing to file or record the instrument or document may produce evidence by affidavit of the signature of any one or more of the subscribing or attesting witnesses, or of the party who has signed or executed the instrument, and the Registrar shall receive that affidavit in the place and stead of an affidavit by a subscribing or an attesting witness himself.
 
-(3) The due execution of every instrument or document filed as of record or recorded in the registry, if executed beyond the limits of Guyana shall, before it is filed or recorded, be proved
-
 *c. 5:03*
 
-in accordance with the provisions of the Evidence Act dealing with the proof of public and private documents.
+(3) The due execution of every instrument or document filed as of record or recorded in the registry, if executed beyond the limits of Guyana shall, before it is filed or recorded, be proved in accordance with the provisions of the Evidence Act dealing with the proof of public and private documents.
 
 *Power of attorney to be filed with requisite documents. c. 5:08 [3 of 2022]*
 
@@ -486,7 +472,9 @@ Provided that any transport, whether passed before or after the 1st January, 192
 
 **22A.** (1) For the prevention of any dealing with any immovable property, that is the subject of a written agreement of sale without prior notice to the purchaser, any purchaser, his assignee or successor claiming to be entitled to the conveyance of
 
-the immovable property under the said written agreement of sale, may lodge the following with the Registrar–
+*the may*
+
+immovable property under the said written agreement of sale, lodge the following with the Registrar–
 
 *Third Schedule*
 
@@ -504,7 +492,9 @@ the immovable property under the said written agreement of sale, may lodge the f
 
 (d) be lodged within the period specified in the agreement for the completion and passing of the transport.
 
-(3) The Registrar shall not accept a prohibition unless it identifies an address for service in Guyana.
+*identifies*
+
+(3) The Registrar shall not accept a prohibition unless it an address for service in Guyana.
 
 (4) Upon lodgement of any prohibition, the Registrar
 
@@ -672,11 +662,9 @@ rights, powers and authorities and be subject to all the liabilities which are c
 
 *Appeal from Registrar or Judge. [2 of 1931]*
 
-**36.** (1) Any person affected by a decision of a Judge of the Court refusing to permit the passing of a transport, mortgage, cancelment of mortgage, lease or other document or by any order or decision of a Judge in Chambers may appeal to the Full Court
-
 *c. 3:02*
 
-and the provisions of the Rules of the Supreme Court (Appeals), 1924, shall apply to such appeals so far as practicable.
+**36.** (1) Any person affected by a decision of a Judge of the Court refusing to permit the passing of a transport, mortgage, cancelment of mortgage, lease or other document or by any order or decision of a Judge in Chambers may appeal to the Full Court and the provisions of the Rules of the Supreme Court (Appeals), 1924, shall apply to such appeals so far as practicable.
 
 (2) Any person affected by any order or decision of the Registrar may appeal to a Judge in Chambers. Such appeal shall be by notice in writing to be served on the Registrar within seven days after the order or decision complained of or such further time as may be allowed by a Judge. On the appellant serving notice of appeal the Registrar shall draw up a statement of his reasons for his order or decision and shall lodge such statement with the notice of appeal and cause a copy thereof to be served on each of the parties. Unless otherwise ordered by a Judge there shall be at least four clear days between service of the notice of appeal and the day of hearing. On the hearing of the appeal the Judge shall make such order or give such decision as he shall deem fit and shall have power, subject to this Act, to make such order as to costs as may be just.
 
@@ -962,11 +950,9 @@ I, A.B. (occupation and residence) do solemnly and sincerely declare*–
 
 (2) And I further state in respect of the said sale that I have not received and that I am not to receive nor has any other person received nor is any other person to receive for my use or benefit or at my instance or request any valuable consideration besides the said sum of ............................................
 
-(3) †All of which I declare to be the absolute truth
-
 *c. 5:09*
 
-without any reservation whatever, and according to the Statutory Declarations Act.
+(3) †All of which I declare to be the absolute truth without any reservation whatever, and according to the Statutory Declarations Act.
 
 Sworn
 
@@ -986,11 +972,9 @@ I, C.D. (occupation and address) do solemnly and sincerely declare*–
 
 (2) And I further state that I have not nor has any other person to my knowledge on my account paid nor is there by me or on my behalf to be paid any other valuable consideration for or in respect of or in connection with the alienation to me of the said property, save and except certain stamp duty and Registrar’s fees.
 
-(3) † All of which I declare to be the absolute truth without any reservation whatsoever, and according to the
-
 *c. 5:09*
 
-Statutory Declarations Act.
+(3) † All of which I declare to be the absolute truth without any reservation whatsoever, and according to the Statutory Declarations Act.
 
 Sworn
 
@@ -1092,11 +1076,9 @@ made by the Judges and approved by the Governor and Court of Policy on the 14th 
 
 Schedule 2.“registry of court” means the Supreme Court registry.
 
-(2) A section or rule referred to by number means the section or rule respectively so numbered in the Ordinance, or the
-
 *Second Schedule.*
 
-rules contained in the Second Schedule thereto.
+(2) A section or rule referred to by number means the section or rule respectively so numbered in the Ordinance, or the rules contained in the Second Schedule thereto.
 
 *Notice of opposition. Rules 27 th March, 1939. Schedule. Form 1 R. 3/1970 R. 5/1970*
 
@@ -1112,11 +1094,9 @@ rules contained in the Second Schedule thereto.
 
 *Separate statement of reasons for opposition.*
 
-**4.** A notice of opposition may be filed without a statement therein of the reasons for opposition, but in that case the opponent shall, within three days after filing the notice (of which a Sunday, if that day intervenes, shall count as one), file in the registry a
-
 *Schedule. Form 2.*
 
-statement of the reasons in the form given in the Schedule hereto, and the Registrar shall immediately thereupon certify in manner aforesaid that the opposition has been perfected.
+**4.** A notice of opposition may be filed without a statement therein of the reasons for opposition, but in that case the opponent shall, within three days after filing the notice (of which a Sunday, if that day intervenes, shall count as one), file in the registry a statement of the reasons in the form given in the Schedule hereto, and the Registrar shall immediately thereupon certify in manner aforesaid that the opposition has been perfected.
 
 *Inclusive notice of opposition.*
 
@@ -1184,11 +1164,9 @@ and
 
 To the Registrar of Deeds.
 
-In the matter of the Deeds Registry Ordinance.*
-
 *(a) transport or lease.*
 
-TAKE NOTICE THAT I, C.D. of (address and description) oppose the passing of a certain conveyance by way of (a)................................................. or mortgage advertised in the Gazette dated the ......................... day of .................. 20.......... county of……………................… Between you the said A.B. and E.F. and G.H. (as the case may be) AND THAT the following are my reasons for opposition–
+In the matter of the Deeds Registry Ordinance.* TAKE NOTICE THAT I, C.D. of (address and description) oppose the passing of a certain conveyance by way of (a)................................................. or mortgage advertised in the Gazette dated the ......................... day of .................. 20.......... county of……………................… Between you the said A.B. and E.F. and G.H. (as the case may be) AND THAT the following are my reasons for opposition–
 
 (State concisely reasons for opposition.)
 
@@ -1212,7 +1190,7 @@ ____________________
 
 ## ARRANGEMENT OF REGULATIONS
 
-### REGULATION
+*REGULATION*
 
 **1.** Short title.
 
@@ -1228,21 +1206,27 @@ ____________________
 
 **7.** Method of valuation.
 
-**8.** Noting encumbrances where more than one parcel of land proceeded against in village, or country or other districts.
+*Noting*
+
+**8.** encumbrances where more than one parcel of land proceeded against in village, or country or other districts.
 
 ## SCHEDULE
 
 ____________________
 
-Regs. 4/1933 DEEDS REGISTRY FEES REGULATIONS 13/1934
+*Regs. 4/1933 13/1934 18/1938*
 
-18/1938
+### DEEDS REGISTRY FEES REGULATIONS
 
 made under section 45
 
-Short title. 1. These regulations may be cited as the Deeds Registry Fees Regulations 1933.
+*Short title.*
 
-Interpretation. 2. (1) In these regulations–
+**1.** These regulations may be cited as the Deeds Registry Fees Regulations 1933.
+
+*Interpretation.*
+
+**2.** (1) In these regulations–
 
 “a folio” means 120 words, every figure comprised in a column, or authorised to be used, being counted as one word;
 
@@ -1282,11 +1266,9 @@ Interpretation. 2. (1) In these regulations–
 
 *Value of property.*
 
-**6.** (1) For the purpose of determining the value of property in transports, under item 2 by an executor or administrator the Registrar may, if he thinks fit, accept as the value of the property the value as stated in the inventory attached
-
 *c. 3:01*
 
-to the estate duty declaration filed under the Estate Duty Ordinance if the transport is being advertised within two years of the death of the person whose estate is being dealt with by the executor or administrator.
+**6.** (1) For the purpose of determining the value of property in transports, under item 2 by an executor or administrator the Registrar may, if he thinks fit, accept as the value of the property the value as stated in the inventory attached to the estate duty declaration filed under the Estate Duty Ordinance if the transport is being advertised within two years of the death of the person whose estate is being dealt with by the executor or administrator.
 
 (2) For the purpose of determining the value of property in judicial sale transports under item 3 the following provisions shall apply–
 
@@ -1316,11 +1298,13 @@ Provided, however, that where the property is situate within the limits of the C
 
 ____________________
 
+*Reg. Reg.*
+
 ## SCHEDULE
 
-Reg. 13/1934
+13/1934
 
-Reg. 10/1938
+10/1938
 
 ### TRANSPORT
 
@@ -1490,9 +1474,7 @@ See also item 48.
 
 In respect of first parcel of land 00 In respect of second parcel of land
 
-3 00 1 In respect of other parcels of land 00 For further certificate as to such title where a levy is not made 1 34.
-
-within one month of the original or any later certificate, or where a sale is to be re-advertised, or where a sale is not advertised within one month of the levy, including searches—
+3 00 1 In respect of other parcels of land 00 1 34. For further certificate as to such title where a levy is not made within one month of the original or any later certificate, or where a sale is to be re-advertised, or where a sale is not advertised within one month of the levy, including searches—
 
 in respect of first parcel of land 00 1 in respect of remaining parcels 50
 
@@ -1500,13 +1482,11 @@ in respect of first parcel of land 00 1 in respect of remaining parcels 50
 
 in respect of first parcel 00 1 total fee not to exceed 00
 
-36.
-
-For further certificate as to such encumbrance where a levy is 3 50 not made within one month of the original of any later 0 certificate, or where the sale is not advertised within one month of the levy or where the sale is to be re-advertised including search
+**36.** For further certificate as to such encumbrance where a levy is 3 50 0 not made within one month of the original of any later certificate, or where the sale is not advertised within one month of the levy or where the sale is to be re-advertised including search
 
 **37.** For original certificate as to encumbrances on property 25 proposed to be levied upon to satisfy a statutory claim, 0 including search, in respect of each summation For further certificate as to such encumbrances where a levy is 38. 25 not made within one month of the original or any later 0 certificate, or where the sale is not advertised within one month of the levy, or where the sale is to be re-advertised, including search
 
-**39.** For certificate that property sold at execution has not been 00 again sold at execution, where judicial sale transport is not 1 passed within three months of sale, including search, in respect of each separate sale
+**39.** For certificate that property sold at execution has not been 00 1 again sold at execution, where judicial sale transport is not passed within three months of sale, including search, in respect of each separate sale
 
 **40.** For original certificate as to encumbrances on mortgaged property proposed to be levied upon to satisfy a judgment obtained on a mortgage, including search–
 

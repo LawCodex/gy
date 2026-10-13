@@ -186,9 +186,9 @@ c. 98 IMMIGRATION ACT _______________________________________________________
 
 Interpretation. 2. (1) In this Act—
 
-[2 of 1969
+[2 of
 
-19 of 1990
+19 of
 
 “ advance passenger information” means the information in
 
@@ -211,6 +211,10 @@ respect of a passenger, crew member or other person transported in the vessel;
 “domestic space” means the domestic space of any country specified in Schedule III;
 
 “domicile” means, subject to subsection (2), the place in which a person has his present home or in which he resides or to which he returns as his place of present permanent abode and not for a mere special or temporary purpose, and “domiciled” shall have a corresponding meaning;
+
+*Cap.*
+
+14:02
 
 “immigrant” means a person who enters Guyana from a place outside Guyana, whether for the first or at any subsequent time;
 
@@ -340,11 +344,9 @@ any specified foreign country, shall be accepted as such under this section unle
 
 (2) Where any person is the subject of directions given by the Minister under subsection (l)(a), notice thereof in writing (together with a concise statement of the grounds for the imposition of the restrictions, so, however, that no defect
 
-of any kind in such statement shall invalidate the directions) shall be served on him by an immigration officer as soon as practicable after the directions have been given and his case shall be reviewed by the tribunal established by section 13 of
-
 *c. 16:02*
 
-the National Security (Miscellaneous Provisions) Act, and the said section 13 shall apply mutatis mutandis in relation to the review of the case of any such person as it applies to the review of the case of a person who is the subject of an order made under section 12 of that Act.
+of any kind in such statement shall invalidate the directions) shall be served on him by an immigration officer as soon as practicable after the directions have been given and his case shall be reviewed by the tribunal established by section 13 of the National Security (Miscellaneous Provisions) Act, and the said section 13 shall apply mutatis mutandis in relation to the review of the case of any such person as it applies to the review of the case of a person who is the subject of an order made under section 12 of that Act.
 
 (3) Notice of any directions given by the Minister under subsection (l)(b) shall be published in the Gazette and in one newspaper circulating in Guyana.
 
@@ -510,11 +512,9 @@ relates.
 
 (6) Whenever an immigrant desires to remain in Guyana after the expiration of the period for which a permit has been granted to or extended for him under this section, he shall before such expiration present himself in person to the Chief Immigration Officer and shall be dealt with, subject to subsection (3), as if he were an immigrant then entering Guyana.
 
-(7) The President may, by order published in the Gazette, exempt from any of the provisions of this section any person or any class of persons, mentioned in Part A of
-
 *Schedule I.*
 
-Schedule I who are nationals of the countries mentioned in Part B of the Schedule I, entering Guyana, where such person or class of persons is seeking to enter and remain in Guyana for a definite or indefinite period for the purpose of seeking employment or otherwise in connection with his work or with sports, or of settling, and such exemption may be general or subject to such conditions, restrictions, limitations or exceptions as are specified in the order.
+(7) The President may, by order published in the Gazette, exempt from any of the provisions of this section any person or any class of persons, mentioned in Part A of Schedule I who are nationals of the countries mentioned in Part B of the Schedule I, entering Guyana, where such person or class of persons is seeking to enter and remain in Guyana for a definite or indefinite period for the purpose of seeking employment or otherwise in connection with his work or with sports, or of settling, and such exemption may be general or subject to such conditions, restrictions, limitations or exceptions as are specified in the order.
 
 (7A) Notwithstanding the provisions of subsection
 
@@ -522,29 +522,21 @@ Schedule I who are nationals of the countries mentioned in Part B of the Schedul
 
 need for a permit of the immigration officer –
 
-(a) a national of a Caribbean Community State who is seeking to exercise in Guyana any of the rights or privileges conferred on him by the Caribbean Community (Free Entry of Skilled
-
 *c. 18:08*
 
-Nationals) Act;
-
-(b) the spouse and dependant members of the family of the national to whom paragraph (a) applies for the duration of the permission given the national under the Caribbean Community
+(a) a national of a Caribbean Community State who is seeking to exercise in Guyana any of the rights or privileges conferred on him by the Caribbean Community (Free Entry of Skilled Nationals) Act;
 
 *c.18:08*
 
-(Free Entry of Skilled Nationals) Act;
-
-(c) a national of a Caribbean Community State who is seeking to exercise in Guyana any of the rights or privileges conferred on him by the Caribbean Community (Movement of Factors)
+(b) the spouse and dependant members of the family of the national to whom paragraph (a) applies for the duration of the permission given the national under the Caribbean Community (Free Entry of Skilled Nationals) Act;
 
 *c.18:10*
 
-Act;
-
-(d) subject to the provisions of the Caribbean Community (Movement of
+(c) a national of a Caribbean Community State who is seeking to exercise in Guyana any of the rights or privileges conferred on him by the Caribbean Community (Movement of Factors) Act;
 
 *c.18:10*
 
-Factors) Act –
+(d) subject to the provisions of the Caribbean Community (Movement of Factors) Act –
 
 (i) the spouse and immediate dependant family members of the national establishing an economic enterprise and to whom paragraph (c) applies and;
 
@@ -786,11 +778,9 @@ the following provisions shall apply—
 
 (i) the magistrate may issue a warrant for the levy of the amount as aforesaid by distress and sale of any movable property of the immigrant; and (ii) for the purposes of the recovery of the amount as aforesaid, the magistrate may order forfeiture of any moneys in the possession of the immigrant.
 
-(2) A warrant issued under subsection (1) may be executed in the same manner as a warrant of distress issued
-
 *c. 10:02*
 
-under the Summary Jurisdiction (Procedure) Act for the levy of a sum of money adjudged to be paid by an order.
+(2) A warrant issued under subsection (1) may be executed in the same manner as a warrant of distress issued under the Summary Jurisdiction (Procedure) Act for the levy of a sum of money adjudged to be paid by an order.
 
 (3) The partial recovery of expenses under subsection (1) (i) or (ii) shall not prejudice the liability of any surety for the balance, nor shall the issue or execution of a warrant or the forfeiture of moneys under this section be a condition precedent to the liability of any surety or to the enforcement of such liability.
 
@@ -996,11 +986,17 @@ A person mentioned in Part A who is a national of a country mentioned in Part B 
 
 ### ADVANCE PASSENGER INFORMATION
 
-## PART I. Information relating to the flight or voyage.
+*PART I.*
 
-**1.** Flight identification or vessel identification
+Information relating to the flight or voyage.
 
-[IATA Airline code and flight number of the aircraft or vessel name and voyage number, as the case may be.]
+*\1. Flight*
+
+identification or vessel identification
+
+*name and*
+
+[IATA Airline code and flight number of the aircraft or vessel voyage number, as the case may be.]
 
 **2.** Particulars of vessel:
 
@@ -1057,6 +1053,8 @@ A. Core data elements of the official travel document: (i) Official travel docum
 B. Additional data (if applicable):
 
 (i) Guyanese/ CARICOM Visa Number
+
+*Cap. 14:02*
 
 (ii) Date of issue of visa
 
@@ -1136,11 +1134,9 @@ made under section 5
 
 **3.** Clause 2 shall not apply –
 
-(a) where the passport is issued by any of the countries specified in the
-
 *Schedule.*
 
-Schedule;
+(a) where the passport is issued by any of the countries specified in the Schedule;
 
 (b) where the passport is issued by a Commonwealth country, other than a country specified in the Schedule, and the law of that country is such as to ensure entry of Guyanese subjects or citizens in that country on presentation of their Guyanese
 
@@ -1166,11 +1162,9 @@ Immigration (Passports)
 
 aforesaid period of one month of such further period as the Government of Guyana may allow at the request of the Embassy of Venezuela in Guyana.
 
-(2) In paragraph (1), the expression “member of the consular post” has the meaning as in the Privileges and Immunities (Diplomatic, Consular and International
-
 *c.18:01*
 
-Organisations) Act.
+(2) In paragraph (1), the expression “member of the consular post” has the meaning as in the Privileges and Immunities (Diplomatic, Consular and International Organisations) Act.
 
 ## SCHEDULE Cl.3
 
@@ -1234,11 +1228,9 @@ made under section 5
 
 (a) “Caribbean Community” means the community of states established by the Treaty signed on 4th July, 1973, at Chaguaramas;
 
-(b) “driver’s licence” means a driver’s licence issued under the Motor
-
 *c. 51:02*
 
-Vehicles and Road Traffic Act or a driver’s licence issued under the corresponding law of one of the countries mentioned in the Schedule.
+(b) “driver’s licence” means a driver’s licence issued under the Motor Vehicles and Road Traffic Act or a driver’s licence issued under the corresponding law of one of the countries mentioned in the Schedule.
 
 “identification card” means an identification card issued under the
 
@@ -1370,11 +1362,9 @@ prospective employer proposes to pay, and the ability of such employer to carry 
 
 *Immigration officer to report to Chief*
 
-**7.** (1) Every immigration officer shall, within 7 days after the end of every month, furnish, in respect of the performance of his duties as such, a report to the Chief
-
 *Officer.*
 
-Immigration Officer.
+**7.** (1) Every immigration officer shall, within 7 days after the end of every month, furnish, in respect of the performance of his duties as such, a report to the Chief Immigration Officer.
 
 (2) Every immigration officer shall, whenever required by the Chief Immigration Officer so to do, furnish him with such information in respect of the performance of the duties of the immigration officer, as may be required.
 
@@ -1402,11 +1392,9 @@ Immigration Officer.
 
 (a) section 9(l)(a) and section 9(l)(b)(i) shall be conducted on the vessel or at
 
-**9.** any other place convenient for the
-
 *[[9/1975]*
 
-purpose as the immigration officer may direct;
+**9.** any other place convenient for the purpose as the immigration officer may direct;
 
 section 10(4) shall be conducted at such place convenient for the purpose
 
@@ -1520,6 +1508,10 @@ the immigrant from Guyana unless he is satisfied that such application would not
 
 grant a permit to the immigrant
 
+*Cap.*
+
+14:02
+
 to remain in Guyana pending the hearing and determination of his appeal to the magistrate’s court or of any subsequent appeal from such court; and (ii) release the immigrant from detention pending the hearing and determination of his appeal to the magistrate’s court or of any subsequent appeal from such court;
 
 (d) the immigration officer shall inform the Chief Immigration Officer, where the immigrant is detained in custody, of the place where he is detained, and if the immigrant is not detained in custody, of the period for which a permit is granted under subparagraph (c) (i).
@@ -1532,11 +1524,9 @@ to remain in Guyana pending the hearing and determination of his appeal to the m
 
 (7) The magistrate may, on the application of the immigration officer or of the immigrant, summon witnesses
 
-to attend on the hearing of the appeal to give evidence and to produce documents, and Part II of the Summary Jurisdiction
-
 *c. 10:02*
 
-(Procedure) Act shall, mutatis mutandis, apply in the same manner and to the same extent as if the hearing of the appeal were the hearing of a complaint under the Summary Jurisdiction Acts.
+to attend on the hearing of the appeal to give evidence and to produce documents, and Part II of the Summary Jurisdiction (Procedure) Act shall, mutatis mutandis, apply in the same manner and to the same extent as if the hearing of the appeal were the hearing of a complaint under the Summary Jurisdiction Acts.
 
 (8) At the hearing of an appeal to a magistrate’s court the immigration officer shall place, or cause to be placed, before the magistrate, a copy of the notice given to the appellant under section 23, but he may, after sufficient notice to the appellant, rely on grounds not specified in the said notice.
 
@@ -1604,7 +1594,9 @@ and shall pay to the immigration officer, in respect of the application and the 
 
 ### FORMS
 
-[Reg. 9/1975] FORM 1A reg. 9(2)
+*[Reg.*
+
+9/1975] FORM 1A reg. 9(2)
 
 ### FRONT
 
@@ -1614,9 +1606,9 @@ and shall pay to the immigration officer, in respect of the application and the 
 
 Print firmly in Block Letters (En letras de Molde)
 
-**1.** Family Name
+*\1. Family Appellido*
 
-*Appellido*
+Name
 
 *Other Name Nombre*
 

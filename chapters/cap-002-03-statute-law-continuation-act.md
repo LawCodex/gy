@@ -63,3 +63,7 @@ An Act to continue in force the Statutes, Acts, and Ordinances heretofore passed
 **2.** All resolutions, Acts and Ordinances heretofore passed by the Governor or by the Lieutenant-Governor and Court of Policy of the separate colonies of Essequibo and Demerara, and the Governor or Lieutenant-Governor and Court of Policy of the united colony of Demerara and Essequibo, and by the Governor or Lieutenant- Governor
 
 and Court of Policy, and the Governor or Lieutenant-Governor and Council of Government, of the colony of Berbice, respectively, which have not been disallowed by His Majesty and apply to the respective districts of British Guiana heretofore forming the separate colonies aforesaid, shall be hereby continued in full force and effect and shall have the full force and operation of law in those respective districts.
+
+*1/2022*
+
+L.R.O.

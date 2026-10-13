@@ -350,35 +350,35 @@ Forms
 
 **110.** Form of complaint, summons, warrant or other document.
 
-## FIRST SCHEDULE— Indictable offences by adults which may be tried summarily.
+*FIRST*
 
-## SECOND SCHEDULE— Forms for use in proceedings relating to summary conviction offences.
+## SCHEDULE— Indictable offences by adults which may be tried summarily.
+
+*SECOND*
+
+## SCHEDULE— Forms for use in proceedings relating to summary conviction offences.
 
 __________________________
 
-CHAPTER 10:02 1929 Ed.
+*1929 Ed. c. 14 1953 Ed. c. 15*
 
-c. 14
+CHAPTER 10:02 SUMMARY JURISDICTION (PROCEDURE) ACT _______________________________________________________
 
-SUMMARY JURISDICTION (PROCEDURE) ACT 1953 Ed.
+*12 of 1893*
 
-c. 15
-
-_______________________________________________________
-
-12 of 1893 An Act to consolidate and amend the Laws relating to Procedure with respect to Offences punishable on Summary Conviction.
+An Act to consolidate and amend the Laws relating to Procedure with respect to Offences punishable on Summary Conviction.
 
 ### [1ST MARCH, 1894]
 
 ### PRELIMINARY
 
-**1.** This Act may be cited as the Summary Jurisdiction Short title.
+*Short title.*
 
-(Procedure) Act.
+**1.** This Act may be cited as the Summary Jurisdiction (Procedure) Act.
 
 Interpretation. 2. In this Act –
 
-[11 of 1931]
+*[11 of 1931]*
 
 “adult” means a person who, in the opinion of the court, is of or above the age of sixteen years;
 
@@ -468,39 +468,29 @@ appear at court shall be at least fourteen days after the date of the issue of t
 
 (10) This section shall apply to –
 
-(a) offences against section 153 of the
-
 *c. 8:02*
 
-Summary Jurisdiction (Offences) Act;
-
-(b) offences against sections 13, 15, 23, 25, 34, 40, 43, 46, 50, 52, 55, 56, 57, 58, 59, 60 and 61 of the Motor Vehicles and
+(a) offences against section 153 of the Summary Jurisdiction (Offences) Act;
 
 *c. 51:02*
 
-Road Traffic Act;
-
-(c) offences against the Motor Vehicles
+(b) offences against sections 13, 15, 23, 25, 34, 40, 43, 46, 50, 52, 55, 56, 57, 58, 59, 60 and 61 of the Motor Vehicles and Road Traffic Act;
 
 *c. 51:02*
 
-and Road Traffic Regulations;
-
-(d) offences against the General Traffic Directions made by the Commissioner of Police on the 24th November, 1937, under the Summary Jurisdiction
+(c) offences against the Motor Vehicles and Road Traffic Regulations;
 
 *c. 8:02*
 
-(Offences) Act and continued in force by section 117 of the Motor Vehicles and Road Traffic Act;
+(d) offences against the General Traffic Directions made by the Commissioner of Police on the 24th November, 1937, under the Summary Jurisdiction (Offences) Act and continued in force by section 117 of the Motor Vehicles and Road Traffic Act;
 
 (e) offences against any order made by the Licensing Authority under section 48, 51 or 102 of the Motor Vehicles and Road Traffic Act;
 
 (f) offences against the Road Traffic (Georgetown) Regulations;
 
-(g) offences under section 63(3) of the
-
 *c. 47:01*
 
-Post and Telegraph Act in respect of broadcast receiving sets.
+(g) offences under section 63(3) of the Post and Telegraph Act in respect of broadcast receiving sets.
 
 (11) Subject to negative resolution of the National Assembly, the Minister may by order amend subsection (10) by making additions to or deletions from the offences referred
 
@@ -522,11 +512,9 @@ Provided that if the registered owner at the time of entering his plea at the he
 
 (b) within no more than three days after serving or affixing the notice, submit a copy of the notice to the clerk of the court of the magisterial district in which the alleged offence was committed.
 
-(15) An officer who fails to comply with the requirements of subsection (14) commits an offence against discipline for the purposes of section 4 of the Police
-
 *c. 17:01*
 
-(Discipline) Act and is liable to such punishment as may be imposed upon him under that Act.
+(15) An officer who fails to comply with the requirements of subsection (14) commits an offence against discipline for the purposes of section 4 of the Police (Discipline) Act and is liable to such punishment as may be imposed upon him under that Act.
 
 *Disqualification of licence.*
 
@@ -538,25 +526,25 @@ Provided that if the registered owner at the time of entering his plea at the he
 
 (2) The sum, referred to under subsection (1) (b) shall not be less than the penalty prescribed for that offence under section 8 (2), plus one half of that amount per month for every month or part of each month following the date of disqualification until payment.
 
-(3) A disqualification under this section has the same effect as if it were a disqualification by virtue of a
-
 *c. 51:02*
 
-conviction or order under the Motor Vehicles and Road Traffic Act, and section 32 (1), (2), (5) and (6) of that Act applies to the disqualification.
+(3) A disqualification under this section has the same effect as if it were a disqualification by virtue of a conviction or order under the Motor Vehicles and Road Traffic Act, and section 32 (1), (2), (5) and (6) of that Act applies to the disqualification.
 
 (4) Where a disqualification order is made under this section –
 
-(a) the clerk of the court shall send notice of the order to the Licensing Authority established under the
-
 *c. 51:02*
 
-Motor Vehicles and Road Traffic Act and to the Commissioner of Police; and
+(a) the clerk of the court shall send notice of the order to the Licensing Authority established under the Motor Vehicles and Road Traffic Act and to the Commissioner of Police; and
 
 (b) the disqualified person shall, on demand by any police constable, surrender his licence to the police constable.
 
 (5) Upon payment of the sum specified in subsection
 
 (2) to the clerk of the court, the disqualified person, shall
+
+*Cap.*
+
+10:02
 
 apply to the police constable for the return of his licence.
 
@@ -582,11 +570,9 @@ Search Warrant
 
 used for the purpose of committing any offence against the person punishable on summary conviction, for which, according to any written law for the time being in force, the offender may be arrested without warrant,
 
-may at any time issue a warrant under his hand, authorising
-
 *Form 50.*
 
-some police or other constable named therein to search the building, ship, carriage, box, receptacle, or place for any of those things, and to seize and take it before the magistrate issuing the warrant or some other magistrate, to be by him dealt with according to law.
+may at any time issue a warrant under his hand, authorising some police or other constable named therein to search the building, ship, carriage, box, receptacle, or place for any of those things, and to seize and take it before the magistrate issuing the warrant or some other magistrate, to be by him dealt with according to law.
 
 (2) Every search warrant may be issued and executed on a Sunday and shall be executed between the hours of five o’clock in the morning and eight o’clock at night, but the magistrate in his discretion, may, by the warrant, authorise the constable to execute it at any hour.
 
@@ -630,11 +616,9 @@ Provided that the appearance of a defendant by counsel shall not satisfy any pro
 
 *Issue of warrant for defendant in first instance.*
 
-**14.** On a complaint in writing and upon oath being made before a magistrate for any summary conviction offence, the magistrate may, on good cause being shown to him for so doing, and on oath being made before him substantiating the matter of the complaint to his satisfaction, instead of issuing a summons, issue in the first instance a warrant to apprehend the person against whom the complaint has been made and to bring him before the court of the
-
 *Form 5B. Form 24.*
 
-magistrate to answer the complaint, and to be further dealt with according to law.
+**14.** On a complaint in writing and upon oath being made before a magistrate for any summary conviction offence, the magistrate may, on good cause being shown to him for so doing, and on oath being made before him substantiating the matter of the complaint to his satisfaction, instead of issuing a summons, issue in the first instance a warrant to apprehend the person against whom the complaint has been made and to bring him before the court of the magistrate to answer the complaint, and to be further dealt with according to law.
 
 ## PART II WITNESSES
 
@@ -642,11 +626,9 @@ Enforcing Attendance of Witness
 
 *Issue of summons for witness.*
 
-**15.** If, either before or on the hearing of any complaint, it appears to the magistrate, on the statement of the complainant or of the defendant or otherwise, that any person is likely to give material evidence for the complainant or for the defendant, the magistrate may issue a summons for that person, requiring him to attend, at a time and place to be mentioned therein, before the court of the magistrate to give
-
 *Form 6.*
 
-evidence respecting the case, and to bring with him any documents relating thereto which may be in his possession, power, or control.
+**15.** If, either before or on the hearing of any complaint, it appears to the magistrate, on the statement of the complainant or of the defendant or otherwise, that any person is likely to give material evidence for the complainant or for the defendant, the magistrate may issue a summons for that person, requiring him to attend, at a time and place to be mentioned therein, before the court of the magistrate to give evidence respecting the case, and to bring with him any documents relating thereto which may be in his possession, power, or control.
 
 *Service of summons on witness.*
 
@@ -654,19 +636,15 @@ evidence respecting the case, and to bring with him any documents relating there
 
 *Warrant for witness after summons.*
 
-**17.** If the person to whom the summons is directed does not attend before the court at the time and place mentioned therein, and no reasonable excuse is offered for his non-attendance then, after proof upon oath, to the satisfaction of the court, that the summons was duly served or that the person to whom the summons is directed wilfully avoids service, the court, being satisfied by proof upon oath that he is likely to give material evidence and that a reasonable sum was paid or tendered, or was ready to be paid or tendered, to him for his expenses in that behalf, may issue a warrant to apprehend him, and to bring him, at a time and place to be
-
 *Form 7.*
 
-mentioned in the warrant, before the court in order to testify as aforesaid.
+**17.** If the person to whom the summons is directed does not attend before the court at the time and place mentioned therein, and no reasonable excuse is offered for his non-attendance then, after proof upon oath, to the satisfaction of the court, that the summons was duly served or that the person to whom the summons is directed wilfully avoids service, the court, being satisfied by proof upon oath that he is likely to give material evidence and that a reasonable sum was paid or tendered, or was ready to be paid or tendered, to him for his expenses in that behalf, may issue a warrant to apprehend him, and to bring him, at a time and place to be mentioned in the warrant, before the court in order to testify as aforesaid.
 
 *Issue of warrant for witness in first instance.*
 
-**18.** If the magistrate is satisfied, by proof upon oath, that any person likely to give material evidence, either for the complainant or for the defendant, will not attend to give evidence without being compelled to do so, then, instead of
-
 *Form 8*
 
-issuing a summons, he may issue a warrant in the first instance for the apprehension of that person.
+**18.** If the magistrate is satisfied, by proof upon oath, that any person likely to give material evidence, either for the complainant or for the defendant, will not attend to give evidence without being compelled to do so, then, instead of issuing a summons, he may issue a warrant in the first instance for the apprehension of that person.
 
 *Dealing with witness arrested under warrant.*
 
@@ -692,11 +670,9 @@ Refractory Witness
 
 (c) refuses or neglects to produce any document which he is required by the court to produce,
 
-without offering any sufficient excuse for his refusal or neglect, the court may, if it thinks fit, adjourn the hearing of the cause for any period not exceeding eight days, and may in
-
 *Form 9.*
 
-the meantime, by warrant, commit the person to prison, unless he sooner consents to do what is so required of him.
+without offering any sufficient excuse for his refusal or neglect, the court may, if it thinks fit, adjourn the hearing of the cause for any period not exceeding eight days, and may in the meantime, by warrant, commit the person to prison, unless he sooner consents to do what is so required of him.
 
 (2) If the person, on being brought before the court at or before the adjourned hearing, again refuses to do what is so required of him, the court may, if it thinks fit, again adjourn the hearing of the cause, and commit him for the like period, and so again from time to time until he consents to do what is so required of him.
 
@@ -790,11 +766,9 @@ committal shall not be for a longer term than eight days, the day following that
 
 (c) discharge him upon his entering into a recognisance, with or without a surety or sureties conditioned for his appearance at the time and place to which the hearing or further hearing is so adjourned.
 
-(3) If, at the time and place to which the hearing or further hearing is so adjourned, either or both of the parties does not or do not appear, the court may proceed to the hearing or further hearing as if the party or parties were present; or, if the complainant does not appear, the court may
-
 *Form 18.*
 
-dismiss the complaint.
+(3) If, at the time and place to which the hearing or further hearing is so adjourned, either or both of the parties does not or do not appear, the court may proceed to the hearing or further hearing as if the party or parties were present; or, if the complainant does not appear, the court may dismiss the complaint.
 
 Transfer of Cause
 
@@ -802,11 +776,9 @@ Transfer of Cause
 
 **32.** (1) If, on the hearing of any complaint, it appears that the ground of complaint arose beyond the limits of the jurisdiction of the court before which the complaint has been made, the court may, on being satisfied that it has no jurisdiction, direct the matter to be transferred to the court having jurisdiction where the ground of complaint arose.
 
-(2) If the defendant is in custody and the magistrate directing the transfer thinks it expedient that the custody should be continued, or, if he is not in custody, that he should be placed in custody, the magistrate shall direct him to be taken by a police or other constable before the magistrate having jurisdiction where the cause of complaint
-
 *Form 51.*
 
-arose, and shall give a warrant for that purpose to the constable, and shall deliver to the constable the complaint and recognisance, if any, taken by the magistrate under this Act,
+(2) If the defendant is in custody and the magistrate directing the transfer thinks it expedient that the custody should be continued, or, if he is not in custody, that he should be placed in custody, the magistrate shall direct him to be taken by a police or other constable before the magistrate having jurisdiction where the cause of complaint arose, and shall give a warrant for that purpose to the constable, and shall deliver to the constable the complaint and recognisance, if any, taken by the magistrate under this Act,
 
 to be delivered to the magistrate before whom the defendant is to be taken, and the complaint and recognisance, if any, shall be treated to all intents and purposes as if they had been taken by the last-mentioned magistrate.
 
@@ -832,15 +804,11 @@ Making of Order
 
 (2) Where before the court gives decision, the magistrate ceases to exercise jurisdiction in the magisterial district or to hold office it shall be lawful for him, within six weeks of the conclusion of the hearing, to lodge with the clerk of the court his written decision. The court shall read the decision at the earliest opportunity after notice to the parties and the decision when read, shall be deemed to be the decision of the court.
 
-(3) If the complaint is dismissed on the merits, the court shall, upon being required by or on behalf of the defendant at any time within six months after the dismissal,
-
 *Form 18.*
-
-make a formal order of dismissal and give to the defendant a certificate thereof; and the certificate, upon production, shall be without further proof a bar to any subsequent complaint
 
 *Form 46.*
 
-for the same matter against the defendant.
+(3) If the complaint is dismissed on the merits, the court shall, upon being required by or on behalf of the defendant at any time within six months after the dismissal, make a formal order of dismissal and give to the defendant a certificate thereof; and the certificate, upon production, shall be without further proof a bar to any subsequent complaint for the same matter against the defendant.
 
 (4) If an order is made against the defendant, a concise minute or memorandum thereof shall be forthwith entered in a book to be kept for that purpose; and, if necessary, an order in proper form may be drawn up at any time thereafter:
 
@@ -850,11 +818,9 @@ for the copy.
 
 *Imprisonment in default of payment of penalty.*
 
-**36.** Where by any written law the court is empowered to impose a penalty for a summary conviction offence, it may, in the absence of express provision to the contrary in the same or any other written law, order a defendant who is convicted of the offence, in default of payment of the sum of money
-
 *Form 10. Form 11. Form 14.*
 
-adjudged to be paid by the order, either forthwith, or at the times specified in the order, as the case may be, to be imprisoned in accordance with the scale set forth in section
+**36.** Where by any written law the court is empowered to impose a penalty for a summary conviction offence, it may, in the absence of express provision to the contrary in the same or any other written law, order a defendant who is convicted of the offence, in default of payment of the sum of money adjudged to be paid by the order, either forthwith, or at the times specified in the order, as the case may be, to be imprisoned in accordance with the scale set forth in section
 
 38.
 
@@ -910,11 +876,9 @@ the defendant shall not be entitled to have the complaint dismissed, but he may 
 
 (6) Where the receiving of any property knowing the same to have been stolen is charged and the evidence establishes the commission of larceny of any kind or of an
 
-offence against section 94 of the Summary Jurisdiction
-
 *c. 8:02*
 
-(Offences) Act, the defendant shall not be entitled to have the complaint dismissed but he may be convicted of the offence the commission of which the evidence establishes and punished accordingly.
+offence against section 94 of the Summary Jurisdiction (Offences) Act, the defendant shall not be entitled to have the complaint dismissed but he may be convicted of the offence the commission of which the evidence establishes and punished accordingly.
 
 (7) Where a person is charged with an offence as mentioned in subsections (4), (5) and (6), and the magistrate is of opinion that the evidence establishes one of the other offences referred to in the particular subsection, a charge for that other offence need not be made, but the magistrate shall endorse on the complaint the charge so established and shall adjourn the proceedings for another sitting of the court, unless the person charged or his counsel prefers that the proceedings be there and then continued. The evidence which has already been taken shall be evidence in the new charge so far as relevant thereto, but the person charged may require any witness who has already given evidence to be recalled for cross-examination, and may call evidence on his own behalf.
 
@@ -1026,11 +990,9 @@ Commitment of Defendant
 
 *Committal of defendant in certain cases.*
 
-**52.** Wherever an order is made against any person for the payment of a sum of money, and he is liable to be imprisoned for a certain term unless that sum is sooner paid, if he does not pay it either forthwith or at the time specified in the order for its payment, as the case may be, the court may issue a warrant of commitment, under the hand of the magistrate, requiring the police or other constable to whom the warrant is directed to take and convey the person to prison and there deliver him to the keeper, and requiring the keeper to receive him into prison and there to imprison him
-
 *Form 26.*
 
-for the time directed and appointed by the warrant of commitment, unless the sum of money adjudged to be paid by the order, and also all other costs, charges and expenses are sooner paid.
+**52.** Wherever an order is made against any person for the payment of a sum of money, and he is liable to be imprisoned for a certain term unless that sum is sooner paid, if he does not pay it either forthwith or at the time specified in the order for its payment, as the case may be, the court may issue a warrant of commitment, under the hand of the magistrate, requiring the police or other constable to whom the warrant is directed to take and convey the person to prison and there deliver him to the keeper, and requiring the keeper to receive him into prison and there to imprison him for the time directed and appointed by the warrant of commitment, unless the sum of money adjudged to be paid by the order, and also all other costs, charges and expenses are sooner paid.
 
 *Payment of amount due on warrant of commitment. [29 of 1961]*
 
@@ -1054,11 +1016,9 @@ Provided that, if before the expiration of the time allowed the person convicted
 
 shall be stated in the warrant of commitment.
 
-(5) Nothing in this section shall apply to orders
-
 *c. 3:05 c. 45:03 c. 46:03*
 
-made by a court under sections 34 to 55 of the Summary Jurisdiction (Magistrates) Act or the Maintenance Act.
+(5) Nothing in this section shall apply to orders made by a court under sections 34 to 55 of the Summary Jurisdiction (Magistrates) Act or the Maintenance Act.
 
 *Postponing issue of warrant of commitment.*
 
@@ -1102,11 +1062,9 @@ Summary Order
 
 *Summary order to do specific act.*
 
-**60.** (1) Where a power is by any written law given to the court of requiring any person to do, or to abstain from doing, any act or thing, other than the payment of money, or of requiring any act or thing to be done or left undone, other than the payment of money, and no mode is prescribed of
-
 *Form 16. Form 28.*
 
-enforcing the requisition, the court may exercise that power by an order, and may annex to the order any conditions as to time or mode of action or otherwise which the court thinks just, and may suspend or rescind the order on any undertaking being given, or any condition being performed, which the court thinks just, and generally may make such arrangements for carrying the power into effect as to the court seems fit.
+**60.** (1) Where a power is by any written law given to the court of requiring any person to do, or to abstain from doing, any act or thing, other than the payment of money, or of requiring any act or thing to be done or left undone, other than the payment of money, and no mode is prescribed of enforcing the requisition, the court may exercise that power by an order, and may annex to the order any conditions as to time or mode of action or otherwise which the court thinks just, and may suspend or rescind the order on any undertaking being given, or any condition being performed, which the court thinks just, and generally may make such arrangements for carrying the power into effect as to the court seems fit.
 
 (2) Every person who makes default in complying with an order of the court in relation to matter arising under a written law, other than the payment of money, shall be
 
@@ -1136,11 +1094,9 @@ Provided that where an indictable offence which was triable summarily before the
 
 order directing the court by which the order of committal was made to deal with the matter summarily under subsection (1). If the High Court grants the application, it shall remit the matter to the said court with directions to hear it summarily.
 
-(5) Where a matter is remitted under subsection (4) the provisions of section 79 of the Criminal Law (Procedure)
-
 *c. 10:01*
 
-Act shall apply mutatis mutandis.
+(5) Where a matter is remitted under subsection (4) the provisions of section 79 of the Criminal Law (Procedure) Act shall apply mutatis mutandis.
 
 (6) Where the court commences to deal summarily with any indictable offence as aforesaid and the accused pleads not guilty, the court shall order the prosecution to file with the clerk of the court at least seven days before the time when the hearing is to commence copies of every statement by every witness whom the prosecution intend to call at the hearing of the charge; but the court may adjourn the hearing to such time as it thinks fit to allow further time for such copies to be filed or, if filed before such adjournment, in order that the hearing should not commence earlier than seven days after the filing of such copies.
 
@@ -1200,19 +1156,15 @@ of cross-examination;
 
 (c) the conviction for the offence shall be of the same effect as a conviction on a trial on indictment therefor;
 
-(d) where the court has assumed the power to deal with the offence summarily, and dismisses the complaint on the merits, it shall, if required, deliver to the person
-
 *Form 43.*
 
-charged a copy, certified under the hand of the magistrate, of the order of dismissal, and the dismissal shall be of the same effect as an acquittal on a trial on indictment for the offence; and
+(d) where the court has assumed the power to deal with the offence summarily, and dismisses the complaint on the merits, it shall, if required, deliver to the person charged a copy, certified under the hand of the magistrate, of the order of dismissal, and the dismissal shall be of the same effect as an acquittal on a trial on indictment for the offence; and
 
 *c. 8:01*
 
-(e) the provisions of sections 13 and 14 of
-
 *c. 10:01*
 
-the Criminal Law (Offences) Act and of section 218 of the Criminal Law (Procedure) Act shall, as they apply to a person convicted before the High Court of an indictable offence, apply mutatis mutandis to a person convicted for such an offence dealt with summarily and for that purpose any law imposing a limitation as to the amount that may be awarded by a magistrate in the exercise of his civil jurisdiction or regulating an appeal from such an award shall be construed and have effect as if there were no such limitation:
+(e) the provisions of sections 13 and 14 of the Criminal Law (Offences) Act and of section 218 of the Criminal Law (Procedure) Act shall, as they apply to a person convicted before the High Court of an indictable offence, apply mutatis mutandis to a person convicted for such an offence dealt with summarily and for that purpose any law imposing a limitation as to the amount that may be awarded by a magistrate in the exercise of his civil jurisdiction or regulating an appeal from such an award shall be construed and have effect as if there were no such limitation:
 
 Provided that where the indictable offence was committed before the date of the coming into operation of this paragraph the amount which the court may award under this
 
@@ -1238,11 +1190,9 @@ Ownership of Property
 
 **67.** Where, in any document in any proceeding under this Act, it is necessary to state the ownership of any work or building made, erected, or maintained, either wholly or in
 
-part, at the expense of the inhabitants of Guyana or of any
-
 *c. 28:01*
 
-city, town, local government district established under the Municipal and District Councils Act, or village of Guyana, or of anything belonging to or being in or used in relation thereto, or of anything provided for the use of the poor or of any public institution or establishment, or of any materials or tools provided or used for repairing the work or building, or any public road or highway, or of any other property whatsoever, whether movable or immovable, of the inhabitants aforesaid, it shall be sufficient to state that the property is the property of the inhabitants of Guyana, or of the city, town, local government district established under the Municipal and District Councils Act, or village, as the case may be, without naming any of them.
+part, at the expense of the inhabitants of Guyana or of any city, town, local government district established under the Municipal and District Councils Act, or village of Guyana, or of anything belonging to or being in or used in relation thereto, or of anything provided for the use of the poor or of any public institution or establishment, or of any materials or tools provided or used for repairing the work or building, or any public road or highway, or of any other property whatsoever, whether movable or immovable, of the inhabitants aforesaid, it shall be sufficient to state that the property is the property of the inhabitants of Guyana, or of the city, town, local government district established under the Municipal and District Councils Act, or village, as the case may be, without naming any of them.
 
 *Remedies by criminal proceedings for married woman against her husband and others in respect of property.*
 
@@ -1342,11 +1292,9 @@ thereof can be returned consistently with the interests of justice and with the 
 
 *Restitution of property in case of conviction.*
 
-**81.** (1) Subject as hereinafter provided, where any person is convicted of a summary conviction offence, any property found in his possession, or in the possession of any other person for him, may be ordered by the court to be delivered to the person who appears to the court to be
-
 *Form 49.*
 
-entitled thereto.
+**81.** (1) Subject as hereinafter provided, where any person is convicted of a summary conviction offence, any property found in his possession, or in the possession of any other person for him, may be ordered by the court to be delivered to the person who appears to the court to be entitled thereto.
 
 (2) (a) Where any person is convicted before the court of having stolen or dishonestly obtained any property, and it appears to the court that the property has been pawned to a pawnbroker or other person, the court may order the delivery thereof to the person who appears to the court to be the owner, either on payment or without payment to the pawnbroker or other person of the amount of the loan or any part thereof, as to the court, in all the circumstances of the case, seems just.
 
@@ -1360,11 +1308,9 @@ Keeping the Peace
 
 *Articles of the peace.*
 
-**82.** (1) Whenever a complaint is made by any person against another to the effect that there is reason to fear that
-
 *Form 17. Form 36. [13 of 1998]*
 
-the defendant will do the complainant some bodily injury, the court may, if the complaint is established, order the defendant to enter into a recognisance, with or without a surety or sureties, to keep the peace and be of good behaviour towards the complainant.
+**82.** (1) Whenever a complaint is made by any person against another to the effect that there is reason to fear that the defendant will do the complainant some bodily injury, the court may, if the complaint is established, order the defendant to enter into a recognisance, with or without a surety or sureties, to keep the peace and be of good behaviour towards the complainant.
 
 (2) This Act shall apply to the hearing of that complaint, and the complainant and the defendant and the witnesses may be called and examined and cross-examined, and the complainant and the defendant shall respectively be liable to the payment of costs, or of costs and compensation, as in the case of any other complaint.
 
@@ -1392,11 +1338,9 @@ Commitment of Vagrants and Rogues to Alms-house
 
 *Power to make order for detention of vagrants in alms-house.*
 
-**87.** Where any person is brought before the court charged with having committed an offence against the provisions of any Act relating to vagrants, or to rogues and vagabonds, or to incorrigible rogues, and it appears to the court that the person so charged is unable from physical infirmity to maintain himself, and that he has no visible means of subsistence, the court, instead of proceeding to hear and determine that charge, may order that the person so charged shall be forthwith conveyed to an alms-house and there detained until he is discharged therefrom as hereinafter
-
 *Form 44.*
 
-provided.
+**87.** Where any person is brought before the court charged with having committed an offence against the provisions of any Act relating to vagrants, or to rogues and vagabonds, or to incorrigible rogues, and it appears to the court that the person so charged is unable from physical infirmity to maintain himself, and that he has no visible means of subsistence, the court, instead of proceeding to hear and determine that charge, may order that the person so charged shall be forthwith conveyed to an alms-house and there detained until he is discharged therefrom as hereinafter provided.
 
 *Time of detention.*
 
@@ -1410,11 +1354,9 @@ provided.
 
 **90.** If any person enters into a bond in the sum of one thousand six hundred and twenty-five dollars, before a magistrate, that due provision shall be made for the future maintenance of any person who has been so ordered to be detained in an alms-house, the magistrate, if satisfied that the person so entering into the bond has sufficient property to enable him to maintain the person so ordered to be detained, or to pay the said sum of one thousand six hundred twenty-five dollars if the condition of the bond is not performed, shall
 
-make an order in writing that the person so ordered to be detained and mentioned in the bond shall be at once
-
 *Form 45.*
 
-discharged, and he shall be discharged accordingly.
+make an order in writing that the person so ordered to be detained and mentioned in the bond shall be at once discharged, and he shall be discharged accordingly.
 
 *Transfer to hospital of person detained in case of illness.*
 
@@ -1454,11 +1396,9 @@ Proof of Process
 
 *Proof of service of process by bailiff or constable. [51 of 1932]*
 
-**96.** (1) Where it becomes necessary to prove the service of any summons, notice, order or other process whatsoever issued under this Act which has been served by a bailiff or constable a return of service in Form 52 in the Schedule, purporting to be signed by the bailiff or constable,
-
 *Form 52.*
 
-shall be received in all courts as prima facie evidence of the facts stated in the return without proof of the signature or official character of the bailiff or constable.
+**96.** (1) Where it becomes necessary to prove the service of any summons, notice, order or other process whatsoever issued under this Act which has been served by a bailiff or constable a return of service in Form 52 in the Schedule, purporting to be signed by the bailiff or constable, shall be received in all courts as prima facie evidence of the facts stated in the return without proof of the signature or official character of the bailiff or constable.
 
 *Proof of service of process. Second Schedule.*
 
@@ -1476,11 +1416,9 @@ shall be deemed to be sufficient proof of the service if the person by whom the 
 
 (a) a copy of the order of any magistrate’s court in respect of the former offence purporting to be certified by the clerk of that court, or
 
-(b) production of a copy of a warrant of commitment reciting the conviction purporting to be certified under the hand of the keeper of the prison, or production of a register kept under section 5 of the Prevention of Crimes
-
 *c. 9:01*
 
-Act, containing an entry of the conviction, shall, upon proof of
+(b) production of a copy of a warrant of commitment reciting the conviction purporting to be certified under the hand of the keeper of the prison, or production of a register kept under section 5 of the Prevention of Crimes Act, containing an entry of the conviction, shall, upon proof of
 
 identity of the person, be sufficient evidence of the conviction.
 
@@ -1488,25 +1426,19 @@ Enforcement of Recognisance
 
 *Mode of enforcement.*
 
-**98.** (1) Where a recognisance is conditioned for the appearance of any person before the court or for his doing some other act or thing to be done in, to, or before the court or in a proceeding in the court, the court may, if the recognisance appears to be forfeited, declare it to be forfeited,
-
 *Form 35. Form 37. Form 22.*
 
-and order the sum due thereunder to be levied upon the movable property of the person liable thereunder, in the same manner as if the sum were a penalty adjudged by the court to be paid, and were ascertained by an order:
-
-Provided that (a) the court may at any time cancel or mitigate the forfeiture upon the person liable under the recognisance applying and giving security, to the satisfaction
+**98.** (1) Where a recognisance is conditioned for the appearance of any person before the court or for his doing some other act or thing to be done in, to, or before the court or in a proceeding in the court, the court may, if the recognisance appears to be forfeited, declare it to be forfeited, and order the sum due thereunder to be levied upon the movable property of the person liable thereunder, in the same manner as if the sum were a penalty adjudged by the court to be paid, and were ascertained by an order:
 
 *Form 40. Form 41.*
 
-of the court, for the future performance of the condition of the recognisance, and paying, or giving security for the payment of, the costs incurred in respect of the forfeiture, or upon any other conditions the court thinks just; and (b) if it appears to the court that a warrant of distress should not, under the provisions hereinbefore contained, be issued against the person liable under the recognisance, but that he has immovable property, the court may, if it thinks fit, postpone the issue of a warrant of commitment against him, and transmit the recognisance to the Director of Public Prosecutions in order that it may be put in suit against him.
+Provided that (a) the court may at any time cancel or mitigate the forfeiture upon the person liable under the recognisance applying and giving security, to the satisfaction of the court, for the future performance of the condition of the recognisance, and paying, or giving security for the payment of, the costs incurred in respect of the forfeiture, or upon any other conditions the court thinks just; and (b) if it appears to the court that a warrant of distress should not, under the provisions hereinbefore contained, be issued against the person liable under the recognisance, but that he has immovable property, the court may, if it thinks fit, postpone the issue of a warrant of commitment against him, and transmit the recognisance to the Director of Public Prosecutions in order that it may be put in suit against him.
 
 (2) Where a recognisance to keep the peace and to be of good behaviour, or not to do or commit some act or thing, has been entered into by any person as principal or as a surety before the court, the court may, on proof of the conviction of the person bound as principal by the recognisance of any offence which is by law a breach of the condition thereof, by order adjudge the recognisance to be forfeited and adjudge the persons bound thereby, whether as
 
-principal or as sureties, or any of them, to pay the sums for
-
 *Form 39. Form 23.*
 
-which they are respectively bound; and the recognisance shall be dealt with in the manner hereinbefore mentioned.
+principal or as sureties, or any of them, to pay the sums for which they are respectively bound; and the recognisance shall be dealt with in the manner hereinbefore mentioned.
 
 (3) All sums paid or recovered in respect of any recognisance declared or adjudged by the court in pursuance of this section to be forfeited shall be paid to the clerk and shall be paid over and accounted for in the same manner as penalties imposed by the court.
 
@@ -1600,11 +1532,9 @@ this Act had not been enacted shall notwithstanding anything in this section con
 
 ### INDICTABLE OFFENCES BY ADULTS WHICH MAY BE TRIED SUMMARILY
 
-**1.** The offences specified for the purposes of section 61 are all indictable offences against any law with the exception of indictable offences against the following provisions of the
-
 *c.8:01*
 
-Criminal Law (Offences) Act, namely: -
+**1.** The offences specified for the purposes of section 61 are all indictable offences against any law with the exception of indictable offences against the following provisions of the Criminal Law (Offences) Act, namely: -
 
 Sections 51, 52, 66, 67, 69, 70, 71, 76, 77, 80, 82, 84, 90, 94, 95, 98, 99, 100, 101, 102, 103, 104, 105, 131, 134, 138, 149, 150, 151, 152, 153, 154, 155, 210, 211, 314, 316, 317, 319, and 321.
 
@@ -1770,11 +1700,9 @@ v.
 
 C.D., Defendant.
 
-A.B., of.................... comes before me, the undersigned
-
 *(1) State concisely the substance of the complaint.*
 
-magistrate for the ..................district, and complains against C.D., of .................. for that the said C.D. (l) ............................and the said A.B. prays that the said C.D. may be summoned to answer the said complaint.
+A.B., of.................... comes before me, the undersigned magistrate for the ..................district, and complains against C.D., of .................. for that the said C.D. (l) ............................and the said A.B. prays that the said C.D. may be summoned to answer the said complaint.
 
 (Signed).............................. Complainant. Exhibited before me this.................
 
@@ -1830,11 +1758,9 @@ C.D., Defendant.
 
 To C.D., of ..........................................
 
-Whereas complaint has this day been made [or information has this day been laid] before me, the undersigned magistrate for the ....................district, for that
-
 *(1) State concisely the substance of the complaint [or information.].*
 
-you (1)......................................This is to command you to be and appear at .........o’clock, ......m., on...........day the ...................day of .....................20......., at .....................before the magistrate in the said court, to answer the said complaint [or information], and to be further dealt with according to law. Dated this ................day of ........................20......
+Whereas complaint has this day been made [or information has this day been laid] before me, the undersigned magistrate for the ....................district, for that you (1)......................................This is to command you to be and appear at .........o’clock, ......m., on...........day the ...................day of .....................20......., at .....................before the magistrate in the said court, to answer the said complaint [or information], and to be further dealt with according to law. Dated this ................day of ........................20......
 
 (Signed).............................. ......................Magistrate, .......................District
 
@@ -1956,71 +1882,49 @@ Regulations – Reg. 19 of 1972, Cap. 51:02 Driver carrying pillion-rider withou
 
 *$5,000*
 
-Regulations – Reg. 19 of 1972, Cap. 51:02 Failing to exhibit certificate of fitness for –
+*$5,000*
+
+Regulations – Reg. 19 of 1972, Cap. 51:02 Failing to exhibit certificate of fitness for – Reg. 13
 
 *$5,000*
 
-Reg. 13
-
-Failing to exhibit licence for a Motor
+Failing to exhibit licence for a Motor Vehicle- Reg. 16(1)
 
 *$5,000*
 
-Vehicle- Reg. 16(1)
-
-Unlighted motor vehicle (front) – Reg.
+Unlighted motor vehicle (front) – Reg. 34(1)(a)
 
 *$5,000*
 
-34(1)(a)
-
-Unlighted motor vehicle (rear) – Reg.
+Unlighted motor vehicle (rear) – Reg. 34(1)(b)
 
 *$5,000*
 
-34(1)(b)
-
-Unlighted motor cycle/bicycle (front) – Reg.
+Unlighted motor cycle/bicycle (front) – Reg. 35(a)
 
 *$5,000*
 
-35(a)
-
-Unlighted motor cycle/bicycle (rear) – Reg.
+Unlighted motor cycle/bicycle (rear) – Reg. 35(b)
 
 *$5,000*
 
-35(b)
-
-Unlighted animal drawn vehicle (front) –
+Unlighted animal drawn vehicle (front) – Reg. 36(a)
 
 *$5,000*
 
-Reg. 36(a)
-
-Unlighted animal drawn vehicle (rear) –
-
-*$5,000*
-
-Reg.36(b)
-
-Failing to carry lamp on hand-cart during
+Unlighted animal drawn vehicle (rear) – Reg.36(b)
 
 *$5,000 $5,000 $5,000*
 
-hours of darkness – Reg. 37 No parking brakes – Reg. 52 No reflecting mirror – Reg. 57 No warning appliance on motor vehicle –
-
 *$5,000 $5,000*
 
-Reg. 59
+Failing to carry lamp on hand-cart during hours of darkness – Reg. 37 No parking brakes – Reg. 52 No reflecting mirror – Reg. 57 No warning appliance on motor vehicle – Reg. 59
 
 No silencer – Reg. 60
 
-No efficient automatic wind-screen wiper –
-
 *$5,000*
 
-Reg. 64
+No efficient automatic wind-screen wiper – Reg. 64
 
 No efficient Speedometer (hire car, motor
 
@@ -2068,11 +1972,9 @@ IN THE ...................................MAGISTRATE’S COURT A.B., Complainant
 
 C.D., Defendant.
 
-To .........................................Police [or other] Constable. Whereas on the..................day of ..........................20......, complaint was made [or information was laid] before me, the undersigned magistrate for the ...........................district, for that C.D. (1).................. And whereas I then issued my
-
 *concisely the substance of the complaint [or*
 
-summons to the said C.D. commanding him to be and appear [etc., as in the summons]; And whereas the said C.D. has
+To .........................................Police [or other] Constable. Whereas on the..................day of ..........................20......, complaint was made [or information was laid] before me, the undersigned magistrate for the ...........................district, for that C.D. (1).................. And whereas I then issued my summons to the said C.D. commanding him to be and appear [etc., as in the summons]; And whereas the said C.D. has
 
 *information].*
 
@@ -2096,11 +1998,9 @@ C.D., Defendant.
 
 To .............................. Police [or other] Constable.
 
-Whereas information has this day been laid before me, the under- signed magistrate for the .......................district, for
-
 *(1) State concisely the substance of the information.*
 
-that C.D., (1)................................... and oath having been made before me substantiating the matter of that information: - This is to command you forthwith to apprehend the said C.D., and to bring him before the magistrate in the said court, to answer the said information, and to be further dealt with according to law.
+Whereas information has this day been laid before me, the under- signed magistrate for the .......................district, for that C.D., (1)................................... and oath having been made before me substantiating the matter of that information: - This is to command you forthwith to apprehend the said C.D., and to bring him before the magistrate in the said court, to answer the said information, and to be further dealt with according to law.
 
 Dated this ..............day of ..........................20......
 
@@ -2118,11 +2018,9 @@ IN THE MAGISTRATE’S COURT A.B., Complainant, [or Informant] v.
 
 C.D., Defendant.
 
-To E.F., of ................................................................................ Whereas complaint has been made [or information has been laid] before me, the undersigned magistrate for the .......................... district, for that C.D., (1) ...........................and it
-
 *(1) State concisely the substance of the complaint [or information]. (2) or defendant.*
 
-has been made to appear to me that you are likely to give material evidence on behalf of the complainant (2) in this behalf:–This is to require you to be and appear at...........o’clock, .....m. on............day, the .......................... day of ............................20......., at ....................... before the magistrate in the said court, to testify what you know concerning the matter of the said complaint [or information].
+To E.F., of ................................................................................ Whereas complaint has been made [or information has been laid] before me, the undersigned magistrate for the .......................... district, for that C.D., (1) ...........................and it has been made to appear to me that you are likely to give material evidence on behalf of the complainant (2) in this behalf:–This is to require you to be and appear at...........o’clock, .....m. on............day, the .......................... day of ............................20......., at ....................... before the magistrate in the said court, to testify what you know concerning the matter of the said complaint [or information].
 
 Dated this .................day of .......................... 20.....
 
@@ -2158,11 +2056,9 @@ C.D., Defendant.
 
 To..................................police [or other] Constable Whereas complaint has been made [or information has been laid] before me, the undersigned magistrate for
 
-the..........................district, for that C.D. (l) ...............................
-
 *concisely the substance of the complaint [or information]. (2) or informant or defendant.*
 
-and it being made to appear to me, upon oath, that E.F., of ..................................is likely to give material evidence on behalf of the complainant (2), and it is probable that the said E.F. will not attend to give evidence without being compelled so to do:–This is to command you forthwith to apprehend the said E.F., and to bring him at..........o’clock,......m., on............... day, the ...................day of..........................20......., at .................... before the magistrate in the said court, to testify what he knows concerning the matter of the said complaint [or information], and to be further dealt with according to law. Dated this..................day of .......................20.......
+the..........................district, for that C.D. (l) ............................... and it being made to appear to me, upon oath, that E.F., of ..................................is likely to give material evidence on behalf of the complainant (2), and it is probable that the said E.F. will not attend to give evidence without being compelled so to do:–This is to command you forthwith to apprehend the said E.F., and to bring him at..........o’clock,......m., on............... day, the ...................day of..........................20......., at .................... before the magistrate in the said court, to testify what he knows concerning the matter of the said complaint [or information], and to be further dealt with according to law. Dated this..................day of .......................20.......
 
 (Signed).............................. .............Magistrate,....................District.
 
@@ -2262,17 +2158,11 @@ C.D., Defendant.
 
 The ................day of .........................20.......
 
-C.D. (hereinafter called the defendant) is this day convicted before the said court for that he
+*(1) State concisely the substance of the complaint [or information]. (2) or, any other than a nominal punishment. (3) or to be of good behaviour. (4) or on or before the day of 20 , or by instalments of, etc.*
 
-*(1) State concisely the substance of the complaint [or information].*
+C.D. (hereinafter called the defendant) is this day convicted before the said court for that he (l)..............................But the court being of opinion that the said offence was of so trifling a nature that it is inexpedient to inflict any punishment (2)..................and the defendant having given security, to the satisfaction of the court, to appear for sentence when called upon (3) ...........................he is discharged; And it is ordered that the defendant do pay to the said A.B. the sum of ....................for damages, and the sum of..................for costs [if so ordered] forthwith (4) ...................................And if default is made [proceed as in conviction for penalty, and, in default of payment, imprisonment]. (Signed).......................
 
-(l)..............................But the court being of opinion that the said offence was of so trifling a nature that it is inexpedient to inflict any punishment (2)..................and the defendant having given security, to the satisfaction of the court, to appear for
-
-(2) or, any other sentence when called upon (3) ...........................he is
-
-*punishment. (3) or to be of good behaviour. (4) or on or before the day of 20 , or by instalments of, etc.*
-
-than a nominal discharged; And it is ordered that the defendant do pay to the said A.B. the sum of ....................for damages, and the sum of..................for costs [if so ordered] forthwith (4) ...................................And if default is made [proceed as in conviction for penalty, and, in default of payment, imprisonment]. (Signed)....................... .....................Magistrate,...................... District
+.....................Magistrate,...................... District
 
 *ss. 36 and 60*
 
@@ -2288,11 +2178,9 @@ C.D., Defendant.
 
 A.B. having made a complaint that C.D. (hereinafter
 
-called the defendant) (l)......................................And both the
-
 *concisely the substance of the complaint. (2) or on or before the day of 20 , or as the law may require. (3) or on or before the day of 20 .*
 
-said parties having appeared before the said court [or the said A.B. having appeared before the said court, but the defendant, although duly called, not having appeared by himself or his counsel; And it having been satisfactorily proved to the said court, upon oath, that the defendant has been duly served with the summons in this behalf, which required him to be and appear here on this day before the said court to answer the said complaint, and to be further dealt with according to law]; And now the court having heard the matter of the said complaint, it is adjudged that the defendant do pay to the said A.B. the sum of....................... forthwith (2)...................And do also pay to the said A.B. the sum of ..........................for his costs in this behalf; And if the said several sums be not paid forthwith (3)....................it is adjudged that the defendant be imprisoned in the...........................prison for the term of ........................unless the said several sums, and all costs and charges of the commitment, shall be sooner paid.
+called the defendant) (l)......................................And both the said parties having appeared before the said court [or the said A.B. having appeared before the said court, but the defendant, although duly called, not having appeared by himself or his counsel; And it having been satisfactorily proved to the said court, upon oath, that the defendant has been duly served with the summons in this behalf, which required him to be and appear here on this day before the said court to answer the said complaint, and to be further dealt with according to law]; And now the court having heard the matter of the said complaint, it is adjudged that the defendant do pay to the said A.B. the sum of....................... forthwith (2)...................And do also pay to the said A.B. the sum of ..........................for his costs in this behalf; And if the said several sums be not paid forthwith (3)....................it is adjudged that the defendant be imprisoned in the...........................prison for the term of ........................unless the said several sums, and all costs and charges of the commitment, shall be sooner paid.
 
 Dated this...............day of........................ 20......
 
@@ -2316,11 +2204,9 @@ C.D., Defendant.
 
 A.B. having made a complaint that C.D. (hereinafter called the defendant) (1)......................................And both the said parties having appeared before the said court, [or the said A.B. having appeared before the said court, but the defendant, although duly called, not having appeared by himself or his counsel; And it having been satisfactorily proved to the said court, upon oath, that the defendant has been duly served
 
-with the summons in this behalf, which required him to be and appear here on this day before the said court to answer the said complaint, and to be further dealt with according to law]; And now the court having heard the matter of the said complaint, it is adjudged that the defendant do pay the said A.B. the sum of................And do also pay to the said A.B. the sum of.................................for his costs in this behalf; And if the
-
 *(2) or on or before the day of*
 
-said several sums be not paid forthwith (2).......................* it is hereby ordered that the same be levied by distress and sale of the movable property of the defendant; And, in default of 20
+with the summons in this behalf, which required him to be and appear here on this day before the said court to answer the said complaint, and to be further dealt with according to law]; And now the court having heard the matter of the said complaint, it is adjudged that the defendant do pay the said A.B. the sum of................And do also pay to the said A.B. the sum of.................................for his costs in this behalf; And if the said several sums be not paid forthwith (2).......................* it is hereby ordered that the same be levied by distress and sale of the movable property of the defendant; And, in default of 20
 
 sufficient distress in that behalf,* it is adjudged that the defendant be imprisoned in the........................... prison for the term of ........................unless the said several sums; and all costs and charges of the said distress [and of the commitment], shall be sooner paid.
 
@@ -2342,11 +2228,9 @@ C.D., Defendant.
 
 *(1) State concisely the substance of the complaint.*
 
-A.B. having made a complaint that C.D. (hereinafter called the defendant) (1)....................................And both the said parties having appeared before the said court [or the said A.B. having appeared before the said court, but the defendant, although duly called, not having appeared by himself or his counsel; And it having been satisfactorily proved to the said court, upon oath, that the defendant has been duly served with the summons in this behalf, which required him to be and appear here on this day before the said court to answer the said complaint, and to be further dealt with according to law]; And now the court having heard the matter of the said complaint, it is adjudged that the defendant do [here state the matter required to be done]; And if, upon a copy of a minute of this order being served upon the defendant, either personally or by leaving the same for him at his last or most usual place of abode, he shall refuse or neglect to obey the same, in that case it is adjudged that the defendant, for that his disobedience, be imprisoned in the..................................prison for the term of..........................[unless the said order be sooner obeyed, if the written law authorises this]; And it is also adjudged that the defendant do pay to the said A.B. the sum of ..............................for his costs in this behalf; And if the said
-
 *(2) Or on or before the day of*
 
-sum for costs be not paid forthwith (2).......................it is adjudged that the defendant be imprisoned in the said prison for the term of .............................to commence at and from the 20
+A.B. having made a complaint that C.D. (hereinafter called the defendant) (1)....................................And both the said parties having appeared before the said court [or the said A.B. having appeared before the said court, but the defendant, although duly called, not having appeared by himself or his counsel; And it having been satisfactorily proved to the said court, upon oath, that the defendant has been duly served with the summons in this behalf, which required him to be and appear here on this day before the said court to answer the said complaint, and to be further dealt with according to law]; And now the court having heard the matter of the said complaint, it is adjudged that the defendant do [here state the matter required to be done]; And if, upon a copy of a minute of this order being served upon the defendant, either personally or by leaving the same for him at his last or most usual place of abode, he shall refuse or neglect to obey the same, in that case it is adjudged that the defendant, for that his disobedience, be imprisoned in the..................................prison for the term of..........................[unless the said order be sooner obeyed, if the written law authorises this]; And it is also adjudged that the defendant do pay to the said A.B. the sum of ..............................for his costs in this behalf; And if the said sum for costs be not paid forthwith (2).......................it is adjudged that the defendant be imprisoned in the said prison for the term of .............................to commence at and from the 20
 
 termination of his imprisonment aforesaid, unless the said sum for costs, and all costs and charges of the commitment, shall be sooner paid.
 
@@ -2364,11 +2248,9 @@ C.D., Defendant.
 
 A.B. having made a complaint that C.D. (hereinafter called the defendant) (l).....................................And both the said parties having appeared before the said court, and the court having heard the matter of the said complaint, it is adjudged that the defendant do forthwith, to the satisfaction of .............................enter into a recognisance in the sum of................................with.....................surety.............in the sum of ................................[each] to keep the peace and be of good behaviour, and especially towards the said A.B., for the term of.....................; And if the defendant fails to comply with this order, it is adjudged that he be imprisoned in the............................ prison for the term of ........................... unless he sooner complies with this order.
 
-[If costs are ordered, proceed as follows:] And it is also adjudged that the defendant do pay to the said A.B. the sum
-
 *(2) or on or before the day of 20 , or by instalments of, etc.*
 
-of............................ for his costs in this behalf; And if the said sum for costs be not paid forthwith (2)................................it is adjudged that the defendant be imprisoned in the said prison for the term of ......................... to commence at and from the termination of his imprisonment aforesaid, unless the said sum for costs, and all costs and charges of the commitment, shall be sooner paid.
+[If costs are ordered, proceed as follows:] And it is also adjudged that the defendant do pay to the said A.B. the sum of............................ for his costs in this behalf; And if the said sum for costs be not paid forthwith (2)................................it is adjudged that the defendant be imprisoned in the said prison for the term of ......................... to commence at and from the termination of his imprisonment aforesaid, unless the said sum for costs, and all costs and charges of the commitment, shall be sooner paid.
 
 Dated this........day of........................ 20.....
 
@@ -2384,11 +2266,9 @@ C.D., Defendant.
 
 *(1) State concisely the substance of the complaint or information.*
 
-A.B. having made a complaint [or laid an information] that C.D. (hereinafter called the defendant) (l) ................................And both the said parties having appeared before the said court in order that it should hear and determine the said complaint [or information] [or the defendant having appeared before the said court, but the said A.B., although duly called, not having appeared by himself or his counsel] whereupon the matter of the said complaint [or information] being by the said court duly considered, [it manifestly appears to the said court that the said complaint [or information] is not proved, and*], the court therefore dismisses the same [and adjudges that the said A.B. do pay to the defendant the sum of ...........................as compensation for his trouble and expense in this behalf, and also the sum of..............................for his costs incurred by him in his defence
-
 *(2) or on or before the day of 20 .*
 
-in this behalf; And if the said several sums be not paid forthwith (2)............. it is adjudged that the said A.B. be imprisoned in the............................ prison for the term of........................unless the said several sums, and all costs and charges of the commitment, shall be sooner paid].
+A.B. having made a complaint [or laid an information] that C.D. (hereinafter called the defendant) (l) ................................And both the said parties having appeared before the said court in order that it should hear and determine the said complaint [or information] [or the defendant having appeared before the said court, but the said A.B., although duly called, not having appeared by himself or his counsel] whereupon the matter of the said complaint [or information] being by the said court duly considered, [it manifestly appears to the said court that the said complaint [or information] is not proved, and*], the court therefore dismisses the same [and adjudges that the said A.B. do pay to the defendant the sum of ...........................as compensation for his trouble and expense in this behalf, and also the sum of..............................for his costs incurred by him in his defence in this behalf; And if the said several sums be not paid forthwith (2)............. it is adjudged that the said A.B. be imprisoned in the............................ prison for the term of........................unless the said several sums, and all costs and charges of the commitment, shall be sooner paid].
 
 Dated this.................day of .........................20......
 
@@ -2404,11 +2284,9 @@ IN THE MAGISTRATE’S COURT A.B., Complainant, [or Informant] v.
 
 C.D., Defendant.
 
-C.D. (hereinafter called the defendant) has been charged
-
 *(1) State concisely the substance of the complaint or information.*
 
-on the complaint [or information] of A.B. for that he (1)...........................And the matter of the said complaint [or information] being by the said court duly considered, and the said court being of opinion that, though the said complaint [or information] is proved, the offence was of so trifling a nature that it is inexpedient to inflict any punishment, the court therefore dismisses the said complaint [or information].
+C.D. (hereinafter called the defendant) has been charged on the complaint [or information] of A.B. for that he (1)...........................And the matter of the said complaint [or information] being by the said court duly considered, and the said court being of opinion that, though the said complaint [or information] is proved, the offence was of so trifling a nature that it is inexpedient to inflict any punishment, the court therefore dismisses the said complaint [or information].
 
 [If payment of damages or costs is ordered, proceed as follows:] And it is ordered that the defendant do pay to the said A.B.................................for damages, and....................for costs; And if the said several sums be not paid [proceed as in form 18]. Dated this.............day of.....................20......
 
@@ -2430,19 +2308,9 @@ To..............................Police [or other] Constable.
 
 *(1) or, on the day of 20 . (2) State concisely the substance of the complaint or information as in the conviction.*
 
-Whereas C.D. (hereinafter called the defendant) was this day (1).....................convicted before the said court for that he (2).............................And it was thereby adjudged that the defendant should, for that his offence, forfeit and pay [etc., as in the conviction], and should also pay to the said A.B. the sum of......................for his costs in that behalf; And it was thereby ordered that if the said several sums should not be paid [forthwith], they should be levied by distress and sale of the movable property of the defendant; And it was thereby also adjudged that, in default of sufficient distress the defendant should be imprisoned in the........................prison for the term of............................... unless the said several sums, and all costs and charges of the said distress [and of the commitment] should be sooner paid; And whereas the defendant, being so convicted as aforesaid, and being [now] required to pay the said sums of...................and...................has not paid the same or any part thereof, but therein has made default:–This is to command you forthwith to make distress of the movable property of the defendant (except the wearing apparel and bedding of him and his family, and, to the value of one hundred dollars, the tools and implements of his trade); And
+*\\*NOTE - the property is not to to be sold until after the expiration of three days next after the day on which it is seized unless the defendant otherwise consents in writing.*
 
-*\\*NOTE - the property is not to to be sold until*
-
-if, within the space of *..............................days next after the making of that distress, the said sums, together with the after the expiration reasonable charges of taking and keeping the said distress,
-
-*of three days next after the day on which it is seized unless the defendant*
-
-shall not be paid, then to sell the said moveable property by you distrained, and pay the money arising therefrom to [the magistrate or other person specified] in order that it may be otherwise consents applied according to law, and that the overplus, if any, may
-
-*in writing.*
-
-be rendered on demand, to the defendant; And if no such distress can be found, then to certify the same to the said court, in order that further proceedings may be had according to law.
+Whereas C.D. (hereinafter called the defendant) was this day (1).....................convicted before the said court for that he (2).............................And it was thereby adjudged that the defendant should, for that his offence, forfeit and pay [etc., as in the conviction], and should also pay to the said A.B. the sum of......................for his costs in that behalf; And it was thereby ordered that if the said several sums should not be paid [forthwith], they should be levied by distress and sale of the movable property of the defendant; And it was thereby also adjudged that, in default of sufficient distress the defendant should be imprisoned in the........................prison for the term of............................... unless the said several sums, and all costs and charges of the said distress [and of the commitment] should be sooner paid; And whereas the defendant, being so convicted as aforesaid, and being [now] required to pay the said sums of...................and...................has not paid the same or any part thereof, but therein has made default:–This is to command you forthwith to make distress of the movable property of the defendant (except the wearing apparel and bedding of him and his family, and, to the value of one hundred dollars, the tools and implements of his trade); And if, within the space of *..............................days next after the making of that distress, the said sums, together with the reasonable charges of taking and keeping the said distress, shall not be paid, then to sell the said moveable property by you distrained, and pay the money arising therefrom to [the magistrate or other person specified] in order that it may be applied according to law, and that the overplus, if any, may be rendered on demand, to the defendant; And if no such distress can be found, then to certify the same to the said court, in order that further proceedings may be had according to law.
 
 Dated this...............day of .......................20.....
 
@@ -2458,11 +2326,9 @@ C.D., Defendant.
 
 To........................Police [or other] Constable.
 
-Whereas on the...............day of..........................20......, complaint was made before me, the undersigned magistrate for the............................district, for that C.D. (hereinafter called
-
 *(1) State the substance of the complaint, as in the order.*
 
-the defendant) (l).....................and both the said parties having appeared before the said court [or as in the order]; And the said court having considered the matter of the said complaint, it was adjudged that the defendant should pay to the said A.B. the sum of.......................... and should also pay to the said A.B. the sum of .....................for his costs in that behalf; And it was thereby ordered that if the said several sums should not be paid on or before the...................day of............................20......, they should be levied by distress and sale of the movable property of the defendant; And it was thereby also adjudged that, in default of sufficient distress in that behalf, the defendant should be imprisoned in the..................prison for the term of.............................unless the said several sums, and all costs and charges of the distress [and of the commitment] should be sooner paid; And whereas the time by the said order appointed for the payment of the said several sums of...................and...............has elapsed, but the defendant has not paid them or any part thereof, but therein has made default:–This is to command you forthwith to make distress of the movable property of the defendant (except the wearing apparel and bedding of him and his family, and, to the value of one hundred dollars, the tools and implements of his trade); And if, within the space of * .............................days after the making of that distress, the said last-mentioned sums, together with the reasonable charges of taking and keeping the said distress, shall not be paid, then to sell the said
+Whereas on the...............day of..........................20......, complaint was made before me, the undersigned magistrate for the............................district, for that C.D. (hereinafter called the defendant) (l).....................and both the said parties having appeared before the said court [or as in the order]; And the said court having considered the matter of the said complaint, it was adjudged that the defendant should pay to the said A.B. the sum of.......................... and should also pay to the said A.B. the sum of .....................for his costs in that behalf; And it was thereby ordered that if the said several sums should not be paid on or before the...................day of............................20......, they should be levied by distress and sale of the movable property of the defendant; And it was thereby also adjudged that, in default of sufficient distress in that behalf, the defendant should be imprisoned in the..................prison for the term of.............................unless the said several sums, and all costs and charges of the distress [and of the commitment] should be sooner paid; And whereas the time by the said order appointed for the payment of the said several sums of...................and...............has elapsed, but the defendant has not paid them or any part thereof, but therein has made default:–This is to command you forthwith to make distress of the movable property of the defendant (except the wearing apparel and bedding of him and his family, and, to the value of one hundred dollars, the tools and implements of his trade); And if, within the space of * .............................days after the making of that distress, the said last-mentioned sums, together with the reasonable charges of taking and keeping the said distress, shall not be paid, then to sell the said
 
 movable property by you distrained, and pay the money arising therefrom to [the magistrate or other person specified] in order that it may be applied according to law, and that the overplus, if any, may be rendered, on demand, to the said defendant; And if no such distress can be found, then to certify the fact to the said court, in order that further proceedings may be had according to law.
 
@@ -2480,11 +2346,9 @@ Warrant of distress for sum due under recognizance declared to be forfeited
 
 IN THE MAGISTRATE’S COURT To.....................Police [or other] Constable.
 
-Whereas........................was, by his recognisance entered into the..............day of..........................20........, bound in the sum
-
 *(1) State the condition of the recognisance.*
 
-of......................the condition of his recognisance being that.........................should (1) ........................And whereas default having been made in compliance with the said condition, the said recognisance was, on the..................day of...........................20....., declared by the said court to be forfeited; And whereas the said ...................................has made default in payment of the sum due under the said recognisance:–This is to command you forthwith to make distress of the movable property of the said .....................(except the wearing apparel and bedding of him
+Whereas........................was, by his recognisance entered into the..............day of..........................20........, bound in the sum of......................the condition of his recognisance being that.........................should (1) ........................And whereas default having been made in compliance with the said condition, the said recognisance was, on the..................day of...........................20....., declared by the said court to be forfeited; And whereas the said ...................................has made default in payment of the sum due under the said recognisance:–This is to command you forthwith to make distress of the movable property of the said .....................(except the wearing apparel and bedding of him
 
 and his family, and, to the value of one hundred dollars, the tools and implements of his trade), and if, within the space of* .....................days next after the making of that distress, the sum of....................being the sum stated at the foot of this warrant to be due under the said recognisance, together with the reasonable costs and charges of the making and keeping of the said distress, be not paid, then to sell the said movable property by you distrained, and pay the money arising therefrom to [the magistrate or other person specified] in order that it may be applied according to law, and that the overplus, if any, may be rendered on demand to the said ...................And if no such distress can be found, then to certify the same to the said court, in order that further proceedings may be had according to law.
 
@@ -2512,11 +2376,9 @@ Warrant of distress for sum due under recognizance adjudged to be forfeited by c
 
 To.....................Police [or other] Constable.
 
-Whereas C.D. (hereinafter called the defendant) was, by his recognisance entered into the.................day of.......................20......, bound in the sum of.................the condition of the recognisance being that the defendant should
+*(1) State the condition of the recognisance. (2) State the offence concisely.*
 
-*(1) State the condition of the recognisance. (2) State the*
-
-(l).....................And whereas the defendant having been convicted of the offence of having (2)......................being offence which is in law a breach of the said condition, it was, offence concisely. on the..................day of......................20......, adjudged by the said court that the said recognisance was forfeited, and that the defendant should pay to [the magistrate or other person specified]the said sum of................and should also pay to........................the sum of.........................for costs; And it was ordered that the said sums should be paid [as in the order], and that, if default should be made in payment according to the said adjudication and order, the sums due thereunder should be levied by distress and sale of the movable property of the defendant; And whereas default has been made in payment according to the said adjudication and order:–This is to command you [proceed as in last form].
+Whereas C.D. (hereinafter called the defendant) was, by his recognisance entered into the.................day of.......................20......, bound in the sum of.................the condition of the recognisance being that the defendant should (l).....................And whereas the defendant having been convicted of the offence of having (2)......................being offence which is in law a breach of the said condition, it was, on the..................day of......................20......, adjudged by the said court that the said recognisance was forfeited, and that the defendant should pay to [the magistrate or other person specified]the said sum of................and should also pay to........................the sum of.........................for costs; And it was ordered that the said sums should be paid [as in the order], and that, if default should be made in payment according to the said adjudication and order, the sums due thereunder should be levied by distress and sale of the movable property of the defendant; And whereas default has been made in payment according to the said adjudication and order:–This is to command you [proceed as in last form].
 
 Dated this.................day of........................20......
 
@@ -2536,11 +2398,9 @@ C.D., Defendant.
 
 To..................................Police [or other] Constable, and to the Keeper of................................Prison.
 
-Whereas on the....................day of..........................20......, complaint was made [or information was laid] before me, the undersigned magistrate for the........................district, for that
-
 *(1) State concisely the substance of the complaint or information.*
 
-C.D. (1)................................And whereas the said C.D. has been apprehended under and by virtue of a warrant upon such complaint [or information], and is now brought before me as the magistrate aforesaid:–This is to command you, the said constable, forthwith to convey the said C.D. to the.................................. prison, and there deliver him to the keeper of the said prison, together with this warrant; And I hereby command you, the said keeper, to receive the said C.D. into your custody in the said prison, and there safely keep him until..............day, the......................day of............................20....... when you are hereby required to cause him, the said C.D., to be conveyed and be at..........................at..............of the clock in the.............noon of the same day, before the magistrate in the said court, to answer the said complaint [or information], and to be further dealt with according to law.
+Whereas on the....................day of..........................20......, complaint was made [or information was laid] before me, the undersigned magistrate for the........................district, for that C.D. (1)................................And whereas the said C.D. has been apprehended under and by virtue of a warrant upon such complaint [or information], and is now brought before me as the magistrate aforesaid:–This is to command you, the said constable, forthwith to convey the said C.D. to the.................................. prison, and there deliver him to the keeper of the said prison, together with this warrant; And I hereby command you, the said keeper, to receive the said C.D. into your custody in the said prison, and there safely keep him until..............day, the......................day of............................20....... when you are hereby required to cause him, the said C.D., to be conveyed and be at..........................at..............of the clock in the.............noon of the same day, before the magistrate in the said court, to answer the said complaint [or information], and to be further dealt with according to law.
 
 Dated this.....................day of ..........................20....... (Signed)................................... ....................Magistrate,.....................District.
 
@@ -2558,11 +2418,9 @@ To.............................Police [or other] Constable and to the Keeper of.
 
 Whereas on the.....................day of........................20.....,
 
-complaint was made [or information was laid] before me, the
-
 *concisely the substance of the complaint or information.*
 
-undersigned magistrate for the................................district, for that C.D. (1)........................And whereas the hearing of the same is adjourned to................day, the.....................20......,at the...............of the clock in the.............noon, at ..............and it is necessary that the said C.D. should in the meantime, be kept in safe custody:–This is to command you, the said constable, forthwith to convey the said C.D. to the ..........................prison, and there deliver him to the keeper of the said prison, together with this warrant; And I hereby command you, the said keeper, to receive the said C.D. into your custody in the said prison, and there safely keep him until the said..................day of..........................20......., when you are hereby required to cause him, the said C.D., to be conveyed and be, at the time and place to which the said hearing is so adjourned as aforesaid, before the magistrate in the said court, to answer further the said complaint [or information], and to be further dealt with according to law.
+complaint was made [or information was laid] before me, the undersigned magistrate for the................................district, for that C.D. (1)........................And whereas the hearing of the same is adjourned to................day, the.....................20......,at the...............of the clock in the.............noon, at ..............and it is necessary that the said C.D. should in the meantime, be kept in safe custody:–This is to command you, the said constable, forthwith to convey the said C.D. to the ..........................prison, and there deliver him to the keeper of the said prison, together with this warrant; And I hereby command you, the said keeper, to receive the said C.D. into your custody in the said prison, and there safely keep him until the said..................day of..........................20......., when you are hereby required to cause him, the said C.D., to be conveyed and be, at the time and place to which the said hearing is so adjourned as aforesaid, before the magistrate in the said court, to answer further the said complaint [or information], and to be further dealt with according to law.
 
 Dated this...............day of.............................20.......
 
@@ -2580,19 +2438,15 @@ C.D., Defendant.
 
 To...............................Police [or other] Constable and to the Keeper of ..............................Prison.
 
-C.D.(hereinafter called the defendant) was this day convicted before the said court for that he
-
 *(1) State the substance of the complaint or information as in*
 
-(l).......................................And it was thereby adjudged that the defendant should, for such offence, forfeit and pay the sum of ...................... [etc., as in the conviction],and should also pay to
+C.D.(hereinafter called the defendant) was this day convicted before the said court for that he (l).......................................And it was thereby adjudged that the defendant should, for such offence, forfeit and pay the sum of ...................... [etc., as in the conviction],and should also pay to
 
 *the conviction*
 
-the said A.B. the sum of...................................for his costs in that behalf; And it was further adjudged that if the said several sums should not be paid forthwith
-
 *(2) or, on or before the day of 20 .*
 
-(2)..................................the defendant should be imprisoned in the..................................prison for the term of....................................unless the said several sums [and the costs and charges of the commitment] should be sooner paid; And whereas the time by the said conviction appointed for the payment of the said several sums has elapsed, but the defendant has not paid the same or any part thereof, but therein has made default:–This is to command you, the said constable, to take the defendant and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there imprison him for the term of ....................unless the said several sums [and the costs and charges of the commitment, amounting to the further sum of.........................] shall be sooner paid; And for your so doing, this shall be your sufficient warrant.
+the said A.B. the sum of...................................for his costs in that behalf; And it was further adjudged that if the said several sums should not be paid forthwith (2)..................................the defendant should be imprisoned in the..................................prison for the term of....................................unless the said several sums [and the costs and charges of the commitment] should be sooner paid; And whereas the time by the said conviction appointed for the payment of the said several sums has elapsed, but the defendant has not paid the same or any part thereof, but therein has made default:–This is to command you, the said constable, to take the defendant and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there imprison him for the term of ....................unless the said several sums [and the costs and charges of the commitment, amounting to the further sum of.........................] shall be sooner paid; And for your so doing, this shall be your sufficient warrant.
 
 Dated this..................day of ..........................20.......
 
@@ -2612,11 +2466,9 @@ C.D., Defendant.
 
 To...................................Police [or other] Constable, and to the Keeper of...................................Prison.
 
-C.D. (hereinafter called the defendant) was this day
-
 *(1) State the substance of the complaint or information as in the conviction*
 
-convicted before the said court for that he (l) ...........................And it was thereby adjudged that the defendant should, for that his offence, be imprisoned in the...............................prison for the term of..................:–This is to command you, the said constable, to take the defendant and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there imprison him for the term of .................; And for your so doing, this shall be your sufficient warrant.
+C.D. (hereinafter called the defendant) was this day convicted before the said court for that he (l) ...........................And it was thereby adjudged that the defendant should, for that his offence, be imprisoned in the...............................prison for the term of..................:–This is to command you, the said constable, to take the defendant and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there imprison him for the term of .................; And for your so doing, this shall be your sufficient warrant.
 
 Dated this.................day of.......................20.......
 
@@ -2636,11 +2488,9 @@ C.D., Defendant.
 
 To...................................Police [or other] Constable, and to the Keeper of..........................Prison.
 
-Whereas on the...............day of.......................20......, complaint was made before me, the undersigned magistrate for the..........................district, for that C.D. (1)..........................and both the said parties having appeared
-
 *(1) State the substance of the complaint as in the order.*
 
-before the said court [or as it may be in the order]; And the said court having considered the matter of the said complaint, it was adjudged that the said C.D. should pay to the said A.B. the sum of..............................and should also pay to the said A.B. the sum of.................................for his costs in that behalf; And it was thereby also ordered that if the said several sums
+Whereas on the...............day of.......................20......, complaint was made before me, the undersigned magistrate for the..........................district, for that C.D. (1)..........................and both the said parties having appeared before the said court [or as it may be in the order]; And the said court having considered the matter of the said complaint, it was adjudged that the said C.D. should pay to the said A.B. the sum of..............................and should also pay to the said A.B. the sum of.................................for his costs in that behalf; And it was thereby also ordered that if the said several sums
 
 should not be paid on or before the....................day of ......................20......., the said C.D. should be imprisoned in the...............................prison for the term of ..........................unless the said several sums should be sooner paid; And whereas the time by the said order appointed for the payment of the said several sums of money has elapsed, but the said C.D. has not paid them or any part thereof, but herein has made default:–This is to command you, the said constable, to take the said C.D. and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the said C.D. into your custody in the said prison, and there imprison him for the term of..................................unless the said several sums [and the costs and charges of the commitment, amounting to the further sum of.................................] shall be sooner paid; And for your so doing this shall be your sufficient warrant. Dated this................day of........................20.......
 
@@ -2658,11 +2508,9 @@ C.D., Defendant.
 
 To.................................Police [or other] Constable, and to the Keeper of ...............................Prison.
 
-C.D. (hereinafter called the defendant) was, on the.................day of.........................20......., convicted before the
-
 *(1)State the substance of the complaint or information as in the conviction.*
 
-said court for that he (l)..................................And whereas, default having been made in payment according to the said adjudication and order, a warrant of distress has been issued against the defendant in pursuance of the said conviction, but
+C.D. (hereinafter called the defendant) was, on the.................day of.........................20......., convicted before the said court for that he (l)..................................And whereas, default having been made in payment according to the said adjudication and order, a warrant of distress has been issued against the defendant in pursuance of the said conviction, but
 
 no return has been made thereto; And whereas the defendant has not given security to the satisfaction of the court for his appearance at the time and place appointed for the return of the said warrant of distress:–This is to command you, the said constable, to take the defendant and him safely to convey to ...............................prison, and there deliver him to the keeper thereof, together with this warrant And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there safely keep him until............day, the..................day of.............................20......, being the day appointed for the return of the said warrant of distress, unless he previously enters into a recognisance in the sum of............with............surety................in the sum of......................... [each] conditioned for his appearance on that day, and on that day, if he has not then been released by virtue of having entered into the recognisance, to cause him to be conveyed and be at .....................of the clock in the...............noon, before the magistrate in the said court, to be further dealt with according to law. Dated this...............day of...........................20.......
 
@@ -2704,21 +2552,15 @@ C.D., Defendant.
 
 To.................................Police [or other] Constable, and to the Keeper of..........................Prison.
 
-Whereas on the..................day of.............................20.......,
-
 *(1) State the substance of the*
 
-complaint was made before me, the undersigned magistrate for the............................district, for that C.D. (l).............................
+Whereas on the..................day of.............................20......., complaint was made before me, the undersigned magistrate for the............................district, for that C.D. (l).............................
 
 *complaint as in the order.*
 
-And both the said parties having appeared before the said court [or as it may be in the order]; And the said court having considered the matter of the said complaint, it was adjudged that the defendant should [etc., as in the order]; And it was also adjudged that if, upon a copy of a minute of the said order being served upon the defendant, either personally or by leaving the same for him at his last or most usual place of abode, he should refuse or neglect to obey the same, in that case the defendant should, for that his disobedience, be imprisoned in the ...............................prison for the term of.....................[unless the said order should be sooner obeyed]; And it was also adjudged that the defendant should pay to the said A.B. the sum of.................................. for his costs in
+*(2) or, on or before the day of 20 .*
 
-(2) or, on or that behalf; And it was ordered that if the said sum for costs
-
-*before the day of 20 .*
-
-should not be paid forthwith (2).........................................the defendant should be imprisoned in the said prison for the term of ....................................to commence at and from the termination of his imprisonment aforesaid, unless the said sum for costs [and the costs and charges of the commitment] should be sooner paid; And whereas it is now proved to me that, after the making of the said order, a copy of a minute thereof was duly served upon the defendant, but he then refused [or neglected] to obey, and has not as yet obeyed, the order; And whereas the time appointed by the said order for the payment of the said sum for costs has elapsed, but the defendant has not paid the said sum or any part thereof, but therein has made default:–This is to command you, the said constable, to take the defendant and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there imprison him for the term of...............................; And further, on the termination of his imprisonment aforesaid, to imprison him for the term of...................................unless the said sum for costs [and the costs and charges of the commitment, amounting to the further sum of....................................]shall be sooner paid; And for your so doing, this shall be your sufficient warrant.
+And both the said parties having appeared before the said court [or as it may be in the order]; And the said court having considered the matter of the said complaint, it was adjudged that the defendant should [etc., as in the order]; And it was also adjudged that if, upon a copy of a minute of the said order being served upon the defendant, either personally or by leaving the same for him at his last or most usual place of abode, he should refuse or neglect to obey the same, in that case the defendant should, for that his disobedience, be imprisoned in the ...............................prison for the term of.....................[unless the said order should be sooner obeyed]; And it was also adjudged that the defendant should pay to the said A.B. the sum of.................................. for his costs in that behalf; And it was ordered that if the said sum for costs should not be paid forthwith (2).........................................the defendant should be imprisoned in the said prison for the term of ....................................to commence at and from the termination of his imprisonment aforesaid, unless the said sum for costs [and the costs and charges of the commitment] should be sooner paid; And whereas it is now proved to me that, after the making of the said order, a copy of a minute thereof was duly served upon the defendant, but he then refused [or neglected] to obey, and has not as yet obeyed, the order; And whereas the time appointed by the said order for the payment of the said sum for costs has elapsed, but the defendant has not paid the said sum or any part thereof, but therein has made default:–This is to command you, the said constable, to take the defendant and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant; And I hereby command you, the said keeper, to receive the defendant into your custody in the said prison, and there imprison him for the term of...............................; And further, on the termination of his imprisonment aforesaid, to imprison him for the term of...................................unless the said sum for costs [and the costs and charges of the commitment, amounting to the further sum of....................................]shall be sooner paid; And for your so doing, this shall be your sufficient warrant.
 
 Dated this.................day of...........................20.......
 
@@ -2736,15 +2578,11 @@ C.D., Defendant.
 
 To.............................Police [or other] Constable, and to the Keeper of ..............................Prison.
 
-Whereas on the................day of ..........................20......, complaint was made [or information was laid] before me, the undersigned magistrate for the.......................................district,
-
 *(1) State the substance of the complaint as in the order.*
-
-for that C.D. (l)..........................and both the said parties having appeared before the said court [or as it may be in the order]; And thereupon the matter of the said complaint [or information] having been by the said court duly considered, and it manifestly appearing to the said court that the said complaint [or information] was not proved, the said court therefore dismissed the same, and adjudged that the said A.B. should pay to the said C.D. the sum of............................for his costs incurred by him in his defence in that behalf; And it was ordered that if the said sum for costs should not be paid
 
 *(2) or, on or before the day of 20 .*
 
-forthwith (2)............................... the said A.B. should be imprisoned in the....................................prison for the term of........................................unless the said sum should be sooner paid; And whereas the time appointed by the said order for the payment of the said sum has elapsed, but the said A.B. has not paid it or any part of it, but therein has made default:– This is to command you, the said constable, to take the said A.B. and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant;
+Whereas on the................day of ..........................20......, complaint was made [or information was laid] before me, the undersigned magistrate for the.......................................district, for that C.D. (l)..........................and both the said parties having appeared before the said court [or as it may be in the order]; And thereupon the matter of the said complaint [or information] having been by the said court duly considered, and it manifestly appearing to the said court that the said complaint [or information] was not proved, the said court therefore dismissed the same, and adjudged that the said A.B. should pay to the said C.D. the sum of............................for his costs incurred by him in his defence in that behalf; And it was ordered that if the said sum for costs should not be paid forthwith (2)............................... the said A.B. should be imprisoned in the....................................prison for the term of........................................unless the said sum should be sooner paid; And whereas the time appointed by the said order for the payment of the said sum has elapsed, but the said A.B. has not paid it or any part of it, but therein has made default:– This is to command you, the said constable, to take the said A.B. and him safely to convey to the said prison, and there deliver him to the keeper thereof, together with this warrant;
 
 And I hereby command you, the said keeper, to receive the said A.B. into your custody in the said prison, and there imprison him for the term of...................... unless the said sum [and the costs and charges of the commitment, amounting to the further sum of..................................] shall be sooner paid; And for your so doing, this shall be your sufficient warrant. Dated this.................day of..........................20.......
 
@@ -2844,15 +2682,11 @@ Adjudication of forfeiture of recognisance where person bound as principal has b
 
 IN THE MAGISTRATE’S COURT The ....................day of..........................20.......
 
-C.D. (hereinafter called the defendant) was, by his recognisance entered into the...................day of...........................20......, bound in the sum of..................................the condition of the said recognisance
+*(1) State the condition of the recognisance. (2) State the offence concisely.*
 
-*(1) State the condition of the recognisance. (2) State the*
+*(3) or, on or before the . day of 20 .*
 
-being that the defendant should (l)................................And proof having been given that the defendant has been convicted of the offence of having (2)............................being an offence concisely. offence which is in law a breach of the condition of the said recognisance:– therefore it is adjudged that the recognisance is forfeited, and that the defendant do pay to [the magistrate or other persons specified] the sum of............................ and do also pay to.................................the sum of................................ for costs; And it is ordered that the said sums be paid forthwith
-
-*(3) or, on or before the day of 20 .*
-
-(3).................................And if default is made in payment . according to this adjudication and order, *it is ordered that the said sus be levied by distress and sale of the movable property of the defendant; And, in default of sufficient distress,* it is adjudged that the defendant be imprisoned in the...............................prison for the term of................................... unless the said several sums, and all costs and charges of the said distress [and of the commitment], shall be sooner paid. (Signed)........................... ....................Magistrate,.....................District.
+C.D. (hereinafter called the defendant) was, by his recognisance entered into the...................day of...........................20......, bound in the sum of..................................the condition of the said recognisance being that the defendant should (l)................................And proof having been given that the defendant has been convicted of the offence of having (2)............................being an offence which is in law a breach of the condition of the said recognisance:– therefore it is adjudged that the recognisance is forfeited, and that the defendant do pay to [the magistrate or other persons specified] the sum of............................ and do also pay to.................................the sum of................................ for costs; And it is ordered that the said sums be paid forthwith (3).................................And if default is made in payment according to this adjudication and order, *it is ordered that the said sus be levied by distress and sale of the movable property of the defendant; And, in default of sufficient distress,* it is adjudged that the defendant be imprisoned in the...............................prison for the term of................................... unless the said several sums, and all costs and charges of the said distress [and of the commitment], shall be sooner paid. (Signed)........................... ....................Magistrate,.....................District.
 
 \* Or where the issuing of a distress warrant would be ruinous to the defendant or his family, or it appears that he has no moveable property whereon to levy a distress, then, instead of the words between * *, say, “then inasmuch as it has now been made to appear to the said Court that the issuing of a warrant of distress in this behalf would be more injurious to the defendant or his family than imprisonment [or that the defendant has no moveable property whereon to levy the said sums by way of distress] it is adjudged” [etc., as above to the end]
 
@@ -2860,11 +2694,9 @@ being that the defendant should (l)................................And proof hav
 
 Oral or written acknowledgment of undertaking to perform condition of forfeited recognisance
 
-IN THE MAGISTRATE’S COURT C.D. was, by his recognisance entered into the...............day of............................20......., bound in the sum of ................................... the condition of the recognisance being
-
 *(1) State the condition of the recognisance.*
 
-that the said C.D. should (1)...............................And default having been made in performance of this condition, the recognisance was, on the..................day of ...........................20......, declared to be forfeited, and the said C.D. not having paid the said sum, a warrant of distress was, on the...................day of.........................20......, issued for recovery thereof, but no movable property has been sold under the warrant; And the said C.D. has applied to the said court to cancel or mitigate the forfeiture:–Now, therefore, I, the said C.D., as principal, and we, G.H., of.........................and J.K, of..............................as sureties [or I, G.H., of .................................as surety] hereby undertake that the condition of the said recognizance shall be duly performed [and also that the said C.D. shall, on or before the......................day of..........................20......., pay the sum of............................ for costs incurred in respect of the said forfeiture;] And I, the said principal, and we, the said sureties [or I, the said surety] hereby severally acknowledge ourselves bound to forfeit and pay to [the magistrate or other persons specified] the sum of.............................in case the said principal fails to perform the condition of the said recognisance.
+IN THE MAGISTRATE’S COURT C.D. was, by his recognisance entered into the...............day of............................20......., bound in the sum of ................................... the condition of the recognisance being that the said C.D. should (1)...............................And default having been made in performance of this condition, the recognisance was, on the..................day of ...........................20......, declared to be forfeited, and the said C.D. not having paid the said sum, a warrant of distress was, on the...................day of.........................20......, issued for recovery thereof, but no movable property has been sold under the warrant; And the said C.D. has applied to the said court to cancel or mitigate the forfeiture:–Now, therefore, I, the said C.D., as principal, and we, G.H., of.........................and J.K, of..............................as sureties [or I, G.H., of .................................as surety] hereby undertake that the condition of the said recognizance shall be duly performed [and also that the said C.D. shall, on or before the......................day of..........................20......., pay the sum of............................ for costs incurred in respect of the said forfeiture;] And I, the said principal, and we, the said sureties [or I, the said surety] hereby severally acknowledge ourselves bound to forfeit and pay to [the magistrate or other persons specified] the sum of.............................in case the said principal fails to perform the condition of the said recognisance.
 
 (Signed, where not taken orally.) C.D. G.H.
 
@@ -2906,11 +2738,9 @@ IN THE MAGISTRATE’S COURT A.B., Complainant, [or Informant] v.
 
 C.D., Defendant.
 
-C.D. (hereafter called the defendant), having been charged on the complaint [or information] of A.B. for that he
-
 *(1) State concisely the substance of the complaint or information. c. 10:02*
 
-(l)...........................and, having been informed by the court of his right to be tried by a jury, consented to be dealt with summarily under the Summary Jurisdiction (Procedure) Act, and the court thought it expedient so to deal with the case; And the matter of the said complaint [or information] having been by the said court duly considered, it manifestly appears to the said court that the said complaint [or information] is not proved:–Therefore the court doth hereby dismiss the said complaint [or information]. [If costs, or costs and compensation, are ordered, proceed as in form 18.]
+C.D. (hereafter called the defendant), having been charged on the complaint [or information] of A.B. for that he (l)...........................and, having been informed by the court of his right to be tried by a jury, consented to be dealt with summarily under the Summary Jurisdiction (Procedure) Act, and the court thought it expedient so to deal with the case; And the matter of the said complaint [or information] having been by the said court duly considered, it manifestly appears to the said court that the said complaint [or information] is not proved:–Therefore the court doth hereby dismiss the said complaint [or information]. [If costs, or costs and compensation, are ordered, proceed as in form 18.]
 
 Dated this.................day of...........................20......
 
@@ -2924,11 +2754,9 @@ Dated this.................day of...........................20......
 
 Order for conveyance of vagrant to alms-house and detention therein
 
-IN THE MAGISTRATE’S COURT Whereas C.D. was, on the...................day
-
 *(1) State the substance of the charge, which must for an offence referred to in section 87. c. 10:02*
 
-of.............................20...... brought before me the undersigned magistrate for the......................... district charged for that he, the said C.D. (l).................................And whereas it has been made to appear to me that the said C.D. is unable from physical infirmity to maintain.........self, and has no visible means of subsistence:–Now, therefore, under the provisions of the Summary Jurisdiction (Procedure) Act, I do order that the said C.D. shall be forthwith conveyed to an alms-house, and there detained until discharged in due course of law. Dated this................day of.......................20.....
+IN THE MAGISTRATE’S COURT Whereas C.D. was, on the...................day of.............................20...... brought before me the undersigned magistrate for the......................... district charged for that he, the said C.D. (l).................................And whereas it has been made to appear to me that the said C.D. is unable from physical infirmity to maintain.........self, and has no visible means of subsistence:–Now, therefore, under the provisions of the Summary Jurisdiction (Procedure) Act, I do order that the said C.D. shall be forthwith conveyed to an alms-house, and there detained until discharged in due course of law. Dated this................day of.......................20.....
 
 (Signed).......................... .....................Magistrate,....................District
 
@@ -2954,11 +2782,9 @@ The condition of the within-written recognisance is that if C.D., of ...........
 
 Certificate of dismissal of complaint or information
 
-### IN THE MAGISTRATE’S COURT
-
 *(1) State concisely the substance of the complaint or information.*
 
-I hereby certify that a complaint made [or an information laid] by A.B. against C.D. for that he (l).......................was, on the.................... day of........................20......., considered by the said Court, and was by the said court dismissed [with costs]. Dated this............day of....................20........
+IN THE MAGISTRATE’S COURT I hereby certify that a complaint made [or an information laid] by A.B. against C.D. for that he (l).......................was, on the.................... day of........................20......., considered by the said Court, and was by the said court dismissed [with costs]. Dated this............day of....................20........
 
 (Signed) .......................... ....................Magistrate,.....................District.
 
@@ -3004,17 +2830,9 @@ Dated this..............day of.....................20......
 
 Order for restitution of property
 
-*(1) State the substance of the complaint or information and describe the goods as in the conviction. (2) or, on or before the*
+*(1) State the substance of the complaint or information and describe the goods as in the conviction. (2) or, on or before the . day of 20 .*
 
-IN THE MAGISTRATE’S COURT C.D. was charged before the said court for that he (1)..................... And the said C.D. has been this day convicted before the said court of the offence with which he was so charged; And it is proved to the said Court that the said goods are now in the possession of ................................
-
-*.*
-
-of..............................:–Therefore it is hereby ordered that the
-
-*day of 20 .*
-
-said.........................do forthwith (2).............................restore the said goods to the said...............................the owner thereof. Dated this...............day of......................20......
+IN THE MAGISTRATE’S COURT C.D. was charged before the said court for that he (1)..................... And the said C.D. has been this day convicted before the said court of the offence with which he was so charged; And it is proved to the said Court that the said goods are now in the possession of ................................ of..............................:–Therefore it is hereby ordered that the said.........................do forthwith (2).............................restore the said goods to the said...............................the owner thereof. Dated this...............day of......................20......
 
 (Signed) .......................... ....................Magistrate,.....................District.
 
@@ -3140,11 +2958,9 @@ Costs.
 
 Return of moneys received
 
-Monthly return of the magistrate of .................................district [or of the keeper of the.......................prison] under the Summary Jurisdiction
-
 *c. 10:02*
 
-(Procedure) Act, of all moneys received and when and to whom paid, from the...................day of..............................20......, to the ..................day of .........................20........
+Monthly return of the magistrate of .................................district [or of the keeper of the.......................prison] under the Summary Jurisdiction (Procedure) Act, of all moneys received and when and to whom paid, from the...................day of..............................20......, to the ..................day of .........................20........
 
 Amount of fine received and
 
@@ -3186,11 +3002,9 @@ MINOR OFFENCES (PENALTIES) ORDER made under section 8(2) and (3)
 
 ## SCHEDULE OFFENCES PENALTIES
 
-(1) Offences against sections 13, 15, 23, 25, 40, 46, 52, 55, 57, 59 and 60 of the
-
 *c. 51:02*
 
-Motor Vehicles and Road Traffic Act. $5000
+(1) Offences against sections 13, 15, 23, 25, 40, 46, 52, 55, 57, 59 and 60 of the Motor Vehicles and Road Traffic Act. $5000
 
 (1A) Offences against 34, 43, and 61 of Motor Vehicles and Road Traffic Act. $7500
 
@@ -3202,51 +3016,35 @@ Motor Vehicles and Road Traffic Act. $5000
 
 Minor Offences (Penalties)
 
-(4) Offences against the Road Traffic
+*$40.00*
+
+(4) Offences against the Road Traffic (Georgetown) Regulations
 
 *$40.00*
 
-(Georgetown) Regulations
-
-(5) Offences against any Order, other than the Road Traffic (Georgetown) Order, made by the Commissioner of Police under sections, 48, 51 or 102 of the
-
-*$40.00*
-
-Motor Vehicles and Road Traffic Act.
-
-(6) Offences against the Road Traffic
+(5) Offences against any Order, other than the Road Traffic (Georgetown) Order, made by the Commissioner of Police under sections, 48, 51 or 102 of the Motor Vehicles and Road Traffic Act.
 
 *$150.00*
 
-(Georgetown) Order.
-
-(7) Offences against section 153 of the
+(6) Offences against the Road Traffic (Georgetown) Order.
 
 *$ 50.00*
 
 *c.8:02*
 
-Summary Jurisdiction (Offences) Act.
-
-(8) Offences against the General Traffic Directions made by the Commissioner of Police on the 24th November, 1937, under the Summary Jurisdiction
+(7) Offences against section 153 of the Summary Jurisdiction (Offences) Act.
 
 *c. 8:02*
 
-(Offences) Act and continued in force by section 117 of the Motor Vehicles
-
 *$40.00*
 
-and Road Traffic Act.
-
-(9) Offences under section 63 (3) of the
+(8) Offences against the General Traffic Directions made by the Commissioner of Police on the 24th November, 1937, under the Summary Jurisdiction (Offences) Act and continued in force by section 117 of the Motor Vehicles and Road Traffic Act.
 
 *c. 47:01*
 
-Post and Telegraph Act in respect of
-
 *$100.00*
 
-broadcast receiving sets.
+(9) Offences under section 63 (3) of the Post and Telegraph Act in respect of broadcast receiving sets.
 
 _______________
 
@@ -3268,10 +3066,8 @@ OFFENCES (APPLICATION OF CERTAIN PROVISIONS) ORDER made under section 8(11)
 
 *c. 51:02*
 
-**2.** Sections 13, 15, 46, 55, 58, 59 and 61 of the Motor Vehicles and Road Traffic Act are hereby added in their
-
 *c. 10:02*
 
-appropriate numerical order to section 8(10)(b) of the Summary Jurisdiction (Procedure) Act.
+**2.** Sections 13, 15, 46, 55, 58, 59 and 61 of the Motor Vehicles and Road Traffic Act are hereby added in their appropriate numerical order to section 8(10)(b) of the Summary Jurisdiction (Procedure) Act.
 
 ______________

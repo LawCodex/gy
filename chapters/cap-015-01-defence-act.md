@@ -456,7 +456,9 @@ Rules of Procedure, etc.
 
 **160.** Deductions for payment of civil penalties.
 
-**161.** Compensation for loss occasioned by wrongful act or negligence.
+*or negligence.*
+
+**161.** Compensation for loss occasioned by wrongful act
 
 **162.** Deductions for barrack damage.
 
@@ -464,9 +466,11 @@ Rules of Procedure, etc.
 
 **164.** Enforcement of maintenance and affiliation order by deduction from pay.
 
-**165.** Deductions from pay for maintenance of wife, husband or child.
+*or child. effect on*
 
-**166.** Limit of deductions under sections 164 and 165 and effect on forfeiture.
+**165.** Deductions from pay for maintenance of wife, husband
+
+**166.** Limit of deductions under sections 164 and 165 and forfeiture.
 
 **167.** Service of process in maintenance proceedings.
 
@@ -486,7 +490,9 @@ Redress of Complaints
 
 **173.** Complaints by soldiers.
 
-**174.** Restriction on composition of Defence Board dealing with complaint.
+*with*
+
+**174.** Restriction on composition of Defence Board dealing complaint.
 
 Exemptions for officers and soldiers
 
@@ -598,29 +604,35 @@ Miscellaneous Provisions
 
 **215.** [Repealed by 4 of 1990]
 
-## FIRST SCHEDULE—Forms.
+*FIRST*
 
-## SECOND SCHEDULE—Alternative offences for which accused may be committed by Court Martial.
+## SCHEDULE—Forms.
 
-## THIRD SCHEDULE – Laws to be enforced and administered.
+*SECOND*
+
+## SCHEDULE—Alternative offences for which accused may be committed by Court Martial.
+
+*THIRD*
+
+## SCHEDULE – Laws to be enforced and administered.
 
 __________________________
 
-### CHAPTER 15:01
+### CHAPTER 15:01 DEFENCE ACT
 
-### DEFENCE ACT
+*24 of 1966A*
 
-24 of 1966A An Act to provide for defence and the maintenance of order by the establishment of a defence force and to provide for matters connected therewith and incidental thereto.
+An Act to provide for defence and the maintenance of order by the establishment of a defence force and to provide for matters connected therewith and incidental thereto.
 
 [22 ND May, 1966]
 
-Short title. 1. This Act may be cited as the Defence Act.
+*Short title.*
 
-**2.** (1) In this Act— Interpretation.
+**1.** This Act may be cited as the Defence Act.
 
-[O. 15/1970
+*Interpretation. [O. 15/1970 O. 80/1980]*
 
-O. 80/1980]
+**2.** (1) In this Act—
 
 “acting rank” means rank of any description (however called) such that under regulations a commanding officer has power to order the holder to revert from that rank; and
 
@@ -878,11 +890,9 @@ regulate its own proceedings.
 
 (2) A commission may be granted either for an indefinite period or for a specified time.
 
-(3) Every officer on being granted a commission shall be issued with a commission in the form set out in the
-
 *First Schedule.*
 
-First Schedule which commission shall be signed by the President.
+(3) Every officer on being granted a commission shall be issued with a commission in the form set out in the First Schedule which commission shall be signed by the President.
 
 *Commissions Board.*
 
@@ -894,11 +904,9 @@ First Schedule which commission shall be signed by the President.
 
 (b) the Chairman of the Public Service Commission; and
 
-(c) one other person appointed by the Defence Board for such period as it shall, without prejudice to the conferment of any powers upon it by virtue of section 29(1) of the
-
 *c.2:01*
 
-Interpretation and General Clauses Act, specify.
+(c) one other person appointed by the Defence Board for such period as it shall, without prejudice to the conferment of any powers upon it by virtue of section 29(1) of the Interpretation and General Clauses Act, specify.
 
 The member mentioned in paragraph (a) shall be the Chairman of the Board and if on any question the members of
 
@@ -1220,7 +1228,9 @@ Mutiny and Insubordination
 
 (2) Every person subject to military law under this Act who, in a case not falling within subsection (1), takes part in a mutiny, or incites any person subject to service law to take part in a mutiny, whether actual or intended, shall, on conviction by court-martial, be liable to imprisonment or any less punishment provided by this Act.
 
-(3) In this Act the expression “mutiny” means a combination between two or more persons subject to service law, or between persons two at least of whom are subject to service law—
+*combination service law, subject to*
+
+(3) In this Act the expression “mutiny” means a between two or more persons subject to or between persons two at least of whom are service law—
 
 (a) to overthrow or resist lawful authority in the Force or any forces co-operating therewith or in any part of any of the said forces; or
 
@@ -1228,9 +1238,11 @@ Mutiny and Insubordination
 
 (c) to impede the performance of any duty or service in the Force or in any forces co-operating therewith or in any part of any of the said forces.
 
-*Failure to suppress mutiny.*
+*Failure to suppress Act who, mutiny.*
 
-**42.** Every person subject to military law under this Act who, knowing that a mutiny is taking place or is intended—
+**42.** Every person subject to military law under this knowing that a mutiny is taking place or is
+
+*intended—*
 
 (a) fails to use his utmost endeavours to suppress or prevent it; or
 
@@ -1416,9 +1428,9 @@ shall, on conviction by court-martial, be liable to imprisonment for two years o
 
 **55.** Any person subject to military law under this Act
 
-*who—*
+*who— relating to*
 
-*relating to property.*
+*property.*
 
 (a) loses any public or service property of which he has the relating to property. charge or which has been entrusted to his care or which forms part of property of which he has the charge or which has been entrusted to his care; or
 
@@ -2094,11 +2106,9 @@ Provided that where any child of tender years called as a witness does not in th
 
 (5) Where an accused is charged before a court-martial with an offence against section 76, and the corresponding civil offence is one in proceedings for which, if he had been tried by a civil court for committing the offence in Guyana, he might have been found guilty of another civil offence, then if the court finds that he has committed that other civil offence he may be convicted of an offence against section 76 in respect of the commission of that other civil offence.
 
-(6) An accused charged before a court-martial with
-
 *Second Schedule.*
 
-an offence specified in the first column of the Second Schedule may be found guilty of an offence specified in relation thereto in the second column of that Schedule.
+(6) An accused charged before a court-martial with an offence specified in the first column of the Second Schedule may be found guilty of an offence specified in relation thereto in the second column of that Schedule.
 
 *Rules of evidence.*
 
@@ -2530,11 +2540,9 @@ state in which it is at the time of the making of the directions including direc
 
 (10) Notwithstanding anything in subsection (9) an order under this section shall not, so far as it relates to the delivery of property to the person appearing to be the owner thereof, be suspended if the court or authority making the order directs to the contrary in any case in which, in the opinion of the court or authority, the title to the property is not in dispute.
 
-(11) For the purposes of any order made under subsection (3) the provisions of subsections (4) to (10) (inclusive) of section 203 of the Criminal Law (Procedure) Act
-
 *c. 10 :02*
 
-shall apply mutatis mutandis subject to the following modifications—
+(11) For the purposes of any order made under subsection (3) the provisions of subsections (4) to (10) (inclusive) of section 203 of the Criminal Law (Procedure) Act shall apply mutatis mutandis subject to the following modifications—
 
 (a) references to a magistrate or the Court shall be construed and have effect as references to a court-martial;
 
@@ -2650,11 +2658,15 @@ by the court;
 
 (7) Where Rules of Procedure make provision for the matter mentioned in subsection (6), they may also make provision for conferring on the court taking one or more
 
-offences into consideration, the power to direct the making of such deductions from the offender’s pay as the court would have had power to direct if he had been found guilty of the offence or offences taken into consideration as well as of the offence of which he was in fact found guilty.
+*offences into such have had offence or offence of which*
 
-*Imprisonment and Detention Regulations. [4 of 1972]*
+consideration, the power to direct the making of deductions from the offender’s pay as the court would power to direct if he had been found guilty of the offences taken into consideration as well as of the he was in fact found guilty.
 
-**138.** The Defence Board may make regulations (in this Act referred to as Imprisonment and Detention Regulations) with respect to all or any of the following matters, that is to say—
+*\138. The Imprisonment*
+
+*and Detention Act referred to Regulations. with respect to [4 of 1972] say—*
+
+Defence Board may make regulations (in this as Imprisonment and Detention Regulations) all or any of the following matters, that is to
 
 (a) the places in which and the establishments or forms of custody (whether military or not) in which persons may be required to serve the whole or any part of military sentences of imprisonment and detention passed on them under this Act;
 
@@ -2670,11 +2682,17 @@ in such establishments or custody as aforesaid, the cases in which, periods for 
 
 (f) the appointment, powers and duties of inspectors, visitors and governors, and of officers and other members of the staff, of military establishments.
 
-*Board of Inquiry Rules.*
+*\139. (1)*
 
-**139.** (1) The Defence Board may make rules ( in this Act referred to Board of as Board of Inquiry Rules) with respect to the convening, constitution and procedure of boards of inquiry.
+*Board of*
 
-(2) Without prejudice to the generality of subsection (1), Board of Inquiry Rules may make provision with respect to all or any of the following matters:
+*Act referred to Inquiry Rules. respect to the boards of inquiry.*
+
+The Defence Board may make rules ( in this Board of as Board of Inquiry Rules) with convening, constitution and procedure of
+
+*subsection (1), with respect to*
+
+(2) Without prejudice to the generality of Board of Inquiry Rules may make provision all or any of the following matters:
 
 (a) the rules of evidence to be observed by boards of inquiry and the taking of evidence before such boards, so however that the rules shall provide for the taking of evidence on oath or affirmation except in circumstances such that if the evidence was being taken at a court-martial an oath could be dispensed with,
 
@@ -2900,11 +2918,9 @@ Provided that this subsection shall not apply to an order adjudging a man to be 
 
 (5) (a) In this section references to an order made by a court in Guyana include references to an order registered in or confirmed by such a court under any law which makes provision for the enforcement in Guyana of maintenance orders made outside Guyana; references to a husband, wife or child include, in relation to an order made in proceedings in
 
-connection with the dissolution or annulment of a marriage, references to a person who would have been the husband, wife or child of the defendant if the marriage had subsisted; references to a child of a person include references to a child of his wife or her husband, and to an illegitimate or adopted child of that person or of his wife or her husband, and in this paragraph adopted child means a child adopted (whether alone or jointly) in pursuance of an
-
 *c.46:04*
 
-adoption order made under the Adoption of Children Act.
+connection with the dissolution or annulment of a marriage, references to a person who would have been the husband, wife or child of the defendant if the marriage had subsisted; references to a child of a person include references to a child of his wife or her husband, and to an illegitimate or adopted child of that person or of his wife or her husband, and in this paragraph adopted child means a child adopted (whether alone or jointly) in pursuance of an adoption order made under the Adoption of Children Act.
 
 (b) For he purposes of this subsection the expression maintenance order means an order other than an order of affiliation for the periodical payment of sums of money towards the maintenance of the husband or wife or other dependants of the person against whom the order is made, and the expression―dependants means such persons as that person is, according to the law in force in that part of the Commonwealth in which the maintenance order was made, liable to maintain.
 
@@ -3672,17 +3688,13 @@ sent to him personally.
 
 **14.** Any offence against 14. (a) The corresponding section 62(1) involving offence involving the use of striking. violence other than striking.
 
-corresponding
+*the*
+
+corresponding offence involving offering of violence.
 
 *the*
 
-offence involving offering of violence.
-
-**15.** Any offence against 15. The corresponding
-
-*the*
-
-section 62 involving the offence involving use of violence other than offering of violence.
+**15.** Any offence against 15. The corresponding section 62 involving the offence involving use of violence other than offering of violence.
 
 striking.
 
@@ -3854,11 +3866,9 @@ the officers appointed over me, according to law. So help me God. [To be omitted
 
 (2) The oath shall be taken and subscribed before an officer not below the rank of Major.
 
-__________________
-
 *Reg. 14/1974*
 
-GUYANA DEFENCE (PENSIONS AND GRATUITIES) REGULATIONS made under section 212
+__________________ GUYANA DEFENCE (PENSIONS AND GRATUITIES) REGULATIONS made under section 212
 
 *Citation.*
 
@@ -4162,11 +4172,9 @@ had acknowledged that he was the father of that officer or soldier;
 
 “widow” includes a single woman or widow who was living with a single officer or soldier or with a widower who is an officer or soldier, as the case may be, as his reputed wife to the date of the injury and whom the Defence Board treats as if she were in law his widow.
 
-(9) This regulation applies to an officer or soldier notwithstanding the fact that by reason of his injury or death he or his dependants as defined under the National Insurance
-
 *c. 36:01*
 
-and Social Security Act are entitled to benefits under that Act.
+(9) This regulation applies to an officer or soldier notwithstanding the fact that by reason of his injury or death he or his dependants as defined under the National Insurance and Social Security Act are entitled to benefits under that Act.
 
 *Qualifying service for computing pension and gratuity.*
 
@@ -4188,11 +4196,9 @@ Provided that the periods of absence in the circumstances mentioned in subparagr
 
 (a) the period of his service in the Force;
 
-(b) service to which the Pensions Act
-
 *c. 27:02*
 
-applies;
+(b) service to which the Pensions Act applies;
 
 (c) service in the Special Service Unit;
 
@@ -4202,11 +4208,9 @@ applies;
 
 (f) service in the Guyana Police Force;
 
-(g) service to which the Teacher’s
-
 *c. 39:05*
 
-Pension Act applies;
+(g) service to which the Teacher’s Pension Act applies;
 
 (h) any other service which the Defence Board by order published in the Gazette determines to be reckonable service:
 
@@ -4504,7 +4508,7 @@ Notice requiring oral evidence in place of statutory declaration.
 
 Exceptions from Rules on account of the exigencies
 
-### RULE
+*RULE*
 
 of the service.
 
@@ -4516,7 +4520,9 @@ of the service.
 
 **106.** Cases not covered by Rules.
 
-## FIRST SCHEDULE – Forms for commanding officers
+*FIRST*
+
+## SCHEDULE – Forms for commanding officers
 
 **1.** Delay report.
 
@@ -4536,7 +4542,9 @@ of the service.
 
 **3.** Illustrations of charge-sheets.
 
-## THIRD SCHEDULE – Record of proceedings before an appropriate superior authority.
+*THIRD*
+
+## SCHEDULE – Record of proceedings before an appropriate superior authority.
 
 ## FOURTH SCHEDULE – Court-martial forms
 
@@ -4636,11 +4644,9 @@ reason therefor shall be reported by his commanding officer to the higher author
 
 *Eight day delay reports.*
 
-**4.** The report required by subsection (2) of section with regard to the necessity for further delay in bringing an
-
 *First schedule.*
 
-accused to trial shall be in the form set out in the First Schedule and shall be signed by his commanding officer. The report shall be sent to the officer who would be responsible for convening, a court-martial for the trial of the accused.
+**4.** The report required by subsection (2) of section with regard to the necessity for further delay in bringing an accused to trial shall be in the form set out in the First Schedule and shall be signed by his commanding officer. The report shall be sent to the officer who would be responsible for convening, a court-martial for the trial of the accused.
 
 *Arrest not to exceed 72 days without permission from higher authority.*
 
@@ -4708,11 +4714,9 @@ statement without being sworn;
 
 *Summary of evidence.*
 
-**8.** A summary of evidence shall be taken in the following manner and shall be in accordance with the form
-
 *First Schedule.*
 
-set out in the First Schedule—
+**8.** A summary of evidence shall be taken in the following manner and shall be in accordance with the form set out in the First Schedule—
 
 (a) it shall be taken in the presence of the accused by the commanding officer or by another officer on the direction of the commanding officer;
 
@@ -4754,11 +4758,9 @@ Provided that, where any child of tender years, called as a witness, does not, i
 
 *Abstract of evidence.*
 
-**9.** (1) An abstract of evidence shall be made in the following way and shall be in accordance with the form set
-
 *First Schedule.*
 
-out in the First Schedule—
+**9.** (1) An abstract of evidence shall be made in the following way and shall be in accordance with the form set out in the First Schedule—
 
 (a) it shall he made by the commanding officer or by another officer on the direction of the commanding officer;
 
@@ -4784,11 +4786,9 @@ Any statement made by the accused after he has read the abstract of evidence sha
 
 (5) A certificate by the person who recorded the statement made by the accused in accordance with paragraph
 
-(2) stating that the accused was duly cautioned in accordance with this Rule, shall be attached to the abstract of evidence and shall thereafter form part of it. This certificate shall be in
-
 *First Schedule.*
 
-the form set out in the First Schedule.
+(2) stating that the accused was duly cautioned in accordance with this Rule, shall be attached to the abstract of evidence and shall thereafter form part of it. This certificate shall be in the form set out in the First Schedule.
 
 *Investigation before summary dealing by commanding officer.*
 
@@ -4824,17 +4824,13 @@ the form set out in the First Schedule.
 
 Provided that charges under section 47 (1) (a) section 48 (a), section 54 (a) (where the charge is connected with a charge under cither of the before- mentioned sections or section 63 may be included in any charge-sheet, notwithstanding that other charges in that charge-sheet are not founded on the same facts and do not form or are not part of a series of offences of the same or similar character.
 
-(2) Every charge-sheet shall in its layout follow the
-
 *Second Schedule.*
 
-appropriate illustration given in the Second Schedule.
-
-(3) The commencement of each charge-sheet shall
+(2) Every charge-sheet shall in its layout follow the appropriate illustration given in the Second Schedule.
 
 *Second*
 
-be in the appropriate form set out in the Second Schedule and shall state the number, rank, name and unit of the accused and show by the description of the accused or directly by an
+(3) The commencement of each charge-sheet shall be in the appropriate form set out in the Second Schedule and shall state the number, rank, name and unit of the accused and show by the description of the accused or directly by an
 
 express averment that he is subject to military law under the Act or otherwise liable to trial by court-martial.
 
@@ -4850,11 +4846,9 @@ express averment that he is subject to military law under the Act or otherwise l
 
 (b) the particulars of the act, neglect or commission constituting the offence.
 
-(4) The statement of an offence, if it is not a civil
-
 *Second Schedule.*
 
-offence, shall be in the appropriate form set out in the Second Schedule if it is a civil offence in such words as sufficiently described that offence.
+(4) The statement of an offence, if it is not a civil offence, shall be in the appropriate form set out in the Second Schedule if it is a civil offence in such words as sufficiently described that offence.
 
 (5) The particulars shall state—
 
@@ -4906,11 +4900,9 @@ but if the accused has not so agreed they shall give their evidence orally in hi
 
 (e) each witness who gives evidence shall give it on oath and the oath shall be administered by the appropriate superior authority to each witness and to any interpreter in accordance with rule 33;
 
-(f) a record shall be made of the proceedings in accordance with, the
-
 *Third Schedule.*
 
-form set out in the Third Schedule to these Rules.
+(f) a record shall be made of the proceedings in accordance with, the form set out in the Third Schedule to these Rules.
 
 *Alternative courses open to an appropriate superior authority.*
 
@@ -5022,13 +5014,9 @@ be given to each such accused when he is given a copy of the charge-sheet, any s
 
 ### ASSEMBLY AND SWEARING OF COURT
 
-*Preliminary matters to be considered by*
+*Preliminary matters to be considered by court— court at*
 
 **25.** (1) Upon a court-martial assembling, the court shall, before beginning the trial, satisfy themselves in closed
-
-*court—*
-
-*court at*
 
 *beginning of trial.*
 
@@ -5132,11 +5120,9 @@ binding on his conscience in accordance with his religious beliefs.
 
 (2) Subject to rule. 27 (2) every oath shall be administered at a court-martial by the president, a member of the court or the judge advocate.
 
-(3) Where a person is permitted to make a solemn affirmation instead of swearing an oath, the affirmation shall
-
 *Sixth Schedule.*
 
-be in the appropriate form set out in the Sixth Schedule.
+(3) Where a person is permitted to make a solemn affirmation instead of swearing an oath, the affirmation shall be in the appropriate form set out in the Sixth Schedule.
 
 (4) The provisions of section 107 shall apply to proceedings before a commanding officer, the taking of summaries of evidence and proceedings before an appropriate superior authority as they apply to proceedings before a court-martial.
 
@@ -5528,11 +5514,9 @@ section 103 or paragraph (3) of rule 65, the court before deliberating on their 
 
 (b) particulars of any offence of which the accused has been found guilty during his service and of the length of time he has been under arrest awaiting trial or in confinement under a current sentence.
 
-(2) Evidence of the matters referred to in paragraph (1) may be given by a witness producing to the court a written statement containing a summary of the entries in the service books relating to the accused, after the witness has in court verified such statement and indentified the
-
 *Fourth Schedule.*
 
-accused as the person to whom it relates. Such statement shall be in the form set out in the Fourth Schedule.
+(2) Evidence of the matters referred to in paragraph (1) may be given by a witness producing to the court a written statement containing a summary of the entries in the service books relating to the accused, after the witness has in court verified such statement and indentified the accused as the person to whom it relates. Such statement shall be in the form set out in the Fourth Schedule.
 
 (3) In addition to the evidence contained in the statement referred to in paragraph (2). it shall be the duty of the prosecutor whenever possible to call as a witness an officer to give the court any information in the possession of the military authorities regarding —
 
@@ -5646,11 +5630,9 @@ officer, any person who is recognised by him as having in any Commonwealth count
 
 (3) After the closing addresses, the judge advocate shall sum up the evidence and advise the court upon the law relating to the case before the court close to deliberate on their finding. If in the course of deliberating on their finding the court require advice from the judge advocate, they shall suspend their deliberation and ask and be given such advice in open court.
 
-(4) If when the court announce a finding of guilty or a special finding under either section 103 or rule 65(3) the judge advocate is of the opinion that such finding or special finding is contrary to the law relating to the case, he shall once more, but not more than once more, advise the court what findings are, in his opinion, open to them. The court shall then reconsider their finding in closed court. The record
-
 *Fourth Schedule.*
 
-of the proceedings relating to such reconsideration shall be in the form set out in the Fourth Schedule.
+(4) If when the court announce a finding of guilty or a special finding under either section 103 or rule 65(3) the judge advocate is of the opinion that such finding or special finding is contrary to the law relating to the case, he shall once more, but not more than once more, advise the court what findings are, in his opinion, open to them. The court shall then reconsider their finding in closed court. The record of the proceedings relating to such reconsideration shall be in the form set out in the Fourth Schedule.
 
 (5) The judge advocate shall be present whenever the court is sitting whether in open or closed court, except when the court is deliberating on the finding on the charge or on a revision thereof.
 
@@ -5782,15 +5764,11 @@ Provided that the court shall not sit on any day which is a public holiday withi
 
 (b) a trial by court-martial by an order under the hand of an officer authorised to convene a court-martial or of a staff officer on his behalf, or, after the assembly of the court, of the president.
 
-(3) The summons referred to in paragraph (2) shall, when it relates to the taking of a summary of evidence be in
-
 *First Schedule.*
-
-the appropriate form set out in the First Schedule, and, when
 
 *Fourth Schedule.*
 
-it relates to a trial by court-martial be in the appropriate form set out in the Fourth Schedule, and shall be served on the witness either personally or by leaving it with some person at the witness’ normal place of abode, and at the time of such service there shall be paid or tendered any sum of money necessary to enable such witness to attend the taking of the summary of evidence or the trial, as the case may be, and to return.
+(3) The summons referred to in paragraph (2) shall, when it relates to the taking of a summary of evidence be in the appropriate form set out in the First Schedule, and, when it relates to a trial by court-martial be in the appropriate form set out in the Fourth Schedule, and shall be served on the witness either personally or by leaving it with some person at the witness’ normal place of abode, and at the time of such service there shall be paid or tendered any sum of money necessary to enable such witness to attend the taking of the summary of evidence or the trial, as the case may be, and to return.
 
 (4) The provisions of section 106 shall apply in relation to proceedings at the taking of a summary of evidence as they apply in relation to proceedings at a court-martial, and when so applied they shall be construed as though the words “officer taking the summary of evidence” were substituted for the words “president of the court-martial”.
 
@@ -5798,11 +5776,9 @@ it relates to a trial by court-martial be in the appropriate form set out in the
 
 **91.** (1) The proceedings of general and district courts-martial shall be recorded in accordance with the following provisions —
 
-(a) the proceedings of a court-martial shall be recorded in writing in
-
 *Fourth*
 
-accordance with the appropriate form set out in the Fourth Schedule and in sufficient detail to enable the confirming officer to follow the course
+(a) the proceedings of a court-martial shall be recorded in writing in accordance with the appropriate form set out in the Fourth Schedule and in sufficient detail to enable the confirming officer to follow the course
 
 of the proceedings and to judge of the merits of the case;
 
@@ -5848,11 +5824,9 @@ president affixed to it;
 
 *Confirmation and promulgation.*
 
-**94.** (1) When a confirming authority receives the record of the proceedings of a court-martial and the finding of the court requires confirmation, he shall record his decision thereon and on any sentence and any order which the court may have made under section 131 on the record of the
-
 *Fourth*
 
-proceedings in the appropriate form set out in the Fourth Schedule, and such record of his decision shall form part of the record of the proceedings.
+**94.** (1) When a confirming authority receives the record of the proceedings of a court-martial and the finding of the court requires confirmation, he shall record his decision thereon and on any sentence and any order which the court may have made under section 131 on the record of the proceedings in the appropriate form set out in the Fourth Schedule, and such record of his decision shall form part of the record of the proceedings.
 
 (2) When the court have accepted a plea of guilty made under paragraph (2) of rule 40, the confirming authority may confirm their finding notwithstanding that the court have accepted the plea without the concurrence of the convening officer if, in the opinion of the confirming authority it is in the interests of justice to do so.
 
@@ -5866,11 +5840,9 @@ proceedings in the appropriate form set out in the Fourth Schedule, and such rec
 
 may be confirmed, and if confirmed shall be valid, notwithstanding any deviation from these Rules, if the accused has not been prejudiced by such deviation.
 
-(7) When a confirming authority has confirmed a finding and sentence of a court or has withheld confirmation thereof, he shall send the record of the proceedings to the commanding officer of the accused for promulgation to the accused of the finding and sentence, or of the fact that confirmation has been withheld, as the case may be. The fact
-
 *Fourth Schedule.*
 
-of promulgation shall be recorded on the record of the proceedings in the form set out in the Fourth Schedule. If confirmation has been withheld because the confirming authority disapproves the court’s decision to reject a plea to the jurisdiction or a plea in bar of trial or to overrule an objection to the charge, the accused shall be so informed.
+(7) When a confirming authority has confirmed a finding and sentence of a court or has withheld confirmation thereof, he shall send the record of the proceedings to the commanding officer of the accused for promulgation to the accused of the finding and sentence, or of the fact that confirmation has been withheld, as the case may be. The fact of promulgation shall be recorded on the record of the proceedings in the form set out in the Fourth Schedule. If confirmation has been withheld because the confirming authority disapproves the court’s decision to reject a plea to the jurisdiction or a plea in bar of trial or to overrule an objection to the charge, the accused shall be so informed.
 
 *Revision. Fourth Schedule.*
 
@@ -5892,11 +5864,9 @@ Provided that where part only of the original record of the proceedings of a cou
 
 (3) If before confirmation the whole or any part of the original record of the proceedings of a court-martial is lost and such loss cannot be made good under either paragraph
 
-(1) or paragraph (2), the confirming authority shall withhold
-
 *Fourth Schedule.*
 
-confirmation and shall record his decision in the appropriate form set out in the Fourth Schedule.
+(1) or paragraph (2), the confirming authority shall withhold confirmation and shall record his decision in the appropriate form set out in the Fourth Schedule.
 
 *Loss of original record of proceedings after confirmation.*
 
@@ -5918,23 +5888,17 @@ confirmation and shall record his decision in the appropriate form set out in th
 
 *Petitions.*
 
-**100.** (1) If an accused who has been sentenced by a court-martial wishes to petition before confirmation against the finding or sentence or both, he shall present a petition to
+*Seventh Schedule.*
+
+**100.** (1) If an accused who has been sentenced by a court-martial wishes to petition before confirmation against the finding or sentence or both, he shall present a petition to the confirming authority in the appropriate form set out in the Seventh Schedule.
 
 *Seventh Schedule.*
 
-the confirming authority in the appropriate form set out in the Seventh Schedule.
-
-(2) If an accused who has been sentenced by court-martial wishes to petition after promulgation against the finding he shall present a petition to a reviewing authority at any
-
-*Seventh Schedule.*
-
-time within six months of promulgation in the appropriate form set out in the Seventh Schedule.
-
-(3) If an accused who has been sentenced by a court-martial wishes to petition after promulgation against the sentence, he shall present a petition to a reviewing authority or an officer authorised to reconsider a sentence of a court-martial under section 115 of the Act at any time within
+(2) If an accused who has been sentenced by court-martial wishes to petition after promulgation against the finding he shall present a petition to a reviewing authority at any time within six months of promulgation in the appropriate form set out in the Seventh Schedule.
 
 *Seventh*
 
-six months of promulgation in the appropriate form set out in the Seventh Schedule.
+(3) If an accused who has been sentenced by a court-martial wishes to petition after promulgation against the sentence, he shall present a petition to a reviewing authority or an officer authorised to reconsider a sentence of a court-martial under section 115 of the Act at any time within six months of promulgation in the appropriate form set out in the Seventh Schedule.
 
 ### MISCELLANEOUS PROVISIONS
 
@@ -5968,11 +5932,9 @@ shall be compelled to attend the taking of a summary of evidence for cross-exami
 
 *Exceptions from Rules in the interests of security.*
 
-**103.** (1) When in the opinion of the officer who is or would be responsible for convening a court-martial to try the accused, or, if he is not available, of the senior officer on the spot, a charge-sheet, summary or abstract of evidence or other document which, or a copy of which, is required under these Rules to be given to an accused contains information the disclosure of which would or might be directly or indirectly useful to an enemy, the officer who is or would be responsible for convening a court-martial to try the accused, or the senior officer on the spot as the case may be, may make a declaration
-
 *Fourth*
 
-to that effect in the appropriate form set out in the Fourth Schedule specifying the document concerned.
+**103.** (1) When in the opinion of the officer who is or would be responsible for convening a court-martial to try the accused, or, if he is not available, of the senior officer on the spot, a charge-sheet, summary or abstract of evidence or other document which, or a copy of which, is required under these Rules to be given to an accused contains information the disclosure of which would or might be directly or indirectly useful to an enemy, the officer who is or would be responsible for convening a court-martial to try the accused, or the senior officer on the spot as the case may be, may make a declaration to that effect in the appropriate form set out in the Fourth Schedule specifying the document concerned.
 
 (2) Any declaration made under paragraph (1) by the senior officer on the spot shall be forwarded by him as soon as possible to the officer who is or would .be responsible for convening a court-martial to try the accused.
 
@@ -6438,19 +6400,15 @@ SECTION 74 Attempting to commit a military offence contrary to section 74 of the
 
 CIVIL OFFENCES SECTION 76 Committing a civil contrary to section 76 of the Defence Act, that is to say (here describe the civil offence in such words as sufficiently describe the offence).
 
-(3) SPECIMENS OF CHARGE-SHEETS CHARGE-SHEET The accused No. 5432] Private John Smith, 1st Battalion, The Guyana Defence Faroe being subject to military law
-
 *1 st charge.*
 
-under section 209 (1) (a) of the Defence Act, is charged with—
+(3) SPECIMENS OF CHARGE-SHEETS CHARGE-SHEET The accused No. 5432] Private John Smith, 1st Battalion, The Guyana Defence Faroe being subject to military law under section 209 (1) (a) of the Defence Act, is charged with—
 
 STEALING PUBLIC PROPERTY CONTRARY TO SECTION 53 (a) OF THE DEFENCE ACT
 
-in that he at Kingston on 22nd May 1977 did receive a pair of
-
 *2 nd charge (Alternative to the 1 st charge)*
 
-binoculars, public property.
+in that he at Kingston on 22nd May 1977 did receive a pair of binoculars, public property.
 
 RECEIVING PUBLIC PROPERTY CONTRARY TO SECTION 53 (b) OF THE DEFENCE ACT
 
@@ -6480,11 +6438,9 @@ May, 1977.
 
 The accused No. 12345, Corporal Peter Brown, and No. 10000, Private Thomas Jones, both of the 3rd Battalion, The
 
-Guyana Defence Force (The Reserve), being subject to military
-
 *1 st charge.*
 
-law under section 209 (1) (of the Defence Act, are charged with—
+Guyana Defence Force (The Reserve), being subject to military law under section 209 (1) (of the Defence Act, are charged with—
 
 COMMITING A CIVIL OFFENCE CONTRARY TO SECTION 76 OF THE DEFENCE ACT, THAT IS TO SAY, COMMON ASSAULT
 
@@ -6682,7 +6638,9 @@ or ………………………………………………….. (Signature, rank 
 
 ……………………………………………… Authorised to sign for………………… (appointment held by convening officer)
 
-\* Strike out if not applicable.
+*\\**
+
+Strike out if not applicable.
 
 **1.** Insert rank and name of convening officer.
 
@@ -6696,7 +6654,9 @@ or ………………………………………………….. (Signature, rank 
 
 (2) DECLARATIONS UNDER RULES 102 AND 103 Declaration under Rule of Procedure 102
 
-In the case of……………………………….. 1 I…………………………………………… 2 [the officer who [is] [would be] responsible for convening a court-martial to try the accused] [the senior officer on the spot] hereby declare that in my opinion the following exigencies of the service, namely…………………………………………………………….... render compliance with the following provisions of the Rules of Procedure……………………………………………………....... ……………………………………………………….impracticable
+In the case of……………………………….. 1 I…………………………………………… 2 [the officer who
+
+[is] [would be] responsible for convening a court-martial to try the accused] [the senior officer on the spot] hereby declare that in my opinion the following exigencies of the service, namely…………………………………………………………….... render compliance with the following provisions of the Rules of Procedure……………………………………………………....... ……………………………………………………….impracticable
 
 Signed at……………….this………day of………………..20…… ……………………………………. (Signature)
 
@@ -6958,7 +6918,9 @@ Q. Do you wish to make an opening address? A………………………………
 
 1 Remove this page if there are no pleas of guilty.
 
-2 . Strike out this paragraph if not applicable.
+*.*
+
+2 Strike out this paragraph if not applicable.
 
 3 Strike out if the accused does not intend to call witnesses as to fact, other than himself.
 
@@ -6970,7 +6932,7 @@ Page …….
 
 The accused (makes a statement, which is recorded on page ) (hands in a written statement which is read, marked signed by the president, and attached to the record).
 
-(Where evidence on oath is given for the defence) The witnesses for the defence (including the accused if sworn)
+(Where evidence on oath is given for the defence) witnesses for the defence (including the accused if sworn)
 
 are called.
 
@@ -7030,7 +6992,9 @@ Page……..
 
 ### PROCEEDINGS ON PLEA(S) OF GUILTY 1
 
-The accused 2 ………………………………………………….. ………………………………………………. is found guilty of 2
+*is*
+
+The accused 2 ………………………………………………….. ………………………………………………. found guilty of 2
 
 The finding(s) [is] [are read in open court and [is] [are] announced as being subject to confirmation.
 
@@ -7252,7 +7216,9 @@ No. Rank Name of Regiment or Corps Description Date and Charges on Sentence or P
 
 …………… ………… …………… ………………… …………………… …………… ………… …………… ………………… …………………… …………… ………… …………… ………………… …………………… …………… ………… …………… ………………… ………….………… …………… ………… …………… ………………… ……………….…… …………… ………… …………… ………………… ……………….…… …………… ………… …………… ………………..… …………………….
 
-I HEREBY CERTIFY that this form and schedule contains a summary of entries in the service books relating to the accused.
+*a*
+
+I HEREBY CERTIFY that this form and schedule contains summary of entries in the service books relating to the accused.
 
 Signed this day of 20
 
@@ -7370,7 +7336,11 @@ Dated…………………..20…..
 
 ### (12) RESTITUTION ORDER
 
-In accordance with subsection……….....of section 131 of the Defence Act, I………………………………..… 2 hereby order that……………… 3 be carried [paid] to………………….. 4 and I direct that this order shall be carried out forthwith.
+*the*
+
+*and*
+
+In accordance with subsection……….....of section 131 of Defence Act, I………………………………..… 2 hereby order that……………… 3 be carried [paid] to………………….. 4 I direct that this order shall be carried out forthwith.
 
 Dated………………………,20……
 
@@ -7406,19 +7376,15 @@ ___________
 
 (1) SENTENCES Note. The words in the margin should be entered in the right-hand margin of the record of the proceedings of a court-martial opposite the record of the sentence.
 
-### OFFICERS
-
 *Death.*
 
-To suffer death.
+OFFICERS To suffer death.
 
 *Imprisonment and cashiering.*
 
-To be imprisoned for……………………and to be cashiered.
-
 *Cashiering.*
 
-To be cashiered.
+To be imprisoned for……………………and to be cashiered. To be cashiered.
 
 *Dismissal.*
 
@@ -7442,25 +7408,19 @@ To be put under stoppage of pay until he has made good the sum of……………
 
 To suffer death.
 
-To be imprisoned far…………………………and to be reduced
-
 *Discharge with ignominy.*
 
-to the ranks.
-
-To be discharged with ignominy from The Guyana Defence
+To be imprisoned far…………………………and to be reduced to the ranks.
 
 *Dismissal.*
 
-Force.
+To be discharged with ignominy from The Guyana Defence Force.
 
 *Detention and reduction to the ranks.*
 
-To be dismissed from the Guyana Defence Force To undergo detention for………………..and to be reduced to
-
 *Field punishment and reduction to the ranks.*
 
-the ranks.
+To be dismissed from the Guyana Defence Force To undergo detention for………………..and to be reduced to the ranks.
 
 To undergo field punishment for……………………days and to be reduced to the ranks.
 
@@ -7482,15 +7442,11 @@ To be [severely reprimanded] [reprimanded].
 
 To be fined.
 
-To be put under stoppages of pay until he has made good the sum of……………………… 1 in respect of ……………………….
-
 *Death.*
-
-### SOLDIERS
 
 *Imprisonment.*
 
-To suffer death.
+To be put under stoppages of pay until he has made good the sum of……………………… 1 in respect of ………………………. SOLDIERS To suffer death.
 
 *Discharge with ignominy.*
 
@@ -7524,13 +7480,13 @@ The court recommends that the accused ………………… (number, rank, name 
 
 1 This form of words should be inserted in the record of the proceedings of the court-martial in the sentence passed by the court.
 
-(3) RESTITUTION ORDER In accordance with subsection………………of section 131
-
 *of*
 
-the Defence Act, the court hereby order that…………………… 2 be [delivered] [paid] to………………….. 3
+(3) RESTITUTION ORDER In accordance with subsection………………of section 131 the Defence Act, the court hereby order that…………………… 2 be [delivered] [paid] to………………….. 3
 
-The court further order that this order shall be carried out forthwith.
+*out*
+
+The court further order that this order shall be carried forthwith.
 
 1 This form of words should be inserted in the record of the proceedings of the court-martial in the sentence passed by the court.
 
@@ -7538,9 +7494,7 @@ The court further order that this order shall be carried out forthwith.
 
 3 Insert name of person to whom restitution is to be made. ____________________
 
-## SIXTH SCHEDULE Quotes and Affirmations
-
-(1) Oaths at Investigations by Commanding Officers and appropriate superior Authorities.
+## SIXTH SCHEDULE Quotes and Affirmations (1) Oaths at Investigations by Commanding Officers and appropriate superior Authorities.
 
 (2) Oaths at Court-Martial.
 
@@ -7776,43 +7730,33 @@ Provided that he shall he required to serve outside Guyana that part of his sent
 
 **13.** A soldier shall serve the whole or any part of a military sentence of imprisonment which he is required to serve in Guyana in a military establishment or an overseas establishment.
 
-**14.** A soldier shall serve the whole or any part of a
-
 *Places in which military sentences of detention may be served in Guyana.*
 
-military sentence of detention which he is required to serve in Guyana in a military establishment, not being a military prison.
-
-**15.** A soldier, other than a woman, shall serve the
+**14.** A soldier shall serve the whole or any part of a military sentence of detention which he is required to serve in Guyana in a military establishment, not being a military prison.
 
 *Places in which military sentences of detention may be served outside*
 
-whole or any part of a military sentence of detention which he is required to serve outside Guyana in a military establishment not being a military prison or, if his sentence is for a term exceeding twelve months and no suitable military
+**15.** A soldier, other than a woman, shall serve the whole or any part of a military sentence of detention which he is required to serve outside Guyana in a military establishment not being a military prison or, if his sentence is for a term exceeding twelve months and no suitable military
 
 *Guyana.*
 
 establishment is available, in an overseas establishment, not being a prison.
 
-**16.** (1) In the absence of a military prison, a woman
-
 *Places in which women may serve military sentences of imprisonment or detention.*
 
-shall serve the whole or any part of a military sentence of imprisonment in a civil prison or an overseas establishment or in unit detention rooms of a unit of the quarters provided for female soldiers.
+**16.** (1) In the absence of a military prison, a woman shall serve the whole or any part of a military sentence of imprisonment in a civil prison or an overseas establishment or in unit detention rooms of a unit of the quarters provided for female soldiers.
 
 (2) A woman shall serve the whole or any part of a military sentence of detention in unit detention rooms of a unit of the quarters provided for female soldiers.
 
 (3) Notwithstanding anything to the contrary in the foregoing regulations, the quarters which female persons are confined pursuant to sentences of imprisonment or detention shall be separate and without access into those provided for male persons.
 
-**17.** A person who is serving a military sentence of
-
 *Removal from Guyana of persons serving sentences there.*
 
-imprisonment or detention in Guyana may, by order of the con firming authority, reviewing authority or reconsidering authority be removed to any place outside Guyana where the unit or any part thereof to which for the time being he belongs is serving or is under orders to serve, but not to any other place.
-
-**18.** Notwithstanding anything hereinbefore contained
+**17.** A person who is serving a military sentence of imprisonment or detention in Guyana may, by order of the con firming authority, reviewing authority or reconsidering authority be removed to any place outside Guyana where the unit or any part thereof to which for the time being he belongs is serving or is under orders to serve, but not to any other place.
 
 *Temporary custody of persons under sentence.*
 
-of and subject to section 121, where a person on whom a military sentence of imprisonment or detention has been passed—
+**18.** Notwithstanding anything hereinbefore contained of and subject to section 121, where a person on whom a military sentence of imprisonment or detention has been passed—
 
 (1) is awaiting admission to any prison or other establishment or is in transit from one prison or establishment to another or
 
@@ -7838,23 +7782,17 @@ Provided that a person on whom a military sentence of detention has been passed 
 
 custody as may be determined by his commanding officer or the commandant or other person in charge of the said establishment or prison.
 
-**19.** Subject to the provisions of section 121, no person
-
 *Committal to and removal from prisons and other establishments.*
 
-under military sentence of imprisonment or detention shall be committed to a civil prison or overseas establishment, or to a military establishment or form of custody, or removed from one country or place to another or from one prison or establishment or form of custody to another. save in pursuance of an order made on one of the forms specified in
-
-## Part I of the First Schedule which is appropriate to the
+**19.** Subject to the provisions of section 121, no person under military sentence of imprisonment or detention shall be committed to a civil prison or overseas establishment, or to a military establishment or form of custody, or removed from one country or place to another or from one prison or establishment or form of custody to another. save in pursuance of an order made on one of the forms specified in
 
 *First Schedule.*
 
-circumstances of the case, and every such order shall be duly completed in accordance with the instructions contained in that behalf in the said Part I and signed by an officer of such rank and appointment as are therein specified.
-
-**20.** No person under military sentence of
+Part I of the First Schedule which is appropriate to the circumstances of the case, and every such order shall be duly completed in accordance with the instructions contained in that behalf in the said Part I and signed by an officer of such rank and appointment as are therein specified.
 
 *Release from military sentences of imprisonment or detention.*
 
-imprisonment or detention shall be released from a military or overseas establishment or form of custody otherwise than—
+**20.** No person under military sentence of imprisonment or detention shall be released from a military or overseas establishment or form of custody otherwise than—
 
 (a) in accordance with an order of the Court of Appeal or other civil court of competent jurisdiction;
 
@@ -7864,21 +7802,17 @@ on the expiration of his sentence, less any remission allowed in accordance with
 
 Provided that where the sentence expires as aforesaid on a Sunday, Christmas Day or Good Friday the person shall be released on the previous day and the uncompleted day of his sentence shall be deemed to be remitted.
 
-**21.** A soldier under sentence shall not be released
-
 *No release.*
 
-from imprisonment or detention in a military establishment except in accordance with the provisions of regulation 20 or—
+**21.** A soldier under sentence shall not be released from imprisonment or detention in a military establishment except in accordance with the provisions of regulation 20 or—
 
 (a) in accordance with any provision of these Regulations under which a soldier may be removed from places, establishments, or forms of custody to any other place, establishment or form of custody; or
 
 (b) for the purpose of medical examination, observation or treatment for such period and subject to such conditions as the commandant, acting on the advice of the medical officer, may determine.
 
-**22.** (1) The commandant of a military establishment
-
 *Temporary release.*
 
-may authorise the temporary release from a military establishment on compassionate grounds of a soldier under sentence in the cases and subject to the conditions set out in this regulation.
+**22.** (1) The commandant of a military establishment may authorise the temporary release from a military establishment on compassionate grounds of a soldier under sentence in the cases and subject to the conditions set out in this regulation.
 
 (2) The cases in which a soldier under sentence may be released temporarily under paragraph (1) of this regulation are—
 
@@ -7904,11 +7838,9 @@ observed by or in relation to the soldier under sentence during the period of hi
 
 (4) The period of temporary release shall not count as part of the sentence served by the soldier.
 
-**23.** On the receipt by the commandant of a military
-
 *Detention of soldiers in safe custody.*
 
-establishment of an order in writing made by the commanding officer of a soldier who has been remanded for trial by court safe custody. martial, or has been tried and is awaiting promulgation of the finding and sentence of a court-martial or is awaiting investigation or disposal of a charge against him, the commandant may detain him in safe custody in the military establishment if —
+**23.** On the receipt by the commandant of a military establishment of an order in writing made by the commanding officer of a soldier who has been remanded for trial by court safe custody. martial, or has been tried and is awaiting promulgation of the finding and sentence of a court-martial or is awaiting investigation or disposal of a charge against him, the commandant may detain him in safe custody in the military establishment if —
 
 (a) there is accommodation available in the military establishment in which the soldier may be segregated from soldiers under sentence; and
 
@@ -7918,11 +7850,9 @@ supplied with the ordinary rations of a soldier, not being a soldier under sente
 
 ## PART IV REMISSION
 
-**24.** (1) Subject to the provisions of any of these
-
 *Remission of sentence.*
 
-Regulations sentence. which provide for or authorise the forfeiture of remission, a soldier under sentence in a military establishment or an overseas establishment shall be entitled to have part of his sentence remitted in accordance with the following provisions —
+**24.** (1) Subject to the provisions of any of these Regulations sentence. which provide for or authorise the forfeiture of remission, a soldier under sentence in a military establishment or an overseas establishment shall be entitled to have part of his sentence remitted in accordance with the following provisions —
 
 (a) if his sentence does not exceed twenty-four days — nil;
 
@@ -7932,21 +7862,17 @@ Regulations sentence. which provide for or authorise the forfeiture of remission
 
 (2) For the purpose of calculating remission in accordance with paragraph (1) fractions of a day shall be ignored.
 
-**25.** (1) The commandant of a military establishment
-
 *Records of remission.*
 
-shall maintain a record of the remission to which the soldier is entitled in accordance with the last foregoing regulation, and of any remission forfeited in accordance with any of these Regulations.
+**25.** (1) The commandant of a military establishment shall maintain a record of the remission to which the soldier is entitled in accordance with the last foregoing regulation, and of any remission forfeited in accordance with any of these Regulations.
 
 (2) The commandant or an officer authorised by him shall verify at frequent intervals the records maintained in accordance with this Regulation.
 
 (3) The records maintained in accordance with this regulation shall be produced to a board of visitors, the commandant, and any company commander to whom the commandant has delegated jurisdiction under these Regulations, on each occasion when the soldier under sentence has been brought before them or him on a charge that the soldier under sentence has committed an offence against these regulations, but the said records shall not be so produced until there has been a finding that the soldier under sentence is guilty of an offence with which he has been charged, or a decision has been reached that the alleged offence shall be reported to the local commander, or the commanding officer of the soldier under sentence disposes of the charge otherwise than in accordance with any jurisdiction conferred by these Regulations.
 
-**26.** One day’s remission of the sentence of a soldier
-
 *Automatic forfeiture of remission.*
 
-under sentence in a military establishment or an overseas establishment shall be forfeited in respect of each period of two days and in respect of each odd day on which the soldier under sentence is unable to carry out the work of training which could otherwise be required of him by reason of —
+**26.** One day’s remission of the sentence of a soldier under sentence in a military establishment or an overseas establishment shall be forfeited in respect of each period of two days and in respect of each odd day on which the soldier under sentence is unable to carry out the work of training which could otherwise be required of him by reason of —
 
 his sickness occasioned by his own misconduct;
 
@@ -7954,11 +7880,9 @@ his sickness occasioned by his own misconduct;
 
 (c) his being in the lawful custody of any civil authority.
 
-**27.** Remission forfeited under these Regulations may
-
 *Restoration of forfeited remission.*
 
-be Restoration restored by order of —
+**27.** Remission forfeited under these Regulations may be Restoration restored by order of —
 
 (a) the reviewing authority;
 
@@ -7966,11 +7890,9 @@ be Restoration restored by order of —
 
 (c) the commandant with the approval of the reviewing authority or the reconsidering authority.
 
-**28.** (1) If, while a soldier under sentence is serving a
-
 *Effect on remission of subsequent sentences.*
 
-military sentence of imprisonment or detention in a military establishment (in this regulation referred to as “the earlier sentence”), subsequent a further sentence of imprisonment or detention has been passed on or awarded to him (in this regulation referred to as “the later sentence”) the remission to which he is entitled shall be calculated as follows — ‘a new record of remission calculated in accordance with the foregoing regulations shall be prepared, and the date of his release shall be the date on which he would be released on the earlier sentence, or the date on which he would be released on the later sentence, whichever is the later.
+**28.** (1) If, while a soldier under sentence is serving a military sentence of imprisonment or detention in a military establishment (in this regulation referred to as “the earlier sentence”), subsequent a further sentence of imprisonment or detention has been passed on or awarded to him (in this regulation referred to as “the later sentence”) the remission to which he is entitled shall be calculated as follows — ‘a new record of remission calculated in accordance with the foregoing regulations shall be prepared, and the date of his release shall be the date on which he would be released on the earlier sentence, or the date on which he would be released on the later sentence, whichever is the later.
 
 (2) For the purpose of calculating the remission in respect of the earlier sentence under paragraph (1) the date on which the soldier under sentence would be released shall be the date on which he would be released having regard to the period or remission to which he was entitled on the date of the passing or award of the later sentence less, in a case of a sentence passed by court-martial, a period equal to any
 
@@ -7980,37 +7902,27 @@ period of remission forfeited between the date of the passing of the later sente
 
 ## PART V TREATMENT, EMPLOYMENT, DISCIPLINE AND CONTROL OF SOLDIERS UNDER SENTENCE
 
-**29.** This part of these Regulations shall apply, except
-
 *Application of Part V of these Regulations.*
 
-where otherwise stated or the context otherwise requires, to all soldiers under sentence in military establishments.
-
-**30.** A copy of this Part of these Regulations, or a
+**29.** This part of these Regulations shall apply, except where otherwise stated or the context otherwise requires, to all soldiers under sentence in military establishments.
 
 *Regulations to be brought to the notice of soldiers under sentence.*
 
-sufficient abstract thereof in a form approved by the Defence Board, shall be displayed conspicuously in every military establishment in such places that it can be seen from time to time by every soldier under sentence.
-
-**31.** The purposes of the training and treatment of
+**30.** A copy of this Part of these Regulations, or a sufficient abstract thereof in a form approved by the Defence Board, shall be displayed conspicuously in every military establishment in such places that it can be seen from time to time by every soldier under sentence.
 
 *Purposes of training and treatment.*
 
-soldiers under sentence are to establish in them the will, and to fit them, to become better soldiers and citizens.
-
-**32.** (1) Corporal punishment shall not be inflicted on
+**31.** The purposes of the training and treatment of soldiers under sentence are to establish in them the will, and to fit them, to become better soldiers and citizens.
 
 *Corporal punishment and the use of force.*
 
-soldiers under sentence.
+**32.** (1) Corporal punishment shall not be inflicted on soldiers under sentence.
 
 (2) In the treatment of a soldier under sentence force shall not be used unnecessarily, but if the use of force is necessary no more force shall be used than is necessary.
 
-**33.** On admission to a military establishment the
-
 *Admission to military*
 
-following procedure shall be observed—
+**33.** On admission to a military establishment the following procedure shall be observed—
 
 *establishment.*
 
@@ -8034,11 +7946,9 @@ that denomination shall be informed of his admission. If no chaplain or priest o
 
 (h) within twenty-four hours of admission the commandant or a member of the staff of the military establishment shall satisfy himself that a soldier under sentence has read, or has had explained to him, the regulations governing his conduct, treatment, employment and discipline, and the means by which he may bring complaints to the notice of his commanding officer, the commandant and visiting officers, in accordance with the Act and these Regulations.
 
-**34.** (1) No room shall be used for the confinement of a
-
 *Accommodation of soldiers under sentence.*
 
-soldier under sentence unless it is certified by a medical officer that its size, lighting, heating, ventilation and fittings are adequate for health, and that it allows the soldier under sentence to communicate at any time with a member of the staff of the military establishment, and any certificate so given in relation to a room in which more than one soldier may be accommodated shall state the maximum number of soldiers under sentence who may be confined therein.
+**34.** (1) No room shall be used for the confinement of a soldier under sentence unless it is certified by a medical officer that its size, lighting, heating, ventilation and fittings are adequate for health, and that it allows the soldier under sentence to communicate at any time with a member of the staff of the military establishment, and any certificate so given in relation to a room in which more than one soldier may be accommodated shall state the maximum number of soldiers under sentence who may be confined therein.
 
 (2) The size of rooms intended for occupation by soldiers under sentence shall be such as to provide at least 600
 
@@ -8052,11 +7962,9 @@ cubic feet capacity for each soldier under sentence accommodated therein unless 
 
 (6) In every military establishment separate facilities shall be provided for females.
 
-**35.** The commandant shall set aside within a military
-
 *Provision of miscellaneous accommodation to military establishments.*
 
-establishment the following accommodation —
+**35.** The commandant shall set aside within a military establishment the following accommodation —
 
 (a) a medical detention room or rooms where soldiers under sentence may be given medical examinations, observation, treatment and attention on the occasions when in the opinion of the medical officer any such examination, observation, treatment or attention is required, and the soldier under sentence is not sufficiently ill to necessitate his admission to hospital;
 
@@ -8064,17 +7972,13 @@ a room or rooms where soldiers under
 
 sentence may receive visits authorised by or under these Regulations.
 
-**36.** Subject to the provisions of these Regulations with
-
 *Daily routine.*
 
-reference to the number of hours of work or training to be done by persons under sentence therein the daily routine of a military establishment shall be determined by the commandant in accordance with any instructions issued from time to time by or under the authority of the Defence Board.
-
-**37.** (1) Subject to the provisions of paragraph (3) and
+**36.** Subject to the provisions of these Regulations with reference to the number of hours of work or training to be done by persons under sentence therein the daily routine of a military establishment shall be determined by the commandant in accordance with any instructions issued from time to time by or under the authority of the Defence Board.
 
 *Work and training of soldiers under sentence.*
 
-regulation 38, during the whole of his sentence a soldier under sentence shall be engaged in work o training for not more than thirteen, nor less than nine hours a day (excluding times for meals), but a soldier shall not be engaged in work or training until he has been examined by a medical officer and certified as fit for the type of work and training which it is intended that he shall do.
+**37.** (1) Subject to the provisions of paragraph (3) and regulation 38, during the whole of his sentence a soldier under sentence shall be engaged in work o training for not more than thirteen, nor less than nine hours a day (excluding times for meals), but a soldier shall not be engaged in work or training until he has been examined by a medical officer and certified as fit for the type of work and training which it is intended that he shall do.
 
 (2) Training in military prisons and detention barracks shall consist of periods of physical training for the preservation of health.
 
@@ -8090,19 +7994,15 @@ excuse work by the commandant or
 
 engaged in some other activity authorised by or under these Regulations.
 
-**38.** (1) On Sundays, Christmas Day and Good Friday a
-
 *Sundays and public holidays.*
 
-soldier shall not be engaged on any work or training except work which is necessary for the service of the military establishment or save where in special circumstances, the commandant or the commanding officer directs.
+**38.** (1) On Sundays, Christmas Day and Good Friday a soldier shall not be engaged on any work or training except work which is necessary for the service of the military establishment or save where in special circumstances, the commandant or the commanding officer directs.
 
 (2) A soldier under sentence whose sabbath is on a day other than a Sunday shall not be required to do more work or training on that day than other soldiers are required to do on a Sunday, but notwithstanding paragraph (1) such a soldier may be required to do work or training on Sundays.
 
-**39.** (1) Subject to the following paragraphs of this
-
 *Work in association.*
 
-regulation a soldier under sentence who is employed in productive work shall work is association with other soldiers under sentence.
+**39.** (1) Subject to the following paragraphs of this regulation a soldier under sentence who is employed in productive work shall work is association with other soldiers under sentence.
 
 (2) If it appears to the commandant of a military establishment that it is desirable —
 
@@ -8116,21 +8016,15 @@ under the pro visions of this regulation for more than seven days or, if authori
 
 (3) In deciding whether a soldier under sentence shall work apart from other soldiers under sentence, and whether such a soldier ought to resume work in association with others, the commandant shall take into consideration any advice which he may be given by a medical officer.
 
-**40.** A soldier under sentence shall not be employed
-
 *Unauthorised work.*
 
-directly or indirectly for the private benefit or advantage of any person, or in any way contrary to these Regulations or the orders of the commandant.
-
-**41.** (1) In military establishments where productive
+**40.** A soldier under sentence shall not be employed directly or indirectly for the private benefit or advantage of any person, or in any way contrary to these Regulations or the orders of the commandant.
 
 *Earnings schemes.*
 
-work is done a soldier under sentence shall be credited with weekly or daily sums of money related to the length of sentence which he has completed, as provided in the Second
-
 *Second schedule.*
 
-Schedule. He shall not be entitled to payment of the said sums in cash until his release, but during his sentence he may be provided from the canteen of the military establishment with tobacco, cigarettes, and other articles of a retail value equal to the credits earned by him.
+**41.** (1) In military establishments where productive work is done a soldier under sentence shall be credited with weekly or daily sums of money related to the length of sentence which he has completed, as provided in the Second Schedule. He shall not be entitled to payment of the said sums in cash until his release, but during his sentence he may be provided from the canteen of the military establishment with tobacco, cigarettes, and other articles of a retail value equal to the credits earned by him.
 
 (2) The Defence Board may from time to time issue instructions for the increase of the scales of earnings authorised by this regulation.
 
@@ -8140,19 +8034,15 @@ Schedule. He shall not be entitled to payment of the said sums in cash until his
 
 establishments to which the earnings scheme shall apply.
 
-**42.** (1) The food provided for soldiers under sentence
-
 *Rations for soldiers under sentence.*
 
-shall be of a nutritional value adequate for health and strength and of wholesome quality, well prepared and served, and reasonably varied.
+**42.** (1) The food provided for soldiers under sentence shall be of a nutritional value adequate for health and strength and of wholesome quality, well prepared and served, and reasonably varied.
 
 (2) The commandant and members of the staff of a military establishment shall endeavour to ensure that every soldier under sentence (other than a soldier undergoing restricted diet as a punishment) receive the rations to which he is entitled. A soldier under sentence may complain if he believes that he is not getting the rations to which he is entitled, but he shall have no right to have his ration or any part of it weighed.
 
-**43.** (1) A soldier under sentence in a military
-
 *Smoking by soldiers under sentence.*
 
-establishment shall be asked as soon as practicable after his admission whether he is a smoker or a non-smoker. If he states that he is a smoker he will be required to sign a certificate to that effect. If he states that he is a smoker he may smoke tobacco and cigarettes to the extent authorised by this regulation.
+**43.** (1) A soldier under sentence in a military establishment shall be asked as soon as practicable after his admission whether he is a smoker or a non-smoker. If he states that he is a smoker he will be required to sign a certificate to that effect. If he states that he is a smoker he may smoke tobacco and cigarettes to the extent authorised by this regulation.
 
 (2) Soldiers under sentence shall be authorised to smoke any cigarettes issued to them free or obtained by them from the canteen of the military establishment as a result of any credit to which they may be entitled from earnings authorised by these Regulations. No soldier under sentence shall be entitled to smoke tobacco or cigarettes obtained in any other manner.
 
@@ -8168,11 +8058,9 @@ commandant.
 
 (7) Forfeiture of tobacco or cigarettes (whether free issue or by withdrawing the right to purchase them with earnings from a canteen) may not he ordered as a punishment, but it may he ordered on the advice of a medical officer during any period of sickness, and soldiers under sentence who are in close confinement or on restricted diet as a punishment shall not be entitled to smoke or have in their possession any tobacco or cigarettes.
 
-**44.** (1) A soldier under sentence shall be allowed to
-
 *Letters.*
 
-write letters as follows —
+**44.** (1) A soldier under sentence shall be allowed to write letters as follows —
 
 (a) on admission to a military establishment — one letter; and
 
@@ -8188,19 +8076,15 @@ required to enable a soldier to write the letters permitted by these Regulations
 
 (b) newspapers, journals and periodicals at the discretion of the commandant.
 
-**45.** (l) A parcel addressed to a soldier under sentence
-
 *Parcels.*
 
-shall be opened and examined by or under the authority of the commandant in the presence of the soldier to whom it is addressed. Any article which the soldier under sentence is prohibited from receiving or not authorised to receive shall be retained in safe keeping. by the commandant and handed to the soldier on his release, except in the case of perishable articles which may be disposed of in accordance with the directions of the commandant by returning them to the sender or otherwise.
+**45.** (l) A parcel addressed to a soldier under sentence shall be opened and examined by or under the authority of the commandant in the presence of the soldier to whom it is addressed. Any article which the soldier under sentence is prohibited from receiving or not authorised to receive shall be retained in safe keeping. by the commandant and handed to the soldier on his release, except in the case of perishable articles which may be disposed of in accordance with the directions of the commandant by returning them to the sender or otherwise.
 
 (2) A soldier under sentence is prohibited from receiving any article but with the consent and at the discretion of the commandant he may receive toilet requirements, books, newspapers and other articles.
 
-**46.** (1) The commandant of a military establishment or
-
 *Censorship.*
 
-any officer deputed by him may scrutinise letters written by or addressed to soldiers under sentence.
+**46.** (1) The commandant of a military establishment or any officer deputed by him may scrutinise letters written by or addressed to soldiers under sentence.
 
 (2) The commandant may withhold from a soldier under sentence the whole or any part of a letter addressed to that soldier, but he shall communicate to ‘the soldier any part of the letter which is unobjectionable.
 
@@ -8208,27 +8092,21 @@ any officer deputed by him may scrutinise letters written by or addressed to sol
 
 (4) In any case where the commandant withholds a letter written by or addressed to a soldier under sentence he shall record the fact and his reasons for so acting in a journal.
 
-**47.** (1) A soldier under sentence may receive visits
-
 *Visits by relatives and friends.*
 
-from his relatives and friends at the discretion of the commandant, and such visits shall take place within the military establishment at times and places determined by the commandant.
+**47.** (1) A soldier under sentence may receive visits from his relatives and friends at the discretion of the commandant, and such visits shall take place within the military establishment at times and places determined by the commandant.
 
 (2) Any visit authorised under this regulation shall be within the sight and hearing of the commandant or a member of the staff of the military establishment.
 
-**48.** (1) The commandant shall ‘provide reasonable
-
 *Visits by legal adviser.*
 
-facilities Visits by for a soldier under sentence who is interested in legal proceedings or proposed legal proceedings to be visited by his legal adviser. At the discretion of the commandant he may also be visited by his legal adviser with reference to other legal business
+**48.** (1) The commandant shall ‘provide reasonable facilities Visits by for a soldier under sentence who is interested in legal proceedings or proposed legal proceedings to be visited by his legal adviser. At the discretion of the commandant he may also be visited by his legal adviser with reference to other legal business
 
 (2) Any visit authorised by or pursuant to this regulation shall be within the sight, but not the hearing of the commandant or a member of the staff of the military establishment.
 
-**49.** (1) The commandant may permit a soldier under
-
 *Visits for the purpose of*
 
-sentence the purpose to be visited by a police officer or, on the
+**49.** (1) The commandant may permit a soldier under sentence the purpose to be visited by a police officer or, on the
 
 *investigating offences.*
 
@@ -8236,11 +8114,9 @@ written order of a staff officer a provost officer, by any officer or other pers
 
 (2) The commandant shall permit any person to visit a soldier under sentence if that person is authorised to visit him by a warrant or an order of a court.
 
-**50.** The commandant shall ensure that every soldier
-
 *Medical attention.*
 
-under sentence who is —
+**50.** The commandant shall ensure that every soldier under sentence who is —
 
 (a) in close confinement; or
 
@@ -8252,23 +8128,17 @@ under sentence who is —
 
 shall be seen by a medical officer at least once every day. The medical officer shall also see daily every soldier under sentence to whom his attention is especially directed by the commandant.
 
-**51.** The medical officer shall have the care of the
-
 *Functions of medical officer.*
 
-medical and physical health of soldiers under sentence, and the commandant shall act in accordance with his advice in relation to those matters unless to do so would be contrary to any enactment or these Regulations, or the officer in charge of the medical services of the command in which the military establishment is situated otherwise directs.
-
-**52.** The medical officer shall attend at once or as soon
+**51.** The medical officer shall have the care of the medical and physical health of soldiers under sentence, and the commandant shall act in accordance with his advice in relation to those matters unless to do so would be contrary to any enactment or these Regulations, or the officer in charge of the medical services of the command in which the military establishment is situated otherwise directs.
 
 *Attendance by medical officer.*
 
-as occasion requires on receiving from the commandant information of the illness of a soldier under sentence.
-
-**53.** The manner in which a soldier under sentence in a
+**52.** The medical officer shall attend at once or as soon as occasion requires on receiving from the commandant information of the illness of a soldier under sentence.
 
 *Appeals.*
 
-military establishment or an overseas establishment who has appealed or desires to appeal to the Court of Appeal against his Conviction by court-martial may be taken to, kept in custody at, and brought back from, any place at which he is entitled to be present for the purposes of Part VI of the Act, or any place to which the Court of Appeal or a Judge thereof may order him to be taken for the purposes of any proceedings of that Court, shall be as follows —
+**53.** The manner in which a soldier under sentence in a military establishment or an overseas establishment who has appealed or desires to appeal to the Court of Appeal against his Conviction by court-martial may be taken to, kept in custody at, and brought back from, any place at which he is entitled to be present for the purposes of Part VI of the Act, or any place to which the Court of Appeal or a Judge thereof may order him to be taken for the purposes of any proceedings of that Court, shall be as follows —
 
 (a) he may be taken to, kept in custody at, and brought back from any such place as aforesaid in service custody;
 
@@ -8276,11 +8146,9 @@ military establishment or an overseas establishment who has appealed or desires 
 
 Provided that he shall not be kept in a civil prison or in a police station for periods exceeding seven days at any one time.
 
-**54.** (1) The commandant of a military establishment
-
 *Facilities for soldiers under sentence who wish to petition or appeal.*
 
-shall bring to the notice of soldiers under sentence therein their rights to petition or appeal. In addition to any other means chosen by them who the commandant for this purpose a notice shall be exhibited in such places as to be seen by all soldiers under sentence.
+**54.** (1) The commandant of a military establishment shall bring to the notice of soldiers under sentence therein their rights to petition or appeal. In addition to any other means chosen by them who the commandant for this purpose a notice shall be exhibited in such places as to be seen by all soldiers under sentence.
 
 (2) The commandant of a military establishment shall permit a soldier under sentence who intends to petition or appeal or whose appeal is pending, for the purposes of the petition or appeal, to receive visitors, to be provided with
 
@@ -8288,11 +8156,9 @@ reasonable quantities of writing materials, to write and receive letters, and to
 
 (3) For the purposes of a petition or an appeal a soldier under sentence may receive a visit from a medical adviser, being a registered medical practitioner, selected by him or on his behalf by relatives or friends.
 
-**55.** (1) A soldier under sentence who considers
-
 *Complaints.*
 
-himself wronged in any matter may complain to the commandant of the military establishment in which he is serving his sentence or to a visiting officer on the occasion of a visit by him.
+**55.** (1) A soldier under sentence who considers himself wronged in any matter may complain to the commandant of the military establishment in which he is serving his sentence or to a visiting officer on the occasion of a visit by him.
 
 (2) In a case where there is a company commander of a soldier under sentence he shall forward any complaint which he wishes to make to the commandant through his company commander.
 
@@ -8306,19 +8172,15 @@ to forward it to the commanding officer of the soldier under sentence.
 
 (6) Without prejudice to the duties of a commandant and a company commander under this regulation, a commandant or company commander who believes that. in making a complaint where he thinks himself wronged, a soldier under sentence has made a statement affecting the character of an officer, warrant officer, noncommissioned officer or soldier subject to military law under the Act, which he knows to be false or does not believe to be true, or has wilfully suppressed any material facts, may call the attention of the soldier under sentence to the provisions of section 73, so that the soldier under sentence may, if he so wishes, withdraw his complaint or any such statement as aforesaid.
 
-**56.** (1) On admission to a military establishment a
-
 *Searching soldiers under sentence.*
 
-soldier so1dIers under sentence shall be searched in accordance with regulation 57.
+**56.** (1) On admission to a military establishment a soldier so1dIers under sentence shall be searched in accordance with regulation 57.
 
 (2) The commandant of a military establishment may order that a soldier under sentence shall be searched at any time while he is serving his sentence.
 
-**57.** The following provisions of this regulation shall be
-
 *Method of searching.*
 
-observed in relation to the search of any person in a military establishment pursuant to this regulation —
+**57.** The following provisions of this regulation shall be observed in relation to the search of any person in a military establishment pursuant to this regulation —
 
 (a) every search shall take place in the presence of at least two members of the staff;
 
@@ -8326,17 +8188,13 @@ observed in relation to the search of any person in a military establishment pur
 
 (c) no female shall be searched except by a female, and no female shall be searched in the presence of any male person.
 
-**58.** If a person serving military sentence of
-
 *Persons of unsound mind.*
 
-imprisonment or detention is a person of unsound mind, the commandant shall notify the Defence Board so that on discharge that person may’ be received into a mental hospital.
-
-**59.** (1) Any member of the staff of a military
+**58.** If a person serving military sentence of imprisonment or detention is a person of unsound mind, the commandant shall notify the Defence Board so that on discharge that person may’ be received into a mental hospital.
 
 *Escape.*
 
-establishment who discovers that a soldier under sentence has escaped shall immediately report the fact to the commandant.
+**59.** (1) Any member of the staff of a military establishment who discovers that a soldier under sentence has escaped shall immediately report the fact to the commandant.
 
 (2) If a soldier under sentence in a military establishment escapes, the commandant shall immediately inform the authorities and persons specified below in the cases therein specified —
 
@@ -8352,11 +8210,9 @@ establishment who discovers that a soldier under sentence has escaped shall imme
 
 (f) an inspector of military establishments.
 
-**60.** The following shall be the authorities specified
-
 *Duration of sentences of persons who escape.*
 
-under these Regulations for the purposes of the proviso to subsection (1) of section 119 —
+**60.** The following shall be the authorities specified under these Regulations for the purposes of the proviso to subsection (1) of section 119 —
 
 (a) in the case of a person upon whom a military sentence of imprisonment or detention was passed by court-martial, the reviewing authority or the reconsidering authority;
 
@@ -8374,11 +8230,9 @@ under these Regulations for the purposes of the proviso to subsection (1) of sec
 
 (2) Nothing in these Regulations shall affect the duty of the commandant or any other military authority to record or report the death in accordance with the requirements of any other law or instructions.
 
-**62.** A soldier under sentence commits an offence
-
 *Offences against discipline.*
 
-against these Regulations if he —
+**62.** A soldier under sentence commits an offence against these Regulations if he —
 
 (a) commits an offence of a nature which might be dealt with summarily by the commanding officer of a soldier of the regular Force;
 
@@ -8408,31 +8262,25 @@ behaves irreverently at divine service;
 
 (n) attempts to commit any of the offences referred to in paragraphs (b), (g), (h), (i), (j) and (k).
 
-**63.** (1) The commandant of a military establishment
-
 *Jurisdiction of commandant and company commander.*
 
-shall have jurisdiction to punish a soldier under sentence who commits an offence against these Regulations.
+**63.** (1) The commandant of a military establishment shall have jurisdiction to punish a soldier under sentence who commits an offence against these Regulations.
 
 (2) A company commander under the command of the commandant of a military establishment may have
 
 jurisdiction delegated to him by the commandant to punish a soldier under sentence who commits an offence against these Regulations.
 
-**64.** (1) A soldier under sentence who, while serving
-
 *Procedure for dealing with offences.*
 
-his sentence commits any offence against the Act or against these Regulations shall be dealt with in accordance with the following provisions of this regulation.
+**64.** (1) A soldier under sentence who, while serving his sentence commits any offence against the Act or against these Regulations shall be dealt with in accordance with the following provisions of this regulation.
 
 (2) When any member of the staff of a military establishment reports to the commandant the commission of such an offence as is referred to in paragraph (1) by a soldier under sentence the commandant shall deal with it as follows, that is to say, if the alleged offence is One which the commandant has no jurisdiction to punish or if, although the commandant has jurisdiction, it appears to him that the punishment he might award would be inadequate, he shall report the alleged offence to the local commander with a request that the soldier shall be dealt with under regulation 67 or under military law (as the case may be). In any other case the procedure set out in paragraph (3) shall be observed.
 
 (3) The commandant shall ensure that a soldier under sentence who is alleged to have committed an offence against these Regulations shall be informed of the offence which he is alleged to have committed. He shall then be brought before the commandant, and the evidence against him shall be heard in the presence of the soldier under sentence unless he agrees that written evidence may be used. If written evidence is used punishment shall not be awarded unless he has been given an opportunity of questioning the accuracy of any written statement. The soldier under sentence shall be given a proper opportunity of hearing the facts against him and of presenting his case. The commandant shall inform the soldier under sentence whether he finds him guilty or not guilty of committing any offence which he is alleged to have committed.
 
-**65.** (1) The commandant of a military establishment
-
 *Punishments which may be awarded by a commandant.*
 
-may award any of the punishments set out in paragraph (2) to a soldier under sentence who has been found by him to have committed any offence against these Regulations.
+**65.** (1) The commandant of a military establishment may award any of the punishments set out in paragraph (2) to a soldier under sentence who has been found by him to have committed any offence against these Regulations.
 
 (2) The punishments referred to in paragraph (1) are—
 
@@ -8454,11 +8302,9 @@ may award any of the punishments set out in paragraph (2) to a soldier under sen
 
 (i) admonishment.
 
-**66.** The commander of a military establishment may
-
 *Punishment which may be awarded by a company commander.*
 
-delegate to a company commander under his command, being a member of the staff of a military establishment, jurisdiction to award the following maximum punishments to a soldier under sentence who is found by the company
+**66.** The commander of a military establishment may delegate to a company commander under his command, being a member of the staff of a military establishment, jurisdiction to award the following maximum punishments to a soldier under sentence who is found by the company
 
 commander to have committed an offence against these Regulations—
 
@@ -8474,11 +8320,9 @@ commander to have committed an offence against these Regulations—
 
 (f) admonishment.
 
-**67.** (1) The local commander may from time to time
-
 *Board of visitors.*
 
-appoint boards of visitors to exercise disciplinary powers at any military establishment within the area of his command.
+**67.** (1) The local commander may from time to time appoint boards of visitors to exercise disciplinary powers at any military establishment within the area of his command.
 
 (2) A board of visitors shall consist of three officers one of whom shall be not below the rank of major (or corresponding rank) unless the exigencies of the service make it impracticable, when the board may consist of two officers only, one of whom shall be not below the rank of major or corresponding rank.
 
@@ -8500,17 +8344,13 @@ dismiss any charge which they find not to have been proved;
 
 (b) record a finding of guilty and award any punishment which they are authorised by these Regulations to award in respect of any charge which they find to have been proved.
 
-**68.** The commandant and members of the staff of a
-
 *Corporal punishment prohibited.*
 
-military establishment shall not inflict or cause to be inflicted corporal punishment on any soldier under sentence.
-
-**69.** (1) Restricted diet No. 1 shall consist of 1 lb. of
+**68.** The commandant and members of the staff of a military establishment shall not inflict or cause to be inflicted corporal punishment on any soldier under sentence.
 
 *Restricted diets No. 1 and No.*
 
-bread diets per day with unrestricted water.
+**69.** (1) Restricted diet No. 1 shall consist of 1 lb. of bread diets per day with unrestricted water.
 
 2.
 
@@ -8528,11 +8368,9 @@ Bread, 4 oz., Soup, 1 pints, containing 3 oz., peas; 3 oz., dried beans, 4 oz., 
 
 Bread, 8 oz., margarine 1/2 oz. Cocoa, 1 pint containing oz. cocoa, 1 fluid oz. milk (or 4/5., oz. tinned milk), and 1/2 oz. sugar.
 
-**70.** (1) A soldier under sentence shall not undergo
-
 *Conditions with reference*
 
-restricted diet No. 1 for any consecutive period exceeding
+**70.** (1) A soldier under sentence shall not undergo restricted diet No. 1 for any consecutive period exceeding
 
 *to the award of restricted diet No. 1.*
 
@@ -8548,11 +8386,9 @@ three days at a award of re-time, and if he is awarded restricted diet No. 1 for
 
 (4) Every soldier under sentence undergoing restricted diet No. 1 shall be visited every day by the commandant or his deputy and by the medical officer.
 
-**71.** (1) A soldier under sentence undergoing restricted
-
 *Conditions with reference to the award of restricted diet No. 2*
 
-diet Condition No. 2 shall attend parades and carry out work and training at the discretion of the commandant, but he shall not be required award of re to do any heavy work.
+**71.** (1) A soldier under sentence undergoing restricted diet Condition No. 2 shall attend parades and carry out work and training at the discretion of the commandant, but he shall not be required award of re to do any heavy work.
 
 (2) If a soldier under sentence who is undergoing restricted diet No. 2 is found guilty of an o4Tence against these Regulations, he may, notwithstanding the provisions of regulation 70, be required to undergo restricted diet No. 1 for a period not exceeding three days, and on the expiration of that period he may be required to undergo the remainder of
 
@@ -8560,21 +8396,17 @@ the period on restricted diet No. 2:
 
 Provided that the period spent on restricted diet No. 1 shall count as part of the period originally ordered on restricted diet No. 2.
 
-**72.** (1) A soldier who has undergone restricted diet for
-
 *Conditions affecting restricted diet No. 1 and restricted diet No. 2*
 
-a Conditions consecutive period of twenty-one days shall resume the ordinary ration for soldiers under sentence for a period of at least seven days before any further period of restricted diet may commence.
+**72.** (1) A soldier who has undergone restricted diet for a Conditions consecutive period of twenty-one days shall resume the ordinary ration for soldiers under sentence for a period of at least seven days before any further period of restricted diet may commence.
 
 (2) A soldier under sentence undergoing restricted diet shall not be issued with or permitted to have in his possession tobacco or cigarettes.
 
 (3) No soldier under sentence shall be required to undergo restricted diet No. 1 or restricted diet No. 2 unless the medical officer has certified that he is fit to do so.
 
-**73.** (1) No soldier under sentence shall be placed in
-
 *Close confinement.*
 
-close confinement unless he has been certified by the medical officer as fit to undergo that punishment.
+**73.** (1) No soldier under sentence shall be placed in close confinement unless he has been certified by the medical officer as fit to undergo that punishment.
 
 (2) A soldier in close confinement shall not be permitted to attend divine service and, except on the recommendation of the medical officer, shall not be permitted any exercise.
 
@@ -8584,19 +8416,15 @@ close confinement unless he has been certified by the medical officer as fit to 
 
 addition, at least once every three hours, by a member of the staff of the military establishment who shall be detailed to do so.
 
-**74.** (1) No soldier under sentence shall be subjected to
-
 *Mechanical restraint.*
 
-any form of mechanical restraint as a punishment.
+**74.** (1) No soldier under sentence shall be subjected to any form of mechanical restraint as a punishment.
 
 (2) Mechanical restraint of’ soldiers under sentence may be used for the purposes of safe custody during the removal of a soldier under sentence from one place of establishment to another and in the circumstances and under the conditions authorised by these Regulations.
 
-**75.** (1) If it appears to the commandant of a military
-
 *Authorisation of mechanical restraint.*
 
-establishment that a soldier under sentence ought to be placed under mechanical restraint to prevent him from injuring himself or others or damaging property or creating a disturbance, he may issue a written order that mechanical restraint shall he applied to a soldier under sentence, specifying the date and hour when restraint is to be applied, and the period, not exceeding twenty-four hours, during which it shall be applied. Immediately thereafter he shall notify the local commander and the medical officer that he has made the said order and the terms thereof.
+**75.** (1) If it appears to the commandant of a military establishment that a soldier under sentence ought to be placed under mechanical restraint to prevent him from injuring himself or others or damaging property or creating a disturbance, he may issue a written order that mechanical restraint shall he applied to a soldier under sentence, specifying the date and hour when restraint is to be applied, and the period, not exceeding twenty-four hours, during which it shall be applied. Immediately thereafter he shall notify the local commander and the medical officer that he has made the said order and the terms thereof.
 
 (2) On receiving the said notification the medical officer shall examine the soldier under sentence and inform the commandant if, in his opinion, there is any objection on medical grounds to application of the mechanical restraint ordered. If he makes any such objection the commandant shall revoke or modify his order in accordance with the recommendation of the medical officer.
 
@@ -8624,17 +8452,13 @@ exceeding four pounds in weight.
 
 (2) Nothing in this Regulation shall preclude the use of a canvas suit in those cases where its use is authorised by regulation 80.
 
-**77.** The commandant of a military establishment who
-
 *The use of handcuffs.*
 
-orders the use of handcuffs on a soldier under sentence shall state in his written order authorising their use whether they are to be placed with the hands to the front or to the rear of the body. When they are placed to the rear of the body they shall be moved to the front during meals and for sleeping.
-
-**78.** (1) The strait waistcoat shall not be used except
+**77.** The commandant of a military establishment who orders the use of handcuffs on a soldier under sentence shall state in his written order authorising their use whether they are to be placed with the hands to the front or to the rear of the body. When they are placed to the rear of the body they shall be moved to the front during meals and for sleeping.
 
 *The use of the strait waistcoat.*
 
-under the direction of a medical officer. It may be used only when restraint is necessary to prevent a soldier under sentence from injuring himself or others or to prevent him from destroying clothing or other articles.
+**78.** (1) The strait waistcoat shall not be used except under the direction of a medical officer. It may be used only when restraint is necessary to prevent a soldier under sentence from injuring himself or others or to prevent him from destroying clothing or other articles.
 
 (2) The medical officer shall visit every soldier restrained in a strait waistcoat at least once in every twenty-four hours, and more often if he thinks it necessary. He shall record in his journal all such visits, the periods of restraint and the reasons for its application.
 
@@ -8642,21 +8466,17 @@ under the direction of a medical officer. It may be used only when restraint is 
 
 (4) The medical officer shall inform the commandant in writing when the restraint is discontinued.
 
-**79.** (1) The body belt may be used only for restraining
-
 *The use of the body belt.*
 
-a soldier under sentence who is of violent conduct and for
+**79.** (1) The body belt may be used only for restraining a soldier under sentence who is of violent conduct and for
 
 whom no other means of restraint is appropriate.
 
 (2) Subject to paragraph (1) the provisions of regulation 78 as to the use of a strait waistcoat shall apply in relation to the use of body belt.
 
-**80.** (1) The commandant of a military establishment
-
 *The use of the canvas suit.*
 
-may order a soldier under sentence to wear a canvas suit, consisting of frock and trousers made of canvas sail-cloth, not exceeding twelve pounds in weight. Such an order may he made only in cases where the soldier under sentence destroys or attempts to destroy his clothing or refuses to wear uniform.
+**80.** (1) The commandant of a military establishment may order a soldier under sentence to wear a canvas suit, consisting of frock and trousers made of canvas sail-cloth, not exceeding twelve pounds in weight. Such an order may he made only in cases where the soldier under sentence destroys or attempts to destroy his clothing or refuses to wear uniform.
 
 (2) The commandant shall report to the visiting officer on the occasion of every visit any subsisting orders made by him under paragraph (1) and shall arrange for the visiting officer to see every soldier under sentence who is wearing a canvas suit.
 
@@ -8664,17 +8484,13 @@ may order a soldier under sentence to wear a canvas suit, consisting of frock an
 
 ## PART VI RELIGION, EDUCATION AND WELFARE
 
-**81.** The commandant shall, so far as practicable, make
-
 *Books of religious instructions*
 
-available for the use of every soldier under sentence such books of religious observance or instruction as are recognised for the use of his denomination and approved by the Chief of Staff.
-
-**82.** (1) Chaplains when present in a military
+**81.** The commandant shall, so far as practicable, make available for the use of every soldier under sentence such books of religious observance or instruction as are recognised for the use of his denomination and approved by the Chief of Staff.
 
 *Chaplains.*
 
-establishment for the purposes of their duties shall abide by these Regulations and the standing or other orders made for
+**82.** (1) Chaplains when present in a military establishment for the purposes of their duties shall abide by these Regulations and the standing or other orders made for
 
 the regulation thereof and consult the commandant concerning the discharge of their duties.
 
@@ -8682,11 +8498,9 @@ the regulation thereof and consult the commandant concerning the discharge of th
 
 (3) The commandant shall afford facilities to chaplains to have access to soldiers under sentence for the purpose of giving them religious instructions at times approved by him.
 
-**83.** (1) A chaplain of the same denomination as a
-
 *Duties of Chaplains.*
 
-soldier under sentence shall visit him on admission, and thereafter from time to time at proper and reasonable times, and shortly before his release and references herein to include references to an official of a non-christian faith.
+**83.** (1) A chaplain of the same denomination as a soldier under sentence shall visit him on admission, and thereafter from time to time at proper and reasonable times, and shortly before his release and references herein to include references to an official of a non-christian faith.
 
 In a case where there is no chaplain of the same denomination as the soldier, the commandant shall arrange for the soldier to be visited by a minister of his own denomination, if (the soldier under sentence so wishes and it is practicable to make the arrangements. In such cases the soldier under sentence shall be informed of the provisions of this paragraph as soon as possible after his admission.
 
@@ -8702,11 +8516,9 @@ divine service in military establishments on Sundays and on other customary days
 
 (2) A soldier under sentence shall be allowed to attend the divine service of his denomination as often as he wishes, and any soldier undergoing punishment under these Regulations may attend divine service unless he is in close confinement or excluded therefrom because of his disorderly conduct, or because it is considered that his conduct would be disorderly.
 
-**85.** (1) The commandant of a military establishment
-
 *Education.*
 
-shall —
+**85.** (1) The commandant of a military establishment shall —
 
 (a) provide educational training at such times as are available, and in accordance with any syllabus laid down by the Chief of Staff;
 
@@ -8724,33 +8536,25 @@ educational matters to soldiers under sentence;
 
 (g) encourage soldiers under sentence to study any special subject in which they are interested and, at his discretion, allow them to be provided with the textbooks and reference books which will enable them to do so.
 
-**86.** (1) The commandant of a military establishment
-
 *Welfare.*
 
-shall appoint an officer to act as welfare officer, and afford facilities for soldiers under sentence to consult the welfare officer when occasion requires.
+**86.** (1) The commandant of a military establishment shall appoint an officer to act as welfare officer, and afford facilities for soldiers under sentence to consult the welfare officer when occasion requires.
 
 (2) The welfare officer shall keep written records of the matters on which he is consulted by soldiers under sentence and if he has not completed any correspondence or other dealings in connection therewith when a soldier under sentence who is returning to his unit is released from a military establishment, he shall send to the commanding officer of the soldier a report on those matters accompanied by any relevant papers and correspondence.
 
 ## PART VII MISCELLANEOUS REGULATIONS AND OFFENCES RELATING TO MILITARY ESTABLISHMENTS
 
-**87.** No person shall, without the authority of the
-
 *Unlawful conveyance of spirits or tobacco into military establishments.*
 
-commandant of a military establishment, bring or attempt to bring into a military establishment or to a soldier under sentence any spirituous or fermented liquor or tobacco, or place any such liquor or tobacco outside a military establishment with intent that it shall come into the possession of a soldier under sentence, nor shall any member of the staff of a military establishment allow any such liquor or tobacco to be sold or used in the military establishment.
-
-**88.** No person shall without lawful authority convey
+**87.** No person shall, without the authority of the commandant of a military establishment, bring or attempt to bring into a military establishment or to a soldier under sentence any spirituous or fermented liquor or tobacco, or place any such liquor or tobacco outside a military establishment with intent that it shall come into the possession of a soldier under sentence, nor shall any member of the staff of a military establishment allow any such liquor or tobacco to be sold or used in the military establishment.
 
 *Unlawful introduction of other articles.*
 
-or attempt to convey any letters or any other thing into or out of a military establishment or to a soldier under sentence, or place it anywhere outside a military establishment with intent that it shall come into the possession of a soldier under sentence.
-
-**89.** (1) No unauthorised person shall enter a military
+**88.** No person shall without lawful authority convey or attempt to convey any letters or any other thing into or out of a military establishment or to a soldier under sentence, or place it anywhere outside a military establishment with intent that it shall come into the possession of a soldier under sentence.
 
 *Admission of visitors and others to military establishment.*
 
-establishment or make any sketch or take any photograph or communicate with any person under sentence therein, and no such person shall remain therein after being requested to leave by the commandant or any person acting under his authority. In deciding whether to grant, or grant subject to conditions, or refuse permission to enter a military establishment the commandant shall have regard to the orders of any court of competent jurisdiction, the provisions of these Regulations and the directions or instructions of any higher military authority.
+**89.** (1) No unauthorised person shall enter a military establishment or make any sketch or take any photograph or communicate with any person under sentence therein, and no such person shall remain therein after being requested to leave by the commandant or any person acting under his authority. In deciding whether to grant, or grant subject to conditions, or refuse permission to enter a military establishment the commandant shall have regard to the orders of any court of competent jurisdiction, the provisions of these Regulations and the directions or instructions of any higher military authority.
 
 (2) The commandant of a military establishment may grant permission to any person to enter a military establishment subject to any conditions and, without prejudice to the generality of the foregoing words, he may
 
@@ -8762,11 +8566,9 @@ make it a condition of granting permission to any person to enter or do anything
 
 ## PART VIII UNIT DETENTION ROOMS
 
-**90.** (1) This Part of these Regulations shall apply in
-
 *Application of these Regulations to unit detention rooms.*
 
-relation to unit detention rooms and, subject to the provisions of paragraph (2), all the provisions of these Regulations shall apply in relation to unit detention rooms.
+**90.** (1) This Part of these Regulations shall apply in relation to unit detention rooms and, subject to the provisions of paragraph (2), all the provisions of these Regulations shall apply in relation to unit detention rooms.
 
 (2) The provisions of the regulations specified below shall apply in relation to unit detention, rooms subject to the modifications specified with reference thereto respectively —
 
@@ -8780,17 +8582,13 @@ regulation 65(2) sub-paragraphs (b), (c), (d) and (g), and regulations 69 to
 
 (ii) apply in relation to unit detention rooms (other than unit detention rooms of a unit of female members) only in so far as they relate to mechanical restraint by means of handcuffs.
 
-**91.** Unit detention rooms shall be under the control of
-
 *Setting up unit detention rooms.*
 
-commanding officer of the unit under whose authority they were set up, or of the commanding officer of another unit to which they are appropriated by order of the local commander.
-
-**92.** Soldiers under sentence in unit detention rooms
+**91.** Unit detention rooms shall be under the control of commanding officer of the unit under whose authority they were set up, or of the commanding officer of another unit to which they are appropriated by order of the local commander.
 
 *Segregation in unit rooms.*
 
-shall be segregated from any soldiers confined therein awaiting trial by court-martial, or disposal by a commanding officer or appropriate superior authority, or awaiting promulgation of sentence.
+**92.** Soldiers under sentence in unit detention rooms shall be segregated from any soldiers confined therein awaiting trial by court-martial, or disposal by a commanding officer or appropriate superior authority, or awaiting promulgation of sentence.
 
 ## PART IX VISITING OFFICERS
 
@@ -8802,11 +8600,9 @@ shall be segregated from any soldiers confined therein awaiting trial by court-m
 
 these Regulations referred to as a “visiting officer”, visits each military establishment within his command once each week. A written order appointing him shall be given to each visiting officer.
 
-**94.** (1) A visiting officer ordered to visit a military
-
 *Duties of visiting officers.*
 
-establishment shall duly attend in accordance with the instructions contained in the order appointing him.
+**94.** (1) A visiting officer ordered to visit a military establishment shall duly attend in accordance with the instructions contained in the order appointing him.
 
 (2) On arrival at a military establishment a visiting officer shall, if required, produce the order appointing him to the commandant or any officer or other person acting on his behalf.
 
@@ -8822,11 +8618,9 @@ If the commandant thinks fit a member of the staff may be present to ensure that
 
 (6) A visiting officer shall satisfy himself that he has seen all soldiers under sentence in the military establishment except any whom he is requested not to see on the advice of the medical officer on medical grounds.
 
-**95.** (1) a visiting officer shall inquire fully into every Investigation of complaint made to him, and the commandant shall place at
+*Investigation of complaints by a visiting officer.*
 
-*visiting officer.*
-
-complaints by a his officers disposal any witness or evidence he requires. The visiting officer shall ascertain if any complaint made to him had previously been made to the commandant or other officer of the staff of the military establishment and of the nature of any action taken in relation thereto.
+**95.** (1) a visiting officer shall inquire fully into every complaint made to him, and the commandant shall place at his officers disposal any witness or evidence he requires. The visiting officer shall ascertain if any complaint made to him had previously been made to the commandant or other officer of the staff of the military establishment and of the nature of any action taken in relation thereto.
 
 (2) On completion of the investigation of any complaint made to him a visiting officer shall deal with it in the following manner —
 
@@ -8840,19 +8634,15 @@ offer any redress to a soldier under sentence.
 
 (4) On completion of each visit a visiting officer shall make a report to the local commander, including a full report of every complaint made to him and of the result of his investigation thereof.
 
-**96.** On receipt of a complaint reported to him by a
-
 *Redress of complaint made to visiting officer.*
 
-visiting officer the local commander shall investigate and take any steps for redressing the matter complained of which appear to him to be necessary.
+**96.** On receipt of a complaint reported to him by a visiting officer the local commander shall investigate and take any steps for redressing the matter complained of which appear to him to be necessary.
 
 ## PART X STAFF OF MILITARY ESTABLISHMENTS
 
-**97.** (1) The commandant of a military establishment
-
 *Duties of commandant.*
 
-shall—
+**97.** (1) The commandant of a military establishment shall—
 
 (a) exercise a close and constant supervision of the military establishment and, if practicable, visit and inspect daily all parts of the establishment in which soldiers under sentence are working or training. He shall also visit the military establishment during the night at least once a week. He shall make frequent inspections of rooms occupied or used by soldiers under sentence and satisfy himself that foods intended for their consumption are properly stored, cooked and served;
 
@@ -8884,9 +8674,7 @@ and rosters of duties are prepared and maintained in accordance with any directi
 
 **98.** Members of the staff of military establishments
 
-*shall —*
-
-*members of the staff of military establishments.*
+*shall — members of the staff of military establishments.*
 
 carry out their duties in accordance
 
@@ -9278,9 +9066,7 @@ And Whereas the said Court-Martial did order the said person to be imprisoned/ u
 
 Now, therefore, in pursuance of subsection (2) of section 64 of the Defence Act (Cap. 15:01) and of all other powers them enabling the Court hereby order you to receive the said
 
-person into your custody to undergo imprisonment/detention
-
-(f) accordingly and for so doing this shall be your warrant.
+person into your custody to undergo imprisonment/detention (f) accordingly and for so doing this shall be your warrant.
 
 Signed at this day of 20
 
@@ -9474,11 +9260,9 @@ mentioned in subparagraph (b), with reference to any particular matter or to mat
 
 Provided that where a child of tender years called as a witness does not in the opinion of the board understand the nature of an oath, his evidence may be received though not given on oath, in the opinion of the board he is possessed of sufficient intelligence to justify the reception of the evidence, and understands the duty of speaking the truth
 
-(5) The oaths required to be administered under this rule shall be administered in the appropriate form and in
-
 *Schedule.*
 
-the manner set out in the schedule.
+(5) The oaths required to be administered under this rule shall be administered in the appropriate form and in the manner set out in the schedule.
 
 *Adjournment and reassembly.*
 

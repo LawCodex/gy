@@ -32,8 +32,6 @@ Current Authorised Pages Pages Authorised by L.R.O. (inclusive)
 
 –
 
-1/2012
-
 Index
 
 of
@@ -226,11 +224,9 @@ hand grenade, bullet or other projectile;
 
 (g) everything declared by order of the Minister to be ammunition and includes prohibited ammunition;
 
-“explosive” has the meaning assigned to it by section 2
-
 *c. 16:06*
 
-of the Explosives Act;
+“explosive” has the meaning assigned to it by section 2 of the Explosives Act;
 
 “firearm”, except where otherwise expressly provided, means any lethal barrelled weapon of any description from which any shot, bullet or other missile can be discharged and includes any prohibited weapon, whether it is such a lethal weapon as aforesaid or not, any component part of any such lethal or prohibited weapon, and any accessory to any such weapon designed or adapted to diminish the noise or flash caused by firing the weapon and anything else declared by order of the Minister to be a firearm;
 
@@ -266,25 +262,19 @@ Provided that—
 
 (b) if in any case it is impossible or appears to be unreasonably inconvenient to surrender any firearm within the aforesaid period of two months the person owning or having in his possession or control such firearm shall report the facts in writing to the Commissioner of Police within two months of the commencement of this Act and the said Commissioner may, in his discretion, extend the period within which the surrender of such firearm shall be made.
 
-(2) Within two months of the commencement of this Act every person holding a valid dealer’s licence, issued under section 6 of the (repealed) Arms and Ammunition
-
 *Cap. 75 1927 Ed.*
 
-Ordinance, shall submit to the Commissioner of Police a return showing the total number of firearms in his custody, possession or control, other than those retained for his personal use, and shall in respect, in respect of each such
+(2) Within two months of the commencement of this Act every person holding a valid dealer’s licence, issued under section 6 of the (repealed) Arms and Ammunition Ordinance, shall submit to the Commissioner of Police a return showing the total number of firearms in his custody, possession or control, other than those retained for his personal use, and shall in respect, in respect of each such
 
 firearms, state the marker’s name the distinguishing mark or number thereof.
 
-**4.** No person who surrenders any firearm in
-
 *No penalty or forfeiture for surrender of firearm by reason only of the fact that it is unlicensed.*
 
-compliance with the provisions of the last preceding section shall be liable to any penalty or forfeiture by reason only of the fact that at the time of such surrender, or at any time prior to such surrender, he holds, or held, no valid licence in respect of such firearm or that he obtained such firearm without being in possession of a certificate stating that he was a fit and proper person to whom a licence might be issued.
-
-**5.** Every officer to whom any firearm is surrendered
+**4.** No person who surrenders any firearm in compliance with the provisions of the last preceding section shall be liable to any penalty or forfeiture by reason only of the fact that at the time of such surrender, or at any time prior to such surrender, he holds, or held, no valid licence in respect of such firearm or that he obtained such firearm without being in possession of a certificate stating that he was a fit and proper person to whom a licence might be issued.
 
 *All firearms to bear a distinguishing mark or number.*
 
-shall satisfy himself that such firearm has engraved or otherwise clearly marked upon it a distinguishing mark or number and, in the absence of such distinguishing mark or number, shall himself engrave or mark, or cause to be engraved or marked, thereon a distinguishing mark or number.
+**5.** Every officer to whom any firearm is surrendered shall satisfy himself that such firearm has engraved or otherwise clearly marked upon it a distinguishing mark or number and, in the absence of such distinguishing mark or number, shall himself engrave or mark, or cause to be engraved or marked, thereon a distinguishing mark or number.
 
 *Register of firearms to be kept by police. First Schedule.*
 
@@ -324,11 +314,9 @@ manner and within the period provided by section 3 or, if such period is extende
 
 **12.** No firearms or ammunition shall be imported into Guyana by sea or air except at a prescribed port or at a prescribed aerodrome.
 
-**13.** All firearms and ammunition imported into
-
 *Firearms imported by land to be deposited at nearest police station.*
 
-Guyana by land shall be deposited at the police station nearest to the point at which the Guyana frontier was crossed by the person bearing, or in control of, such firearm or ammunition.
+**13.** All firearms and ammunition imported into Guyana by land shall be deposited at the police station nearest to the point at which the Guyana frontier was crossed by the person bearing, or in control of, such firearm or ammunition.
 
 *No imported firearm to be*
 
@@ -340,11 +328,9 @@ upon it a distinguishing mark or number:
 
 Provided that a registered firearms dealer may withdraw a firearm not bearing a distinguish mark or number from a customs warehouse or from a police station on the express condition that such dealer shall, within one month of such withdrawal, cause such firearm to be so engraved or marked.
 
-**15.** (l) Subject to this Act, no person shall withdraw
-
 *Terms upon which firearms may be withdrawn from customs warehouse and police station.*
 
-any firearm or ammunition from a customs warehouse until he, or some other person on his behalf, has produced for examination by the customs officer in charge of the warehouse either—
+**15.** (l) Subject to this Act, no person shall withdraw any firearm or ammunition from a customs warehouse until he, or some other person on his behalf, has produced for examination by the customs officer in charge of the warehouse either—
 
 (a) a valid firearm licence authorising the possession of such firearm or such quantity of ammunition; or
 
@@ -356,11 +342,9 @@ any firearm or ammunition from a customs warehouse until he, or some other perso
 
 Purchase and Possession of certain Firearms and Ammunition
 
-**16.** (1) Subject to this Act, no person shall purchase,
-
 *Penalty for purchasing or possessing firearms or*
 
-acquire or have in his possession any firearm or ammunition to which this Part applies unless he holds a firearm licence in force at the time.
+**16.** (1) Subject to this Act, no person shall purchase, acquire or have in his possession any firearm or ammunition to which this Part applies unless he holds a firearm licence in force at the time.
 
 *ammunition without licence. [23 of 1991 6 of 1997 17 of 2007]*
 
@@ -376,11 +360,9 @@ acquire or have in his possession any firearm or ammunition to which this Part a
 
 **17.** (l) Subject to this Act, no person shall import, purchase or acquire any ammunition to which this Part applies unless he delivers to the customs officer in charge of the warehouse, or the seller or transferor, as the case may be, a permit (in this section referred to as a “permit”) authorising the importation or purchase or acquisition of such ammunition.
 
-(2) An application for the issue of a permit under
-
 *First Schedule.*
 
-this section shall be made in the prescribed form to the prescribed officer for the area in which the applicant resides
+(2) An application for the issue of a permit under this section shall be made in the prescribed form to the prescribed officer for the area in which the applicant resides
 
 and shall state such particulars as may be required by the said form:
 
@@ -420,11 +402,9 @@ Provided that—
 
 (a) if any applicant is for any reason unable to state all the particulars so required he shall state those known to him and in such case the prescribed officer may at his discretion issue to the applicant a permit in the prescribed form (hereinafter in this section referred to as a “permit”); such permit shall state the conditions (if any) subject to which a licence may be granted to the applicant;
 
-(b) any passenger who, having in his possession or control a firearm in respect of which he holds no valid licence, disembarks at a prescribed
-
 *First Schedule.*
 
-port or at a prescribed aerodrome shall make application for the grant of a licence in the prescribed form to the prescribed officer for the area in which such port or aerodrome is situated.
+(b) any passenger who, having in his possession or control a firearm in respect of which he holds no valid licence, disembarks at a prescribed port or at a prescribed aerodrome shall make application for the grant of a licence in the prescribed form to the prescribed officer for the area in which such port or aerodrome is situated.
 
 (2) A licence or permit shall be granted by the prescribed officer in such cases only in which he is satisfied that the applicant has a good reason for purchasing, acquiring or having in his possession the firearm or ammunition in respect of which the application is made, and can be permitted to have in his possession that firearm or ammunition without danger to the public safety or to the peace:
 
@@ -432,11 +412,9 @@ Provided that a licence or permit shall not be granted to a person whom the pres
 
 (3) The holder of a permit may, on ascertaining the particulars which were unknown to him at the time of making application for such permit, endorse such particulars on the permit and submit it to the prescribed officer for the area in which he intends to take possession of the firearm and in such case a licence may be issued to him by such prescribed officer.
 
-(4) A licence granted under this section shall be in the prescribed form and shall specify the conditions
-
 *First Schedule.*
 
-(if any) subject to which it is held, the nature and distinguishing numbers or marks of the firearms to which it relates, and, as respects ammunition, the quantities authorised to be purchased and to be held at any one time thereunder.
+(4) A licence granted under this section shall be in the prescribed form and shall specify the conditions (if any) subject to which it is held, the nature and distinguishing numbers or marks of the firearms to which it relates, and, as respects ammunition, the quantities authorised to be purchased and to be held at any one time thereunder.
 
 (5) A firearm licence shall, unless previously revoked or cancelled, continue in force until the last day of December in the year in which it was granted.
 
@@ -526,11 +504,9 @@ behalf may purchase or acquire such firearms or ammunition for that service with
 
 (b) a person in the naval, military or air service of the State or in the police force or a prison officer shall, if he satisfies the prescribed officer on an application under section 18 that he is required to purchase or acquire such a firearm or ammunition for his own use in his capacity as such, be entitled without payment of any fee to the grant of a firearm licence authorising the purchase or acquisition.
 
-**22.** (1) Any police constable may demand from any
-
 *Production of licences. [7 of 1966B]*
 
-person, whom he believes to be in possession of a firearm or ammunition to which this Part applies, the production of his firearm licence.
+**22.** (1) Any police constable may demand from any person, whom he believes to be in possession of a firearm or ammunition to which this Part applies, the production of his firearm licence.
 
 (2) If any person in possession of such firearm or ammunition, upon whom a demand is so made, fails to produce the licence, or to permit the police constable to read the licence, or to show that he is entitled by virtue of this Act to have the firearm or ammunition in his possession without holding a firearm licence, the said constable may seize and detain the firearm or ammunition, and may require that person to declare to him immediately his name and address.
 
@@ -538,11 +514,9 @@ person, whom he believes to be in possession of a firearm or ammunition to which
 
 Manufacture and Sale of certain Firearms and Ammunition and other Transactions
 
-**23.** (1) Subject to this section, no person shall, by way
-
 *Penalty for manufacturing or dealing in firearms or ammunition without being registered. [7 of 1966B]*
 
-of trade or business—
+**23.** (1) Subject to this section, no person shall, by way of trade or business—
 
 (a) manufacture, sell, transfer, repair, test or prove; or
 
@@ -552,11 +526,9 @@ Provided that it shall be lawful for any marshal or bailiff acting under an orde
 
 (2) If any person contravenes this section, or makes any statement which he knows to be false for the purpose of procuring, whether for himself or any other person, the grant of a permit under this section, he shall be guilty of an offence.
 
-**24.** (1) For the purposes of this Act, the
-
 *Registration of firearms dealers. [49 of 1950 7 of 1966B 6 of 1997 5 of 1982 16 of 1993 6 of 1997]*
 
-Commissioner of Police shall keep a register of firearms dealers and, subject as hereinafter provided, shall enter therein the name of any person who, having or proposing to have a place of business in Guyana, applies to be registered as a firearms dealer and furnishes him with the prescribed particulars:
+**24.** (1) For the purposes of this Act, the Commissioner of Police shall keep a register of firearms dealers and, subject as hereinafter provided, shall enter therein the name of any person who, having or proposing to have a place of business in Guyana, applies to be registered as a firearms dealer and furnishes him with the prescribed particulars:
 
 Provided that—
 
@@ -590,21 +562,17 @@ he shall cause the name of that person to be removed from the register.
 
 (5) If any person, for the purpose of procuring the registration of himself or any other person as a firearms dealer, makes any statement which he knows to be false, he shall be guilty of an offence.
 
-**25.** (1) The Commissioner of Police shall grant or
-
 *Certificates of registration. [49 of 1950 7 of 1966B [23 of 1991 6 of 1997]*
 
-cause to be granted to any person who is registered under the last foregoing section a certificate of registration.
+**25.** (1) The Commissioner of Police shall grant or cause to be granted to any person who is registered under the last foregoing section a certificate of registration.
 
 (2) On or before the 1st February in each year, every person for the time being registered as a firearms dealer in any area shall—
 
 (a) surrender to the Commissioner of Police his certificate of registration; and
 
-(b) apply in the prescribed form for a
-
 *First Schedule.*
 
-new certificate of registration; and
+(b) apply in the prescribed form for a new certificate of registration; and
 
 (c) pay a fee of one thousand three hundred dollars;
 
@@ -632,11 +600,9 @@ the Commissioner of Police and furnish him with such particulars as may be presc
 
 (a) any person, being a registered firearms dealer, has a place of business which is not entered in the register, and carries on business as a firearms dealer at that place; or (b) any person makes any statement which he knows to be false for the purpose of procuring, whether for himself or for any other person, the entry of any place of business in the register of firearms dealers, he shall be guilty of an offence.
 
-**27.** (1) No person shall sell or transfer to any
-
 *Restriction on sale, repair, etc., of firearms and ammunition. [7 of 1966B]*
 
-other person in Guyana, other than a registered firearms dealer, any firearm or ammunition to which this Part applies unless that other person produces a firearm licence authorising him to purchase or acquire it or shows that he is by virtue of this Act entitled to purchase or acquire it without holding such a licence:
+**27.** (1) No person shall sell or transfer to any other person in Guyana, other than a registered firearms dealer, any firearm or ammunition to which this Part applies unless that other person produces a firearm licence authorising him to purchase or acquire it or shows that he is by virtue of this Act entitled to purchase or acquire it without holding such a licence:
 
 Provided that this subsection shall not prevent—
 
@@ -656,11 +622,9 @@ holding such a licence.
 
 (b) with a view to purchasing or acquiring, or procuring the repair, test or proof of, a firearm or ammunition to which this Part applies, produces a false firearm licence or a firearm licence in which any false entry has been made, or personates a person to whom a firearm licence has been granted, or makes any false statement, he shall be guilty of an offence.
 
-**28.** (1) Every person who by way of trade or business
-
 *Register of transactions in firearms. [7 of 1966B] First Schedule. Forms B, C and D.*
 
-manufactures, sells or transfers firearms or ammunition to which this Part applies shall provide and keep a register of transactions and shall enter or cause to be entered therein the particulars set out in forms B, C and D in the First Schedule.
+**28.** (1) Every person who by way of trade or business manufactures, sells or transfers firearms or ammunition to which this Part applies shall provide and keep a register of transactions and shall enter or cause to be entered therein the particulars set out in forms B, C and D in the First Schedule.
 
 (2) Every such entry shall be made on the same day that the transaction to which it relates took place, and, in the case of a sale or transfer, every such person as aforesaid shall at the time of the transaction require the purchaser or transferee, if not known to him, to furnish particulars sufficient for identification, and shall immediately enter the said particulars in the register.
 
@@ -688,11 +652,9 @@ commissioned officer; or
 
 *First Schedule.*
 
-**29.** Where a registered firearms dealer is convicted of
-
 *Powers of court in case of offences by registered firearms dealers*
 
-an offence under this Act or of an offence against the enactments relating to Customs in respect of the import or export of firearms or ammunition to which this Part applies, the court may order—
+**29.** Where a registered firearms dealer is convicted of an offence under this Act or of an offence against the enactments relating to Customs in respect of the import or export of firearms or ammunition to which this Part applies, the court may order—
 
 (a) that the name of the registered firearms dealer be removed from the register; and
 
@@ -704,31 +666,25 @@ an offence under this Act or of an offence against the enactments relating to Cu
 
 Provided that a person aggrieved by an order made under this section may appeal against the order in the same manner as against the conviction, and the court may, if it thinks fit, suspend the operation of the order pending the appeal.
 
-**30.** (1) No pawnbroker shall take in pawn from any
-
 *Penalty for taking in pawn or selling at public auction firearms or ammunition. [7 of 1966B]*
 
-person any firearm or ammunition to which this Part applies.
+**30.** (1) No pawnbroker shall take in pawn from any person any firearm or ammunition to which this Part applies.
 
 (2) No person shall sell by public auction any firearm or ammunition to which this Part applies.
 
 (3) If any person contravenes this section he shall be guilty of an offence.
 
-**31.** (1) This Part applies to all firearms as defined
-
 *Firearms and ammunition to which this Part applies.*
 
-in section except air guns, air rifles or air pistols, not being of a type prescribed to be specially dangerous, and the components parts thereof and accessories thereto.
+**31.** (1) This Part applies to all firearms as defined in section except air guns, air rifles or air pistols, not being of a type prescribed to be specially dangerous, and the components parts thereof and accessories thereto.
 
 (2) This Part applies to all ammunition as defined in section 2 except ammunition for an air gun, air rifle or air pistol.
 
 ## PART IV M ISCELLANEOUS P ROVISIONS A S T O F IREARMS A ND A MMUNITION
 
-**32.** (1) It shall not be lawful for any person without
-
 *Prohibited weapons and ammunition. [7 of 1966B 23 of 1991 6 of 1997 17 of 2007]*
 
-authority of the Minister to manufacture, sell, transfer, purchase, acquire, or have in his possession—
+**32.** (1) It shall not be lawful for any person without authority of the Minister to manufacture, sell, transfer, purchase, acquire, or have in his possession—
 
 (a) any firearm which is so designed or adapted that, if pressure is applied to the trigger, missiles continue to be discharged until pressure is removed from the trigger or the magazine containing the missiles is empty; or
 
@@ -790,19 +746,15 @@ first time in respect of any firearm or registered as a firearms dealer and, sav
 
 (2) If any person contravenes any provision of this section, he shall be guilty of an offence.
 
-**35.** (l) No person shall sell or transfer any firearm or
-
 *Prohibition of sale, etc., of firearms to drunk or insane persons*
 
-ammunition to, or repair, prove or test any firearm or ammunition for, any other person whom he knows or has reasonable ground for believing to be drunk or of unsound mind.
+**35.** (l) No person shall sell or transfer any firearm or ammunition to, or repair, prove or test any firearm or ammunition for, any other person whom he knows or has reasonable ground for believing to be drunk or of unsound mind.
 
 (2) If any person contravenes any provision of this section, he shall be guilty of an offence.
 
-**36.** (1) Subject to this section, a person who has been
-
 *Prohibition on certain persons convicted of crime purchasing or possessing firearms. [7 of 1966B] c. 8:01*
 
-sentenced to imprisonment for three months or upwards for any offence under the Criminal Law (Offences) Act or found guilty of committing any prescribed offence shall not, at any time during a period of five years from the date of his release or conviction, as the case may be, have a firearm or ammunition in his possession.
+**36.** (1) Subject to this section, a person who has been sentenced to imprisonment for three months or upwards for any offence under the Criminal Law (Offences) Act or found guilty of committing any prescribed offence shall not, at any time during a period of five years from the date of his release or conviction, as the case may be, have a firearm or ammunition in his possession.
 
 (2) Subject to this section, a person who—
 
@@ -818,17 +770,13 @@ keep the peace or to be of good behaviour, a condition of which is that he shall
 
 (5) If any person contravenes any provisions of this section, he shall be guilty of an offence.
 
-**37.** If any person has in his possession any firearm or
-
 *Penalty for possessing firearms with intent to injure. [7 of 1966B]*
 
-ammunition with intent by means thereof to endanger life or cause serious injury to property, or to enable any other person by means thereof to endanger life or cause serious injury to property he shall, whether any injury to person or property has been caused or not, be guilty of felony and on conviction on indictment shall be liable to imprisonment for life and to whipping or flogging.
-
-**38.** (1) If any person makes or attempts to make any
+**37.** If any person has in his possession any firearm or ammunition with intent by means thereof to endanger life or cause serious injury to property, or to enable any other person by means thereof to endanger life or cause serious injury to property he shall, whether any injury to person or property has been caused or not, be guilty of felony and on conviction on indictment shall be liable to imprisonment for life and to whipping or flogging.
 
 *Penalty for use and possession of firearm or*
 
-use whatsoever of a firearm with intent to resist or prevent the lawful apprehension or detention of himself or any other
+**38.** (1) If any person makes or attempts to make any use whatsoever of a firearm with intent to resist or prevent the lawful apprehension or detention of himself or any other
 
 *imitation firearms in certain cases. [7 of 1966B 17 of 2007]*
 
@@ -836,25 +784,19 @@ person, he shall be liable on conviction on indictment to a fine of not less tha
 
 Where any person commits an offence under this subsection in respect of the lawful apprehension or detention of himself for any other offence committed by him, he shall be liable to the penalty provided by this subsection in addition to any penalty to which he may be sentenced for that other offence.
 
-(2) If any person, at the time of his committing, or at the time of his apprehension for, any offence specified in
-
 *Third Schedule.*
 
-the Third Schedule, has in his possession any firearm or imitation firearm, he shall, unless he shows that he had it in his possession for a lawful object, be liable on conviction on indictment to imprisonment for seven years and to whipping or flogging in addition to any penalty to which he may be sentenced for the first-mentioned offence.
+(2) If any person, at the time of his committing, or at the time of his apprehension for, any offence specified in the Third Schedule, has in his possession any firearm or imitation firearm, he shall, unless he shows that he had it in his possession for a lawful object, be liable on conviction on indictment to imprisonment for seven years and to whipping or flogging in addition to any penalty to which he may be sentenced for the first-mentioned offence.
 
 (3) If on the trial of any person for an offence under subsection (1) the jury are not satisfied that that person is guilty of that offence but are satisfied that he is guilty of an offence under subsection (2), the jury may find him guilty of the offence under the said subsection (2), and thereupon he shall be liable to be punished accordingly.
 
-(4) Where an adult within the meaning of
-
 *c.10:02*
 
-section 2 of the Summary Jurisdiction (Procedure) Act is charged before a court of summary jurisdiction with an offence specified in the First Schedule to that Act and is also charged before that court with an offence under subsection (1) or subsection (2) of this section, then notwithstanding anything in section 61 of the said Act the court shall not have power to deal summarily with the first-mentioned offence if the defendant is committed for trial in respect of the offence under this section.
-
-(5) A firearm or imitation firearm shall, notwithstanding that it is not loaded or is otherwise incapable of discharging any shot, bullet or other missile, be deemed to be an offensive weapon or instrument for the purpose of section 222 (c) of the Criminal Law (Offences) Act
+(4) Where an adult within the meaning of section 2 of the Summary Jurisdiction (Procedure) Act is charged before a court of summary jurisdiction with an offence specified in the First Schedule to that Act and is also charged before that court with an offence under subsection (1) or subsection (2) of this section, then notwithstanding anything in section 61 of the said Act the court shall not have power to deal summarily with the first-mentioned offence if the defendant is committed for trial in respect of the offence under this section.
 
 *c.8:01*
 
-and section 227(1) (a) of the said Act.
+(5) A firearm or imitation firearm shall, notwithstanding that it is not loaded or is otherwise incapable of discharging any shot, bullet or other missile, be deemed to be an offensive weapon or instrument for the purpose of section 222 (c) of the Criminal Law (Offences) Act and section 227(1) (a) of the said Act.
 
 (6) In this section—
 
@@ -936,11 +878,9 @@ premises or place for the purpose of ascertaining pursuant to the reasonable req
 
 (2) Any power exercisable by a policeman not below the rank of inspector in respect of any place or premises under subsection (1) may be exercised by a policeman below that rank if he is in charge of the police station nearest to such place or premises.
 
-**41B.** (1) Subject to subsection (3) it shall be lawful
-
 *Power to stop and search for firearms, ammunition, explosive, etc. in street. [23 of 1991]*
 
-for any policeman to stop and search any person whom he finds in any street or other public place and reasonably suspects of having any firearm, ammunition or explosive in his possession contrary to section 16 or of having committed or being about to commit any other offence prejudicial to public safety or order.
+**41B.** (1) Subject to subsection (3) it shall be lawful for any policeman to stop and search any person whom he finds in any street or other public place and reasonably suspects of having any firearm, ammunition or explosive in his possession contrary to section 16 or of having committed or being about to commit any other offence prejudicial to public safety or order.
 
 (2) A policeman acting under subsection (1) may seize and detain any firearm, ammunition, explosive or other article found in the person’s possession, custody or control and in respect of which or in connection with which he has reasonable grounds for suspecting any offence referred to in that subsection has been or is about to be committed.
 
@@ -950,11 +890,9 @@ for any policeman to stop and search any person whom he finds in any street or o
 
 **41C.** Any firearm, ammunition, explosive or other article seized and detained by a policeman as mentioned in the foregoing provisions of this Part, or any explosive found by him without apparent owner, may be retained for as long as is necessary for the purpose of any examination, investigation, inquiries or legal proceedings; and a judge or magistrate may, upon application made in such proceedings, direct such firearm, ammunition or explosive to be forfeited or otherwise disposed of as he considers just.
 
-**41D.** No person who surrenders any firearm,
-
 *Power to order amnesty. [23 of 1991]*
 
-ammunition or explosive during any period prescribed by order of the Minister, and otherwise in accordance with such order, shall be prosecuted under this Act for illegally purchasing, acquiring or possessing such firearm, ammunition or explosive prior to the time of such surrender or at that time.
+**41D.** No person who surrenders any firearm, ammunition or explosive during any period prescribed by order of the Minister, and otherwise in accordance with such order, shall be prosecuted under this Act for illegally purchasing, acquiring or possessing such firearm, ammunition or explosive prior to the time of such surrender or at that time.
 
 *Time for commencing summary proceedings under this Act.*
 
@@ -962,9 +900,15 @@ ammunition or explosive during any period prescribed by order of the Minister, a
 
 Provided that no such proceeding shall be instituted after the expiration of the period of six months after the commission of the offence, unless they are instituted by, or by the direction of, the Director of Public Prosecutions.
 
-*Service of notices.*
+*to*
 
-**43.** Any notice required or authorised by this Act to be given to any person may be sent by registered post in a letter addressed to him at his last or usual place of abode, or, in the case of a registered firearms dealer, at any place of business in respect of which he is registered.
+*Service of*
+
+*a*
+
+*notices.*
+
+**43.** Any notice required or authorised by this Act be given to any person may be sent by registered post in letter addressed to him at his last or usual place of abode, or, in the case of a registered firearms dealer, at any place of business in respect of which he is registered.
 
 *General penalty. [7of 1966 B 23 of 1991 6 of 1997 17 of 2007]*
 
@@ -974,11 +918,9 @@ Provided that no such proceeding shall be instituted after the expiration of the
 
 **44A.** No person arrested for any offence under section 16, section 37 or section 38 shall be admitted to bail, unless the prosecution has had an opportunity to intervene and unless there are special reasons for admitting the person to bail which shall be recorded in writing and the trial shall be within reasonable time.
 
-**45.** (1) The Minister may make regulations for any
-
 *Power to Minister to make regulations (4 of 1945)*
 
-of the following purposes—
+**45.** (1) The Minister may make regulations for any of the following purposes—
 
 (a) prescribing the form of firearm licence and of all other documents required by this Act;
 
@@ -1026,11 +968,13 @@ made under section 31
 
 (8) BSA Major .177 air rifle.
 
-*Reg. 42/1940 15/1945 26/1947 5/1951 36/1951 1/1952 21/1954 4 of 1972*
+*Reg. 42/1940*
 
 Firearms Regulations FIREARMS REGULATIONS
 
 made under section 45
+
+*1/1952 21/1954 4 of 1972*
 
 *Citation.*
 
@@ -1042,11 +986,9 @@ made under section 45
 
 *Prescribed authorities.*
 
-**3.** For the purposes, of sections 18, 19, 20, 27 and 40 of the Act, the prescribed officer for every police division
-
 *[4 of 1972] c. 16:01*
 
-(within the meaning of the Police Act) shall be the police officer for the time being in command of the police in that division and any police officer under his command not below the rank of assistant superintendent.
+**3.** For the purposes, of sections 18, 19, 20, 27 and 40 of the Act, the prescribed officer for every police division (within the meaning of the Police Act) shall be the police officer for the time being in command of the police in that division and any police officer under his command not below the rank of assistant superintendent.
 
 *Prescribed port under section*
 
@@ -1058,13 +1000,9 @@ made under section 45
 
 (b) the prescribed aerodrome shall be the Cheddi Jagan International Airport.
 
-*Particulars for*
+*Particulars for registration as firearms dealer.*
 
-**5.** The particulars to be furnished by an applicant for
-
-*firearms dealer.*
-
-registration as registration as a firearms dealer under section 26 of the Act shall be—
+**5.** The particulars to be furnished by an applicant for registration as a firearms dealer under section 26 of the Act shall be—
 
 (a) name of applicant, in full;
 
@@ -1152,11 +1090,9 @@ FIREARMS (LICENSING) REGULATIONS made under section 45
 
 Interpretation.
 
-“Commissioner” has the same meaning assigned to it under
-
 *Cap. 16:01*
 
-the Police Act.
+“Commissioner” has the same meaning assigned to it under the Police Act.
 
 ### GRANT OF FIREARM LICENCE
 

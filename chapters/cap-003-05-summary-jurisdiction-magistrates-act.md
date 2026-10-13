@@ -480,11 +480,9 @@ shall be liable to a fine of nineteen thousand five hundred dollars or to impris
 
 *Civil Jurisdiction. [4 of 1972]*
 
-**31.** The court in each district shall, in civil causes and matters within that district, have the jurisdiction and powers prescribed in, and shall exercise such jurisdiction and powers
-
 *c. 7:01*
 
-in the manner provided by, the Summary Jurisdiction (Petty Debt) Act.
+**31.** The court in each district shall, in civil causes and matters within that district, have the jurisdiction and powers prescribed in, and shall exercise such jurisdiction and powers in the manner provided by, the Summary Jurisdiction (Petty Debt) Act.
 
 *Criminal jurisdiction. [14 of 1988 15 of 1988]*
 
@@ -516,11 +514,9 @@ Protection and Maintenance of Married Persons
 
 **34.** (1) A married person may apply by way of complaint to the court of the magisterial district in which a conviction has taken place or the cause of the complaint has wholly or partially arisen for an order or orders under section 36 against the other party to the marriage, that is to say that the defendant –
 
-(a) has been convicted summarily of an aggravated assault upon the complainant within the meaning of section 22 of the Summary
-
 *c.8:02*
 
-Jurisdiction (Offences) Act;
+(a) has been convicted summarily of an aggravated assault upon the complainant within the meaning of section 22 of the Summary Jurisdiction (Offences) Act;
 
 (b) while knowingly suffering from a venereal disease has insisted on, or has without the complainant being aware of the presence of the venereal disease permitted, sexual intercourse between the complainant and the defendant;
 
@@ -724,11 +720,9 @@ responsible for finance may make regulations and prescribe forms for carrying in
 
 *Appeal. [19 of 1990]*
 
-**53.** Save as is hereinbefore provided, an appeal shall lie from any order, or the refusal of any order, by a magistrate under section 36 to the High Court, and the appeal shall be regulated in all respects by the Summary Jurisdiction
-
 *c. 3:04*
 
-(Appeals) Act.
+**53.** Save as is hereinbefore provided, an appeal shall lie from any order, or the refusal of any order, by a magistrate under section 36 to the High Court, and the appeal shall be regulated in all respects by the Summary Jurisdiction (Appeals) Act.
 
 *When poor relief given to married woman or married man. [10 of 1990] c. 36:02 c.45:03*
 
@@ -806,11 +800,9 @@ magistrate, may, by public oral notice, adjourn the sitting until the time commu
 
 *In criminal jurisdiction.*
 
-(b) The practice and procedure of the court in its criminal jurisdiction shall be regulated, in respect of summary conviction offences, by the Summary Jurisdiction (Procedure) Act, and by any other written law relating thereto
-
 *c. 10:02*
 
-and in respect of indictable offences, by any written law relating to those offences.
+(b) The practice and procedure of the court in its criminal jurisdiction shall be regulated, in respect of summary conviction offences, by the Summary Jurisdiction (Procedure) Act, and by any other written law relating thereto and in respect of indictable offences, by any written law relating to those offences.
 
 *Procedure in interpleader.*
 
@@ -910,7 +902,9 @@ Rules of Practice
 
 ## SCHEDULE
 
-TABLES OF FEES AND COSTS TABLE A Fees and costs payable in respect of proceedings for recovery of petty debts and petty damages
+*recovery*
+
+TABLES OF FEES AND COSTS TABLE A Fees and costs payable in respect of proceedings for of petty debts and petty damages
 
 *$ c*
 
@@ -1068,7 +1062,9 @@ With respect to any matter not provided for in
 
 this Table, the court or a magistrate may award for the services of counsel such reasonable fee, commensurate with the services performed, not exceeding $150.00, as it or he shall deem just.
 
-TABLE B Fees and costs payable in respect of proceedings in relation to summary conviction offences
+*to*
+
+TABLE B Fees and costs payable in respect of proceedings in relation summary conviction offences
 
 *$ c*
 
@@ -1400,9 +1396,9 @@ And the complainant further saith that there is payable to the said ............
 
 And the complainant therefore prays that an order be made
 
-**
+* Set out*
 
-Set out particulars of pension or income.
+particulars of pension or income.
 
 that the sum of † or such part thereof as the court may order may each week be attached out of the said pension (income) and paid to the collecting officer for the said Magisterial District.
 
@@ -1422,9 +1418,9 @@ Whereas complaint has been made upon oath before me on the..................day 
 
 (Signed)..................................... Magistrate
 
-*†*
+*Insert †*
 
-Insert amount of weekly sum payable under maintenance order.
+amount of weekly sum payable under maintenance order.
 
 ### F ORM 5
 
@@ -1658,7 +1654,9 @@ Signed).....................................
 
 **27.** Action on writs from other districts.
 
-### IV. MONEYS PAID INTO COURT UNDER A JUDGEMENT ORDER OR OTHERWISE
+*IV.*
+
+### MONEYS PAID INTO COURT UNDER A JUDGEMENT ORDER OR OTHERWISE
 
 **28.** Payment of moneys paid in under a judgement order or otherwise.
 
@@ -1712,11 +1710,9 @@ made under section 75
 
 **4.** In accordance with the provisions of section 71 of the Summary Jurisdiction (Magistrates) Act, all fees and costs shall be collected in money except where otherwise specifically provided by any Act.
 
-**5.** No money shall be collected in respect of any
-
 *No money to be collected in respect of free process. [Reg. 22/11/1937]*
 
-document or instrument which is by law ordered to be free of costs or in respect of any process issued free by the magistrate. In all such cases the exemption from costs and the reason for such exemption shall be noted by the magistrate on such document, instrument or process.
+**5.** No money shall be collected in respect of any document or instrument which is by law ordered to be free of costs or in respect of any process issued free by the magistrate. In all such cases the exemption from costs and the reason for such exemption shall be noted by the magistrate on such document, instrument or process.
 
 *Receipts to be made out for all money received. [Reg. 22/11/1937]*
 
@@ -1748,11 +1744,9 @@ Provided that where the Minister responsible for finance so directs, receipts sh
 
 *Summonses in*
 
-**11.** Subject to the provisions of Part II of the
-
 *proceedings.*
 
-Summary Jurisdiction (Petty Debt) Act, summonses in civil proceedings shall be made out in duplicate and one copy thereof shall be filed in the case jacket with a copy of the
+**11.** Subject to the provisions of Part II of the Summary Jurisdiction (Petty Debt) Act, summonses in civil proceedings shall be made out in duplicate and one copy thereof shall be filed in the case jacket with a copy of the
 
 plaint.
 
@@ -2012,11 +2006,11 @@ I. Generally
 
 II. Person Under Disability
 
-**12.** Infants.
+Infants.
 
-**13.** Married women.
+Married women.
 
-**14.** Lunatics and persons of unsound mind.
+Lunatics and persons of unsound mind.
 
 ### RULE
 
@@ -2184,7 +2178,7 @@ Court may impose terms.
 
 Where judgment in favour of defendant in selected
 
-### RULE
+*RULE*
 
 action.
 
@@ -2718,7 +2712,7 @@ Claim for damages may be made.
 
 The security for the value of the goods.
 
-### RULE
+*RULE*
 
 **10.** Summary disposal of interpleader claim.
 
@@ -2744,9 +2738,7 @@ The security for the value of the goods.
 
 **8.** Form of judgment where such a defendant admits his character and plaintiff’s demand, alleges administration and proves it.
 
-**9.** Form of judgment to levy upon assets, quando acciderint.
-
-**10.** Executor or administrator required to pay sum of money into court in certain circumstances.
+Form of judgment to levy upon assets, quando acciderint. Executor or administrator required to pay sum of money into court in certain circumstances.
 
 Plaintiff’s costs where executor or administrator fails as
 
@@ -2888,11 +2880,9 @@ RULES made under section 78 C IVIL P ROCEDURE
 
 **2.** (1) In these Rules—
 
-“action” means every proceeding in the court which may be commenced by plaint under section 8 of the Summary
-
 *c. 7:01*
 
-Jurisdiction (Petty Debt) Act or under any Act, or under these Rules;
+“action” means every proceeding in the court which may be commenced by plaint under section 8 of the Summary Jurisdiction (Petty Debt) Act or under any Act, or under these Rules;
 
 “authorised process-server” with reference to the service of any summons of the court means any person who has authority or who may be authorised, to serve summonses under the Act;
 
@@ -2972,11 +2962,9 @@ person except a person having lawful business therewith.
 
 *Copies of documents, how made.*
 
-**5.** Subject to these Rules, copies of all minutes of evidence, proceedings, or documents in the custody of the court or its officers shall be prepared by the clerk for any party entitled to receive the same, upon pre-payment of the costs of such copies. A copy of any minutes of evidence, proceedings, or record in a case heard before the court, other than a copy thereof required to be transmitted to the Registrar
-
 *c. 3:04*
 
-under the Summary Jurisdiction (Appeals) Act, shall not be given off to any person except with the consent of the magistrate.
+**5.** Subject to these Rules, copies of all minutes of evidence, proceedings, or documents in the custody of the court or its officers shall be prepared by the clerk for any party entitled to receive the same, upon pre-payment of the costs of such copies. A copy of any minutes of evidence, proceedings, or record in a case heard before the court, other than a copy thereof required to be transmitted to the Registrar under the Summary Jurisdiction (Appeals) Act, shall not be given off to any person except with the consent of the magistrate.
 
 *Execution and service of warrants, writs, etc., to be expeditious.*
 
@@ -3062,11 +3050,9 @@ to prevent any defendant from being embarrassed or put to expense by being requi
 
 *Where defendant desires to defend on behalf of others*
 
-**8.** When a defendant desires to defend on behalf or for the benefit of others having the same interest, he shall apply to the court or a magistrate for leave so to defend, on an affidavit of the facts upon which he relies to obtain such leave, together with the names, addresses, and occupations of such persons; and the court may thereupon make an order for the defendant so to defend, and the names of the persons as to whom such order is made shall be added to that defendant, in the plaint, Record Book of Causes, and other proceedings; and a copy of such order, with a copy of the summons particulars
-
 *Form 1.*
 
-in the action, and a notice in Form 1, shall be served personally upon each of such persons, and a notice shall be sent to the plaintiff in accordance with Form 2:
+**8.** When a defendant desires to defend on behalf or for the benefit of others having the same interest, he shall apply to the court or a magistrate for leave so to defend, on an affidavit of the facts upon which he relies to obtain such leave, together with the names, addresses, and occupations of such persons; and the court may thereupon make an order for the defendant so to defend, and the names of the persons as to whom such order is made shall be added to that defendant, in the plaint, Record Book of Causes, and other proceedings; and a copy of such order, with a copy of the summons particulars in the action, and a notice in Form 1, shall be served personally upon each of such persons, and a notice shall be sent to the plaintiff in accordance with Form 2:
 
 Provided that the plaintiff or any of the persons whose
 
@@ -3094,11 +3080,9 @@ II. Persons Under Disability
 
 *Infants.*
 
-**12.** Infants may sue as plaintiffs by their next friends and may defend by their guardians appointed for that purpose; but nothing herein contained shall affect the right of any infant to sue as if he were of full age in the cases
-
 *c. 7:01*
 
-enumerated in section 6 of the Summary Jurisdiction (Petty Debt) Act.
+**12.** Infants may sue as plaintiffs by their next friends and may defend by their guardians appointed for that purpose; but nothing herein contained shall affect the right of any infant to sue as if he were of full age in the cases enumerated in section 6 of the Summary Jurisdiction (Petty Debt) Act.
 
 *Married women.*
 
@@ -3190,11 +3174,9 @@ Provided that the total amount claimed does not exceed the sum which may be reco
 
 **6.** Where an infant desires to commence an action (other than for infant to sue wages, or piece-work, or for work as a servant), or is a claimant in an interpleader proceeding, he shall sue by a next friend, and the full names, occupation or description, and residence or place of business of the next
 
-friend shall be stated in the plaint; and such next friend shall, at the time of entering the plaint, either attend at the office of
-
 *Form 3.*
 
-the clerk and in his presence give an undertaking in Form 3, to be responsible for costs, or transmit such an undertaking to the clerk; and if such undertaking is not given at the office of the clerk, it shall be attested by a notary public, a commissioner for oaths to affidavits, or a justice of the peace to whom the person giving the undertaking is personally known.
+friend shall be stated in the plaint; and such next friend shall, at the time of entering the plaint, either attend at the office of the clerk and in his presence give an undertaking in Form 3, to be responsible for costs, or transmit such an undertaking to the clerk; and if such undertaking is not given at the office of the clerk, it shall be attested by a notary public, a commissioner for oaths to affidavits, or a justice of the peace to whom the person giving the undertaking is personally known.
 
 *Liability of next friend for costs.*
 
@@ -3322,11 +3304,9 @@ such order is complied with within such further time as the court may order, and
 
 *Security for costs where plaintiff does not reside in Guyana.*
 
-**13.** Where it appears on the plaint in any action or matter, or in any interpleader proceedings, that the plaintiff does not reside in Guyana, the summons shall not be issued until security for costs, by deposit of money or otherwise, has been given to the satisfaction of the clerk. Where the plaint is
-
 *Form 4.*
 
-entered through counsel, an under- taking by him, in Form 4, to be responsible for the costs shall be sufficient. If the plaintiff fails in or discontinues his action, matter, or interpleader proceedings, and does not pay the amount of any costs ordered to be paid by him to the defendant, the same proceedings may be taken by writ of execution for the recovery of the amount of such costs from him, or from his counsel if the latter has given the undertaking, as for the recovery of a judgment debt.
+**13.** Where it appears on the plaint in any action or matter, or in any interpleader proceedings, that the plaintiff does not reside in Guyana, the summons shall not be issued until security for costs, by deposit of money or otherwise, has been given to the satisfaction of the clerk. Where the plaint is entered through counsel, an under- taking by him, in Form 4, to be responsible for the costs shall be sufficient. If the plaintiff fails in or discontinues his action, matter, or interpleader proceedings, and does not pay the amount of any costs ordered to be paid by him to the defendant, the same proceedings may be taken by writ of execution for the recovery of the amount of such costs from him, or from his counsel if the latter has given the undertaking, as for the recovery of a judgment debt.
 
 *Person temporarily resident only may be required to give security.*
 
@@ -3346,11 +3326,9 @@ Service
 
 *Period between entry of plaint and return day.*
 
-**3.** Unless with the leave of the magistrate, the return day stated in the summons to appear, shall be a day not less than seven clear days after the date of entering the plaint, and service shall be effected in accordance with section 11 of the
-
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act.
+**3.** Unless with the leave of the magistrate, the return day stated in the summons to appear, shall be a day not less than seven clear days after the date of entering the plaint, and service shall be effected in accordance with section 11 of the Summary Jurisdiction (Petty Debt) Act.
 
 *Amending the summons in case of non-service from mis-statement of particulars.*
 
@@ -3472,17 +3450,13 @@ defendant as practicable.
 
 *Time for making appointment of guardian ad litem.*
 
-(a) At any time after the service of the summons, a guardian ad litem to such infant or person of unsound mind may be appointed by the court or a magistrate on application made to it or him on behalf of such infant or person of unsound mind, on affidavit
-
 *Form 7.*
 
-in accordance with Form 7 in the Appendix, accompanied by a written consent of the proposed guardian to act as such guardian.
-
-(b) Where such appointment is made, the clerk shall forthwith send notice of such appointment to the plaintiff, in
+(a) At any time after the service of the summons, a guardian ad litem to such infant or person of unsound mind may be appointed by the court or a magistrate on application made to it or him on behalf of such infant or person of unsound mind, on affidavit in accordance with Form 7 in the Appendix, accompanied by a written consent of the proposed guardian to act as such guardian.
 
 *Form 8.*
 
-accordance with Form 8 in the Appendix.
+(b) Where such appointment is made, the clerk shall forthwith send notice of such appointment to the plaintiff, in accordance with Form 8 in the Appendix.
 
 (c) Where no application for a guardian ad litem is made on behalf of the infant or person of unsound mind up to the day of hearing the clerk shall notify to the court and to the plaintiff that no such application has been made.
 
@@ -3500,11 +3474,9 @@ Provided that the magistrate shall have the power, at any time before the hearin
 
 (a) If on any defendant appearing at the hearing it appears that such defendant is an infant, and such defendant names a person as his guardian who then assents so to act, such person shall be appointed
 
-guardian accordingly; but if the defendant does not name a guardian, the court may appoint as guardian any person in court who is willing to act as such guardian; or in default of any such person the court may appoint the clerk to act as guardian; and the action or matter shall thenceforth proceed as if the infant had named a guardian, and the order by which the guardian is appointed shall, if drawn up, be in accordance
-
 *Form 9. Form 10.*
 
-with one of the Forms 9 and 10 in the Appendix which is appropriate to the case.
+guardian accordingly; but if the defendant does not name a guardian, the court may appoint as guardian any person in court who is willing to act as such guardian; or in default of any such person the court may appoint the clerk to act as guardian; and the action or matter shall thenceforth proceed as if the infant had named a guardian, and the order by which the guardian is appointed shall, if drawn up, be in accordance with one of the Forms 9 and 10 in the Appendix which is appropriate to the case.
 
 (b) In any other case, on its being made to appear that any defendant is an infant or person of unsound mind not so found by inquisition, a guardian ad litem to such defendant may be appointed on application made on behalf of such defendant in accordance with paragraphs (1) and
 
@@ -3540,11 +3512,9 @@ Transfers
 
 *Stay of actions for same cause against several defendants till*
 
-**2.** Where several actions are brought by different plaintiffs against the same defendant in the same court for or in respect of causes of action arising out of the same breach of contract, wrong, or other circumstances, the defendant may,
-
 *given in selected action.*
 
-on filing an undertaking to be bound so far as his liability in the said several actions is concerned by the decision in such one of the said actions as may be selected by the court or a magistrate, apply to the court or a magistrate for an order to
+**2.** Where several actions are brought by different plaintiffs against the same defendant in the same court for or in respect of causes of action arising out of the same breach of contract, wrong, or other circumstances, the defendant may, on filing an undertaking to be bound so far as his liability in the said several actions is concerned by the decision in such one of the said actions as may be selected by the court or a magistrate, apply to the court or a magistrate for an order to
 
 stay the proceedings in the actions other than the one so selected, until judgment is given in such selected action.
 
@@ -3558,19 +3528,15 @@ stay the proceedings in the actions other than the one so selected, until judgme
 
 *Where judgment in favour of defendant in selected action.*
 
-**5.** If judgment in a selected action under rule 2 of this Part is given in favour of the defendant, the defendant shall be entitled to his costs up to the date of the order staying proceedings against every other plaintiff whose action is stayed, unless such plaintiff gives the clerk notice in writing to set down his action for hearing. On such judgment being given, the clerk shall forthwith send to every other plaintiff a
-
 *Form 11.*
 
-notice in accordance with Form 11 in the Appendix, and if any such plaintiff within fourteen days from the date of such notice gives to the clerk notice in writing to set down his action for hearing, the clerk shall obtain from the magistrate the appointment of a day for the hearing, and send to both plaintiff and defendant notice of the day so appointed at least seven clear days before such day.
+**5.** If judgment in a selected action under rule 2 of this Part is given in favour of the defendant, the defendant shall be entitled to his costs up to the date of the order staying proceedings against every other plaintiff whose action is stayed, unless such plaintiff gives the clerk notice in writing to set down his action for hearing. On such judgment being given, the clerk shall forthwith send to every other plaintiff a notice in accordance with Form 11 in the Appendix, and if any such plaintiff within fourteen days from the date of such notice gives to the clerk notice in writing to set down his action for hearing, the clerk shall obtain from the magistrate the appointment of a day for the hearing, and send to both plaintiff and defendant notice of the day so appointed at least seven clear days before such day.
 
 *Where judgement given against defendant in selected action.*
 
-**6.** If judgment in a selected action is given in favour of the plaintiff, where the plaintiffs in the actions stayed shall be at liberty to proceed for the purpose of ascertaining and recovering their debts or damages and defendant in costs. On such judgment being given, the clerk shall forthwith send to
-
 *Form 12.*
 
-each such plaintiff a notice in accordance with Form 12 in the Appendix, and a plaintiff desiring to proceed shall within fourteen days from the date of such notice give to the clerk notice in writing to set down his action for hearing, and on receipt of such notice the clerk shall obtain from the magistrate the appointment of a day for the hearing, and send
+**6.** If judgment in a selected action is given in favour of the plaintiff, where the plaintiffs in the actions stayed shall be at liberty to proceed for the purpose of ascertaining and recovering their debts or damages and defendant in costs. On such judgment being given, the clerk shall forthwith send to each such plaintiff a notice in accordance with Form 12 in the Appendix, and a plaintiff desiring to proceed shall within fourteen days from the date of such notice give to the clerk notice in writing to set down his action for hearing, and on receipt of such notice the clerk shall obtain from the magistrate the appointment of a day for the hearing, and send
 
 to both plaintiff and defendant notice of the day so appointed at least seven clear days before such day.
 
@@ -3622,11 +3588,9 @@ Provided that if the admission is not so delivered it may be delivered at any ti
 
 *Notice of such admission to plaintiff.*
 
-**4.** The clerk shall, as soon as reasonable after the receipt of the admission (if it is delivered in time for his so doing) send notice thereof to the plaintiff in accordance with
-
 *Form 13A. Form 13B.*
 
-one of the Forms 13A and 13B in the Appendix which is appropriate to the case.
+**4.** The clerk shall, as soon as reasonable after the receipt of the admission (if it is delivered in time for his so doing) send notice thereof to the plaintiff in accordance with one of the Forms 13A and 13B in the Appendix which is appropriate to the case.
 
 *Plaintiff’s election to*
 
@@ -3666,11 +3630,9 @@ court shall, on the return day or any other day to which the hearing of the acti
 
 *Agreement as to amount of debt and terms of payment.*
 
-**12.** If the plaintiff and the defendant in any action can agree as to the amount payable in respect of the claim and the terms and conditions upon which the amount is to be paid, they may sign an agreement in accordance with Form 14 in
-
 *Form 14.*
 
-the Appendix and deliver the same to the clerk.
+**12.** If the plaintiff and the defendant in any action can agree as to the amount payable in respect of the claim and the terms and conditions upon which the amount is to be paid, they may sign an agreement in accordance with Form 14 in the Appendix and deliver the same to the clerk.
 
 *Agreement as to amount of costs.*
 
@@ -3678,11 +3640,9 @@ the Appendix and deliver the same to the clerk.
 
 *Entering*
 
-**14.** The court or a magistrate may, on any such agreement being delivered to the clerk, enter judgment for the
-
 *thereon.*
 
-amount agreed upon and the costs agreed upon and
+**14.** The court or a magistrate may, on any such agreement being delivered to the clerk, enter judgment for the amount agreed upon and the costs agreed upon and
 
 approved, and order payment of the same upon the terms and conditions mentioned in the agreement, or if the amounts of the costs have not been agreed upon and approved, may enter judgment for the amount agreed upon and the costs properly incurred by the plaintiff in relation to that amount, and order payment of the same on the terms and conditions mentioned in the agreement.
 
@@ -3700,11 +3660,9 @@ Provided that the plaintiff shall be entitled, notwithstanding such admission, t
 
 **17.** Any party may by notice in writing in accordance with Form 16 in the Appendix, at any time not later than four clear days before the day of hearing, call on any other party to admit, for the purposes of the action, matter, or issue only, any specific fact or facts mentioned in such notice. And in case
 
-of refusal or neglect to admit the same by the delivery of a written admission of the fact or facts as aforesaid in
-
 *Form 17.*
 
-accordance with Form 17 not less than two days clear before the day of hearing, the costs of proving such fact or facts shall be paid by the party so neglecting or refusing, whatever the result of the action, matter, or issue may be, unless at the hearing the court certifies that the refusal to admit was reasonable, or unless the court at any time otherwise orders:
+of refusal or neglect to admit the same by the delivery of a written admission of the fact or facts as aforesaid in accordance with Form 17 not less than two days clear before the day of hearing, the costs of proving such fact or facts shall be paid by the party so neglecting or refusing, whatever the result of the action, matter, or issue may be, unless at the hearing the court certifies that the refusal to admit was reasonable, or unless the court at any time otherwise orders:
 
 Provided that:
 
@@ -3720,19 +3678,15 @@ Provided that:
 
 **19.** A defendant in any action or matter may pay into court without a denial of liability at least two clear days before the return day such sum of money as he shall think a full satisfaction for the demand of the plaintiff, together with the costs incurred by the plaintiff up to the time of such payment; and every such payment shall be taken to admit pro tanto the plaintiff’s claim. Notice of such payment shall be
 
-communicated by the clerk to the plaintiff in manner
-
 *c. 7:01*
 
-provided by section 13(2) of the Summary Jurisdiction (Petty Debt) Act. Any sum so paid into court shall be paid to the plaintiff, but if the plaintiff shall elect to proceed and shall recover no further sum in the action than shall have been so paid into court, he shall pay to the defendant the costs incurred by the defendant in the said action after such payment. Such costs shall be settled by the court, and an order shall thereupon be made by the court for the payment by the plaintiff of those costs with or without any compensation which the court may award under subsection (3) of the aforesaid section.
+communicated by the clerk to the plaintiff in manner provided by section 13(2) of the Summary Jurisdiction (Petty Debt) Act. Any sum so paid into court shall be paid to the plaintiff, but if the plaintiff shall elect to proceed and shall recover no further sum in the action than shall have been so paid into court, he shall pay to the defendant the costs incurred by the defendant in the said action after such payment. Such costs shall be settled by the court, and an order shall thereupon be made by the court for the payment by the plaintiff of those costs with or without any compensation which the court may award under subsection (3) of the aforesaid section.
 
 *Payment into court with a denial of liability.*
 
-**20.** A defendant who desires to pay money into court with a denial of liability in respect of the plaintiff’s claim shall pay the same two clear days at least before the return day and in such case shall at the time of paying the money into court
-
 *Form 18.*
 
-deliver to the clerk a notice in accordance with Form 18, stating his name and address, and further stating that notwithstanding such payment the defendant denies his liability; the defendant shall also pay into court in respect of the costs (if any) a sum proportionate to the amount paid in respect of the claim, unless the payment into court is made under a defence of tender, in which case he may make such payment without costs.
+**20.** A defendant who desires to pay money into court with a denial of liability in respect of the plaintiff’s claim shall pay the same two clear days at least before the return day and in such case shall at the time of paying the money into court deliver to the clerk a notice in accordance with Form 18, stating his name and address, and further stating that notwithstanding such payment the defendant denies his liability; the defendant shall also pay into court in respect of the costs (if any) a sum proportionate to the amount paid in respect of the claim, unless the payment into court is made under a defence of tender, in which case he may make such payment without costs.
 
 *Clerk’s notice to plaintiff of payment into court with denial of liability.*
 
@@ -3748,11 +3702,9 @@ deliver to the clerk a notice in accordance with Form 18, stating his name and a
 
 *Acceptance of amount paid in satisfaction of claim.*
 
-**24.** (1) If the plaintiff elects to accept in satisfaction of his claim the money paid into court by the defendant, whether the same has been paid in due time or not, or with or without costs, or with or without a notice of denial of liability, he shall send to the clerk and to the defendant, or leave at the office of the clerk or at the defendant’s dwelling or place of business or at the address for service of his counsel a written
-
 *Form 19.*
 
-notice in accordance with Form 19 in the Appendix, stating such acceptance, within such reasonable time before the return day as the time of payment by the defendant will permit.
+**24.** (1) If the plaintiff elects to accept in satisfaction of his claim the money paid into court by the defendant, whether the same has been paid in due time or not, or with or without costs, or with or without a notice of denial of liability, he shall send to the clerk and to the defendant, or leave at the office of the clerk or at the defendant’s dwelling or place of business or at the address for service of his counsel a written notice in accordance with Form 19 in the Appendix, stating such acceptance, within such reasonable time before the return day as the time of payment by the defendant will permit.
 
 (2) Thereupon the action shall abate, except as herein provided, and the plaintiff shall not be liable to any costs incurred by the defendant after receiving such notice.
 
@@ -3770,11 +3722,9 @@ notice in accordance with Form 19 in the Appendix, stating such acceptance, with
 
 (a) If the plaintiff recovers an amount in excess of the amount paid into court, he shall, unless the court otherwise orders, be entitled to costs on the amount of the excess and judgment shall be entered only for the amount of such excess together with costs applicable to the total amount recovered, and in any such case the words ‚in addition to the sum of $ paid into court by the defendant‛ shall be added to the judgment entered.
 
-(b) If the plaintiff fails to recover any sum in excess of the amount so paid into
-
 *c. 7:01*
 
-court, section 13 of the Summary Jurisdiction (Petty Debt) Act and rule 19 of this Part shall apply. The defendant’s costs shall be assessed with reference to the amount remaining in dispute after the date of
+(b) If the plaintiff fails to recover any sum in excess of the amount so paid into court, section 13 of the Summary Jurisdiction (Petty Debt) Act and rule 19 of this Part shall apply. The defendant’s costs shall be assessed with reference to the amount remaining in dispute after the date of
 
 the payment into court.
 
@@ -3822,11 +3772,9 @@ magistrate may, upon application by any party, make such order as may appear to 
 
 (c) In any such case, the court may, in its discretion order the defendant to pay such costs, beyond the costs (if any) paid to the plaintiff by the defendant, as the plaintiff may have properly incurred before the receipt of the money so paid, and in attending the court to obtain the order for the same.
 
-(d) If the plaintiff intends to apply for such costs, he shall give notice of his
-
 *Form 19.*
 
-intention in accordance with Form 19 in the Appendix as required by rule 24 (4) of this Part, or where the time of payment to the plaintiff by the defendant does not permit of notice of acceptance being given, the plaintiff may apply for such costs without giving such notice.
+(d) If the plaintiff intends to apply for such costs, he shall give notice of his intention in accordance with Form 19 in the Appendix as required by rule 24 (4) of this Part, or where the time of payment to the plaintiff by the defendant does not permit of notice of acceptance being given, the plaintiff may apply for such costs without giving such notice.
 
 Where the plaintiff has not given
 
@@ -3840,11 +3788,9 @@ notice of acceptance in accordance with paragraph (a), he may nevertheless accep
 
 *Payment out of court.*
 
-**33.** Money paid into court, whether under a judgment or order or otherwise, shall be paid out to the
-
 *c. 7:01*
 
-plaintiff pursuant to section 13 (3) of the Summary Jurisdiction (Petty Debt) Act and these Rules and on proof to the satisfaction of the clerk that the person applying for the same is entitled or authorised to receive the same.
+**33.** Money paid into court, whether under a judgment or order or otherwise, shall be paid out to the plaintiff pursuant to section 13 (3) of the Summary Jurisdiction (Petty Debt) Act and these Rules and on proof to the satisfaction of the clerk that the person applying for the same is entitled or authorised to receive the same.
 
 *Settlement, com promise or discharge in case of an infant or person of unsound mind.*
 
@@ -3854,21 +3800,17 @@ counsel as may be directed by the court or a magistrate, be invested or be paid 
 
 (2) Payment of any money or damages contrary to this rule shall not operate as a discharge of the liability of the party so paying the money or damages.
 
-(3) This rule shall not apply where an infant sues as if he were of full age for money due to him as wages or piece work or for work as a servant pursuant to section 6 of
-
 *c. 7:01*
 
-the Summary Jurisdiction (Petty Debt) Act.
+(3) This rule shall not apply where an infant sues as if he were of full age for money due to him as wages or piece work or for work as a servant pursuant to section 6 of the Summary Jurisdiction (Petty Debt) Act.
 
 ## PART X — DEFENCE AND COUNTER-CLAIM
 
 *Particulars of the grounds of defence.*
 
-**1.** In every action in which the defendant seeks to set up a defence, he shall on the return day or at such later date as the court or a magistrate may appoint give to the clerk and to the plaintiff, in writing or verbally as the court or a magistrate may direct, particulars (with dates and items if necessary) of the grounds of his defence. If the particulars are directed to be
-
 *Form 20.*
 
-given in writing they shall be drawn in accordance with Form
+**1.** In every action in which the defendant seeks to set up a defence, he shall on the return day or at such later date as the court or a magistrate may appoint give to the clerk and to the plaintiff, in writing or verbally as the court or a magistrate may direct, particulars (with dates and items if necessary) of the grounds of his defence. If the particulars are directed to be given in writing they shall be drawn in accordance with Form
 
 20.
 
@@ -3966,15 +3908,11 @@ Provided always, that in exercising its discretion as to costs the court shall c
 
 *Special defences.*
 
-**9.** The notice of the five special defences, namely, setoff, counter claim, infancy, statute of limitation, and discharge under any written law relating to bankruptcy or insolvency,
-
 *c. 7:01*
-
-pleadable under section 12 of the Summary Jurisdiction (Petty Debt) Act and the defence of coverture shall be in accordance
 
 *Form 21.*
 
-with Form 21 in the Appendix and together with all particulars thereof shall be given by the defendant to the clerk within four days after the service of the summons on the defendant.
+**9.** The notice of the five special defences, namely, setoff, counter claim, infancy, statute of limitation, and discharge under any written law relating to bankruptcy or insolvency, pleadable under section 12 of the Summary Jurisdiction (Petty Debt) Act and the defence of coverture shall be in accordance with Form 21 in the Appendix and together with all particulars thereof shall be given by the defendant to the clerk within four days after the service of the summons on the defendant.
 
 *Power to permit defendant to plead special defence although he has not given the prescribed notice.*
 
@@ -4050,11 +3988,9 @@ the court or a magistrate may give leave to the defendant to issue a ‚third-pa
 
 *Application for leave.*
 
-**2.** Application for such leave to issue such notice, if not made pursuant to rule 1 (d) of Part XII, shall be in
-
 *Form 22.*
 
-accordance with Form 22 and shall be made ex parte supported by affidavit stating the nature and grounds of the claim in the action, or the nature and extent of any relief or remedy sought, the facts out of which the claim against the third party arises, and the name and address of the third party.
+**2.** Application for such leave to issue such notice, if not made pursuant to rule 1 (d) of Part XII, shall be in accordance with Form 22 and shall be made ex parte supported by affidavit stating the nature and grounds of the claim in the action, or the nature and extent of any relief or remedy sought, the facts out of which the claim against the third party arises, and the name and address of the third party.
 
 *Form and issue of notice.*
 
@@ -4076,11 +4012,9 @@ the third party within two clear days from the date of the order granting leave 
 
 **6.** Where one defendant as against another defendant to the action makes any of the claims set out in rule 1 (a) and
 
-(b) of this Part, he may serve upon the other defendant the
-
 *Form 23.*
 
-notice in Form 23 without leave of the court, and the same procedure shall thereupon be adopted for the determination of such claim, question or issue between the defendants as would have been adopted against such other defendant, if such other defendant were a third party; but nothing herein shall prejudice the rights of the plaintiff against any defendant in the action.
+(b) of this Part, he may serve upon the other defendant the notice in Form 23 without leave of the court, and the same procedure shall thereupon be adopted for the determination of such claim, question or issue between the defendants as would have been adopted against such other defendant, if such other defendant were a third party; but nothing herein shall prejudice the rights of the plaintiff against any defendant in the action.
 
 *Costs.*
 
@@ -4102,11 +4036,9 @@ A PPLICATIONS , I NTERLOCUTORY P ROCEEDINGS ,
 
 **1.** Where by any written law or by these Rules an application is expressly or by reasonable intendment directed to be made to the court or to a magistrate, then subject to the particular written law or any particular rule applicable thereto, and so far as they shall not be inconsistent therewith, the following provisions shall apply —
 
-(a) The application shall be made either
-
 *Form 24.*
 
-in or out of the court in accordance with Form 24 and, subject to any special provision as to notice, may be made either ex parte or on notice in writing. If made on notice, a true copy of the said application shall be served on every party to be affected thereby not later than two clear days prior to the hearing of the application, unless the court or the magistrate gives leave for shorter notice.
+(a) The application shall be made either in or out of the court in accordance with Form 24 and, subject to any special provision as to notice, may be made either ex parte or on notice in writing. If made on notice, a true copy of the said application shall be served on every party to be affected thereby not later than two clear days prior to the hearing of the application, unless the court or the magistrate gives leave for shorter notice.
 
 No affidavit in support shall be necessary, but the court or magistrate
 
@@ -4142,11 +4074,9 @@ application is to be made on affidavit, the applicant shall file notice of the a
 
 *Dancing licences, etc.*
 
-**4.** Every application for a licence to keep or use a place for public dancing, singing, music, or other public
-
 *c. 23:03*
 
-entertainment of the like kind pursuant to the Music and Dancing Licences Act, or for the transfer of such a licence, shall be in accordance with Form 26 and shall set forth the following particulars, that is to say—
+**4.** Every application for a licence to keep or use a place for public dancing, singing, music, or other public entertainment of the like kind pursuant to the Music and Dancing Licences Act, or for the transfer of such a licence, shall be in accordance with Form 26 and shall set forth the following particulars, that is to say—
 
 the name, address, and occupation of the applicant;
 
@@ -4166,11 +4096,9 @@ the name, address, and occupation of the applicant;
 
 (i) whether the place has ever been previously licensed for the purposes of the above-mentioned Act or whether a licence for the like purpose has ever been refused in respect of such a place;
 
-(j) whether the applicant has ever been convicted of any offence against the
-
 *c. 82:21 c. 82:24 c. 23:03*
 
-Intoxicating Liquor Licensing Act, the Spirits Act, or the Music and Dancing Licences Act.
+(j) whether the applicant has ever been convicted of any offence against the Intoxicating Liquor Licensing Act, the Spirits Act, or the Music and Dancing Licences Act.
 
 *Proof of compliance with law. c. 23:03*
 
@@ -4206,11 +4134,9 @@ and shall set out the following particulars, that is to say—
 
 (e) the location of the nearest spirit shop;
 
-(f) whether any of the officers of the club has been convicted of any offence
-
 *c. 82:21 c. 82:24 c. 82:26*
 
-under the Intoxicating Liquor Licences Act, the Spirits Act, or the Registration of Clubs Act.
+(f) whether any of the officers of the club has been convicted of any offence under the Intoxicating Liquor Licences Act, the Spirits Act, or the Registration of Clubs Act.
 
 *Proof of compliance with law. c. 82:26*
 
@@ -4236,21 +4162,17 @@ under the Intoxicating Liquor Licences Act, the Spirits Act, or the Registration
 
 (f) the misconduct alleged against the respondent, with such particulars relating to the date, place, and circumstances as would enable the respondent to learn the precise case against him and prevent surprise at the hearing;
 
-(g) whether any proceedings have ever been taken by either spouse against
-
 *c. 3:05*
 
-the other under the Summary Jurisdiction (Magistrates) Act or the Matrimonial Causes Act.
+(g) whether any proceedings have ever been taken by either spouse against the other under the Summary Jurisdiction (Magistrates) Act or the Matrimonial Causes Act.
 
 (2) The application shall state that there is not any collusion or connivance between the applicant and the
 
 respondent.
 
-(3) A copy of the application shall be served upon the respondent annexed to the summons directed to be served
-
 *c. 98:02*
 
-by section 152 (2) of the Indian Labour Act.
+(3) A copy of the application shall be served upon the respondent annexed to the summons directed to be served by section 152 (2) of the Indian Labour Act.
 
 *Applications affecting immigrants’ property. c. 98:02*
 
@@ -4404,19 +4326,15 @@ Provided that if the defendant succeeds the court may allow him such costs as he
 
 **1.** Any party to any action or matter may, without filing any affidavit, apply to the court or a magistrate for an order directing any other party to the action or matter to make discovery on oath of the documents which are or have been in his possession or power relating to any question therein. On the hearing of such application the court or a magistrate may either refuse or adjourn the same, if satisfied that such discovery is not necessary at that stage of the action or matter, or make such order, either generally or limited to certain classes of documents, as the court or a magistrate may think fit:
 
-Provided that the discovery shall not be ordered when and so far as the court or a magistrate is of the opinion that it is not necessary for disposing fairly of the action or matter, or for saving costs. If an order is made it shall be drawn up by the clerk and served by the applicant on the party against whom the order is made. Such order shall be in accordance
-
 *Form 31.*
 
-with Form 31, and shall specify the time within which the affidavit in answer is to be filed.
+Provided that the discovery shall not be ordered when and so far as the court or a magistrate is of the opinion that it is not necessary for disposing fairly of the action or matter, or for saving costs. If an order is made it shall be drawn up by the clerk and served by the applicant on the party against whom the order is made. Such order shall be in accordance with Form 31, and shall specify the time within which the affidavit in answer is to be filed.
 
 *Objection to discover documents.*
 
-**2.** The affidavit to be made by a party against whom such order as is mentioned in the last preceding rule has been made, shall specify which, if any, of the documents therein mentioned he objects to produce, and on what grounds, and it
-
 *Form 32.*
 
-shall be in accordance with Form 32, with such variations as circumstances may require. Such affidavit shall be delivered to the clerk and a copy thereof served on the party who obtains the order within the time named in the order.
+**2.** The affidavit to be made by a party against whom such order as is mentioned in the last preceding rule has been made, shall specify which, if any, of the documents therein mentioned he objects to produce, and on what grounds, and it shall be in accordance with Form 32, with such variations as circumstances may require. Such affidavit shall be delivered to the clerk and a copy thereof served on the party who obtains the order within the time named in the order.
 
 *Order for production of particular document or documents.*
 
@@ -4436,11 +4354,9 @@ action or matter as the court or a magistrate may direct; and the court or a mag
 
 **6.** The party to whom such notice is given shall, within two days of the receipt of such notice, if all the documents therein referred to have been set forth by him in such affidavit as is mentioned in rule 2 of this Part, or if any of the documents referred to in such notice have not been set forth by him in any such affidavit, then within four days from the receipt of such notice, deliver to the party giving the same notice stating a time within three days from the delivery thereof at which the documents, or such of them as he does not object to produce, may be inspected at the office of his counsel, or in the case of bankers’ books or other books of account, or books in constant use for the purposes of any trade or business, or in case the party is not acting by counsel, at their usual place of custody, and stating which, (if any) of
 
-the documents he objects to produce, and on what grounds.
-
 *Form 34.*
 
-Such notice shall be in accordance with Form 34, with such variations as circumstances may require.
+the documents he objects to produce, and on what grounds. Such notice shall be in accordance with Form 34, with such variations as circumstances may require.
 
 *Order for inspection.*
 
@@ -4520,15 +4436,11 @@ shall cause a further notice to be served upon the defendant in accordance with 
 
 *Proceedings on change of defendant’s title.*
 
-**5.** Where, by reason of any event occurring after the commencement of any action or matter, there shall be any assignment, creation, change, transmission, or devolution of the liability, interest, estate, or title of any defendant in such action or matter before judgment, the plaintiff or the defendant or the person to or upon whom such liability, interest, estate, or title has come or devolved, may in like manner give notice thereof to the clerk in accordance with
-
 *Form 35.*
-
-rule 2 of this Part, together with an affidavit of the truth of the facts stated in such notice; and the clerk shall take
 
 *Form 36.*
 
-proceedings thereon similar to those prescribed in rule 3 of this Part; and a defendant may be substituted or added, as the case may be, in manner similar to that provided in the last mentioned rule for the substitution or addition of a plaintiff.
+**5.** Where, by reason of any event occurring after the commencement of any action or matter, there shall be any assignment, creation, change, transmission, or devolution of the liability, interest, estate, or title of any defendant in such action or matter before judgment, the plaintiff or the defendant or the person to or upon whom such liability, interest, estate, or title has come or devolved, may in like manner give notice thereof to the clerk in accordance with rule 2 of this Part, together with an affidavit of the truth of the facts stated in such notice; and the clerk shall take proceedings thereon similar to those prescribed in rule 3 of this Part; and a defendant may be substituted or added, as the case may be, in manner similar to that provided in the last mentioned rule for the substitution or addition of a plaintiff.
 
 *Copy of summons to be served on*
 
@@ -4624,11 +4536,9 @@ Provided that, where it appears to the court or a magistrate that the other part
 
 **2.** (1) Where a party desires to give in evidence any document, he may, not less than three clear days before the day of hearing give notice to any other party in the action or matter who is competent to make admissions requiring him to inspect such document and to admit that it is an original and was written, signed or executed as it purports to have been, or that it is a true copy if it purports to be such, or that it was served, sent or delivered as it is stated to have been served, sent or delivered; and if such other party does not within two days after receiving such notice make such admission, any expense of proving any of the said facts at the hearing shall be paid by him, whatever may be the result, unless the court otherwise orders; and no costs of proving any document or any of the said facts shall be allowed unless such notice has been given, except in cases where, in the opinion of the court at the hearing, the omission to give such notice has been a saving of expense.
 
-(2) An admission of any document or documents
-
 *Form 42.*
 
-or facts under paragraph (1) of this rule shall be in Form 42.
+(2) An admission of any document or documents or facts under paragraph (1) of this rule shall be in Form 42.
 
 *Notice to admit or produce. Form 43. Form 44.*
 
@@ -4784,11 +4694,9 @@ section 20 of the Summary Jurisdiction (Petty Debt) Act may in the discretion of
 
 *Form 48.*
 
-Form 48 and may be enforced in like manner as a judgment or order for the recovery of any chattel or thing pursuant to
-
 *c. 7:01*
 
-section 24 of the Summary Jurisdiction (Petty Debt) Act is enforced under rule 7 of Part XXI.
+Form 48 and may be enforced in like manner as a judgment or order for the recovery of any chattel or thing pursuant to section 24 of the Summary Jurisdiction (Petty Debt) Act is enforced under rule 7 of Part XXI.
 
 *Form of judgment against married woman. Form 49.*
 
@@ -5006,11 +4914,9 @@ option of retaining the same upon payment of the value thereof, and that if the 
 
 otherwise as shall be just.
 
-(3) Application for leave to issue execution under
-
 *Form 58. Form 59.*
 
-this rule shall be made in one of the Forms 58 and 59, with the necessary variations, and shall be supported by an affidavit of facts made by or on behalf of the party applying—
+(3) Application for leave to issue execution under this rule shall be made in one of the Forms 58 and 59, with the necessary variations, and shall be supported by an affidavit of facts made by or on behalf of the party applying—
 
 (a) stating the date of the judgment, the amount of the original debt, and the amount still remaining due;
 
@@ -5034,11 +4940,9 @@ extent as c. 12:01 if the deceased judgment debtor were alive.
 
 *Debtor’s interest in lease.*
 
-**13.** (1) When it is desired to sell the right, title, and interest in and to the land comprised within a lease existing in favour of the owner of a house or other building on leased
-
 *c. 7:01*
 
-land pursuant to section 50 of the Summary Jurisdiction (Petty Debt) Act, the execution creditor shall supply the bailiff with a general description and particulars of the right, title, and interest of the execution debtor under that lease so as to show the residue of the term then unexpired in favour of the defendant, the parcels affected, the rent reserved, and the other terms of the said lease.
+**13.** (1) When it is desired to sell the right, title, and interest in and to the land comprised within a lease existing in favour of the owner of a house or other building on leased land pursuant to section 50 of the Summary Jurisdiction (Petty Debt) Act, the execution creditor shall supply the bailiff with a general description and particulars of the right, title, and interest of the execution debtor under that lease so as to show the residue of the term then unexpired in favour of the defendant, the parcels affected, the rent reserved, and the other terms of the said lease.
 
 (2) Where the execution creditor is unable from want of knowledge of the facts affecting any lease to supply the general description and particulars of the right, title, and interest of the execution debtor, he shall after causing the house or building to be seized and taken in execution apply for the issue of a summons out of the court requiring the execution debtor to appear before the court or a magistrate to be examined on oath concerning his right, title, and interest in and to the land on which the house or other building of the execution debtor stands. The application shall be made in the proceedings in which the writ of execution was issued by filing a statement of the facts, and a copy of that statement shall be annexed to a summons which shall be served on the execution debtor in the same manner in which a summons in an ordinary action is served. The general description and particulars of the execution debtor’s right, title, and interest obtained from such examination shall be added to the
 
@@ -5046,21 +4950,17 @@ description of the house or other building and included in any advertisement of 
 
 (3) The summons shall require the execution debtor to appear to give evidence and to produce all deeds, contracts, letters, and other documents and papers in the possession of the execution debtor relating to his right, title, and interest in the land affected, and in default of so doing, the execution debtor shall be guilty of an offence in respect of his disobedience to every such summons to appear and give evidence and produce documents and upon conviction under the Summary Jurisdiction Acts shall be liable to a fine of seventy-five dollars.
 
-(4) Any other person may be summoned as a witness to give evidence and to produce documents at the hearing of any such application in manner prescribed by
-
 *c. 7:01*
 
-section 15 of the Summary Jurisdiction (Petty Debt) Act.
+(4) Any other person may be summoned as a witness to give evidence and to produce documents at the hearing of any such application in manner prescribed by section 15 of the Summary Jurisdiction (Petty Debt) Act.
 
 (5) The costs of any proceedings under this rule shall be added to the costs of the execution.
 
 *Garnishee proceedings.*
 
-**14.** (1) Where a judgment creditor who has obtained a judgment or order for the recovery or payment of money has procured the issue of a writ of execution for enforcing such judgment or order and desires the bailiff under section 44 (c)
-
 *c. 7:01*
 
-of the Summary Jurisdiction (Petty Debt) Act to attach any salary, wages, or other sum of money due to the judgment debtor, he shall deliver to the bailiff an affidavit stating that the judgment has been recovered or an order made, and that it is still unsatisfied, and to what amount, and that any other person in Guyana (hereinafter called the garnishee) is indebted to the judgment debtor in respect of any salary, wages, or other sum of money, giving particulars of the garnishee’s indebtedness to the judgment debtor.
+**14.** (1) Where a judgment creditor who has obtained a judgment or order for the recovery or payment of money has procured the issue of a writ of execution for enforcing such judgment or order and desires the bailiff under section 44 (c) of the Summary Jurisdiction (Petty Debt) Act to attach any salary, wages, or other sum of money due to the judgment debtor, he shall deliver to the bailiff an affidavit stating that the judgment has been recovered or an order made, and that it is still unsatisfied, and to what amount, and that any other person in Guyana (hereinafter called the garnishee) is indebted to the judgment debtor in respect of any salary, wages, or other sum of money, giving particulars of the garnishee’s indebtedness to the judgment debtor.
 
 (2) The bailiff upon receipt of such affidavit shall
 
@@ -5070,11 +4970,9 @@ endorse thereon an application to the court or a magistrate for a summons to be 
 
 (4) A copy of the affidavit shall be attached to the summons so issued and on payment of the proper fees for service the summons shall be served upon the garnishee and the judgment debtor, and the proceedings shall continue in the same manner as if a plaint attached to the summons had been served upon defendants in any ordinary action.
 
-(5) The provisions of sections 15 to 22 (inclusive)
-
 *c. 7:01*
 
-of the c. 7:01 Summary Jurisdiction (Petty Debt) Act shall, mutatis mutandis, apply to garnishee proceedings.
+(5) The provisions of sections 15 to 22 (inclusive) of the c. 7:01 Summary Jurisdiction (Petty Debt) Act shall, mutatis mutandis, apply to garnishee proceedings.
 
 *Discretion to withhold attachment in case of hardship.*
 
@@ -5086,11 +4984,9 @@ of the c. 7:01 Summary Jurisdiction (Petty Debt) Act shall, mutatis mutandis, ap
 
 *garnishee.*
 
-debtor and under such endorsed writ of execution the bailiff may seize and take any movable property belonging to the garnishee which might have been seized and taken if the writ of execution had been originally issued against him, and the said endorsed writ of execution shall for all purposes of the
-
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act be deemed to be a writ of execution issued against the garnishee for the sum of money directed by the order to be paid by the garnishee.
+debtor and under such endorsed writ of execution the bailiff may seize and take any movable property belonging to the garnishee which might have been seized and taken if the writ of execution had been originally issued against him, and the said endorsed writ of execution shall for all purposes of the Summary Jurisdiction (Petty Debt) Act be deemed to be a writ of execution issued against the garnishee for the sum of money directed by the order to be paid by the garnishee.
 
 *Discharge of garnishee.*
 
@@ -5138,17 +5034,13 @@ ordinary action shall apply thereto and a copy thereof shall be attached to the 
 
 *Bailiff’s interpleader. c. 7:01 Form 62.*
 
-**4.** (1) The claim to any movable property taken in execution under section 56 of the Summary Jurisdiction (Petty Debt) Act shall be in Form 62 and may be made at any time before the sale of the property seized. It shall be lodged with
-
 *Form 63.*
 
-the bailiff, and notice thereof in Form 63 shall be served by the bailiff upon the party on whose behalf the writ was issued.
-
-(2) Within seven days after compliance by the
+**4.** (1) The claim to any movable property taken in execution under section 56 of the Summary Jurisdiction (Petty Debt) Act shall be in Form 62 and may be made at any time before the sale of the property seized. It shall be lodged with the bailiff, and notice thereof in Form 63 shall be served by the bailiff upon the party on whose behalf the writ was issued.
 
 *c. 7:01*
 
-claimant with section 57 of the Summary Jurisdiction (Petty Debt) Act, the bailiff or the party on whose behalf the writ was issued, shall apply to the court for the issue of a summons pursuant to section 56 (2) thereof.
+(2) Within seven days after compliance by the claimant with section 57 of the Summary Jurisdiction (Petty Debt) Act, the bailiff or the party on whose behalf the writ was issued, shall apply to the court for the issue of a summons pursuant to section 56 (2) thereof.
 
 (3) The claim shall be deemed a plaint under section 8 of the Summary Jurisdiction (Petty Debt) Act and these Rules, and all rules applicable to the plaint in an ordinary action shall apply thereto and a copy thereof shall be attached to the summons to the party making the claim and the party on whose behalf the writ of execution was issued.
 
@@ -5198,11 +5090,9 @@ manner and upon such terms as may be just. The bailiff shall sell the goods or c
 
 (2) No such order for the sale of such goods shall be made upon the application of the judgment creditor otherwise than at a reserved price not being less than the sum then due to the claimant under any such bill of sale or hire-purchase agreement and the interest (if any) thereon, unless with the consent of the claimant.
 
-(3) An order for sale under this rule shall be in
-
 *Form 65.*
 
-Form 65 with such modifications as may be necessary and as the court or a magistrate shall direct.
+(3) An order for sale under this rule shall be in Form 65 with such modifications as may be necessary and as the court or a magistrate shall direct.
 
 (4) The costs of an application for sale under this rule shall be borne out of the proceeds of the sale paid into court or as between the parties to the application as the court or a magistrate shall direct.
 
@@ -5262,25 +5152,19 @@ the judgment, the court or a magistrate may order that the debt, damages, and co
 
 **11.** In actions against executors or administrators for which provision is not hereinbefore specially made, if the defendant fails as to any of his defences, the judgment shall, unless the court otherwise orders, be for the plaintiff as to his costs of disproving such defence, and such costs shall be levied de bonis testatoris, si, etc., et si non de bonis propriis.
 
-**12.** A judgment drawn up under this Part shall be in
-
 *Forms of judgment against executor or administrator in various circumstances. Forms 67 to 72. Form 73.*
 
-one of the Forms 67 to 72 (inclusive) which the circumstances of the case fit, and a writ of execution against the goods and chattels which were the property of a testator or intestate in his lifetime and which came to the hands of a defendant executor or administrator to be administered, shall be in Form 73 with such variations as the circumstances of the case may require, regard being had to the foregoing rules.
+**12.** A judgment drawn up under this Part shall be in one of the Forms 67 to 72 (inclusive) which the circumstances of the case fit, and a writ of execution against the goods and chattels which were the property of a testator or intestate in his lifetime and which came to the hands of a defendant executor or administrator to be administered, shall be in Form 73 with such variations as the circumstances of the case may require, regard being had to the foregoing rules.
 
 ## PART XXIV — J UDGMENT S UMMONS
 
-**1.** (1) No order of commitment under the Debtors
-
 *summons to be served personally.*
 
-Act shall be made unless a summons to appear and be examined on oath, hereinafter called a judgment summons, has been served upon the judgment debtor personally.
-
-(2) A person requiring a judgment summons to be
+**1.** (1) No order of commitment under the Debtors Act shall be made unless a summons to appear and be examined on oath, hereinafter called a judgment summons, has been served upon the judgment debtor personally.
 
 *Form 74.*
 
-issued shall file a praecipe in Form 74, stating the full names and address of or otherwise sufficiently identifying every person against whom it is to be issued. Where the name or address of any such person as given in the praecipe differs from the name or address as given in the judgment or order, both descriptions shall be inserted in the judgment summons, and in the order of commitment (if any) as follows:
+(2) A person requiring a judgment summons to be issued shall file a praecipe in Form 74, stating the full names and address of or otherwise sufficiently identifying every person against whom it is to be issued. Where the name or address of any such person as given in the praecipe differs from the name or address as given in the judgment or order, both descriptions shall be inserted in the judgment summons, and in the order of commitment (if any) as follows:
 
 ‚C.D., of (name and address as given in the praecipe), sued as A.D., of (name and address as given in the judgment or order).‛
 
@@ -5310,27 +5194,21 @@ If these facts are not known it shall be stated that the deponent does not know 
 
 **3.** (1) A judgment summons shall be in such one of the Forms 75 and 76 as shall be applicable to the circumstances of the case and may be issued either by the court in which the judgment was obtained or by the court in the magisterial district in which either the judgment creditor or the judgment debtor then resides or carries on business or is employed. It shall be served not less than five clear days before the day on which the judgment debtor is required to appear.
 
-(2) A judgment summons shall be deemed to be a summons to a witness within the meaning of sections 15 and
-
 *c. 7:01 Form 77.*
 
-16 of the Summary Jurisdiction (Petty Debt) Act, and a memorandum in Form 77 shall be printed at the foot of or annexed to the summons.
+(2) A judgment summons shall be deemed to be a summons to a witness within the meaning of sections 15 and 16 of the Summary Jurisdiction (Petty Debt) Act, and a memorandum in Form 77 shall be printed at the foot of or annexed to the summons.
 
 *Mode of serving judgment summons. c. 7:01*
 
 **4.** (1) A judgment summons shall be served personally in the same manner in which an ordinary summons to appear is served personally under the Summary Jurisdiction (Petty Debt) Act or other statute making provision for the service of an ordinary summons.
 
-(2) If it is made to appear on oath to a court or to a magistrate that prompt personal service is for some good reason impracticable, and that delay is likely to render the application of no effect, the court or a magistrate may make such order for substituted service under section 11(2) of the
+*c. 7:01*
+
+(2) If it is made to appear on oath to a court or to a magistrate that prompt personal service is for some good reason impracticable, and that delay is likely to render the application of no effect, the court or a magistrate may make such order for substituted service under section 11(2) of the Summary Jurisdiction (Petty Debt) Act or such other service as the court or a magistrate may think fit.
 
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act or such other service as the court or a magistrate may think fit.
-
-(3) The service of a judgment summons shall, when effected out of the magisterial district for which it is issued, be proved by affidavit of the bailiff or other process-
-
-*c. 7:01*
-
-server in accordance with section 61 of the Summary Jurisdiction (Petty Debt) Act.
+(3) The service of a judgment summons shall, when effected out of the magisterial district for which it is issued, be proved by affidavit of the bailiff or other process-server in accordance with section 61 of the Summary Jurisdiction (Petty Debt) Act.
 
 *Time for appeal to expire.*
 
@@ -5340,17 +5218,13 @@ server in accordance with section 61 of the Summary Jurisdiction (Petty Debt) Ac
 
 **6.** (1) Where a judgment or order is against a firm, or against a person carrying on business in any name other than his own in such other name, and the person entitled to enforce the judgment or order desires to do so by judgment summons against any person whom he alleges to be liable under the judgment or order as a partner in or the sole member of the firm, or as the person carrying on business in
 
-such other name as aforesaid, he shall file an affidavit,
-
 *Form 78. Form 79.*
 
-together with a copy thereof, in such one of the Forms 78 and 79 as shall be applicable, directed to the person alleged to be liable as aforesaid, and a certified copy of the said affidavit shall be annexed to such judgment summons and served therewith.
-
-(2) The judgment summons under this rule shall be
+such other name as aforesaid, he shall file an affidavit, together with a copy thereof, in such one of the Forms 78 and 79 as shall be applicable, directed to the person alleged to be liable as aforesaid, and a certified copy of the said affidavit shall be annexed to such judgment summons and served therewith.
 
 *Form 80.*
 
-in Form 80.
+(2) The judgment summons under this rule shall be in Form 80.
 
 (3) If such person does not appear on the return day of the judgment summons, he shall be deemed to admit his liability as a partner in or the sole member of the firm, or as the person carrying on business in such other name as aforesaid, to pay the amount due and payable under the judgment or order. But if such person appears and denies liability, the court may decide the question to be tried and determined in an action to be commenced by plaint and summons in the ordinary way.
 
@@ -5362,11 +5236,9 @@ in Form 80.
 
 **8.** (1) A party desiring to apply for a judgment summons to a court other than the court in which the judgment or order was obtained shall deliver or cause to be delivered to the clerk of the court to which he is applying –
 
-a certificate in Form 81 of the
-
 *obtained.*
 
-judgment or order which it is sought
+a certificate in Form 81 of the judgment or order which it is sought
 
 to enforce by judgment summons, and of every order for the payment by instalments made against the judgment debtor on the original judgment or order;
 
@@ -5382,11 +5254,9 @@ to enforce by judgment summons, and of every order for the payment by instalment
 
 *Memorandum of result to be sent to court in which*
 
-**9.** Where a judgment summons is heard in a magistrate’s court other than that in which the judgment or order was obtained, a memorandum of the result of such hearing shall be sent by the clerk to the clerk of the court in
-
 *obtained.*
 
-which the judgment or order was obtained, and shall be filed by such last-mentioned clerk in the proper jacket.
+**9.** Where a judgment summons is heard in a magistrate’s court other than that in which the judgment or order was obtained, a memorandum of the result of such hearing shall be sent by the clerk to the clerk of the court in which the judgment or order was obtained, and shall be filed by such last-mentioned clerk in the proper jacket.
 
 *Witnesses and their expenses.*
 
@@ -5412,11 +5282,9 @@ Provided that if the judgment debtor appears at the hearing and an order of comm
 
 **13.** (1) If any order of commitment is made, the court or a magistrate may direct the execution of the warrant to be suspended to enable the debtor to pay into court by instalments or otherwise the amount in respect of the nonpayment of which the order was made.
 
-(2) A warrant of commitment shall be in such one
-
 *Form 82. Form 83.*
 
-of Forms 82 and 83 as shall be applicable to the circumstances of the case.
+(2) A warrant of commitment shall be in such one of Forms 82 and 83 as shall be applicable to the circumstances of the case.
 
 *Date, duration and extension of warrant of commitment.*
 
@@ -5478,29 +5346,23 @@ gaoler the full amount endorsed on the warrant as that payable to ensure the dis
 
 (2) In case a recognisance is entered into for the due and effective prosecution of the action, it shall be approved by the magistrate.
 
-(3) The bailiff shall forthwith give notice to the
-
 *Form 87.*
 
-distrainer in Form 87 of the preliminary proceedings taken by the tenant or owner of goods distrained, and within seven days after compliance by the replevisor with section 27 (2) of the said Act he shall commence proceedings by plaint in the usual form against the landlord claiming a declaration either that no rent was in arrear or due from the tenant to the landlord at the time of the seizure of the goods or that the goods seized were otherwise wrongfully distrained, and the court may assess any damages to which the replevisor may be entitled in respect of the wrongful distraint if proved.
+(3) The bailiff shall forthwith give notice to the distrainer in Form 87 of the preliminary proceedings taken by the tenant or owner of goods distrained, and within seven days after compliance by the replevisor with section 27 (2) of the said Act he shall commence proceedings by plaint in the usual form against the landlord claiming a declaration either that no rent was in arrear or due from the tenant to the landlord at the time of the seizure of the goods or that the goods seized were otherwise wrongfully distrained, and the court may assess any damages to which the replevisor may be entitled in respect of the wrongful distraint if proved.
 
 (4) The plaint shall specify and describe in the particulars the several goods and chattels taken and the distraint of which the replevisor complains, the expenses of the levy, the special damage (if any) suffered by the replevisor and all the other particulars required by rule 1 of Part V and the action of replevin shall be tried in the same manner as other actions.
 
 *Satisfaction of judgment where rent and deposit for security made.*
 
-**3.** When the amount of rent alleged to be due and the sum of five dollars as security for costs have been deposited, the court shall order the amount to be refunded to the replevisor in case he shall succeed in his action, and if the defendant shall succeed in the action the court shall order any judgment and costs awarded pursuant to section 27 (4) of the
-
 *c. 61:01*
 
-Landlord and Tenant Act to be satisfied out of the sum so deposited. Any balance of the amount deposited remaining after payment of the defendant’s judgment and costs shall be paid out to the replevisor.
+**3.** When the amount of rent alleged to be due and the sum of five dollars as security for costs have been deposited, the court shall order the amount to be refunded to the replevisor in case he shall succeed in his action, and if the defendant shall succeed in the action the court shall order any judgment and costs awarded pursuant to section 27 (4) of the Landlord and Tenant Act to be satisfied out of the sum so deposited. Any balance of the amount deposited remaining after payment of the defendant’s judgment and costs shall be paid out to the replevisor.
 
 *Satisfaction of judgment where recognisance entered into.*
 
-**4.** When a recognisance is entered into in lieu of deposit, the bailiff shall deliver the same to the clerk for preservation. If the replevisor succeeds in the action the recognisance shall be re-delivered to him by the clerk. If the defendant succeed in the action, the court or a magistrate shall order either at the time of giving judgment or at any time thereafter that the recognisance be estreated and that the replevisor and his surety jointly and severally pay to the defendant the amount of any judgment and costs awarded
-
 *c. 61:01*
 
-pursuant to section 27 (4) of the Landlord and Tenant Act. An order of the court or a magistrate that a specific sum be recovered by the defendant from the replevisor or his surety shall be deemed a judgment of the court as well against the surety as against the replevisor and shall be enforced by a writ of execution as in the case of an ordinary judgment against either the replevisor or his surety or both of them.
+**4.** When a recognisance is entered into in lieu of deposit, the bailiff shall deliver the same to the clerk for preservation. If the replevisor succeeds in the action the recognisance shall be re-delivered to him by the clerk. If the defendant succeed in the action, the court or a magistrate shall order either at the time of giving judgment or at any time thereafter that the recognisance be estreated and that the replevisor and his surety jointly and severally pay to the defendant the amount of any judgment and costs awarded pursuant to section 27 (4) of the Landlord and Tenant Act. An order of the court or a magistrate that a specific sum be recovered by the defendant from the replevisor or his surety shall be deemed a judgment of the court as well against the surety as against the replevisor and shall be enforced by a writ of execution as in the case of an ordinary judgment against either the replevisor or his surety or both of them.
 
 *Safeguarding tenants’ growing crops. c. 61:01*
 
@@ -5510,19 +5372,15 @@ pursuant to section 27 (4) of the Landlord and Tenant Act. An order of the court
 
 *Security by bond, etc.*
 
-**1.** Where a party proposes to give a bond or recognisance by way of security, he shall serve, by post or otherwise, on the opposite party and the clerk at his office,
-
 *Form 88.*
 
-notice of the proposed sureties in Form 88; and the clerk shall notify both parties of the day and hour on which the magistrate will hear the objections, if any, to the proposed surety.
+**1.** Where a party proposes to give a bond or recognisance by way of security, he shall serve, by post or otherwise, on the opposite party and the clerk at his office, notice of the proposed sureties in Form 88; and the clerk shall notify both parties of the day and hour on which the magistrate will hear the objections, if any, to the proposed surety.
 
 *Affidavit of sufficiency.*
 
-**2.** The magistrate may require the party proposing to give the bond or recognisance and/or his surety to make an
-
 *Form 89.*
 
-affidavit of their sufficiency in Form 89, unless the opposite party in writing dispenses with such affidavit.
+**2.** The magistrate may require the party proposing to give the bond or recognisance and/or his surety to make an affidavit of their sufficiency in Form 89, unless the opposite party in writing dispenses with such affidavit.
 
 *Execution of bond.*
 
@@ -5584,11 +5442,9 @@ property, movable or immovable in Guyana;
 
 In default or in lieu of recovery under a writ of execution the fine may be
 
-enforced by imprisonment of such person for any period not exceeding
-
 *c. 10:02*
 
-the period which under section 38 of the Summary Jurisdiction (Procedure) Act may be imposed in respect of default of payment of a fine adjudged to be paid on summary conviction.
+enforced by imprisonment of such person for any period not exceeding the period which under section 38 of the Summary Jurisdiction (Procedure) Act may be imposed in respect of default of payment of a fine adjudged to be paid on summary conviction.
 
 (d) Where the person summoned refuses or neglects to appear and give evidence, the clerk shall, before the court or a magistrate imposes the fine, give a written notice to the person summoned requiring him to show cause in person before the court or a magistrate on a day to be named therein why a fine shall not be imposed on him, and if the said person does not appear before the court on that day, the court or a magistrate may proceed ex parte and impose such fine as it or he thinks fit. On appearance of such person the court or a magistrate may, after considering the cause (if any) shown, make such order either imposing a fine upon or excusing the person summoned for his neglect or refusal as it or he may think fit in the circumstances.
 
@@ -6126,11 +5982,9 @@ C.D. of ...................... , Defendant I, the undersigned defendant, admit t
 
 (Signed) C.D. Defendant
 
-### F ORM 16
-
 *Part IX, r.17*
 
-Guyana
+F ORM 16 Guyana
 
 ### NOTICE TO ADMIT FACTS
 
@@ -6320,7 +6174,9 @@ C.D. of ...................... , Defendant
 
 **1.** S ET - OFF OR C OUNTER -C LAIM
 
-Take notice that the defendant intends at the hearing of this action to claim a set-off (or set up a counter-claim) against the plaintiff’s demand, the particulars whereof are as follows –
+*this*
+
+Take notice that the defendant intends at the hearing of action to claim a set-off (or set up a counter-claim) against the plaintiff’s demand, the particulars whereof are as follows –
 
 (Here set out the particulars)
 
@@ -6328,11 +6184,15 @@ Dated this..................day of.............................20.....
 
 (Signed)..................................................... Defendant (or his Counsel)
 
-To the Clerk of the Court and to the plaintiff.
+*To*
+
+the Clerk of the Court and to the plaintiff.
 
 **2.** O THER S PECIAL D EFENCES
 
-Take notice that the defendant intends at the hearing of this action to give in evidence and rely upon the following ground of defence, namely –
+*this*
+
+Take notice that the defendant intends at the hearing of action to give in evidence and rely upon the following ground of defence, namely –
 
 (a) Infancy
 
@@ -6352,7 +6212,9 @@ That the defendant is now (or was at the time when the supposed claim arose, or 
 
 (Signed)...................................................... Defendant (or his Counsel)
 
-To the Clerk of the Court and to the plaintiff.
+*To*
+
+the Clerk of the Court and to the plaintiff.
 
 *Part XI, r.2*
 
@@ -6452,11 +6314,9 @@ C.D. of ...................... , Defendant
 
 Whereas the defendant, on the............day of................20 , at.......................made in favour of the plaintiff (or.............) a certain promissory note payable to bearer (or to order) on demand (or.......................months after date) for the sum of $ .......................... (or accepted a bill of exchange for the sum of $....................payable to ................... thirty days after sight) (and, if so, the said promissory note or bill of exchange was duly endorsed in favour of the plaintiff):
 
-And whereas the said promissory note (or bill of Exchange) has been lost and the Court pursuant to section 71
-
 *c. 90:13*
 
-of the Bills of Exchange Act on the application of the plaintiff has ordered that the loss of the instrument shall not be set up provided an indemnity be given to the defendant to the satisfaction of the Court against the claims of any other person upon the instrument in question:
+And whereas the said promissory note (or bill of Exchange) has been lost and the Court pursuant to section 71 of the Bills of Exchange Act on the application of the plaintiff has ordered that the loss of the instrument shall not be set up provided an indemnity be given to the defendant to the satisfaction of the Court against the claims of any other person upon the instrument in question:
 
 Now therefore these presents witness that pursuant to the said order the plaintiff (and.....................as surety for the plaintiff) hereby promises the defendant that if any claim be made upon the defendant in respect of the said promissory note (or bill of exchange) and the defendant becomes legally liable to pay such claim the plaintiff (and ........................... as surety) will forthwith pay and discharge the same and will keep the defendant and his legal personal representatives and assigns indemnified against all actions, proceedings, claims and demands whatsoever by any person and all costs and expenses in connection therewith.
 
@@ -7008,11 +6868,9 @@ versus
 
 C.D. of ...................... , Defendant
 
-The parties do hereby apply to the Court or a Magistrate
-
 *c. 7:01*
 
-for an order pursuant to section 26 of the Summary Jurisdiction (Petty Debt) Act that all matters in difference in this action (and all other matters within the jurisdiction of this Court in difference between the said parties) be referred to...................., of .................... award, to be made or given on or before the.....................day of.............................20......, shall be entered as the judgment in this action, and that the costs of the said reference and award shall be in the discretion of the arbitrator, and that the costs of the action shall abide the event (or be reserved) and for such other order as to the Court or a Magistrate may seem just.
+The parties do hereby apply to the Court or a Magistrate for an order pursuant to section 26 of the Summary Jurisdiction (Petty Debt) Act that all matters in difference in this action (and all other matters within the jurisdiction of this Court in difference between the said parties) be referred to...................., of .................... award, to be made or given on or before the.....................day of.............................20......, shall be entered as the judgment in this action, and that the costs of the said reference and award shall be in the discretion of the arbitrator, and that the costs of the action shall abide the event (or be reserved) and for such other order as to the Court or a Magistrate may seem just.
 
 Dated this.................day of.................20........
 
@@ -7258,11 +7116,9 @@ Before me
 
 ### F ORM 47
 
-ORDER SUSPENDING JUDGMENT, OR EXECUTION, OR FOR DISCHARGE OF A DEBTOR UNDER SECTION 42 OF
-
 *c. 7:01*
 
-### THE SUMMARY JURISDICTION (PETTY DEBT) ACT
+ORDER SUSPENDING JUDGMENT, OR EXECUTION, OR FOR DISCHARGE OF A DEBTOR UNDER SECTION 42 OF THE SUMMARY JURISDICTION (PETTY DEBT) ACT
 
 In the Magistrate’s Court of the. .......................... Magisterial District holden at............................
 
@@ -7370,9 +7226,13 @@ Plaint No.. <<<<<.
 
 (b) Lot 242, Gordon Street, in the Village of Kitty and Alexanderville, East Coast, Demerara, the situation of the plaintiff’s house and the position of the fallen tree before its collapse; the canal on the northern side thereof, that portion of Gordon Street between Vlissengen Road and Stanley Place.
 
-**2.** The said plan, etc., will establish the following matters of fact:
+*of*
 
-(Here set out the matters of fact which the party claims will be established by the plan, etc.)
+**2.** The said plan, etc., will establish the following matters fact:
+
+*be*
+
+(Here set out the matters of fact which the party claims will established by the plan, etc.)
 
 Dated the......................day of..............................20.......
 
@@ -7438,11 +7298,9 @@ or
 
 in pursuance of a judgment (or an order) of the (here insert the Court in which the judgment or order was given or made).)
 
-**2.** That on the..................day of......................20 , an order for the administration of my estate was made by the High
-
 *c. 12:21*
 
-Court under section 106 of the Insolvency Act, as shown by the Certificate of the Registrar of that Court hereto appended.
+**2.** That on the..................day of......................20 , an order for the administration of my estate was made by the High Court under section 106 of the Insolvency Act, as shown by the Certificate of the Registrar of that Court hereto appended.
 
 **3.** That the debt in respect of which the above judgment (or order) was given (or made) has been notified to the Court by which the said order for administration was made, and the plaintiff who obtained the said judgment (or order) has not obtained leave to proceed from that Court, as appears from the said certificate of the Registrar.
 
@@ -7454,11 +7312,9 @@ Sworn to at, etc., etc.
 
 In the High Court of Guyana.
 
-I hereby certify that an order for the administration of the estate of C.D. of (here insert address and description of debtor) was made by this Court under the provisions of
-
 *c. 12:21*
 
-section 106 of the Insolvency Act, on the. ............... day of.................................20........, and that a debt of $ ........................ , has been notified by the said C.D. to this Court as being due from him to (insert the name, address and description of the creditor whose name the debtor wishes to be inserted), and the said (here insert the name of the creditor) has not obtained leave to proceed from this Court.
+I hereby certify that an order for the administration of the estate of C.D. of (here insert address and description of debtor) was made by this Court under the provisions of section 106 of the Insolvency Act, on the. ............... day of.................................20........, and that a debt of $ ........................ , has been notified by the said C.D. to this Court as being due from him to (insert the name, address and description of the creditor whose name the debtor wishes to be inserted), and the said (here insert the name of the creditor) has not obtained leave to proceed from this Court.
 
 Dated this......................day of............................20......
 
@@ -7594,11 +7450,9 @@ Application was made to the Clerk of the Court for this writ at.................
 
 Guyana
 
-### WRIT OF EXECUTION AGAINST DEFENDANTS GOODS
-
 *c. 90:10*
 
-UNDER SECTION 52 OF THE SALE OF GOODS ACT WHERE PLAINTIFF EXERCISES THE OPTION OF HAVING THE DAMAGES ASSESSED FOR THE NON-DELIVERY OF THE GOODS (WHERE THE GOODS ARE NOT DELIVERED PURSUANT TO THE ORDER) LEVIED BY DISTRESS AND SALE OF DEFENDANT’S GOODS
+WRIT OF EXECUTION AGAINST DEFENDANTS GOODS UNDER SECTION 52 OF THE SALE OF GOODS ACT WHERE PLAINTIFF EXERCISES THE OPTION OF HAVING THE DAMAGES ASSESSED FOR THE NON-DELIVERY OF THE GOODS (WHERE THE GOODS ARE NOT DELIVERED PURSUANT TO THE ORDER) LEVIED BY DISTRESS AND SALE OF DEFENDANT’S GOODS
 
 In the Magistrate’s Court of the. .......................... Magisterial District holden at............................
 
@@ -7722,11 +7576,9 @@ justly, truly, and lawfully indebted to me in the sum of $..................bein
 
 (3) The goods and chattels taken in execution under process issuing out of this Court in this action were in and upon the said premises at the time they were seized in the said execution.
 
-(4) I claim payment of the said sum of $ ................ out of the proceeds of the said execution in terms of section 50(2) of the
-
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act.
+(4) I claim payment of the said sum of $ ................ out of the proceeds of the said execution in terms of section 50(2) of the Summary Jurisdiction (Petty Debt) Act.
 
 I make this declaration conscientiously believing the same to be true, according to the Statutory Declarations Act.
 
@@ -7814,11 +7666,9 @@ Guyana
 
 *I approve of this bond.*
 
-Know all men by these presents that we, A.B. of..........................C.D. of........................, and E.F. of .................... , are held and firmly bound unto G.H. of ......................... , in the
-
 *Magistrate.*
 
-sum of.................to be paid to the said G.H. or his certain attorney, assigns, or legal personal representative for which payment to be made we bind ourselves and each and every of us in the whole our and each of our legal personal representatives jointly and severally firmly by these presents.
+Know all men by these presents that we, A.B. of..........................C.D. of........................, and E.F. of .................... , are held and firmly bound unto G.H. of ......................... , in the sum of.................to be paid to the said G.H. or his certain attorney, assigns, or legal personal representative for which payment to be made we bind ourselves and each and every of us in the whole our and each of our legal personal representatives jointly and severally firmly by these presents.
 
 Signed with our signatures and dated this. ...................... day of.......................20........
 
@@ -8090,11 +7940,9 @@ A.B. of .................... , Plaintiff (Judgment-Creditor) and
 
 C.D. of ...................... , Defendant (Judgment-Debtor)
 
-I apply for the issue of a judgment summons against the above-named debtor (name the defendant or if there are more defendants than one, and plaintiff desires to proceed against some or one only name them or him) in respect of a judgment (or order) of the Court holden at. .................. Magistrate’s Court in the..................Magisterial District on the. ............. day of.....................20....., for the purposes of section 4 of the
-
 *c. 6:04*
 
-Debtors Act directed that the said sum due from the defendant be paid by instalments of $..................every................ or on the....................day of ...................... ]
+I apply for the issue of a judgment summons against the above-named debtor (name the defendant or if there are more defendants than one, and plaintiff desires to proceed against some or one only name them or him) in respect of a judgment (or order) of the Court holden at. .................. Magistrate’s Court in the..................Magisterial District on the. ............. day of.....................20....., for the purposes of section 4 of the Debtors Act directed that the said sum due from the defendant be paid by instalments of $..................every................ or on the....................day of ...................... ]
 
 I am aware that if I do not prove to the satisfaction of the Court at the hearing that the judgment debtor has, or has had since the date of the judgment (or order) the means to pay the sum in respect of which he has made default, and that he has refused or neglected or refuses or neglects to pay the same, I may have to pay the costs of this summons.
 
@@ -8152,11 +8000,9 @@ Total sum due ... ... ... ... ... ...
 
 Guyana
 
-In default of your attendance you will, if at the time of service of this summons on you payment or tender of your expenses is made on the prescribed scale of allowances, be liable to a fine not exceeding $300.00 under section 16 of the
-
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced according to law.
+In default of your attendance you will, if at the time of service of this summons on you payment or tender of your expenses is made on the prescribed scale of allowances, be liable to a fine not exceeding $300.00 under section 16 of the Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced according to law.
 
 *Part XXIV, r.3(1), (2)*
 
@@ -8196,11 +8042,9 @@ Total sum due ... ... ... ... ... ...
 
 Guyana
 
-In default of your attendance you will, if at the time of service of this summons on you payment or tender of your expenses is made on the prescribed scale of allowances, be liable to a fine not exceeding $300.00 under section 16 of the
-
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced according to law.
+In default of your attendance you will, if at the time of service of this summons on you payment or tender of your expenses is made on the prescribed scale of allowances, be liable to a fine not exceeding $300.00 under section 16 of the Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced according to law.
 
 *Part XXIV, r. 3(2)*
 
@@ -8210,11 +8054,9 @@ Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced acc
 
 Guyana
 
-In default of your attendance you will, if at the time of service of this summons on you payment or tender of your
-
 *c. 7:01*
 
-expenses is made on the prescribed scale of allowances, be liable to a fine not exceeding $300.00 under section 16 of the Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced according to law.
+In default of your attendance you will, if at the time of service of this summons on you payment or tender of your expenses is made on the prescribed scale of allowances, be liable to a fine not exceeding $300.00 under section 16 of the Summary Jurisdiction (Petty Debt) Act, payment of which fine may be enforced according to law.
 
 *Part XXIV, r. 6(1)*
 
@@ -8328,11 +8170,9 @@ To (state the name, address, and description of one of the persons alleged to be
 
 Whereas the plaintiff obtained a judgment (or order) against the defendant by and in the name of (state name, address and description as in the original summons, with any amendment made by the Court) above described in this Court (or in the Magistrate’s Court of the ..................... Magisterial District holden at..................on the........... ................. day of..................20......, for the payment of the sum of $................ for debt) (or damages) and costs forthwith (or on the...................day of...........................20......, or by instalments of....................) and subsequent costs have been incurred in pursuance thereof amounting to $.....................:
 
-And whereas on the.............day of.........................20 , for
-
 *c. 6:04*
 
-the purposes of section 4 of the Debtors Act the said Court directed that the debt from the defendant in pursuance of the said judgment (or order) be paid by instalments of $...................each every (or on the...........day of...............20 ), (state period or if at any specified time state the same):
+And whereas on the.............day of.........................20 , for the purposes of section 4 of the Debtors Act the said Court directed that the debt from the defendant in pursuance of the said judgment (or order) be paid by instalments of $...................each every (or on the...........day of...............20 ), (state period or if at any specified time state the same):
 
 And whereas default has been made in payment of the sum of $ ................ payable in pursuance of the said judgment (or order, or direction to pay the debt by the said instalments or at the said specified time) and the plaintiff has required this judgment summons to be issued against you:
 
@@ -8352,7 +8192,7 @@ Amount due under judgment (or order) ... ... ... ... Subsequent costs ... ... ..
 
 Total sum due ... ... ... ... ... ...
 
-*Part XXIV, r. 7 Summary Jurisdiction (Civil Procedure) Rules Summary Jurisdiction (Magistrates)*
+*Part XXIV, r. 7 Summary Jurisdiction (Civil Procedure) Rules Summary Jurisdiction (Magistrates) Commitment Already Made*
 
 ### F ORM 81
 
@@ -8372,11 +8212,7 @@ Dated this...................................day of.............................
 
 (Signed)................................................................... Clerk of the Court . ..................... Magisterial District
 
-Name, Residence and Amount of Judgment or Order Occupation of Date of any
-
-*Commitment Already Made*
-
-How or Subsequent Debt or Subsequent Case Jacket Plaintiff Defendant Nature of Date of when Orders for Damages or Costs Costs Number Claim Judgment Amount Payable Payment by or Order Ordered Instalments
+Name, Residence and Amount of Judgment or Order Occupation of Date of any How or Subsequent Debt or Subsequent Case Jacket Plaintiff Defendant Nature of Date of when Orders for Damages or Costs Costs Number Claim Judgment Amount Payable Payment by or Order Ordered Instalments
 
 *Cap. 3:05*
 
@@ -8572,19 +8408,13 @@ Replevisor To the Bailiff of the. ...................... Court.
 
 *I approve of this recognisance.*
 
-Know all men by these presents, that we A.B. of ..................., C.D. of....................., and E.F. of .................. are held bound unto G.H. (the distrainer) in the sum of $ ................. to be paid to the
-
 *Magistrate. Dated this*
-
-said G.H. or his certain attorney or legal representatives, for which payment to be well and truly made we bind ourselves and each and every of us in the whole our and each of our
 
 *day of...............*
 
-legal representatives jointly and severally firmly by these
-
 *20........ .*
 
-presents.
+Know all men by these presents, that we A.B. of ..................., C.D. of....................., and E.F. of .................. are held bound unto G.H. (the distrainer) in the sum of $ ................. to be paid to the said G.H. or his certain attorney or legal representatives, for which payment to be well and truly made we bind ourselves and each and every of us in the whole our and each of our legal representatives jointly and severally firmly by these presents.
 
 Signed with our signatures and dated this. .............. day of..................Two Thousand and............................ .
 
@@ -8606,11 +8436,9 @@ Now the condition of this obligation is such that if the above-bounden A.B. do a
 
 In the Magistrate’s Court of the. .......................... Magisterial District holden at............................
 
-Take notice that A.B. of (residence) who alleges that his goods have been distrained intends to replevy the same and has duly given notice of his intention and has (deposited the amount of the rent alleged to be due and $5 as security for costs, or, entered into a recognizance with one or more sufficient sureties for the due and effective prosecution of the action) and has otherwise this day complied with section 10(1)
-
 *c. 7:01*
 
-of the Summary Jurisdiction (Petty Debt) Act.
+Take notice that A.B. of (residence) who alleges that his goods have been distrained intends to replevy the same and has duly given notice of his intention and has (deposited the amount of the rent alleged to be due and $5 as security for costs, or, entered into a recognizance with one or more sufficient sureties for the due and effective prosecution of the action) and has otherwise this day complied with section 10(1) of the Summary Jurisdiction (Petty Debt) Act.
 
 All for your information and guidance.
 
@@ -8706,9 +8534,9 @@ Dated this................day of........................20..... .
 
 Guyana
 
-**
+* State cause*
 
-State cause of action.
+of action.
 
 In the Magistrate’s Court of the. ........................... Magisterial District holden at............................
 
@@ -8724,11 +8552,17 @@ And this deponent further saith that for the reasons aforesaid, he verily believ
 
 Sworn before me this..................day of.......................20..... . ( ‡ .................................... )
 
- Here state the cause of action for which the arrest is to be made.
+ Here state the
 
-† Here state the facts which show, or the grounds and reason for believing, that the defendant is about to leave Guyana, unless forthwith apprehended and that the absence of the defendant from Guyana will prejudice the plaintiff in the recovery of what is claimed. (Stating whether defendant has any property in Guyana.)
+cause of action for which the arrest is to be made.
 
-‡ By the creditor or his representative being duly authorised in writing in this behalf.
+*Here state † defendant is*
+
+*(Stating ‡ By the*
+
+the facts which show, or the grounds and reason for believing, that the about to leave Guyana, unless forthwith apprehended and that the absence of the defendant from Guyana will prejudice the plaintiff in the recovery of what is claimed. whether defendant has any property in Guyana.)
+
+creditor or his representative being duly authorised in writing in this behalf.
 
 (Signed)................................................... A Commissioner for Oaths to Affidavits
 
@@ -8784,19 +8618,15 @@ requiring him to show cause pursuant to rule 4 (d) of Part XXVII of the Summary 
 
 or Whereas...............being this day present in Court, and being required by the Court to give evidence in this action, refused to be sworn or to make affirmation (or after being duly sworn) or (after having made affirmation) refused to give evidence (or to produce (here describe what he was required and bound to produce)):
 
-It is hereby ordered that the said................... shall forthwith or (state time specified) pay to the Clerk of this Court a fine $...................for such refusal or neglect to be apportioned as
-
 *Summary Jurisdiction (Petty Debt) Act c. 7:01, s. 16(1).*
 
-follows:
+It is hereby ordered that the said................... shall forthwith or (state time specified) pay to the Clerk of this Court a fine $...................for such refusal or neglect to be apportioned as follows:
 
 [State the application of the fine pursuant to section 16(2) of the Summary Jurisdiction (Petty Debt) Act.]
 
-And it is further ordered that in default of payment of the said fine, the same, with all subsequent costs as allowed by the Summary Jurisdiction (Petty Debt) Act, shall be levied on the movable property of the said.................(the bedding and wearing apparel of himself and his family, and, to the value of
-
 *c. 7:01*
 
-hone hundred dollars, the tools and implements of his trade only excepted) and in default of movable property sufficient to satisfy the said judgment, with all costs, then this execution is to be levied on his immovable property in accordance with the Summary Jurisdiction (Petty Debt) Act.
+And it is further ordered that in default of payment of the said fine, the same, with all subsequent costs as allowed by the Summary Jurisdiction (Petty Debt) Act, shall be levied on the movable property of the said.................(the bedding and wearing apparel of himself and his family, and, to the value of hone hundred dollars, the tools and implements of his trade only excepted) and in default of movable property sufficient to satisfy the said judgment, with all costs, then this execution is to be levied on his immovable property in accordance with the Summary Jurisdiction (Petty Debt) Act.
 
 or And it is further ordered that in default of payment of the said fine, the defendant to be imprisoned in the.................... Prison for the term of .................. unless the said sum should be sooner paid and that the commitment be issued in terms of
 
@@ -8804,11 +8634,9 @@ section 64 of the Summary Jurisdiction (Procedure) Act.
 
 Dated this..................day of.............................20....... .
 
-(Signed)...............................................
-
 *c. 10:02*
 
-Magistrate
+(Signed)............................................... Magistrate
 
 . .............. Magisterial District
 

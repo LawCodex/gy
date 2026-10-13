@@ -30,13 +30,17 @@ Current Authorised Pages Pages Authorised (inclusive) by L.R.O.
 
 Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
+*Protocol on the*
+
+Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission
+
 ### CHAPTER 3:10
 
 PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE CARIBBEAN COURT OF JUSTICE AND THE REGIONAL JUDICIAL AND LEGAL SERVICES COMMISSION ACT
 
 ## ARRANGEMENT OF SECTIONS
 
-### SECTION
+*SECTION*
 
 **1.** Short title.
 
@@ -50,17 +54,21 @@ PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE CARIBBEAN COURT OF JUSTICE AND 
 
 **6.** Regulations.
 
-## SCHEDULE – Protocol on the Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission.
+*Caribbean Services*
 
-18 of 2004 AN ACT to enable the implementation by Guyana the Protocol on the Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission and for related matters.
+## SCHEDULE – Protocol on the Privileges and Immunities of the Court of Justice and the Regional Judicial and Legal Commission.
+
+*18 of 2004*
+
+AN ACT to enable the implementation by Guyana the Protocol on the Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission and for related matters.
 
 ### [1 ST APRIL, 2005]
 
-Short title.
+*Short title.*
 
 **1.** This Act may be cited as the Protocol on the Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission Act.
 
-Interpretation.
+*Interpretation.*
 
 **2.** (1) In this Act –
 
@@ -72,11 +80,9 @@ Barbados, on the 14 th day of February, 2002;
 
 “Court” means the Caribbean Court of Justice established by the Agreement;
 
-“Protocol” means the Protocol on the Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission, signed at Montego Bay, Jamaica on 4 th July, 2003, the text of
-
 *Schedule*
 
-which is set out in the Schedule.
+“Protocol” means the Protocol on the Privileges and Immunities of the Caribbean Court of Justice and the Regional Judicial and Legal Services Commission, signed at Montego Bay, Jamaica on 4 th July, 2003, the text of which is set out in the Schedule.
 
 *Protocol given the force of law.*
 
@@ -84,11 +90,9 @@ which is set out in the Schedule.
 
 *Certificate of Minister conclusive as to contents.*
 
-**4.** If in any proceedings a question arises as to the entitlement of the Commission or the Court to any immunities or privileges under the Protocol, a certificate issued by or under the authority of the Minister to the effect that the Commission or the Court is or is not entitled shall be
-
 *Schedule*
 
-conclusive evidence of the fact.
+**4.** If in any proceedings a question arises as to the entitlement of the Commission or the Court to any immunities or privileges under the Protocol, a certificate issued by or under the authority of the Minister to the effect that the Commission or the Court is or is not entitled shall be conclusive evidence of the fact.
 
 *Amendment of the Protocol.*
 
@@ -225,6 +229,8 @@ not claim exemption from taxes which are, in fact, no more than charges for publ
 (b) immunity from personal arrest or detention in relation to acts performed by them in their official capacity;
 
 (c) inviolability of all papers, documents
+
+*12 Cap. 3:10*
 
 and materials related to the work of the Court or Commission as the case may be;
 
@@ -409,6 +415,8 @@ For the Government of St. Vincent and the Grenadines on the day of
 Signed by
 
 For the Government of The Republic of Suriname on the day of
+
+22 Cap. 3:10
 
 2003 at
 

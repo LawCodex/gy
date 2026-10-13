@@ -160,15 +160,13 @@ Repeal This Act Repealed Ordinances (13 of 1893), (28 of 1916), and (34 of 1924)
 
 ## SECOND SCHEDULE—Table of Fees and Costs ____________________
 
-### CHAPTER 3:04
-
 *1929 Ed. c. 16 c. 17*
 
-### SUMMARY JURISDICTION (APPEALS) ACT 1953
+### CHAPTER 3:04 SUMMARY JURISDICTION (APPEALS) ACT 1953
 
-*6 of 1929*
+*An 6 of 1929*
 
-An Act to make provision for appeals from the decisions of Magistrates.
+Act to make provision for appeals from the decisions of Magistrates.
 
 ### [26 TH JANUARY, 1929]
 
@@ -182,21 +180,23 @@ An Act to make provision for appeals from the decisions of Magistrates.
 
 clerk means the clerk of the court of the magisterial district from which an appeal is brought, and, if there is no clerk, includes a magistrate;
 
+*the*
+
 *c. 3:02*
 
-the Court means the Full Court of the High Court and includes any court at any time empowered by Act to hear and determine appeals from decisions of magistrates;
+Court means the Full Court of the High Court and includes any court at any time empowered by Act to hear and determine appeals from decisions of magistrates;
 
 decision means any final adjudication of a magistrate in a cause or matter before him and includes any nonsuit, dismissal, judgment, conviction, order, or other determination of the cause or matter;
 
 keeper when used in relation to a prison means the chief resident officer in the prison;
 
-the Registrar means the Registrar of the Supreme Court; the rules means any rules or orders of court relating to appeals from magistrates decisions made under the authority of any Act conferring the power to make rules or orders of court.
+*the the*
 
-(2) References to numbered forms are to the forms
+Registrar means the Registrar of the Supreme Court; rules means any rules or orders of court relating to appeals from magistrates decisions made under the authority of any Act conferring the power to make rules or orders of court.
 
 *First Schedule.*
 
-given in the First Schedule.
+(2) References to numbered forms are to the forms given in the First Schedule.
 
 ### MAKING OF APPEAL
 
@@ -260,11 +260,9 @@ required to give security by deposit to the extent of six hundred and fifty doll
 
 (2) The statement shall be lodged with the clerk, who shall forthwith, and at latest within twenty-one days of the receipt thereof, prepare a copy of the proceedings including the reasons for the decision, and when the copy is ready he shall notify the appellant in writing and, on payment of the proper fees, deliver the copy to him.
 
-(3) The appellant shall, within fourteen days after receipt of the notice, draw up a notice of the grounds of appeal in Form 3, and lodge it with the clerk and serve a copy thereof on the
-
 *of appeal.*
 
-opposite party. Section 4(2) shall apply to a notice of the grounds
+(3) The appellant shall, within fourteen days after receipt of the notice, draw up a notice of the grounds of appeal in Form 3, and lodge it with the clerk and serve a copy thereof on the opposite party. Section 4(2) shall apply to a notice of the grounds
 
 *Available grounds of*
 
@@ -314,11 +312,9 @@ Provided that a magistrate whose decision is likely to be appealed, may grant a 
 
 (2) [Deleted by Act 13 of 2014]
 
-(3) An appellant who has complied with sections 4 and 5 and who has been sentenced to imprisonment may elect to undergo his imprisonment; if he does not elect to do so, he shall,
-
 *[21 of 2022]*
 
-unless granted bail, be kept in prison and treated in like manner as a prisoner awaiting trial.
+(3) An appellant who has complied with sections 4 and 5 and who has been sentenced to imprisonment may elect to undergo his imprisonment; if he does not elect to do so, he shall, unless granted bail, be kept in prison and treated in like manner as a prisoner awaiting trial.
 
 *[21 of 2022]*
 
@@ -368,11 +364,9 @@ thereof, can be returned to the magistrate for the purposes of the appeal;
 
 *Default in prosecution of appeal.*
 
-**16.** (1) If the applicant makes default in the due prosecution of his appeal or at any stage notifies the clerk or the Registrar that he does not intend to proceed therewith, he shall be deemed to have abandoned the appeal, and the clerk or the Registrar, according as the appeal is abandoned prior to or after the transmission of the copy of the record to the Registrar, shall at
-
 *First Schedule.*
 
-once notify the magistrate of the fact in Form 4 in the First Schedule.
+**16.** (1) If the applicant makes default in the due prosecution of his appeal or at any stage notifies the clerk or the Registrar that he does not intend to proceed therewith, he shall be deemed to have abandoned the appeal, and the clerk or the Registrar, according as the appeal is abandoned prior to or after the transmission of the copy of the record to the Registrar, shall at once notify the magistrate of the fact in Form 4 in the First Schedule.
 
 *[21 of 2022]*
 
@@ -438,9 +432,9 @@ Provided that if any error, defect, or variance mentioned in this section appear
 
 (b) refer the cause to the magistrate to take that evidence, and in that case either direct the magistrate to adjudicate afresh after taking the evidence subject to such directions in law, if any, as the Court thinks fit to give, or may direct him, after taking the evidence, to report specific findings of fact for the information of the Court; the cause on any such reference, so far as may be practicable and necessary, being so dealt with as if it were being heard in the first instance.
 
-*\28. The Court may–*
+*\28. The Court may– Powers of the*
 
-*Powers of the Court. [31 of 1942]*
+*Court. [31 of 1942]*
 
 (a) affirm, modify, amend, or reverse, either in whole or in part, the decision, sentence, or any order made by the magistrate with reference to the cause, or may enter any judgment or make any order which the magistrate ought to have made; or
 
@@ -468,11 +462,9 @@ Provided that in any case where an order for the imprisonment of a person is aff
 
 (2) The imprisonment of the person (if it has not previously commenced) shall be reckoned to begin from the day on which he is arrested to be taken to the prison wherein he has been ordered to be imprisoned; and, if the person has been discharged from imprisonment on obtaining bail, he shall be imprisoned for such further period as, with the time during which he has already been imprisoned, is equal to the period for which he was ordered to be imprisoned as aforesaid.
 
-(3) Where default has been made in rendering any person aforesaid to prison in execution of any order aforesaid and a warrant has been issued against him to enforce the render to prison, he shall be liable to pay the cost and charges of the render; and if the opposite party, before the expiration of the imprisonment causes the amount of the costs and charges to be ascertained by the Registrar and leaves with the person, and with the keeper of the prison, a certificate, under the hand of the Registrar, of the amount of those costs and charges, then the person shall not be discharged from imprisonment until those costs and charges have been paid; but the additional imprisonment shall not be for a longer period than that prescribed
-
 *c. 10:02*
 
-by section 38 of the Summary Jurisdiction (Procedure) Act.
+(3) Where default has been made in rendering any person aforesaid to prison in execution of any order aforesaid and a warrant has been issued against him to enforce the render to prison, he shall be liable to pay the cost and charges of the render; and if the opposite party, before the expiration of the imprisonment causes the amount of the costs and charges to be ascertained by the Registrar and leaves with the person, and with the keeper of the prison, a certificate, under the hand of the Registrar, of the amount of those costs and charges, then the person shall not be discharged from imprisonment until those costs and charges have been paid; but the additional imprisonment shall not be for a longer period than that prescribed by section 38 of the Summary Jurisdiction (Procedure) Act.
 
 (4) When an appellant is admitted to bail pending his appeal the time during which he is at large after being so admitted shall be disregarded in computing the term of any sentence to which he is for the time being subject.
 
@@ -498,11 +490,9 @@ Provided that the foregoing provisions of this subsection shall not operate to s
 
 **33.** (1) The Court may at any time of making an order as to costs fix the amount thereof, but if no amount is fixed costs shall be taxed by the Registrar.
 
-(2) The Registrar, when transmitting a certified copy of the judgment as required by section 30(1), shall also send to the clerk a certificate of the amount of costs fixed or taxed in Form 5
-
 *First Schedule.*
 
-in the First Schedule.
+(2) The Registrar, when transmitting a certified copy of the judgment as required by section 30(1), shall also send to the clerk a certificate of the amount of costs fixed or taxed in Form 5 in the First Schedule.
 
 *Payment of costs.*
 
@@ -572,7 +562,9 @@ Complainants, Respondent or
 
 Plaintiff
 
-Take notice that this Court will be moved on a day and at an hour of which you shall be informed by the Registrar by …………….Counsel on behalf of the (plaintiff, or as may be) that (here state concisely the object of the appeal).
+*an*
+
+Take notice that this Court will be moved on a day and at hour of which you shall be informed by the Registrar by …………….Counsel on behalf of the (plaintiff, or as may be) that (here state concisely the object of the appeal).
 
 Dated this .................day of ....................20...
 
@@ -736,7 +728,9 @@ Registrar
 
 Dated this…………..day of………..20…. to the clerk of the magistrates court for the…………………..Magisterial District. ____________________
 
-## SECOND SCHEDULE (As substituted by the Summary Jurisdiction (Appeals) Fees Amendment Rules, 1939)
+*Fees*
+
+## SECOND SCHEDULE (As substituted by the Summary Jurisdiction (Appeals) Amendment Rules, 1939)
 
 ### TABLE OF FEES AND COSTS PAYABLE IN THE MAGISTRATES COURT
 
@@ -750,11 +744,9 @@ Dated this…………..day of………..20…. to the clerk of the magistrates 
 
 **2.** Copy and record, per folio of 120 words PAYABLE TO THE REGISTRAR
 
-**3.** Entering appeal for hearing, filing affidavit for service, attendance at hearing, judgement or order on appeal and certificate of costs to be paid by the appellant when lodging the
-
 *4.00*
 
-additional copies of the record as required by section 13(2)
+**3.** Entering appeal for hearing, filing affidavit for service, attendance at hearing, judgement or order on appeal and certificate of costs to be paid by the appellant when lodging the additional copies of the record as required by section 13(2)
 
 *0.50*
 
@@ -764,11 +756,9 @@ additional copies of the record as required by section 13(2)
 
 **5.** Drawing affidavit of service, where required
 
-**6.** Drawing any other affidavit required by the rules or certified by the Registrar to have
-
 *2.00*
 
-been necessary
+**6.** Drawing any other affidavit required by the rules or certified by the Registrar to have been necessary
 
 *0.50*
 
@@ -794,8 +784,6 @@ been necessary
 
 *0.15*
 
-**11.** First copy of any document required for the use of the Court, per folio of 120 words
-
 *0.10*
 
-Every additional copy, including copy for counsel per folio, 120 words ____________________
+**11.** First copy of any document required for the use of the Court, per folio of 120 words Every additional copy, including copy for counsel per folio, 120 words ____________________

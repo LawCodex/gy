@@ -284,17 +284,13 @@ Expressions in general use
 
 “acre” means English acre;
 
-“Act” means any Act of Parliament whether passed before or after the coming into operation of this Act and includes an Ordinance passed by a legislature of the former Colony of British Guiana and includes a
-
 *c. 2:03*
 
-resolution, Act or Ordinance within the meaning of the Statute Law Continuation Ordinance and an applied Act;
-
-“admiralty jurisdiction” means such admiralty jurisdiction as
+“Act” means any Act of Parliament whether passed before or after the coming into operation of this Act and includes an Ordinance passed by a legislature of the former Colony of British Guiana and includes a resolution, Act or Ordinance within the meaning of the Statute Law Continuation Ordinance and an applied Act;
 
 *c. 3:02*
 
-was vested in the Supreme Court of Judicature of Guyana on 22nd February, 1970;
+“admiralty jurisdiction” means such admiralty jurisdiction as was vested in the Supreme Court of Judicature of Guyana on 22nd February, 1970;
 
 “amend” includes add to, partially repeal and partially or completely replace;
 
@@ -302,17 +298,13 @@ was vested in the Supreme Court of Judicature of Guyana on 22nd February, 1970;
 
 “applied law” means an applied Act and any legislative instrument (other than the constitutional instruments) made thereunder otherwise than by an authority in Guyana, having effect or having had effect as part of the law of Guyana;
 
-“Chancellor” means the Chancellor as referred to in Chapter
+*c. 1:01*
+
+“Chancellor” means the Chancellor as referred to in Chapter XI of the Constitution;
 
 *c. 1:01*
 
-XI of the Constitution;
-
-“Chief Justice” means the Chief Justice as referred to in
-
-*c. 1:01*
-
-Chapter XI of the Constitution;
+“Chief Justice” means the Chief Justice as referred to in Chapter XI of the Constitution;
 
 “Commonwealth” has the meaning assigned to it by the Constitution;
 
@@ -320,17 +312,13 @@ Chapter XI of the Constitution;
 
 “Commonwealth territory” means a Commonwealth country or a dependency of a Commonwealth country;
 
-“Constitutional instruments” means the Constitution of the Co-operative Republic of Guyana Act and the
+*c. 1:01*
+
+“Constitutional instruments” means the Constitution of the Co-operative Republic of Guyana Act and the Constitution set out in the Schedule thereto;
 
 *c. 1:01*
 
-Constitution set out in the Schedule thereto;
-
-“the Constitution” means the Constitution set out in the Schedule to the Constitution of the Co-operative
-
-*c. 1:01*
-
-Republic of Guyana Act as amended from time to time;
+“the Constitution” means the Constitution set out in the Schedule to the Constitution of the Co-operative Republic of Guyana Act as amended from time to time;
 
 “Court of Appeal” means the Court of Appeal of the Supreme Court of Judicature established by the Constitution;
 
@@ -346,11 +334,9 @@ Republic of Guyana Act as amended from time to time;
 
 “the Gazette” means the Official Gazette of Guyana;
 
-“Georgetown” and “Georgetown City Council” have the respective meanings assigned to these expressions in the
-
 *c. 28:01*
 
-Municipal and District Councils Act;
+“Georgetown” and “Georgetown City Council” have the respective meanings assigned to these expressions in the Municipal and District Councils Act;
 
 “the Government” means the Government of Guyana;
 
@@ -362,11 +348,9 @@ Municipal and District Councils Act;
 
 “made”, when used in relation to written law, includes passed and enacted;
 
-“New Amsterdam” and “New Amsterdam Town Council” have the respective meanings assigned to these
-
 *c. 28:01*
 
-expressions in the Municipal and District Councils Act;
+“New Amsterdam” and “New Amsterdam Town Council” have the respective meanings assigned to these expressions in the Municipal and District Councils Act;
 
 “or”, “other”, and “otherwise” shall be construed disjunctively and not as implying similarity, unless the expression
 
@@ -392,11 +376,9 @@ where appropriate, by subsidiary legislation made under that Act;
 
 “public office”, “public officer” and “public service” have the meanings respectively assigned to them by article 232 of the Constitution;
 
-public holiday” means public holiday within the meaning of
-
 *c. 19:07*
 
-the Public Holiday Act;
+public holiday” means public holiday within the meaning of the Public Holiday Act;
 
 “public lands” means all lands vested in the State (whether as State lands or as Government lands) or vested in any person in trust for the State;
 
@@ -412,21 +394,17 @@ instrument, made under or by virtue of any Act, and having legislative effect; a
 
 “Summary Jurisdiction Acts” or “Summary Jurisdiction Ordinances” means any Acts and Ordinances for the time being in force regulating the summary jurisdiction of magistrates in respect of criminal and quasi-criminal offences and matters and appeals from decision of magistrates;
 
-“Supreme Court” means the Supreme Court of Judicature
-
 *c. 1:01*
 
-established by the Constitution;
+“Supreme Court” means the Supreme Court of Judicature established by the Constitution;
 
 “words” includes figures, punctuation marks, and typographical, monetary and mathematical symbols;
 
 “written law” means the constitutional instruments, Acts of Parliament, subsidiary legislation and applied laws.
 
-(2) In any written law and in any public document, the expression “Commonwealth ship” has the meaning assigned to
-
 *1973 Ed. c. 49:01*
 
-the expression “British ship” in the law applied to Guyana by the Merchant Shipping Act.
+(2) In any written law and in any public document, the expression “Commonwealth ship” has the meaning assigned to the expression “British ship” in the law applied to Guyana by the Merchant Shipping Act.
 
 (3) In any written law or in any public document a reference to writing shall be construed as including references to printing, lithography, typewriting, photography, and other modes of representing or reproducing words in visible form.
 
@@ -456,13 +434,19 @@ schedule or form of some other Act is intended, the reference shall be construed
 
 (3) In any written law and in any public document made after 23rd February, 1970, unless the context otherwise requires, a reference to the State, in so far as it relates to any period prior to that date, shall be construed as a reference to the Crown.
 
-(4) In any written law made before the coming into operation of this Act, the expression “statute” shall continue to
+*(4) In operation of this have the same*
 
-*Cap. 5 1953 Ed.*
+*Cap. 5*
 
-have the same meaning as under the Interpretation Ordinance, 1891 (now repealed).
+*1891 (now*
 
-Special provisions relating to certain expressions
+*1953 Ed.*
+
+any written law made before the coming into Act, the expression “statute” shall continue to meaning as under the Interpretation Ordinance, repealed).
+
+*Special*
+
+provisions relating to certain expressions
 
 *Reference to the President, the Minister, etc. [4 of 1972 O. 80 of 1980]*
 
@@ -476,17 +460,23 @@ Special provisions relating to certain expressions
 
 “the Permanent Secretary” shall be construed as a reference to the permanent secretary to the Ministry.
 
-*Reference to diplomatic or consular officer.*
+*\8. (1) A*
 
-**8.** (1) A reference in any written law to a diplomatic or consular officer or representative of the Government of Guyana in any country shall include a reference to the corresponding diplomatic or consular officer or representative of any State specified for the purposes of this section by the President by
+*Reference to diplomatic or consular officer consular*
+
+*in any country*
+
+*officer.*
+
+*diplomatic or specified for the*
+
+reference in any written law to a diplomatic or or representative of the Government of Guyana shall include a reference to the corresponding consular officer or representative of any State purposes of this section by the President by
 
 notice in the Gazette.
 
-(2) In any written law the expressions defined in Article 1 of the Vienna Convention on Diplomatic Relations and Article 1 of the Vienna Convention on Consular Relations as respectively set out in the First and Second Schedules to the Privileges and Immunities (Diplomatic, Consular, and
-
 *c. 18:01*
 
-International Organisations) Act shall unless the context otherwise requires have the respective meanings assigned to these expressions in the said Articles.
+(2) In any written law the expressions defined in Article 1 of the Vienna Convention on Diplomatic Relations and Article 1 of the Vienna Convention on Consular Relations as respectively set out in the First and Second Schedules to the Privileges and Immunities (Diplomatic, Consular, and International Organisations) Act shall unless the context otherwise requires have the respective meanings assigned to these expressions in the said Articles.
 
 *Meaning of “service by post”. [4 of 1972]*
 

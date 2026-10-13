@@ -111,11 +111,9 @@ Commission’s powers with respect to revision of a law imposing a specified mon
 
 ### CHAPTER 2:02
 
-### LAW REVISION ACT
-
 *4 of 1972*
 
-An Act to provide for the Revision of the Laws of Guyana and for matters connected therewith, including Miscellaneous Amendments, Repeals and Validations.
+LAW REVISION ACT An Act to provide for the Revision of the Laws of Guyana and for matters connected therewith, including Miscellaneous Amendments, Repeals and Validations.
 
 ### [23 RD SEPTEMBER, 1972]
 
@@ -287,11 +285,9 @@ written law.
 
 (3) An amending order under subsection (2)(a) or a Law Revision Order under subsection (2)(b) may have retrospective effect to the date of coming into operation of the Law Revision Order from which the error or omission resulted.
 
-**15.** (1) Notwithstanding the provisions of section 6(1),
-
 *Alternative mode of amending Laws.*
 
-where the Commission deems it expedient, in the interests of economy or convenience, in revising any page of the Laws of Guyana to which an amendment has been made since the last revision or to which the Commission proposes to make an amendment, the Commission may, as an alternative to
+**15.** (1) Notwithstanding the provisions of section 6(1), where the Commission deems it expedient, in the interests of economy or convenience, in revising any page of the Laws of Guyana to which an amendment has been made since the last revision or to which the Commission proposes to make an amendment, the Commission may, as an alternative to
 
 incorporating the amendment in the Laws of Guyana by removing the page and inserting in its place a page setting out the law as amended–
 
@@ -363,17 +359,39 @@ incorporating the amendment in the Laws of Guyana by removing the page and inser
 
 **23.** Any of the instruments mentioned in section 29 of the Evidence Act certified and legalised, or purporting to be certified and legalised, under the hand and seal of any of the officers or persons before whom it could have been certified and legalised been certified and legalised immediately before 26th May, 1966, may, subject to the provisions of the Deeds Registry Act, be recorded in the deeds registry and, if already recorded in the deeds registry, shall be deemed to have been legally and effectually recorded therein and the said section 29 shall apply to such instrument and shall be deemed always to have applied to such instrument as it would apply to an instrument so certified and legalised immediately before 25th May, 1966.
 
-*Evidence Ordinance section 96B c.5:03*
+*taken*
 
-**24.** Any oath administered or any affidavit taken abroad by a diplomatic agent or a consular officer of Guyana before the coming into operation of section 96B of the Evidence Act (inserted by the Second Schedule of this Act) shall be deemed to be as valid and effectual as if at the time of the administration of the oath or the taking of the affidavit that section had been in operation.
+*Evidence Ordinance section 96B*
 
-*Marriage Ordinance section 96B c.5:03*
+*Act*
 
-**25.** Any licence purporting to be granted under section 38 of the Marriage Act by the Registrar General or the Permanent Secretary of the Ministry of Health between 20th September, 1961, and the commencement of this Act shall be as valid and effectual as if granted by the authority empowered by that section to grant such licence.
+*c.5:03*
 
-*Business Names Rules. C.90:05 R. 2/1956*
+*to of*
 
-**26.** Rule 11 of the Business Names Rules as inserted by the Business Names (Amendment) Rules, 1956,shall have effect and shall be deemed always to have had effect as if the fees prescribed therein had been authorised by the provisions of sections 18 and 19 of the-Business Names (Registration) Act.
+**24.** Any oath administered or any affidavit abroad by a diplomatic agent or a consular officer of Guyana before the coming into operation of section 96B of the Evidence (inserted by the Second Schedule of this Act) shall be deemed be as valid and effectual as if at the time of the administration the oath or the taking of the affidavit that section had been in operation.
+
+*Marriage Ordinance section 96B*
+
+*20th*
+
+*c.5:03*
+
+*be as by*
+
+**25.** Any licence purporting to be granted under section 38 of the Marriage Act by the Registrar General or the Permanent Secretary of the Ministry of Health between September, 1961, and the commencement of this Act shall valid and effectual as if granted by the authority empowered that section to grant such licence.
+
+*Business*
+
+*effect*
+
+*Names Rules.*
+
+*of*
+
+*C.90:05 R. 2/1956*
+
+**26.** Rule 11 of the Business Names Rules as inserted by the Business Names (Amendment) Rules, 1956,shall have and shall be deemed always to have had effect as if the fees prescribed therein had been authorised by the provisions sections 18 and 19 of the-Business Names (Registration) Act.
 
 ## SCHEDULE
 
@@ -437,11 +455,15 @@ Cap. 311 civil list maintenance ordinance.
 
 Cap. 323 importation of textiles (quotas) ordinance. Cap. 352 acquisition of land (U.S.A Air and naval bases) ordinance
 
-Other laws.
+*Other*
+
+laws.
 
 1 of 1941 excess profits tax (cessation) ordinance 1941. 22 of 1942 land partition and Reallotment ordinance 1942. 28 of 1942 life assurance companies (temporary modifications) ordinance 12 of 1945 district lands partition and re-allotment (special Provisions) ordinance 1945.
 
-19 of 1949 steam boilers (repeal) ordinance 1949 24 of 1953 compensation (emergency order) ordinance 1953. 45 of 1954 legal tender (Jamaica currency notes) ordinance. 32 of 1955 british Caribbean shipping (agreement) ordinance 32 of 1960 georgetown (valuation and rating) (special provisions) ordinance 1960 41 of 1961 local government ( postpone of elections) ordinance
+19 of 1949 steam boilers (repeal) ordinance 1949 24 of 1953 compensation (emergency order) ordinance 1953. 45 of 1954 legal tender (Jamaica currency notes) ordinance. 32 of 1955 british Caribbean shipping (agreement) ordinance 32 of 1960 georgetown (valuation and rating) (special provisions) ordinance 1960 41 of 1961 local government ( postpone of elections)
+
+ordinance
 
 16 of 1962 national development and savings levy ordinance
 

@@ -214,13 +214,9 @@ the case can be extracted from the small arm after firing, and which are so clos
 
 **5.** Each magazine shall be under the charge of an officer designated by the Minister for that purpose.
 
-*General rules for magazine.*
+*General rules for magazine. rules shall be observed: [6 of 1997]*
 
 **6.** (1) In every magazine the following general
-
-*rules shall be observed:*
-
-*[6 of 1997]*
 
 (a) every building in which explosive is kept shall be used only for the keeping of explosive and receptacles for all tools or implements for work connected with the keeping of the explosive;
 
@@ -532,9 +528,11 @@ the control of any person convicted under this section, may be forfeited, togeth
 
 (2) Everyone who, by himself or by any other person, fails to admit into any place occupied by him, or under his control, any officer demanding to enter in pursuance of this section, or in any way obstructs the officer in the execution of his duty under this section, shall be liable to a fine of ninety-seven thousand five hundred dollars, and shall also be liable to forfeit all explosives and ingredients thereof at the time of the offence in his possession or under his control at that place.
 
-*Seizure and detention of explosive liable to forfeiture. [6 of 1997]*
+*\32. Any Seizure and*
 
-**32.** Any officer aforesaid who has reasonable cause to believe that any explosive, or ingredient of an explosive, or substance found by him, is liable to be forfeited under this Act, may seize and detain it until the magistrate of the district has determined whether it is or is not so liable to be forfeited, and with respect thereto, the following provisions shall have effect:
+*detention of believe that any explosive liable substance to forfeiture. may seize and [6 of 1997] determined with respect*
+
+officer aforesaid who has reasonable cause to explosive, or ingredient of an explosive, or found by him, is liable to be forfeited under this Act, detain it until the magistrate of the district has whether it is or is not so liable to be forfeited, and thereto, the following provisions shall have effect:
 
 (a) the officer seizing may either require the occupier of the place in which it was seized (whether a building or not, or a ship, boat, or carriage), to detain it there or in any place under the control of the occupier, or may remove it in the manner and to the place which will, in his opinion, least endanger the public safety and there detain it, and may, where the matter appears to him to be urgent and fraught with serious public danger, and he either is, or is authorised by an order from, the Comptroller of Customs, a district commissioner, a justice of the peace, or a superintendent of police, cause it to be destroyed or otherwise rendered harmless; but beforCommissioner General of the Revenue Authority e destroying it or rendering it harmless, he shall take and keep a sample thereof, and shall if required give a portion of the sample to the person owning the explosive or having it under his control at the time of the seizure; and any occupier who, by himself or by any other person, fails to keep the article seized when he is required in pursuance of this section to detain it, and any occupier or other person who, except with the authority of the officer seizing it, or of the Commissioner General of the Revenue Authority, a district
 
@@ -631,6 +629,10 @@ made under section 4
 *O. in C. 45/1941*
 
 **3.** That area on the north side of Carifesta Avenue, Georgetown, measuring 80 feet in length by 65 feet average
+
+*Cap.*
+
+16:06
 
 width, enclosed by a wooden fence and distant 1,291 feet eastward of the junction of Carifesta Avenue and Camp Road.
 
@@ -758,6 +760,10 @@ __________________
 
 **56.** Locking of wagons.
 
+*Cap.*
+
+16:06
+
 ### REGULATION
 
 **57.** Time of transhipping explosives.
@@ -838,23 +844,35 @@ as far as Linden without discharging the said explosives at Georgetown.
 
 **11.** The amount of the explosives conveyed in any one ship, boat or carriage at any one time from or to a magazine, shall not exceed 2,000 lbs., unless the carriage be enclosed on all sides with wood or metal, or the ship or boat have a close
 
-deck, so closed as effectually to protect the explosive against accident by fire from without, in which case the amount of the explosives conveyed shall not exceed the following:
+*against*
 
-In any one carriage on a railway ……………10 tons In any one other carriage ………………………2 “ In any one ship or boat …………………………20 “
+deck, so closed as effectually to protect the explosive accident by fire from without, in which case the amount of the explosives conveyed shall not exceed the
 
-*Application of regs. 7; 8; 10; 11. [Reg. 21/1947 12/1948]*
+*following:*
 
-**12.** Regulations 7, 8, 10 and 11 shall, mutatis mutandis, apply—
+*In any In any In any*
 
-(a to any ship carrying explosives up the Demerara River; and
+one carriage on a railway ……………10 tons one other carriage ………………………2 “ one ship or boat …………………………20 “
+
+*Application of regs. 7; 8; 10; 11. mutandis, [Reg. 21/1947 12/1948]*
+
+**12.** Regulations 7, 8, 10 and 11 shall, mutatis apply—
+
+*(a*
+
+to any ship carrying explosives up the Demerara River; and
 
 (b) to any boat, punt or other vessel used to discharge explosives from any ship in the Demerara River.
 
 ### KEEPING EXPLOSIVES
 
-*Keeping explosives in premises licensed for the purpose.*
+*Keeping explosives in premises premises*
 
-**13.** No explosive shall be kept in any place or premises whether on land or on water not duly licensed as a magazine for the storage of explosives, or the premises of a person not duly licensed to sell explosives by wholesale or retail, under the Act:
+*magazine for licensed for the person not*
+
+*purpose.*
+
+**13.** No explosive shall be kept in any place or whether on land or on water not duly licensed as a the storage of explosives, or the premises of a duly licensed to sell explosives by wholesale or retail, under the Act:
 
 Provided always that—
 
@@ -886,11 +904,9 @@ Rules with respect to the Packing of Explosives for Removal
 
 *Packing of*
 
-**17.** (1) An explosive, not being a fulminate, shall if not
-
 *other than*
 
-exceeding Packing of 5 lbs. in quantity, be contained in a
+**17.** (1) An explosive, not being a fulminate, shall if not exceeding Packing of 5 lbs. in quantity, be contained in a
 
 *fulminate.*
 
@@ -962,7 +978,9 @@ Provided that in the case of electric detonators where the number in any outer p
 
 (f) Explosives made up into cartridges or charges for mines, blasting or other like purposes, shall be packed in such manner and in such quantity as is required for the same explosive when not so made up:
 
-Provided that where a double package is required, the enclosing case of such cartridges or charges, may, if it satisfy the conditions required for an inner package, be held to be such inner package.
+*the enclosing satisfy the to be such inner*
+
+Provided that where a double package is required, case of such cartridges or charges, may, if it conditions required for an inner package, be held package.
 
 ### MODE OF CONVEYANCE
 
@@ -1082,9 +1100,15 @@ charge of the station. Consignments of explosives to be carried in a passenger s
 
 (iii) directly a wagon containing explosives arrives at a section on which goods trains are running, it is detached from the mixed trains.
 
-*Not more than two carriages of explosives to be loaded.*
+*Not more than two carriages explosives shall of explosives or be conveyed to be*
 
-**45.** Not more than two carriages containing explosives shall be loaded or unloaded at any railway station or be conveyed by any one goods train at any one time; and the quantity of explosive to be contained in any one carriage shall not exceed two-thirds of the normal load.
+*the quantity of*
+
+*loaded.*
+
+*shall not exceed*
+
+**45.** Not more than two carriages containing be loaded or unloaded at any railway station by any one goods train at any one time; and explosive to be contained in any one carriage two-thirds of the normal load.
 
 *Matches not to be in carriage with explosives.*
 

@@ -46,7 +46,9 @@ The Chapter contains no subsidiary legislation.
 
 *SECTION*
 
-**1.** Short title.
+*\1. Short*
+
+title.
 
 **2.** Counties of Demerara, Essequibo and Berbice.
 
@@ -79,3 +81,7 @@ An Act to divide Guyana into Counties.
 Demerara and Essequibo united, or for Guyana generally, that word shall, unless the context otherwise requires, be deemed, considered, and taken as thereby designating the several respective counties named in the preceding section to which it is applicable by name in any of those Acts, Ordinances, publications, proclamations, laws relating to procedure, or rules and regulations.
 
 ____________________
+
+*1/2012*
+
+L.R.O.

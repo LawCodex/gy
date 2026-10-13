@@ -46,9 +46,9 @@ This Chapter contains no subsidiary legislation.
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-**1.** Short title.
+**1.** title.
 
 2.
 
@@ -188,17 +188,13 @@ Act, t h e n a m e o f t h e person referred to in that subsection from the list
 
 Rent Assessor.
 
-Member of an assessment committee constituted under the
-
 *c. 69:02*
 
-Rice Farmers (Security of Tenure) Act.
-
-Commissioner appointed under section 7 of the Petroleum
+Member of an assessment committee constituted under the Rice Farmers (Security of Tenure) Act.
 
 *c. 65:05*
 
-(Production) Act.
+Commissioner appointed under section 7 of the Petroleum (Production) Act.
 
 Appointed m e m b e r o f Public U t i l i t y a n d P u b l i c H e a l t h Services Arbitration Tribunal
 
@@ -206,11 +202,9 @@ Appointed m e m b e r o f Public U t i l i t y a n d P u b l i c H e a l t h Ser
 
 Arbitrator appointed under section 4 of the Labour Act.
 
-Commissioner appointed under the Commissions of Inquiry
-
 *c. 19:03*
 
-Act.
+Commissioner appointed under the Commissions of Inquiry Act.
 
 *1953 Ed. c. 111*
 
@@ -218,45 +212,31 @@ Medical referee appointed for the purposes of the Workmen’s Compensation Act.
 
 Member of the Customs Tariff Tribunal.
 
-Assessor of a court of inquiry appointed under Part 1 of the
-
 *c. 49:07*
-
-Shipping Casualties (Investigation and Prevention) Act. Member of the Board of Review established under section 79
 
 *c. 81:01*
 
-of the Income Tax Act.
-
-Arbitrator appointed by the Minister under section 31 of the
+Assessor of a court of inquiry appointed under Part 1 of the Shipping Casualties (Investigation and Prevention) Act. Member of the Board of Review established under section 79 of the Income Tax Act.
 
 *c. 56:03*
 
-Hydro- Electric Power Act.
-
-Member of a local rating valuation appeals panel established
+Arbitrator appointed by the Minister under section 31 of the Hydro- Electric Power Act.
 
 *c. 28:04*
 
-under the Valuation for Rating Purposes Act.
+Member of a local rating valuation appeals panel established under the Valuation for Rating Purposes Act.
 
 Member of the Guyana Fire Brigade.
 
-Supernumerary constable, subordinate officer, inspector
-
 *c. 16:01*
-
-or officer appointed under section 82 of the Police Act.
 
 *c. 11:01*
 
-Prison Officer within the meaning of the Prison Act.
-
-Chief Elections officer, returning officer, deputy returning officer, election clerk, presiding officer, assistant presiding
+Supernumerary constable, subordinate officer, inspector or officer appointed under section 82 of the Police Act. Prison Officer within the meaning of the Prison Act.
 
 *c. 1:03*
 
-officer, poll clerk appointed under the Elections Act.
+Chief Elections officer, returning officer, deputy returning officer, election clerk, presiding officer, assistant presiding officer, poll clerk appointed under the Elections Act.
 
 Clerk or other member of the staff of the National Assembly.
 

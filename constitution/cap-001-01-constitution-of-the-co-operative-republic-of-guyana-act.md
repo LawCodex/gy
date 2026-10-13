@@ -32,7 +32,7 @@ Current Authorised Pages
 
 Pages Authorised (inclusive) by L.R.O.
 
-1 – 338 … 1/2022
+1 – 338 …
 
 Index of Subsidiary Legislation
 
@@ -200,9 +200,9 @@ and, save where the context otherwise requires, expressions used in sections 1 t
 
 **10.** (1) The person who immediately before the appointed day holds the office of Prime Minister under the existing
 
-*\\**
+*Paragraphs \**
 
-Paragraphs (3) and (4) of article 60 of the Constitution were repealed by Act No. 14 of
+(3) and (4) of article 60 of the Constitution were repealed by Act No. 14
 
 Constitution shall, subject to the provisions of article 97 of the Constitution (relating to the taking of an oath by the President), assume office as President of the Co-operative Republic of Guyana that day as if he or she had been elected thereto in pursuance of the provisions of the Constitution and shall, unless he or she sooner dies or resigns or unless he or she ceases to hold office by virtue of articles 93 and 94 of the Constitution, continue in office until the person elected President in the next following Presidential election held for the purposes of article 91 of the Constitution assumes office.
 
@@ -956,7 +956,7 @@ Removal from office of certain persons.
 
 Powers and procedure of Commissions.
 
-**227.** Disqualification for office of persons exciting racial hostility.
+Disqualification for office of persons exciting racial hostility.
 
 ### TITLE 10 INTERPRETATION
 
@@ -1900,7 +1900,9 @@ to the interpretation this Constitution; and
 
 (b) final decisions given in exercise of the jurisdiction conferred on the High Court by article 153 (which relates to the enforcement of fundamental rights and freedoms).
 
-(2) Nothing in paragraph (1) shall apply to the matters for which provision is made by article 163.
+*for*
+
+(2) Nothing in paragraph (1) shall apply to the matters which provision is made by article 163.
 
 ### CHAPTER XII THE SERVICE COMMISSIONS
 
@@ -1950,11 +1952,9 @@ to the interpretation this Constitution; and
 
 or if he or she dies as the result of a lawful act of war.
 
-*Protection of right to personal liberty. [10 of 2003]*
+*Protection of right to personal liberty. [10 of 2003] cases, that is to say–*
 
 **139.** (1) No person shall be deprived of his or her personal liberty save as may be authorised by law in any of the following
-
-*cases, that is to say–*
 
 (a) in execution of the sentence or order of a court, whether established for Guyana or some other country, in respect of a criminal offence of which he or she has been convicted;
 
@@ -2550,13 +2550,9 @@ as an alternative to or in default of the payment of a fine.
 
 (8) In paragraph (6)(b) “Government contract” means any contract made with the Government of Guyana or with a department of that Government or with an officer of that Government contracting as such.
 
-*Tenure of seats of members of*
+*Tenure of seats of members of his or her seat therein– the National Assembly. [14 of 2000 22 of 2007]*
 
 **156.** (1) A member of the National Assembly shall vacate
-
-*his or her seat therein–*
-
-*the National Assembly. [14 of 2000 22 of 2007]*
 
 (a) if he or she resigns it by writing under his or her hand addressed to the Speaker or, if the office of the Speaker is vacant or the Speaker is absent from Guyana, to the Deputy Speaker:
 
@@ -3060,7 +3056,9 @@ if he or she becomes disqualified for election as a member of the Assembly by vi
 
 of any law enacted in pursuance thereof.
 
-(2) The office of any other Minister shall become vacant if the holder of the office–
+*if the*
+
+(2) The office of any other Minister shall become vacant holder of the office–
 
 (a) ceases to be a member of the Assembly for any cause other than a dissolution of Parliament;
 
@@ -3076,13 +3074,15 @@ of any law enacted in pursuance thereof.
 
 (c) on the election of any person to the office of the President pursuant to the provisions of article 177.
 
-*Leader of the Opposition. [ 2 of 2000 14 of 2000]*
+*Leader of the Opposition. and from [ 2 of 2000 14 of 2000]*
 
-**184.** (1) The Leader of the Opposition shall be elected by and from among the non-governmental members of the National Assembly at a meeting held under the chairmanship of the Speaker of the National Assembly, who shall not have the right to
+*Speaker vote.*
 
-*vote.*
+**184.** (1) The Leader of the Opposition shall be elected by among the non-governmental members of the National Assembly at a meeting held under the chairmanship of the of the National Assembly, who shall not have the right to
 
-(2) The office of the Leader of the Opposition shall become vacant if–
+*become*
+
+(2) The office of the Leader of the Opposition shall vacant if–
 
 the holder thereof ceases to be a member of the Assembly for any cause other than a dissolution of Parliament;
 
@@ -3390,11 +3390,9 @@ sovereignty and integrity, and guarantee the normal functioning of institutions 
 
 (2) The Defence and Security Forces shall be subordinate to national defence and security policy and owe allegiance to the Constitution and to the Nation. The oath taken by members of the Defence and Security Forces shall establish their duty to respect the Constitution.
 
-(3) The Guyana Defence Force established under the
-
 *c. 15:01*
 
-Defence Act shall in the discharge of its constitutional responsibilities function in such a manner as to earn the respect and enjoy the confidence of citizens.
+(3) The Guyana Defence Force established under the Defence Act shall in the discharge of its constitutional responsibilities function in such a manner as to earn the respect and enjoy the confidence of citizens.
 
 *c. 16:01*
 
@@ -3406,11 +3404,9 @@ Defence Act shall in the discharge of its constitutional responsibilities functi
 
 (6) The provisions of the Commissions of Inquiry Act as in force immediately before the commencement of this Constitution shall, subject to the provisions of this article, apply as nearly as may be in relation to commissions appointed under the preceding paragraph or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that Act, and such application shall have effect as if they formed part of this Constitution.
 
-(7) As regards the application of the Commissions of
-
 *c. 19:03*
 
-Inquiry Act pursuant to paragraph (6)–
+(7) As regards the application of the Commissions of Inquiry Act pursuant to paragraph (6)–
 
 (a) the following provisions shall not apply, that is to say–
 
@@ -3436,13 +3432,9 @@ Inquiry Act pursuant to paragraph (6)–
 
 ### THE JUDICIAL SERVICE COMMISSION
 
-*Composition of Commission.*
+*Composition of Commission. shall be– [6 of 2001]*
 
 **198.** (1) The members of the Judicial Service Commission
-
-*shall be–*
-
-*[6 of 2001]*
 
 (a) the Chancellor who shall be Chairman;
 
@@ -3780,11 +3772,9 @@ all matters relating to appeals from decisions of the Tribunal including a right
 
 the practice and procedure of the Tribunal.
 
-*Functions of the Ethnic Relations*
+*Functions of the Ethnic Relations are to–*
 
 **212D.** The functions of the Ethnic Relations Commission
-
-*are to–*
 
 (a) provide equality of opportunity between persons of different ethnic groups and to promote harmony and good relations between such persons;
 
@@ -3996,11 +3986,9 @@ Commonwealth or a court having jurisdiction in appeals from any such court or wh
 
 **212O.** (1) The functions of the Human Rights Commission are to–
 
-(a) monitor the observance of the international instruments to which the Government accedes from time to time, including those already acceded to and specified in the
-
 *Fourth Schedule.*
 
-Fourth Schedule;
+(a) monitor the observance of the international instruments to which the Government accedes from time to time, including those already acceded to and specified in the Fourth Schedule;
 
 monitor and assess compliance with the rights and report the need for any
 
@@ -4068,13 +4056,9 @@ the secretaries and assistants to the Chief Executive officers; and
 
 (c) a member who shall be a nominee, without the right to vote, chosen by and from each of the following commissions: the Human Rights Commission, Ethnic Relations Commission, Indigenous Peoples’ Commission, and Rights of the Child Commission.
 
-*Functions of the Women and Gender Equality Commission.*
+*Functions of the Women and Gender Equality Commission. Commission are to– [5 of 2001]*
 
 **212R.** In addition to the functions specified in article 212J(2), the functions of the Women and Gender Equality
-
-*Commission are to–*
-
-*[5 of 2001]*
 
 (a) promote the issues related to the enhancement of the status of women, girls and gender issues;
 
@@ -4156,13 +4140,9 @@ raise awareness of the contribution of, and problems faced by, indigenous people
 
 (b) a member who shall be a nominee, without the right to vote, chosen by and from each of the following Commissions: the Human Rights Commission, Ethnic Relations Commission, Women and Gender Equality Commission and Indigenous Peoples’ Commission.
 
-*Functions of the Rights of the Child Commission.*
+*Functions of the Rights of the Child Commission. to– [5 of 2001]*
 
 **212V.** In addition to the functions specified in article 212J(2) the functions of the Rights of the Child Commission are
-
-*to–*
-
-*[5 of 2001]*
 
 (a) promote the rights and interests of, and respect for the views of, children;
 
@@ -4672,21 +4652,23 @@ public office, a person may be appointed to that office notwithstanding that som
 
 “oath” includes affirmation;
 
-“oath of office” means, in relation to any office, the oath for the
+*“oath First Schedule.*
 
-*First Schedule.*
-
-due execution of that office set out in the First Schedule to this Constitution or such other oath in that behalf as may be prescribed by Parliament;
+of office” means, in relation to any office, the oath for the due execution of that office set out in the First Schedule to this Constitution or such other oath in that behalf as may be prescribed by Parliament;
 
 “Parliament” means the Parliament of Guyana;
 
-“the Police Force” means the Police Force established by the Police Act and includes any other police force established by or under an Act of Parliament to succeed to or to supplement the functions of that Force but does not include any police force forming part of any naval, military or air force or any police force established by any local democratic organ;
+*“the*
+
+Police Force” means the Police Force established by the Police Act and includes any other police force established by or under an Act of Parliament to succeed to or to supplement the functions of that Force but does not include any police force forming part of any naval, military or air force or any police force established by any local democratic organ;
 
 “public office” means an office of emolument in the public service and for the avoidance of doubt it is hereby declared that the expression includes the office of a teacher in the public service and any office in the Police Force;
 
 “public officer” means the holder of any public office and includes any person appointed to act in any such office;
 
-“the public service” means, subject to the provisions of paragraph (5), the service of the Government of Guyana in a civil capacity;
+*“the*
+
+public service” means, subject to the provisions of paragraph (5), the service of the Government of Guyana in a civil capacity;
 
 “regional democratic council” means the local democratic organ for any region established under article 72;
 
@@ -4694,9 +4676,13 @@ due execution of that office set out in the First Schedule to this Constitution 
 
 “sitting” means, in relation to the National Assembly a period during which the Assembly is sitting continuously without adjournment and includes any period during which the Assembly is in committee; and
 
-“the State” means the Co-operative Republic of Guyana.
+*“the*
 
-(2) In this Constitution unless it is otherwise provided or required by the context–
+State” means the Co-operative Republic of Guyana.
+
+*or*
+
+(2) In this Constitution unless it is otherwise provided required by the context–
 
 (a) a reference to power to make appointments to any office shall be construed as including a reference to power to make appointments on promotion and transfer and to confirm appointments and to power to appoint a person to act in or perform the functions of that office at any time when the office is vacant or the holder thereof is unable (whether by reason of absence or infirmity of mind or body or any other cause) to perform the functions of that office; and
 
@@ -4860,7 +4846,9 @@ _________________
 
 ### PROCLAMATION
 
-By Proclamation dated the 25 th day of May, 1976, the President proclaimed the Constitution Orders of Guyana.
+*By the*
+
+Proclamation dated the 25 th day of May, 1976, the President proclaimed Constitution Orders of Guyana.
 
 *Citation.*
 
@@ -4912,7 +4900,7 @@ The Order of Excellence of Guyana
 
 **9.** A citizen of Guyana who has been appointed a Member of the Order of Excellence is entitled to—
 
-### L.R.O. 1/20 22
+*1/20 22*
 
 *the Order of Excellence.*
 
@@ -5044,15 +5032,13 @@ any citizen of Guyana who has either—
 
 **22.** The award of the Golden Arrow of Achievement
 
-*—*
+*— decoration by*
 
-*decoration by person awarded the Golden Arrow*
-
-(a) to a person shall entitle him or her to have the suffix A.A. placed after his or her name and to wear as a
+*person awarded the Golden Arrow*
 
 *Achievement [Procl. 1/1978]*
 
-decoration the insignia and ribbon prescribed for recipients of the Golden Arrow of Achievement in
+(a) to a person shall entitle him or her to have the suffix A.A. placed after his or her name and to wear as a decoration the insignia and ribbon prescribed for recipients of the Golden Arrow of Achievement in
 
 the rules of the Order;
 
@@ -5172,11 +5158,9 @@ have the suffix D.S.S. placed after his or her name; and
 
 (b) wear as a decoration on appropriate occasions the insignia and ribbon prescribed in the rules of the Order.
 
-**36.** (1) The Disciplined Services Medal for meritorious service shall be awarded for sustained and dedicated service
-
 *The Disciplined Services Medal for meritorious service.*
 
-of a high order.
+**36.** (1) The Disciplined Services Medal for meritorious service shall be awarded for sustained and dedicated service of a high order.
 
 (2) A person to whom the Disciplined Services Medal for meritorious service has been awarded is entitled to—
 
@@ -5184,11 +5168,9 @@ of a high order.
 
 (b) wear as a decoration on appropriate occasions the insignia and ribbon prescribed in the rules of the Order.
 
-**37.** The Disciplined Services Medal for long service
-
 *The Disciplined Services Medal for long service and good conduct.*
 
-and good con- duct shall be awarded under the following conditions—
+**37.** The Disciplined Services Medal for long service and good con- duct shall be awarded under the following conditions—
 
 (a) the award shall be granted after the completion of fifteen years' continuous whole-time service;
 
@@ -5650,11 +5632,9 @@ made under the Constitution of Guyana
 
 “the Constitution” means the Constitution of the Cooperative Republic of Guyana;
 
-“Fire Service” means service in the Guyana Fire Service
-
 *c. 22:02*
 
-established by the Fire Service Act, or any act amending the same;
+“Fire Service” means service in the Guyana Fire Service established by the Fire Service Act, or any act amending the same;
 
 “Head of Department” means the Head of Department responsible for the administration of a Department of Government whether or not that Department is integrated with a Ministry;
 
@@ -5664,11 +5644,9 @@ established by the Fire Service Act, or any act amending the same;
 
 “prescribed form” means the appropriate form as may from time to time be prescribed by the Commission;
 
-“Prison Service” means service in the Guyana Prison Service established by the Prisons Act, or any Act amending
-
 *c. 11:01*
 
-the same;
+“Prison Service” means service in the Guyana Prison Service established by the Prisons Act, or any Act amending the same;
 
 “promotion” means the appointment of an officer either substantively or to act in any office higher than the office or post that the officer was holding
 
@@ -5680,11 +5658,9 @@ substantively immediately before such appointment and includes such appointment 
 
 “public service” means service of the Government of Guyana in a civil capacity and includes the Guyana Fire Service and the Guyana Prison Service;
 
-“secondment” means the temporary assignment of an officer in a particular Ministry or Department to serve for a period in an office of another Ministry or Department or in the public service of a Government as defined in
-
 *c. 27:02 c. 28:09*
 
-the Pensions Regulations, or in an office under a statutory board, or Local Democratic Organs Act as defined in Section 2 of the Local Democratic Organs Act;
+“secondment” means the temporary assignment of an officer in a particular Ministry or Department to serve for a period in an office of another Ministry or Department or in the public service of a Government as defined in the Pensions Regulations, or in an office under a statutory board, or Local Democratic Organs Act as defined in Section 2 of the Local Democratic Organs Act;
 
 “statutory board” includes corporation, tribunal, commission, Committee or other similar body as approved by the Commission;
 
@@ -5698,19 +5674,15 @@ the Pensions Regulations, or in an office under a statutory board, or Local Demo
 
 **3.** (1) The Composition and functions of the Public Service Commission are set out in article 200 to 205 (inclusive) of the Constitution.
 
-(2) The Chairman and other members of the
-
 *Oath of office Form 1.*
 
-Commission shall, as soon as possible after appointment, take the oath or make the affirmation set out in Form 1 of the Schedule.
+(2) The Chairman and other members of the Commission shall, as soon as possible after appointment, take the oath or make the affirmation set out in Form 1 of the Schedule.
 
 (3) Such oath or affirmation shall be administered by or made before the President.
 
-(4) The Secretary and other members of the staff of the Commission shall on their appointment as such, take the
-
 *Form II & III.*
 
-oath or make the affirmation set out in Form II and Form III of the Schedule respectively. Such oath or affirmation shall, in the case of the Secretary, be administered by or made before the Chairman of the Commission, and in the case of the other members of the staff shall be administered by or before the Secretary.
+(4) The Secretary and other members of the staff of the Commission shall on their appointment as such, take the oath or make the affirmation set out in Form II and Form III of the Schedule respectively. Such oath or affirmation shall, in the case of the Secretary, be administered by or made before the Chairman of the Commission, and in the case of the other members of the staff shall be administered by or before the Secretary.
 
 *Meetings.*
 
@@ -5834,11 +5806,9 @@ Secretary or Head of Department shall report the exercise of this power forthwit
 
 ### F. DISCIPLINE:-
 
-(1) The power to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline as specified in the Public Service Rules to the extent that the Permanent Secretary or Head of Department may charge a public officer with any offence described in the aforesaid Public Service Rules and may impose, in respect of such misconduct or indiscipline the appropriate penalty therein specified or as specified in the Termination of Employment
-
 *c. 96:01*
 
-and Severance Pay Act.
+(1) The power to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline as specified in the Public Service Rules to the extent that the Permanent Secretary or Head of Department may charge a public officer with any offence described in the aforesaid Public Service Rules and may impose, in respect of such misconduct or indiscipline the appropriate penalty therein specified or as specified in the Termination of Employment and Severance Pay Act.
 
 *Publication and disclosure of information to unauthorised person prohibited.*
 
@@ -5850,17 +5820,13 @@ and Severance Pay Act.
 
 **16.** (1) Any public officer who, in connection with an application by any person for appointment to a public office, gives to the Commission or to any member thereof or to any person or body of persons appointed to assist the Commission in the exercise of its functions or the discharge of its duties any information which to his knowledge is false in a
 
-material particular, or by reason, of any wilful omission of a material particular, shall be guilty of an offence under these rules and liable to disciplinary action under section 18(2) of the
+*c. 96:01*
+
+material particular, or by reason, of any wilful omission of a material particular, shall be guilty of an offence under these rules and liable to disciplinary action under section 18(2) of the Termination of Employment and Severance Pay Act.
 
 *c. 96:01*
 
-Termination of Employment and Severance Pay Act.
-
-(2) Any public officer who otherwise than in the course of his duty, directly or indirectly by himself or any other person in any matter whatsoever influence or attempts to influence any decision of the Commission or Chairman or any member thereof, shall be guilty of an offence under these rules and liable to disciplinary action under Section 18(2) of the
-
-*c. 96:01*
-
-Termination of Employment and Severance Pay Act.
+(2) Any public officer who otherwise than in the course of his duty, directly or indirectly by himself or any other person in any matter whatsoever influence or attempts to influence any decision of the Commission or Chairman or any member thereof, shall be guilty of an offence under these rules and liable to disciplinary action under Section 18(2) of the Termination of Employment and Severance Pay Act.
 
 *Instruments of delegation to be published.*
 
@@ -6064,23 +6030,37 @@ Commission may waive the provisions of this rule where the necessity to submit r
 
 (1) Where an officer desires to make representation to the Commission for a review of any such order or recommendation he shall submit to the Permanent Secretary or Head of Department within seven days of the receipt of notification of the order or recommendation, his representation in writing.
 
+*Constitution of*
+
+the Co-operative Republic of Guyana Cap. 1:01
+
 (2) The Permanent Secretary or Head of Department shall within seven days forward to the Commission any representation in their original form submitted to him in writing together with any comments which he may wish to make thereon.
 
 (3) The Commission shall consider the representations of the officer and the comments, if any, of the Permanent Secretary or Head of Department and shall communicate its decision in writing to the Permanent Secretary or Head of Department and send a copy to the officer.
 
-*Date of appointment*
+*\40. (1) Date of*
 
-**40.** (1) The date of appointment to an office in a particular Ministry or Department within the public service shall normally be the date on which the officer assumes substantively the duties of the office to which he has been appointed.
+*appointment particular*
+
+*substantively appointed.*
+
+The date of appointment to an office in a Ministry or Department within the public service shall normally be the date on which the officer assumes the duties of the office to which he has been
 
 (2) The date of appointment on promotion shall be such date as the Commission shall specify.
 
-(3) If an officer is selected for appointment from outside Guyana, the date of appointment shall be the date specified in the letter of appointment.
+*outside*
 
-*Medical examination on appointment.*
+(3) If an officer is selected for appointment from Guyana, the date of appointment shall be the date specified in the letter of appointment.
 
-**41.** (1) A person selected for appointment in the public service shall undergo a medical examination by a Government Medical Board and shall not be confirmed in his appointment unless and until he has been passed medically fit.
+*Medical examination service shall on*
 
-(2) The Permanent Secretary or Head of Department to which an appointee has been assigned, shall make appropriate arrangements for him to be medically
+*Government appointment. appointment fit.*
+
+**41.** (1) A person selected for appointment in the public undergo a medical examination by a Medical Board and shall not be confirmed in his unless and until he has been passed medically
+
+*make*
+
+The Permanent Secretary or Head of Department to which an appointee has been assigned, shall appropriate arrangements for him to be medically
 
 examined as soon as practicable after his assumption of duty.
 
@@ -6220,11 +6200,9 @@ necessary;
 
 (b) Where the officer is on contract his services shall be terminated in accordance with the terms of the contract.
 
-**56.** An officer who is appointed to a permanent
-
 *Compulsory and voluntary retirement.*
 
-pensionable post –
+**56.** An officer who is appointed to a permanent pensionable post –
 
 (a) shall retire on attaining the age of fifty-five years, unless his services are continued at the request of the Government.
 
@@ -6302,15 +6280,11 @@ finding of the Medical Board's report, not be allowed to remain on duty after re
 
 *Commission to determine date service terminated.*
 
-**63.** Where the appointment of an officer is terminated by any of the rules under Chapter VI, his service shall terminate on such date service terminated as the Commission determines and the question of his pension, gratuity or other allowance shall be dealt with in accordance with the
-
 *c. 27:02*
-
-provisions of the Pensions Act, or the provisions of the
 
 *c. 96:01*
 
-Termination of Employment and Severance Pay Act.
+**63.** Where the appointment of an officer is terminated by any of the rules under Chapter VI, his service shall terminate on such date service terminated as the Commission determines and the question of his pension, gratuity or other allowance shall be dealt with in accordance with the provisions of the Pensions Act, or the provisions of the Termination of Employment and Severance Pay Act.
 
 ### CHAPTER VII DISCIPLINE
 
@@ -6330,17 +6304,13 @@ Department with his recommendation whether the officer should, in respect of the
 
 (3) After a report is made under rule 65(3) the Commission shall in the public interest or to protect the repute of the public service, direct the officer, in writing, whether:
 
-(a) to report or cease to report for duty,
-
 *Suspension by the Commission.*
 
-until further notice from the Commission, and an officer so directed, shall continue to perform or cease to perform the functions of his office accordingly and where an officer is directed to cease to perform the functions of his office, he shall be paid full salary, which shall be discontinued in accordance with rules 88(1) and (3) in the event of his conviction of the offence charged under rule 65 (2) on the same date of his conviction or
-
-(b) give the officer notice, in writing for the termination of his employment, such
+(a) to report or cease to report for duty, until further notice from the Commission, and an officer so directed, shall continue to perform or cease to perform the functions of his office accordingly and where an officer is directed to cease to perform the functions of his office, he shall be paid full salary, which shall be discontinued in accordance with rules 88(1) and (3) in the event of his conviction of the offence charged under rule 65 (2) on the same date of his conviction or
 
 *Termination of appointment.*
 
-period of notice to be two weeks where the officer has been employed for less than one year, and one month where the officer has been employed for one year or more.
+(b) give the officer notice, in writing for the termination of his employment, such period of notice to be two weeks where the officer has been employed for less than one year, and one month where the officer has been employed for one year or more.
 
 (4) An officer whose services have been terminated under rule 65 (3) (b) will be eligible for severance allowance as provided under the Termination of Employment and Severance Pay Act.
 
@@ -6366,11 +6336,9 @@ period of notice to be two weeks where the officer has been employed for less th
 
 (4) as early as possible, to investigate and hear the officer's explanations, in his defence.
 
-(4) The disciplinary tribunal may be constituted
-
 *Disciplinary tribunal.*
 
-of –
+(4) The disciplinary tribunal may be constituted of –
 
 (a) one officer who shall be the Chairman ; or
 
@@ -6404,11 +6372,9 @@ where the Permanent Secretary is employed, or in the case of the Head of Departm
 
 (2) Any such witness who is a public officer shall be ordered to attend at the hearing of the case as well as any other witness shall be given due notice that his attendance is desired and of the time and place of the hearing.
 
-**71.** (1) The following procedure shall apply to the
-
 *Procedure of disciplinary tribunal.*
 
-hearing disciplinary by a disciplinary tribunal of a charge of alleged misconduct or indiscipline –
+**71.** (1) The following procedure shall apply to the hearing disciplinary by a disciplinary tribunal of a charge of alleged misconduct or indiscipline –
 
 (a) The officer shall be summoned to appear to the hearing and shall be given full opportunity to defend himself ;
 
@@ -6508,11 +6474,9 @@ permitted by the disciplinary tribunal in its discretion, by attorney-at-law, an
 
 **86.** An officer acquitted of a criminal charge in any Court shall not be dismissed or otherwise punished in respect of any charge of which he has been acquitted, but nothing in this rule shall prevent him being dismissed or otherwise punished in respect of any other charge arising out of his conduct in the matter, unless such other charge is substantially the same as that in respect of which he has been acquitted.
 
-**87.** If an officer is convicted in any Court of a criminal
-
 *Conviction on criminal charge.*
 
-charge, the Commission may consider the relevant proceedings on such charge and if it is of opinion that the officer ought to be dismissed or subjected to some lesser punishment in respect of the offence of which he has been convicted, the Commission may thereupon dismiss or otherwise punish the officer without the institution of any disciplinary proceedings under these rules.
+**87.** If an officer is convicted in any Court of a criminal charge, the Commission may consider the relevant proceedings on such charge and if it is of opinion that the officer ought to be dismissed or subjected to some lesser punishment in respect of the offence of which he has been convicted, the Commission may thereupon dismiss or otherwise punish the officer without the institution of any disciplinary proceedings under these rules.
 
 *Non- payment of remuneration.*
 
@@ -6530,11 +6494,9 @@ shall not receive any pay or allowance after the date of conviction pending cons
 
 (3) Notwithstanding that an officer convicted of a charge described in rule 88 (1) has appealed against the conviction, such officer shall not, pending the determination of the appeal, receive any pay or allowance after the date of conviction
 
-**89.** Misconduct, improper conduct or indiscipline
-
 *Definition of misconduct.*
 
-includes –
+**89.** Misconduct, improper conduct or indiscipline includes –
 
 (a) contravention of the Public Service Rules, Departmental Rules, Regulations or Circulars made for and applicable to the Public Service of Guyana, and any amendments thereto;
 
@@ -6876,19 +6838,15 @@ person appointed by the Judicial Service Commission.
 
 ## PART II APPOINTMENTS
 
-**4.** (1) Subject to the Constitution and to sub-rule (2), all
-
 *Tenure of office.*
 
-officers shall hold office for an indeterminate period until they reach the appointed age of retirement or demit office for any reason.
+**4.** (1) Subject to the Constitution and to sub-rule (2), all officers shall hold office for an indeterminate period until they reach the appointed age of retirement or demit office for any reason.
 
 (2) An officer who is appointed under a contract for a specified period shall cease to be a member at the expiration of the period specified in the contract unless his/her contract is renewed or extended.
 
-**5.** Whenever an officer is on leave of absence
-
 *Appointment on absence pending relinquishment of post.*
 
-pending relinquishment of his office –
+**5.** Whenever an officer is on leave of absence pending relinquishment of his office –
 
 (a) another person may be appointed by the Commission to that office; and
 
@@ -6946,13 +6904,13 @@ whenever the public interest so requires;
 
 (b) additional hours worked shall be compensated for by overtime with the approval of the Ministry of Finance, or by appropriate time off in lieu of overtime.
 
-*Absence from work during duty hours.*
+*Absence from work during duty hours. such*
 
-**10.** (1) No officer may absent himself from duty during working hours without the permission of the Commission or such other officers as may be deputed for this purpose by the Commission.
+**10.** (1) No officer may absent himself from duty during working hours without the permission of the Commission or other officers as may be deputed for this purpose by the Commission.
 
-*Performance appraisal report.*
+*Performance appraisal basis report.*
 
-**11.** Every officer shall be appraised on a semi-annual basis and an Appraisal Report shall be submitted to the Commission.
+**11.** Every officer shall be appraised on a semi-annual and an Appraisal Report shall be submitted to the Commission.
 
 *Forbidden conduct by officers.*
 

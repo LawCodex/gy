@@ -166,11 +166,9 @@ An Act to make provision with respect to the extradition of fugitive offenders f
 
 **2.** In this Act–
 
-“Commonwealth country” means any country mentioned in
-
 *c.1:01*
 
-article 47 (3) of the Constitution, and includes–
+“Commonwealth country” means any country mentioned in article 47 (3) of the Constitution, and includes–
 
 (a) a colony, territory, protectorate or other dependency of any such country;
 
@@ -182,11 +180,15 @@ article 47 (3) of the Constitution, and includes–
 
 “foreign territory” means any country other than Guyana or a Commonwealth country;
 
-“Form” means a form set out in the Schedule;
+*“Form”*
+
+means a form set out in the Schedule;
 
 “fugitive offender” means a person who is accused, or alleged to be unlawfully at large after conviction, of an extraditable offence committed within the jurisdiction of Guyana or any Commonwealth country or foreign territory and is or is suspected to be in any country or territory, other than the country or territory in which the offence was committed or the person was convicted;
 
-“treaty territory” means a foreign territory in respect of extradition to and from which, from or to Guyana, the provisions of this Act apply with or without modifications, limitations or conditions by virtue of section 4 and includes–
+*“treaty*
+
+territory” means a foreign territory in respect of extradition to and from which, from or to Guyana, the provisions of this Act apply with or without modifications, limitations or conditions by virtue of section 4 and includes–
 
 (a) a colony, territory, protectorate or other dependency of any such foreign territory;
 
@@ -196,11 +198,13 @@ article 47 (3) of the Constitution, and includes–
 
 ## PART II GENERAL PROVISIONS
 
-*Application of this Act in respect of Commonwealth countries.*
+*Application of this Act in of respect of Commonwealth countries.*
 
-**3.** (1) The provisions of this Act shall apply in respect of extradition from and to Guyana to and from every Commonwealth country:
+**3.** (1) The provisions of this Act shall apply in respect extradition from and to Guyana to and from every Commonwealth country:
 
-Provided that the Minister may, by order, declare that the provisions of this Act shall apply in respect of
+*that the*
+
+Provided that the Minister may, by order, declare provisions of this Act shall apply in respect of
 
 extradition from or to Guyana to or from any Commonwealth country specified therein, subject to such modifications, limitations or conditions as may be specified in the order.
 
@@ -378,11 +382,9 @@ that person may, subject to the other provisions of this Act, be ordered to be e
 
 **13.** (1) On the receipt, by a magistrate, of an authority to proceed in relation to any person the magistrate may issue a warrant for the arrest of the person in Form 2.
 
-(2) Where a magistrate has received information that a person accused of an extraditable offence, or unlawfully at large after conviction of an extraditable offence in a Commonwealth country or foreign territory is, or is believed to be in or on his way to Guyana, the magistrate may issue a warrant (hereinafter referred to as provisional warrant) for
-
 *Form 3*
 
-the arrest of the person in Form 3.
+(2) Where a magistrate has received information that a person accused of an extraditable offence, or unlawfully at large after conviction of an extraditable offence in a Commonwealth country or foreign territory is, or is believed to be in or on his way to Guyana, the magistrate may issue a warrant (hereinafter referred to as provisional warrant) for the arrest of the person in Form 3.
 
 (3) A warrant for the arrest of any person under subsection (1) or (2), may be issued upon such evidence as would, in the opinion of the magistrate, justify the issue of a warrant for the arrest of the person if he were accused of committing in Guyana an offence corresponding to the offence of which he is accused, or if he were alleged to be unlawfully at large after conviction in Guyana of any such corresponding offence, as the case may be.
 
@@ -402,15 +404,11 @@ the arrest of the person in Form 3.
 
 the Minister to order his return without any proceedings before a magistrate under section 15.
 
-(2) Where the Minister consents to the request made by such person under subsection (1), after being satisfied that such person understands the consequences of the request, the Minister may, without any proceedings
-
 *Form 4.*
-
-before a magistrate under section 15, make an order in Form 4 directing the person to be committed to custody, to be kept there for the purposes of his extradition unless admitted to bail; and at any time thereafter the Minister shall, with the
 
 *Form 5.*
 
-consent of such person, by warrant in Form 5 order him to be extradited to the Commonwealth country or treaty territory by which the request for his extradition was made.
+(2) Where the Minister consents to the request made by such person under subsection (1), after being satisfied that such person understands the consequences of the request, the Minister may, without any proceedings before a magistrate under section 15, make an order in Form 4 directing the person to be committed to custody, to be kept there for the purposes of his extradition unless admitted to bail; and at any time thereafter the Minister shall, with the consent of such person, by warrant in Form 5 order him to be extradited to the Commonwealth country or treaty territory by which the request for his extradition was made.
 
 (3) Where a person whose extradition has been ordered under subsection (2) withdraws his consent to the order before his departure from Guyana, he shall be brought as soon as practicable before a magistrate for the purposes of proceedings under section 15, and thereupon shall be dealt with as if the Minister had not made the order.
 
@@ -428,11 +426,9 @@ consent of such person, by warrant in Form 5 order him to be extradited to the C
 
 (a) where the person is accused of the offence, that the evidence would be sufficient to warrant his trial for that offence if it had been committed within the jurisdiction of that court; or
 
-(b) where the person is alleged to be unlawfully at large after conviction of the offence, that he has been so convicted and appears to be so at large, the court shall, unless his committal is prohibited by any other provision of this Act, commit him to
-
 *Form 6.*
 
-custody by warrant in Form 6 to await his extradition under this Act, but if the court is not so satisfied or if his committal is so prohibited, the court shall discharge him from custody.
+(b) where the person is alleged to be unlawfully at large after conviction of the offence, that he has been so convicted and appears to be so at large, the court shall, unless his committal is prohibited by any other provision of this Act, commit him to custody by warrant in Form 6 to await his extradition under this Act, but if the court is not so satisfied or if his committal is so prohibited, the court shall discharge him from custody.
 
 *Information as to right to apply for habeas corpus.*
 
@@ -562,11 +558,9 @@ accused or alleged to have been convicted is not an extraditable offence; or
 
 *Order for extradition.*
 
-**26.** (1) Where a person is committed to custody under this Act to await his extradition and is not discharged from custody by the High Court on an application for habeas corpus or the Court of Appeal on appeal from the decision of the
-
 *Form 7.*
 
-High Court, the Minister may by warrant in Form 7 order him to be extradited to the Commonwealth country or treaty territory by or on behalf of which the request for his extradition was made unless the extradition of that person is prohibited by section 8 or this section or the Minister decides under this section to make no such order in his case.
+**26.** (1) Where a person is committed to custody under this Act to await his extradition and is not discharged from custody by the High Court on an application for habeas corpus or the Court of Appeal on appeal from the decision of the High Court, the Minister may by warrant in Form 7 order him to be extradited to the Commonwealth country or treaty territory by or on behalf of which the request for his extradition was made unless the extradition of that person is prohibited by section 8 or this section or the Minister decides under this section to make no such order in his case.
 
 (2) The Minister shall not make an order under this section in the case of any person if it appears to the Minister, on any ground mentioned in section 17 (2), that it would be unjust or oppressive to extradite that person.
 

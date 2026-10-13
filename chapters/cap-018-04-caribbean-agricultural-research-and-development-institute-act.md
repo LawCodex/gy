@@ -42,7 +42,7 @@ This Chapter contains no subsidiary legislation.
 
 ## ARRANGEMENT OF SECTIONS
 
-### SECTION
+*SECTION*
 
 **1.** Short title.
 
@@ -64,15 +64,21 @@ This Chapter contains no subsidiary legislation.
 
 __________________________
 
-6 of 1988 An Act to provide for the implementation by Guyana of the Agreement establishing the Caribbean Agricultural Research and Development Institute.
+*6 of 1988*
+
+An Act to provide for the implementation by Guyana of the Agreement establishing the Caribbean Agricultural Research and Development Institute.
 
 [14 th JULY, 1988]
 
-Short title. 1. This Act may be cited as the Caribbean Agricultural Research and Development Institute Act.
+*Short title.*
+
+**1.** This Act may be cited as the Caribbean Agricultural Research and Development Institute Act.
 
 Interpretation. 2. (1) In this Act—
 
-“Agreement” means the Agreement establishing the Caribbean Agricultural Research and Development Schedule. Institute set out in the Schedule;
+*Schedule.*
+
+“Agreement” means the Agreement establishing the Caribbean Agricultural Research and Development Institute set out in the Schedule;
 
 “Institute” means the Caribbean Agricultural Research and
 
@@ -146,15 +152,21 @@ The Caribbean Agricultural Research and Development Institute (hereinafter refer
 
 (b) Any other State of the Caribbean Region which becomes a Member or Associate Member of the Caribbean Community.
 
-**2.** The States listed in the Annex to this Agreement, the Governments of which sign this Agreement in accordance with Article 18 and ratify it in accordance with Article 19 shall become Members of the Institute.
+*\2. The the with Article 18 become*
+
+States listed in the Annex to this Agreement, Governments of which sign this Agreement in accordance and ratify it in accordance with Article 19 shall Members of the Institute.
 
 ### ARTICLE 3 OBJECTS OF THE INSTITUTE
 
-**1.** The objects of the Institute shall be—
+*\1. The*
+
+objects of the Institute shall be—
 
 (a) to provide for the research and development needs of the agriculture of the Region as identified in national plans and policies;
 
-b) to provide an appropriate research and development service to the agricultural sector of Member States;
+*b)*
+
+to provide an appropriate research and development service to the agricultural sector of Member States;
 
 (c) to provide and extend the application of new technologies in production, processing, storage and distribution of agricultural products of Member States;
 
@@ -196,9 +208,11 @@ considered the recommendation of the Board of Directors and has consulted with t
 
 (e) approve the budget of the Institute to be prepared annually for the next following three financial years;
 
-(f) approve the work programmes annually for the next following three financial years. ARTICLE 6 MEMBERSHIP OF THE BOARD
+(f) approve the work programmes annually for the next following three financial years. ARTICLE 6
 
-**1.** The composition of the Board of Directors (hereinafter referred to as “The Board”) shall be as follows— (a) One Member nominated by—
+*\1. The (hereinafter*
+
+MEMBERSHIP OF THE BOARD composition of the Board of Directors referred to as “The Board”) shall be as follows— (a) One Member nominated by—
 
 (i) the Government of Barbados;
 
@@ -264,7 +278,9 @@ If the office of a Director becomes vacant before the expiration of his term of 
 
 (h) carry out such other functions as the Standing Committee may delegate to it from time to time.
 
-**3.** The Board may delegate to the Executive Director such of its functions as it thinks fit, provided that no such
+*\3. The of its*
+
+Board may delegate to the Executive Director such functions as it thinks fit, provided that no such
 
 delegation shall preclude the Board from so acting at anytime it thinks fit, without prejudice however to anything done by the Executive Director under that delegation.
 
@@ -288,7 +304,9 @@ delegation shall preclude the Board from so acting at anytime it thinks fit, wit
 
 ### ARTICLE 10 THE EXECUTIVE DIRECTOR
 
-**1.** The duties of the Executive Director shall include—
+*\1. The*
+
+duties of the Executive Director shall include—
 
 (a) the day to day management and control of the Institute;
 

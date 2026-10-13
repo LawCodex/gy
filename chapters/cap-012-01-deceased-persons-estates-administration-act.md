@@ -256,11 +256,9 @@ An Act to declare and amend the Law relating to the Administration of Estates of
 
 **2.** In this Act—
 
-“the accountant” means the accountant appointed under the
-
 *c. 5:01*
 
-Deeds Registry Act;
+“the accountant” means the accountant appointed under the Deeds Registry Act;
 
 “Commissioner” has the same meaning as in the Income Tax
 
@@ -308,13 +306,9 @@ given in the form contained in the Schedule and shall himself sign the notice.
 
 his custody he shall take the necessary action to have the will duly deposited by any party interested in accordance with section 9.
 
-*Duty of persons in possession of will on*
+*Duty of persons in possession of will on testator’s death. [6 of 1997]*
 
-**6.** (1) Everyone other than the Registrar who, at the time of the death of the maker thereof, has in his possession any document purporting to be the last will of any other testator’s death. person, or into whose possession that document comes after
-
-*[6 of 1997]*
-
-the death of the maker thereof, shall within fourteen days from the date of the death—
+**6.** (1) Everyone other than the Registrar who, at the time of the death of the maker thereof, has in his possession any document purporting to be the last will of any other person, or into whose possession that document comes after the death of the maker thereof, shall within fourteen days from the date of the death—
 
 (a) either deposit the document in the registry; or
 
@@ -568,25 +562,19 @@ deceased or other person interested takes proceedings for the administration, di
 
 **25.** (1) Notwithstanding the provisions of this Act, a grant of letters of administration shall not be required in the following cases, namely, where—
 
-(a) the Official Receiver administers the estate of any immigrant in pursuance of the provisions of the Indian Labour
-
 *c. 98:02*
 
-Act;
-
-(b) the Public Trustee in pursuance of
+(a) the Official Receiver administers the estate of any immigrant in pursuance of the provisions of the Indian Labour Act;
 
 *c. 13:01*
 
-section 6 of the Public Trustee Act has undertaken to administer the estate of a deceased person which in his opinion does not exceed in value the
+(b) the Public Trustee in pursuance of section 6 of the Public Trustee Act has undertaken to administer the estate of a deceased person which in his opinion does not exceed in value the
 
 sum of one thousand dollars;
 
-(c) the Court in pursuance of section 6(5)
-
 *c. 13:01*
 
-of the Public Trustee Act has made an order that an estate shall be administered by the Public Trustee;
+(c) the Court in pursuance of section 6(5) of the Public Trustee Act has made an order that an estate shall be administered by the Public Trustee;
 
 (d) the Registrar under section 19 of this Act has appointed the Public Trustee to administer an estate and has certified to him in writing the fact of the appointment.
 
@@ -606,21 +594,15 @@ of the Public Trustee Act has made an order that an estate shall be administered
 
 (d) of the preceding subsection;
 
-and the Official Receiver or the Public Trustee shall thereupon be deemed to be the personal representative of the deceased person, and the Public Trustee shall, if required by the
-
 *Inventory.*
 
-Registrar, make or cause to be made an inventory or inventories as required of an administrator by section 33 of
+and the Official Receiver or the Public Trustee shall thereupon be deemed to be the personal representative of the deceased person, and the Public Trustee shall, if required by the Registrar, make or cause to be made an inventory or inventories as required of an administrator by section 33 of
 
 this Act and transmit or deliver it or them to the Registrar to be filed as of record.
 
-*Exemption from*
+*Exemption from requirements of this Act.*
 
-(3) In the case of the estate of a deceased person to requirements of which the last preceding section applies, the Official Receiver
-
-*this Act.*
-
-or the Public Trustee shall administer and distribute the estate according to law, but shall not be required to conform with the requirements of this Act other than as provided in this section.
+(3) In the case of the estate of a deceased person to which the last preceding section applies, the Official Receiver or the Public Trustee shall administer and distribute the estate according to law, but shall not be required to conform with the requirements of this Act other than as provided in this section.
 
 *Probate to executors appointed by will. [13 of 1932]*
 
@@ -656,9 +638,9 @@ person (then legally capable and qualified and consenting to act as executor) ha
 
 Provided that if the non-deposit of the will prior to the grant of letters of administration has been due to the fault or negligence of the person therein nominated as executor, he shall be personally liable for, and may be compelled at the instance of any person interested to make good to the estate, all expenses incurred in respect of and with reference to the appointment of the administrator.
 
-*Security for due*
+*Security for due administration.*
 
-**30.** (1) The Court shall have power, on the application administration. of any person interested, to require the executor or executors of any deceased person to whom probate has been granted to give security for the due administration of, and the due accounting for, the estate, and the care and custody of any property, in the amount and with the sureties in the circumstances of each particular case the Court deems reasonable.
+**30.** (1) The Court shall have power, on the application of any person interested, to require the executor or executors of any deceased person to whom probate has been granted to give security for the due administration of, and the due accounting for, the estate, and the care and custody of any property, in the amount and with the sureties in the circumstances of each particular case the Court deems reasonable.
 
 (2) The Court may require the administrator of the estate of any deceased person, before the issue of letters of administration, to give security, in the amount and with the sureties in the circumstances of each particular case the Court deems reasonable for the due administration of and due accounting for, the estate and the care and custody of the property, and may give any orders or directions with reference to the administration, accounting, and care and custody the circumstances seem to require.
 
@@ -718,11 +700,9 @@ domicile of the deceased person.
 
 (5) For the purposes of this section, a duplicate of any probate or letters of administration sealed with the seal of the court granting the same, or a copy thereof certified as correct by or under the authority of the court granting the same, shall have the same effect as the original.
 
-(6) Rules of court for regulating the procedure and practice including fees and costs, on and incidental to an application for sealing a probate or letters of administration
-
 *c. 3:02*
 
-under this section may be made under the High Court Act. Subject to any exceptions and modifications made by those rules, the enactments for the time being in force in relation to probate duty (including the penal provisions thereof) shall apply as if the person who applies for sealing under this section were a person applying for probate or letters of administration.
+(6) Rules of court for regulating the procedure and practice including fees and costs, on and incidental to an application for sealing a probate or letters of administration under this section may be made under the High Court Act. Subject to any exceptions and modifications made by those rules, the enactments for the time being in force in relation to probate duty (including the penal provisions thereof) shall apply as if the person who applies for sealing under this section were a person applying for probate or letters of administration.
 
 ### DUTIES OF EXECUTORS AND ADMINISTRATORS
 

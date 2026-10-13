@@ -84,9 +84,9 @@ This Act is has been revised up to December 31 st , 2012
 
 _______________________
 
-*22 of 1990*
+*22 of*
 
-An Act empowering the Court to make provision out of the estate of a deceased person for the spouse, child, child of the family or dependant of that person; and for matters connected therewith.
+1990 An Act empowering the Court to make provision out of the estate of a deceased person for the spouse, child, child of the family or dependant of that person; and for matters connected therewith.
 
 ### [15 TH FEBRUARY, 1991]
 
@@ -98,7 +98,7 @@ An Act empowering the Court to make provision out of the estate of a deceased pe
 
 Interpretation.
 
-[10 of 2012]
+*[10 of*
 
 “beneficiary”, in relation to the estate of a deceased person, means—
 
@@ -138,11 +138,9 @@ the marriage of the deceased and that person was dissolved or annulled during th
 
 (5) For the purposes of this Act, any reference to a
 
-“child” shall include a child in respect of whom an adoption
-
 *c. 46:04*
 
-order has been made under the Adoption of Children Act, and a child born out of wedlock.
+“child” shall include a child in respect of whom an adoption order has been made under the Adoption of Children Act, and a child born out of wedlock.
 
 (6) (a) For the purposes of this Act, any reference to—
 

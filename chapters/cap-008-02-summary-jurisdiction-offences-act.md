@@ -214,11 +214,17 @@ Simple Larceny
 
 Larceny of Growing Things
 
-**68.** Stealing or damaging things growing in garden of value not exceeding $15,000.
+*exceeding*
 
-**69.** Stealing or damaging things growing elsewhere than in garden of value not exceeding $15,000.
+**68.** Stealing or damaging things growing in garden of value not $15,000.
 
-**70.** Stealing or damaging things, wherever growing, of value not exceeding $15,000.
+*of value*
+
+**69.** Stealing or damaging things growing elsewhere than in garden not exceeding $15,000.
+
+*exceeding*
+
+**70.** Stealing or damaging things, wherever growing, of value not $15,000.
 
 **71.** Stealing or damaging vegetable product growing in garden.
 
@@ -226,11 +232,11 @@ Larceny of Growing Things
 
 **73.** Praedial larceny, with aggravating circumstances.
 
-**74.** Larceny of fruit, root or plant, other than those in section 72.
+**74.** Larceny of fruit, root or plant, other than those in section 72. 75 Interpretation of terms in next section.
 
-75 Interpretation of terms in next section.
+*petroleum,*
 
-**76.** (1) Stealing of raw gold, precious stones, valuable minerals petroleum, balata, rubber and the like.
+**76.** (1) Stealing of raw gold, precious stones, valuable minerals balata, rubber and the like.
 
 (2) Entering land with intent so to steal.
 
@@ -590,7 +596,9 @@ Placing dead animal on public way.
 
 **174.** Blowing horn, etc.
 
-174 A. Making of loud continuous noise.
+*174 A.*
+
+Making of loud continuous noise.
 
 **174B.** Prohibition of the playing of music in a motor bus or hire car.
 
@@ -626,7 +634,9 @@ Surgical Treatment of Animals
 
 **187.** Provisions as to operations on animals.
 
-188- 193. [Repealed by Act No. 18 of 1997]
+*188-*
+
+**193.** [Repealed by Act No. 18 of 1997]
 
 Detention of Goods
 
@@ -738,9 +748,11 @@ by an order of the Minister, to be a town, for the purposes of this Act;
 
 “valuable security” includes any order or other security whatsoever, entitling or evidencing the title of any person to any share or interest in any public stock or fund, whether of Guyana or of any other place in the Commonwealth, or of any foreign state or country, or in any fund of any body corporate, society, or company, whether in the United Kingdom, or in Guyana, or in any other place in the Commonwealth, or in any foreign state or country, or to any deposit in any bank, and also includes any debenture, deed, bond, bill, note, warrant, order (including any post office money order and any postal order), or other security whatsoever for money or for the payment of money, whether of Guyana, or of any other place in the Commonwealth, or of any foreign state or country, and any document of title to goods or lands as hereinbefore defined.
 
-*Reference to “the public”. [24 of 1969]*
+*Reference to “the public”. be [24 of 1969]*
 
-**3.** In this Act, expressions referring to the public shall be deemed to refer not only to citizens of Guyana within the jurisdiction of the courts, but also to the persons inhabiting or using any particular place or any number of those persons, and also to any indeterminate persons who happen to be affected by the conduct or matter with reference to which those expressions are used.
+*and*
+
+**3.** In this Act, expressions referring to the public shall deemed to refer not only to citizens of Guyana within the jurisdiction of the courts, but also to the persons inhabiting or using any particular place or any number of those persons, also to any indeterminate persons who happen to be affected by the conduct or matter with reference to which those expressions are used.
 
 *Town constable to have powers of police, etc. [24 of 1969]*
 
@@ -892,15 +904,13 @@ shall be liable to a fine of not less than five thousand dollars nor more than t
 
 *Peaceful picketing.*
 
-(2) It shall be lawful for one or more persons, but not more than three in any one place at any one time, acting on their own behalf or on behalf of any trade union registered
-
 *c. 98:03*
 
-under the Trade Unions Act, or of an individual employer or firm, in contemplation or in furtherance of a trade dispute, to attend at or near a house or place where a person works or carries on business:
+(2) It shall be lawful for one or more persons, but not more than three in any one place at any one time, acting on their own behalf or on behalf of any trade union registered under the Trade Unions Act, or of an individual employer or firm, in contemplation or in furtherance of a trade dispute, to attend at or near a house or place where a person works or carries on business:
 
 Provided that—
 
-(a) they so attend merely for the purpose of peacefully obtaining or communicating information or of peacefully persuading any person to
+(a) they so attend merely for the purpose of peacefully obtaining communicating information or of peacefully persuading any person to
 
 work or abstain from working;
 
@@ -1402,11 +1412,9 @@ corn, pulse, roots, or other food, but shall, on conviction of the offence be li
 
 Embezzlement
 
-**91.** Everyone who, being a clerk or servant, or being
-
 *Embezzlement by clerk or servant. [21 of 1932 6 of 1946 30 of 1954 4 of 1972 1 of 1989 8 of 1997 10 of 1998]*
 
-employed for the purpose, or in the capacity, of a clerk or servant, fraudulently embezzles any chattel, money or valuable security delivered to, or received, or taken into possession, by him for, or in the name or on the account of, his master or employer, or any part thereof, the value or amount of the chattel, money, or valuable security, or part thereof, not exceeding sixty thousand dollars, shall be deemed to have stolen it from his master or employer, although it may not have been received into the possession of his master or employer otherwise than by his actual possession, and shall be liable—
+**91.** Everyone who, being a clerk or servant, or being employed for the purpose, or in the capacity, of a clerk or servant, fraudulently embezzles any chattel, money or valuable security delivered to, or received, or taken into possession, by him for, or in the name or on the account of, his master or employer, or any part thereof, the value or amount of the chattel, money, or valuable security, or part thereof, not exceeding sixty thousand dollars, shall be deemed to have stolen it from his master or employer, although it may not have been received into the possession of his master or employer otherwise than by his actual possession, and shall be liable—
 
 (a) where the offence is in respect of a bicycle or any part thereof, to a fine of not less than forty thousand dollars nor more than eighty thousand dollars or to imprisonment for three years; and
 
@@ -1420,11 +1428,9 @@ Fraudulent Misappropriation
 
 being entrusted either solely or jointly
 
-with any other person with any property in order that he may retain in
-
 *1 of 1989 8 of 1997 10 of 1998]*
 
-safe custody or apply, pay or deliver for any purpose or to any person the property or any part or any proceeds thereof; or
+with any other person with any property in order that he may retain in safe custody or apply, pay or deliver for any purpose or to any person the property or any part or any proceeds thereof; or
 
 (b) having either solely or jointly with
 
@@ -1522,11 +1528,9 @@ shall be liable to fine of not less than twenty thousand dollars nor more than f
 
 (2) In any proceedings under this section the receipt by any person of an order for goods or of any document contained in the same envelope as any such order or of any document under separate cover referring or relating to and purporting to be sent by the same person as the order and of the envelope in which any such order or document was received may be proved by evidence by affidavit subject to the following rules:
 
-(a) Every affidavit shall be in the form in
-
 *First Schedule*
 
-the First Schedule or as near thereto as the circumstances permit.
+(a) Every affidavit shall be in the form in the First Schedule or as near thereto as the circumstances permit.
 
 (b) Every affidavit shall be made on the oath of the person or one of the persons from whom the goods have been ordered, or of the manager of the business of such person or of the manager of the department of the business dealing with orders from abroad or the secretary of the
 
@@ -1556,13 +1560,9 @@ Guyanese consular officer in such country to the effect that the person before w
 
 **102.** If anyone, being a member of any co-partnership, or being one of two or more beneficial owners of any chattel, money, valuable security, or other property, steals or embezzles the chattel, money, valuable security, or other property of or belonging to the co-partnership or to the joint beneficial owners, its value or amount not exceeding sixty thousand dollars, he shall be liable to be proceeded against and convicted and punished for the offence as if he had not been or was not a member of the co-partnership or one of the beneficial owners.
 
-*Advertising reward*
+*Advertising reward for return of stolen property [1 of 1989*
 
 **103.** Everyone who—
-
-*for*
-
-*return of stolen property [1 of 1989*
 
 (a) publicly advertises a reward for the return of any stolen or lost property, and in the advertisement uses any words purporting that no questions will be asked; or
 
@@ -1586,11 +1586,9 @@ Provided that no proceeding shall be taken under this section against the printe
 
 “agent” means anyone employed by or acting for another, and includes a person serving under the State or
 
-under any corporation, municipal council, any council of a local government district established under the Municipal and
-
 *c.28:01*
 
-District Councils Act, board of guardians, or local authority;
+under any corporation, municipal council, any council of a local government district established under the Municipal and District Councils Act, board of guardians, or local authority;
 
 “consideration” means valuable consideration of any kind;
 
@@ -1644,11 +1642,13 @@ Certificates as to Character or Employment
 
 (b) either personally or in writing, gives any false, forged, or counterfeit character to anyone offering himself to be hired as a servant into the service of any person,
 
-shall be deemed guilty of an offence against this Title.
+*shall*
+
+be deemed guilty of an offence against this Title.
 
 *Giving false certificate as to*
 
-**108.** Everyone who knowingly and wilfully pretends or falsely asserts, in writing, that a servant has been hired or retained for any period of time whatsoever, or in any station
+**108.** Everyone who knowingly and wilfully pretends falsely asserts, in writing, that a servant has been hired or retained for any period of time whatsoever, or in any station
 
 *service*
 
@@ -1670,29 +1670,17 @@ or capacity whatsoever, other than that for or in which he has hired or retained
 
 shall be deemed guilty of an offence against this Title.
 
-*Giving false or counterfeit character*
+*Giving false or counterfeit character for general purposes.*
 
-**111.** Everyone who, either personally or in writing, gives any false, forged, or counterfeit character, or makes
-
-*for*
-
-*general purposes.*
-
-or gives any false representation or assurance concerning or relating to the character, conduct, credit, or ability of another, to the intent or purpose that that other may obtain any situation either in the public service, or in the service of any corporate body or of any private person, or any licence to be granted under the provisions of any statute, shall be deemed guilty of an offence against this Title.
+**111.** Everyone who, either personally or in writing, gives any false, forged, or counterfeit character, or makes or gives any false representation or assurance concerning or relating to the character, conduct, credit, or ability of another, to the intent or purpose that that other may obtain any situation either in the public service, or in the service of any corporate body or of any private person, or any licence to be granted under the provisions of any statute, shall be deemed guilty of an offence against this Title.
 
 *Indemnification of offender discovering his accomplice.*
 
 **112.** Any servant guilty of an offence against this Title who, before any complaint has been made against him for the offence, discovers and informs against anyone concerned with him in any offence aforesaid, so that that offender is convicted of the offence, shall thereupon, if the court thinks fit, be discharged and indemnified of, from and against all penalties to which, at the time of giving the information, he might be liable under this Title for his own offence.
 
-*Penalty*
+*Penalty for offence against Title 8. [1of 1989 8 of 1997 10 of 1998]*
 
-*for*
-
-**113.** Every person guilty of an offence against this
-
-*offence against Title 8. [1of 1989 8 of 1997 10 of 1998]*
-
-Title shall be liable to a fine of not less than fifteen thousand dollars nor more than thirty thousand dollars.
+**113.** Every person guilty of an offence against this Title shall be liable to a fine of not less than fifteen thousand dollars nor more than thirty thousand dollars.
 
 ### TITLE 9
 
@@ -1714,9 +1702,9 @@ current in any foreign country;
 
 (2) The provisions in this Title other than section 118 shall apply in relation to foreign coin as they apply in relation to the coin of Guyana.
 
-*Defacing coin by marks.*
+*Defacing coin by marks. or*
 
-**115.** Everyone who defaces any current gold, silver, or copper coin by stamping thereon any name, word, number, or other mark, whether the coin is or is not thereby diminished or lightened, shall be liable to imprisonment for twelve months.
+**115.** Everyone who defaces any current gold, silver, or copper coin by stamping thereon any name, word, number, other mark, whether the coin is or is not thereby diminished or lightened, shall be liable to imprisonment for twelve months.
 
 *Uttering defaced coin. [1 of 1989 8 of 1997 10 of 1998]*
 
@@ -1844,11 +1832,9 @@ dollars nor more than thirty thousand dollars or to imprisonment for eighteen mo
 
 10.
 
-has committed, any offence mentioned in this Title; and may
-
 *[1 of 1989 9 of 1997 10 of 1998]*
 
-call upon all persons present to assist him in arresting the offender.
+has committed, any offence mentioned in this Title; and may call upon all persons present to assist him in arresting the offender.
 
 *Penalty for refusal to aid apprehension.*
 
@@ -1896,13 +1882,9 @@ house, shop, room, or place.
 
 shall be liable to a fine of not less than ten thousand dollars nor more than twenty thousand dollars .
 
-*Riotous behaviour*
+*Riotous behaviour in public [1 of 1989 8 of 1998 10 of 1998]*
 
 **136.** Everyone who—
-
-*in*
-
-*public [1 of 1989 8 of 1998 10 of 1998]*
 
 (a) in any public way or public place, or in any house, yard, garden, or other place open to public view or within public hearing; or
 
@@ -1924,11 +1906,9 @@ is guilty of any riotous, indecent, disorderly, or insulting behaviour shall be 
 
 *Public fight [1 of 1989*
 
-**139.** Everyone who unlawfully fights with anyone else in, or in view or in hearing of, any public way or public place
-
 *10 0f 1998]*
 
-shall be liable to a fine of not less than seven thousand five hundred dollars nor more than fifteen thousand dollars, or
+**139.** Everyone who unlawfully fights with anyone else in, or in view or in hearing of, any public way or public place shall be liable to a fine of not less than seven thousand five hundred dollars nor more than fifteen thousand dollars, or
 
 imprisonment for four months, in addition to any other punishment to which he may be liable.
 
@@ -2052,11 +2032,9 @@ required.
 
 (6) Any police or rural constable may seize all articles and things used, or intended to be used, or which he may suspect are intended to be used, in the pretence of practising obeah or witchcraft, sorcery, enchantment, or conjuration, and take them before a magistrate, and the magistrate may order the articles or things to be destroyed or otherwise dealt with as he thinks fit.
 
-(7) (a) The Postmaster General, or anyone authorised by him, shall detain and search any postal packet
-
 *c 47:01*
 
-(as defined by the Post and Telegraph Act) which he suspects to contain any charms, or other articles of any description whatsoever to be used in witchcraft, or any letters, or printed or written matter, giving instructions in witchcraft or sorcery, or any sorcerous matter of whatever description.
+(7) (a) The Postmaster General, or anyone authorised by him, shall detain and search any postal packet (as defined by the Post and Telegraph Act) which he suspects to contain any charms, or other articles of any description whatsoever to be used in witchcraft, or any letters, or printed or written matter, giving instructions in witchcraft or sorcery, or any sorcerous matter of whatever description.
 
 (b) If on the search anything is found which is deemed to be for use or instruction in witchcraft or sorcery, or of a sorcerous nature, it shall be dealt with in the manner directed by the Minister.
 
@@ -2112,11 +2090,9 @@ shall be liable to a fine of not less than fifteen thousand dollars nor more tha
 
 *Entering premises for discovery of thieves [1 of 1989 8 of 1997 10 of 1998 19 of 2007]*
 
-**151.** (1) Any police constable may, for the purpose of detecting or preventing the contravention of any of the provisions of subsection (1) (b) of the last preceding section, at all times enter on any premises referred to therein; and everyone who, by himself, or by any person in his employ, or acting by his direction, or with his consent, refuses or neglects to admit any police constable in the execution of his duty demanding to enter on those premises in pursuance of this
-
 *Penalty for denying admission*
 
-section shall be liable to a fine of not less than ten thousand dollars nor more than twenty thousand dollars, and, on a second or any subsequent conviction for that offence, shall be liable to a fine of not less than fifteen thousand dollars nor more than thirty thousand dollars.
+**151.** (1) Any police constable may, for the purpose of detecting or preventing the contravention of any of the provisions of subsection (1) (b) of the last preceding section, at all times enter on any premises referred to therein; and everyone who, by himself, or by any person in his employ, or acting by his direction, or with his consent, refuses or neglects to admit any police constable in the execution of his duty demanding to enter on those premises in pursuance of this section shall be liable to a fine of not less than ten thousand dollars nor more than twenty thousand dollars, and, on a second or any subsequent conviction for that offence, shall be liable to a fine of not less than fifteen thousand dollars nor more than thirty thousand dollars.
 
 (2) Where any person who holds a retail spirit licence or is employed by the holder of a retail spirit licence, is convicted under this section or subsection (1) of the last
 
@@ -2224,7 +2200,7 @@ like vehicle, in any public way or public place, rides or drives it furiously, s
 
 *carrying thing in two-wheeled vehicle*
 
-(xvi) carries in any vehicle having only two wheels, or, being the owner of the vehicle, suffers to be carried therein, on any public way any article or thing which projects beyond the head of the animal drawing the vehicle, or, if there are more animals than one, beyond the head of the animal nearest to the vehicle, or which projects more than four feet beyond the hinder part of the vehicle; or
+(xvi) carries in any vehicle having only two wheels, or, being the owner of the vehicle, suffers to be carried therein, on any public way any article or thing which projects beyond the head of the animal drawing the vehicle, or, if there are more animals than one, beyond the head of the animal nearest to the vehicle, or which projects more than four feet beyond the hinder part of the vehicle;
 
 *carrying thing in vehicle generally;*
 
@@ -2250,11 +2226,9 @@ footway; or
 
 *roller-skating on road;*
 
-(xxii) roller-skates in the City of Georgetown or the town of New Amsterdam, on any public way or on any footpath adjoining such public way, or on any
-
 *c.51:01*
 
-road as defined by section 2 of the Roads Act; or
+(xxii) roller-skates in the City of Georgetown or the town of New Amsterdam, on any public way or on any footpath adjoining such public way, or on any road as defined by section 2 of the Roads Act; or
 
 *causing obstruction in public way with vehicle;*
 
@@ -2324,11 +2298,9 @@ being the owner or having the charge of any dog, knowingly suffers it to be at l
 
 *making fire in town elsewhere than in kitchen;*
 
-(xxxv) in any part of any town, or any place immediately adjacent thereto, makes any fire in the yard or other part of any house or premises except the kitchen, whereby the town, or any house or other building, shed, or outhouse therein, or in the immediate vicinity thereof or adjacent thereto,
-
 *lighting or carrying fire in town;*
 
-may be endangered; or
+(xxxv) in any part of any town, or any place immediately adjacent thereto, makes any fire in the yard or other part of any house or premises except the kitchen, whereby the town, or any house or other building, shed, or outhouse therein, or in the immediate vicinity thereof or adjacent thereto, may be endangered; or
 
 (xxxvi) without the permission in writing in that behalf of any officer of police, in
 
@@ -2360,9 +2332,9 @@ way or public place; or causes or permits any offensive matter to run from any s
 
 (xlii) throws, or, being the owner or occupier of any house or other building in any town, permits to be thrown, from any part of the house or other building any slate, brick, rubbish, water, or other thing; or
 
-*(xliii)*
+*(xliii) fixing thing in*
 
-*fixing thing in window in town;*
+*window in town;*
 
 in any town, fixes or places any flowerpot, or box, or other heavy article or thing in any window or other place so that it overhangs any public way or public place, without sufficiently securing it from falling; or
 
@@ -2662,7 +2634,7 @@ sufficiently tamed to serve some purpose for the use of man;
 
 (a) shall cruelly beat, kick, ill-treat, override, over-drive, over-load, torture, infuriate, or terrify any animal, or shall cause or procure, or being the owner, permit, any animal to be so used, or shall, by wantonly or unreasonably doing or omitting to do any act, or causing or procuring the commission or omission of any act, cause any unnecessary suffering, or, being the owner, permit any unnecessary suffering to be so caused to any animal; or
 
-(b) shall convey or carry, or cause or procure, or, being the owner, permit to be conveyed or carried, any animal in such manner or position as to cause that animal any unnecessary suffering; or
+(b) shall convey or carry, or cause or procure, or, being the owner, permit to be conveyed or carried, any animal in such manner or position as to cause that animal any unnecessary suffering;
 
 (c) shall cause, procure, or assist at the fighting or baiting of any animal; or shall keep, use, manage, or act or assist in the management of, any premises or place for the purpose, or partly for the purpose, of fighting or baiting any animal, or shall permit any premises or place to be so kept, managed, or used, or shall receive, or cause or procure any person to receive, money for the admission of any person to such premises or place; or
 
@@ -2688,11 +2660,9 @@ Provided that, where an owner is convicted of permitting cruelty by reason only 
 
 **177.** (1) Where the owner of an animal is convicted of an offence of cruelty it shall be lawful for the court, if the court is satisfied that it would be cruel to keep the animal alive, to direct that the animal be destroyed and to assign the animal to any suitable person for that purpose; and the person to whom such animal is so assigned shall, as soon as possible, destroy such animal, or cause or procure such
 
-animal to be destroyed in his presence without unnecessary suffering. Any reasonable expense incurred in destroying the animal may be ordered by the court to be paid by the owner and any sum so ordered to be paid shall be regarded and dealt with in all respects as if it were a sum awarded by a judgment of the court under the Summary Jurisdiction
-
 *c. 7:01*
 
-(Petty Debt) Act:
+animal to be destroyed in his presence without unnecessary suffering. Any reasonable expense incurred in destroying the animal may be ordered by the court to be paid by the owner and any sum so ordered to be paid shall be regarded and dealt with in all respects as if it were a sum awarded by a judgment of the court under the Summary Jurisdiction (Petty Debt) Act:
 
 Provided that, unless the owner assents, no order shall be made under this section except upon the evidence of a duly registered veterinary surgeon.
 
@@ -2746,11 +2716,9 @@ Provided that, in any proceedings under paragraph (b), it shall be a defence tha
 
 (2) If any veterinary surgeon summoned under this section certifies that the injured animal can without cruelty be removed, it shall be the duty of the person in charge of the animal to cause it forthwith to be removed with as little suffering as possible, and if that person fails so to do, the police officer may, without the consent of that person, cause the animal forthwith to be so removed.
 
-(3) Any expense which may be reasonably incurred by any police officer or constable in carrying out the provisions of this section (including the expenses of any veterinary surgeon summoned by the police officer or constable and whether the animals slaughtered under this section or not) may be recovered from the owner under the Summary
-
 *7:01*
 
-Jurisdiction (Petty Debt) Act.
+(3) Any expense which may be reasonably incurred by any police officer or constable in carrying out the provisions of this section (including the expenses of any veterinary surgeon summoned by the police officer or constable and whether the animals slaughtered under this section or not) may be recovered from the owner under the Summary Jurisdiction (Petty Debt) Act.
 
 (4) For the purposes of this section the expression
 
@@ -2758,11 +2726,9 @@ Jurisdiction (Petty Debt) Act.
 
 *Detention of vehicle or animal [1 of 1931]*
 
-**185.** Where a person having charge of a vehicle or animal is apprehended by a police officer or constable for an offence under this Act, it shall be lawful for that or any other police officer or constable to take charge of such vehicle or animal, and to deposit the same in some place of safe custody until the termination of the proceedings or until the court shall direct such vehicle or animal to be delivered to the person charged or the owner and the reasonable costs of such detention, including the reasonable costs of veterinary treatment, where such treatment is required, shall in the event of a conviction in respect of the said animal be recoverable from the owner under the Summary Jurisdiction
-
 *c.7:01.*
 
-(Petty Debt) Act, or, where the owner himself is convicted, shall be part of the costs of the case.
+**185.** Where a person having charge of a vehicle or animal is apprehended by a police officer or constable for an offence under this Act, it shall be lawful for that or any other police officer or constable to take charge of such vehicle or animal, and to deposit the same in some place of safe custody until the termination of the proceedings or until the court shall direct such vehicle or animal to be delivered to the person charged or the owner and the reasonable costs of such detention, including the reasonable costs of veterinary treatment, where such treatment is required, shall in the event of a conviction in respect of the said animal be recoverable from the owner under the Summary Jurisdiction (Petty Debt) Act, or, where the owner himself is convicted, shall be part of the costs of the case.
 
 *Owners to produce animals if so required [1 of 1931 1of 1989 8 of 1997 10 of 1998]*
 
@@ -2780,17 +2746,13 @@ the first offence to a fine of not less than five thousand dollars nor more than
 
 (2) No horse, bull, dog or cat, shall be subjected to any operation—
 
-(a) specified in classes A, B, or C,
-
 *Second Schedule*
 
-respectively in the Second Schedule, unless the animal during the whole of the operation is under the influence of some general anaesthetic of sufficient power to prevent it feeling pain;
-
-(b) specified in classes D, E, or F, respectively in the Second Schedule
+(a) specified in classes A, B, or C, respectively in the Second Schedule, unless the animal during the whole of the operation is under the influence of some general anaesthetic of sufficient power to prevent it feeling pain;
 
 *Second Schedule.*
 
-hereto, unless the animal during the whole of the operation is under the influence of some general anaesthetic or some local anaesthetic which is, in either case, of sufficient power to prevent it feeling pain.
+(b) specified in classes D, E, or F, respectively in the Second Schedule hereto, unless the animal during the whole of the operation is under the influence of some general anaesthetic or some local anaesthetic which is, in either case, of sufficient power to prevent it feeling pain.
 
 (3) (a) The Minister may by order—
 
@@ -3008,11 +2970,13 @@ made under section 72(2)
 
 *Citation.*
 
-**1.** This Order may be cited as the Praedial Larceny Districts Order.
+*Districts*
 
-*Declaration of specified districts.*
+**1.** This Order may be cited as the Praedial Larceny Order.
 
-**2.** The districts designated in the Schedule are hereby declared to be specified districts within the meaning of section 72(1) of the Act.
+*Declaration of hereby specified districts. meaning*
+
+**2.** The districts designated in the Schedule are declared to be specified districts within the of section 72(1) of the Act.
 
 ## SCHEDULE
 

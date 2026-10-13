@@ -92,19 +92,15 @@ __________________________
 
 _______________________________________________________
 
-*53 of 1952*
+*53 of*
 
-An Act to provide for the Probation of Offenders.
+1952 An Act to provide for the Probation of Offenders.
 
 ### [27TH DECEMBER, 1952]
 
-*Short Title.*
+*Short Title. [21 of*
 
-**1.** This Act may be cited as the Probation of Offenders
-
-[21 of 1962]
-
-Act.
+**1.** This Act may be cited as the Probation of Offenders Act.
 
 **2.** The Act shall in relation to juveniles apply subject Application.
 
@@ -442,11 +438,9 @@ shall cease to be a member of the Committee.
 
 **21.** It shall be the duty of the Committee—
 
-(a) to advise and report to the Minister on any matter which in its opinion affects the proper carrying out of the provisions and objects of
-
 *c. 11:04*
 
-the Probation of Offenders Act;
+(a) to advise and report to the Minister on any matter which in its opinion affects the proper carrying out of the provisions and objects of the Probation of Offenders Act;
 
 (b) to advise the Minister on any matter about which the Minister may seek its advice with a view to the proper carrying out of the provisions of the Probation of Offenders
 
@@ -474,15 +468,15 @@ Act.
 
 **24.** Rule 20 of these Rules shall mutatis mutandis apply to persons appointed by the Minister as members of a district
 
-probation committee as they apply to members of the Central Probation Committee.
+*probation Central*
 
-*Duties of district*
+committee as they apply to members of the Probation Committee.
 
-**25.** The duties of a district probation committee shall
+*\25. The Duties of*
 
-*be—*
+duties of a district probation committee shall
 
-*probation committee.*
+*district be— probation committee.*
 
 (a) from time to time to receive and consider written or oral probation reports from each probation officer concerning persons under his supervision and to discuss with the probation officer the progress of these persons;
 

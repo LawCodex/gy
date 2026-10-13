@@ -40,9 +40,9 @@ Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-**1.** Short title.
+**1.** title.
 
 **2.** Interpretation.
 
@@ -84,6 +84,10 @@ An Act to provide for the recording of Court Proceedings and for matters inciden
 
 **4.** Where proceedings in a court are recorded, the Registrar of the Supreme Court or the clerk of court, as the case may be, may, and shall if required by Rules of Court or other law,
 
+*Cap.*
+
+3:14
+
 as soon as practicable, cause a transcript of the record of the proceedings to be prepared.
 
 *Verification of transcript.*
@@ -95,3 +99,5 @@ as soon as practicable, cause a transcript of the record of the proceedings to b
 **6.** A party to proceedings which are recorded shall, upon application and upon the payment of such fee as the Rules Committee may prescribe or as may be prescribed by law, be furnished with a copy of the draft or verified transcript of the record of those proceedings.
 
 ____________________
+
+### L.R.O. 1/2022

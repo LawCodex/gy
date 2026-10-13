@@ -88,25 +88,19 @@ requests for investigation by him shall be made in writing.
 
 (3) It shall not be necessary for the Ombudsman to hold any hearing and, subject as hereinbefore provided, no person shall be entitled as of right to be heard by the Ombudsman. The Ombudsman may obtain information from such persons and in such manner, and make such inquiries, as he thinks fit.
 
-(4) If, during or after any investigation, the Ombudsman is of opinion that there is evidence of any breach of duty, misconduct or criminal offence on the part of any officer or employee of any department or authority
-
 *c. 1:01*
-
-to which article 192 of the Constitution applies, the Ombudsman may refer the matter to the authority
 
 *c. 8:01*
 
-competent to take such disciplinary or other proceedings
+(4) If, during or after any investigation, the Ombudsman is of opinion that there is evidence of any breach of duty, misconduct or criminal offence on the part of any officer or employee of any department or authority to which article 192 of the Constitution applies, the Ombudsman may refer the matter to the authority competent to take such disciplinary or other proceedings
 
 against him as may be appropriate.
 
 (5) Subject to this Act, the Ombudsman may regulate his procedure in such manner as he considers appropriate in the circumstances of the case.
 
-(6) Where any person is required under this Act by the Ombudsman to attend before him for the purposes of an investigation, the Ombudsman shall cause to be paid to such person, out of moneys provided by Parliament for the purpose, the fees, allowances and expenses, subject to qualifications and exceptions corresponding to those, that are for the time being prescribed in the Sixth Schedule to the
-
 *c. 10:01*
 
-Criminal Law (Procedure) Act, so, however, that the like functions as are so prescribed and assigned to the Registrar of the Supreme Court of Judicature shall, for the purposes of this subsection, be exercisable by the Ombudsman and he may, if he thinks fit, disallow, in whole or in part, the payment of any amount under this subsection.
+(6) Where any person is required under this Act by the Ombudsman to attend before him for the purposes of an investigation, the Ombudsman shall cause to be paid to such person, out of moneys provided by Parliament for the purpose, the fees, allowances and expenses, subject to qualifications and exceptions corresponding to those, that are for the time being prescribed in the Sixth Schedule to the Criminal Law (Procedure) Act, so, however, that the like functions as are so prescribed and assigned to the Registrar of the Supreme Court of Judicature shall, for the purposes of this subsection, be exercisable by the Ombudsman and he may, if he thinks fit, disallow, in whole or in part, the payment of any amount under this subsection.
 
 *Evidence.*
 
@@ -122,11 +116,9 @@ employee or member of any department or authority to which article 192 of the Co
 
 (c) any other person who in the Ombudsman’s opinion is able to give any such information;
 
-and for that purpose may administer an oath. Every such examination by the Ombudsman shall be deemed to be a judicial proceeding for the purposes of the Title 21 of the
-
 *c. 8:01*
 
-Criminal Law (Offences) Act (which relates to perjury)
+and for that purpose may administer an oath. Every such examination by the Ombudsman shall be deemed to be a judicial proceeding for the purposes of the Title 21 of the Criminal Law (Offences) Act (which relates to perjury)
 
 (3) Subject to subsection (4) no person who is bound by the provisions of any enactment, other than the Official Secrets Acts, 1911 to 1939 (or any Act of the Parliament of Guyana replacing the same in its application to Guyana), to maintain secrecy in relation to, or not to disclose, any matter shall be required to supply any information to or answer any questions put by the Ombudsman in relation to that matter, or to produce to the Ombudsman any document or paper or thing relating to it, if compliance with that requirement would be in breach of the obligation of secrecy or non-disclosure.
 
@@ -134,11 +126,9 @@ Criminal Law (Offences) Act (which relates to perjury)
 
 (5) Subject to subsection (4) every person shall have the like privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things, as witnesses have in any court.
 
-(6) Except on the trial of any person for an offence
-
 *c. 8:01*
 
-under Title 21 of the Criminal Law (Offences) Act in respect of his sworn testimony, or for an offence under section 12 of this Act, no statement made or answer given by that or any other person in the course of any inquiry by, or any proceedings before, the Ombudsman under the Constitution or this Act shall be admissible in evidence against any person in any court or at any inquiry or in any other proceedings and no evidence in respect of proceedings before the Ombudsman shall be given against any person.
+(6) Except on the trial of any person for an offence under Title 21 of the Criminal Law (Offences) Act in respect of his sworn testimony, or for an offence under section 12 of this Act, no statement made or answer given by that or any other person in the course of any inquiry by, or any proceedings before, the Ombudsman under the Constitution or this Act shall be admissible in evidence against any person in any court or at any inquiry or in any other proceedings and no evidence in respect of proceedings before the Ombudsman shall be given against any person.
 
 (7) No person shall be liable to prosecution for an offence against the Official Secrets Acts, 1911 to 1939, or any enactment, other than this Act, by reason of his compliance with any requirement of the Ombudsman under this section.
 
@@ -162,17 +152,13 @@ the Ombudsman shall not require the information or answer to be given or, as the
 
 **6.** A person who performs the functions appertaining to the office of the Ombudsman or any office or employment there under—
 
-(a) shall regard as secret and confidential all documents, information and things which have been disclosed to any such person in the execution of any of the provisions of articles 192 and 194
-
 *c. 1:01*
 
-of the Constitution:
-
-Provided that no disclosure made by any such person in proceedings for an offence under section 12 of this Act, or
+(a) shall regard as secret and confidential all documents, information and things which have been disclosed to any such person in the execution of any of the provisions of articles 192 and 194 of the Constitution:
 
 *c. 8:01*
 
-under Title 21 of the Criminal Law (Offences) Act and by virtue of section 4(2) of this Act, or which the Ombudsman considers it requisite to make in the discharge of any of his functions and for the purpose of executing any of the said provisions or the provisions of section 3(4) or section 11 of this Act, shall be deemed inconsistent with any duty imposed by this paragraph; and
+Provided that no disclosure made by any such person in proceedings for an offence under section 12 of this Act, or under Title 21 of the Criminal Law (Offences) Act and by virtue of section 4(2) of this Act, or which the Ombudsman considers it requisite to make in the discharge of any of his functions and for the purpose of executing any of the said provisions or the provisions of section 3(4) or section 11 of this Act, shall be deemed inconsistent with any duty imposed by this paragraph; and
 
 (b) shall not be called upon to give evidence in respect of, or produce, any such documents, information or things in any proceedings, other than proceedings mentioned in the preceding proviso.
 

@@ -70,11 +70,9 @@ An Act to enable the implementation by Guyana of the Agreement for the establish
 
 Interpretation. 2. (1) In this Act—
 
-“Agreement” means the Agreement establishing the
-
 *Schedule.*
 
-Caribbean Food Corporation set out in the Schedule;
+“Agreement” means the Agreement establishing the Caribbean Food Corporation set out in the Schedule;
 
 “Corporation” means the Caribbean Food Corporation established by the Agreement;
 
@@ -194,13 +192,21 @@ Article 4 Membership
 
 **2.** The Countries listed in the Annex to this Agreement, the Governments of which sign this Agreement, in accordance with paragraph 1 of Article 38 or accept the said Agreement in accordance with paragraph 3 of the said Article 38 shall become Members of the Corporation.
 
-**3.** Countries admitted as new Members of the Common Market or of the Community may become Members of the Corporation in accordance with Article 40 of this Agreement.
+*Common of the*
 
-**4.** Associate Members of the Common Market and other Countries having a special relationship with the Common Market or with the Community may become Members of the Corporation in accordance with Article 41 of this Agreement.
+**3.** Countries admitted as new Members of the Market or of the Community may become Members Corporation in accordance with Article 40 of this Agreement.
 
-Article 5 Powers and Functions
+*other Common Members this*
 
-In order to achieve its objectives, the Corporation shall have power—
+**4.** Associate Members of the Common Market and Countries having a special relationship with the Market or with the Community may become of the Corporation in accordance with Article 41 of Agreement.
+
+Article 5
+
+Powers and Functions
+
+*In have*
+
+order to achieve its objectives, the Corporation shall power—
 
 (a) itself or through its subsidiaries to operate within the Common Market or, in furtherance of its objectives outside thereof, including in particular, power to —
 
@@ -286,7 +292,9 @@ Article 10 Capital Resources
 
 **2.** In this Article, the term—
 
-“ordinary capital resources” includes—
+*“ordinary*
+
+capital resources” includes—
 
 (i) issued share capital of the Corporation alloted pursuant to Article 7;
 
@@ -298,13 +306,17 @@ Article 10 Capital Resources
 
 CHAPTER III OPERATING PRINCIPLES, INVESTMENT PROGRAMMES AND REPORTS Article 11 Operating Principles
 
-**1.** In pursuance of its objectives the Corporation shall invest in enterprises which are financially viable, due regard being paid to the following important criteria:
+*invest in*
+
+**1.** In pursuance of its objectives the Corporation shall enterprises which are financially viable, due regard being paid to the following important criteria:
 
 (a) the ability of the enterprise to increase agricultural production in order to achieve the greatest possible self sufficiency within the Region; and
 
 (b) the ability of the enterprise to produce agricultural products that will raise the nutritional levels within the Region.
 
-**2.** In the performance of its functions the Corporation may—
+**2.** In the performance of its functions the Corporation
+
+*may—*
 
 (a) utilise the services of wholly-owned subsidiaries;
 
@@ -312,13 +324,21 @@ CHAPTER III OPERATING PRINCIPLES, INVESTMENT PROGRAMMES AND REPORTS Article 11 O
 
 (c) utilise where appropriate the services of the Caribbean Investment Corporation, the Caribbean Development Bank, the Caribbean Agricultural Research and Development Institute and similar institutions within or without the Region.
 
-**3.** In making investments in private enterprises, regionally owned and controlled enterprises shall be preferred.
+*\3. In regionally preferred.*
 
-**4.** Before engaging in any enterprise in a Member Country the Corporation shall obtain the approval of the Member Country in which the enterprise is to be located.
+making investments in private enterprises, owned and controlled enterprises shall be
 
-Article 12 Investment Programmes
+*Country the Member*
 
-**1.** The Board of Directors shall submit for approval of the Board of Governors, investment programmes at such
+**4.** Before engaging in any enterprise in a Member Corporation shall obtain the approval of the Country in which the enterprise is to be located.
+
+Article 12
+
+Investment Programmes
+
+*\1. The the Board of*
+
+Board of Directors shall submit for approval of Governors, investment programmes at such
 
 times and for such periods as the Board of Governors may determine. These investment programmes shall take into account the respective policies of Member Countries within the Region concerning agriculture and agro-based industries.
 
@@ -404,19 +424,25 @@ Board of Governors Voting and Procedure
 
 **5.** The Board of Governors may establish a procedure
 
-for obtaining a vote on a specified question without calling a meeting.
+for obtaining a vote on a specified question without calling a
+
+*meeting.*
 
 Article 20
 
 Board of Directors Composition
 
-**1.** Upon the entry into force of this Agreement, the Board of Directors shall consist of not more than nine Directors, as follows—
+*Board of Directors, as*
+
+**1.** Upon the entry into force of this Agreement, the Directors shall consist of not more than nine follows—
 
 (a) Directors appointed by or in respect of Member Countries in accordance with this Article;
 
 (b) the Secretary-General or his nominee and the Managing Director.
 
-The Directors referred to in sub-paragraph (b) shall have no vote.
+*The Directors vote.*
+
+referred to in sub-paragraph (b) shall have no
 
 **2.** Directors shall be appointed as follows—
 

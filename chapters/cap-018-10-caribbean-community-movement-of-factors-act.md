@@ -236,11 +236,9 @@ activity in Guyana involving the exercise of governmental authority" means an ac
 
 (b) the right to move capital into and within Guyana and out of Guyana to other Member States, without discrimination on the ground of nationality.
 
-(2) Notwithstanding any other law, a person to whom this subsection applies, shall, for the purposes of
-
 *Schedule.*
 
-the Acts mentioned in the Schedule and to the extent set out therein in respect of each Act, be treated as if he were a national of Guyana.
+(2) Notwithstanding any other law, a person to whom this subsection applies, shall, for the purposes of the Acts mentioned in the Schedule and to the extent set out therein in respect of each Act, be treated as if he were a national of Guyana.
 
 (3) Subsection (2) applies to a national exercising or seeking to exercise a right conferred by subsection (1).
 
@@ -328,6 +326,10 @@ the service, temporarily engage in an approved activity in Guyana under conditio
 
 (c) ensure that a national of another Member State exercising the right to provide a service in Guyana has the right to acquire or otherwise possess or control land, buildings and other property on a non-discriminatory basis for purposes directly related to the provision of the service.
 
+*Caribbean*
+
+Community (Movement of Factors) Cap. 18:10
+
 ## PART IV — THE RIGHT TO MOVE CAPITAL
 
 *Prohibition of new restrictions on the movement of capital*
@@ -340,19 +342,17 @@ the service, temporarily engage in an approved activity in Guyana under conditio
 
 (ii) on payments connected with the movement of capital; and
 
-(iii) on current payments and transfers;
+*Removal of 15. (1) restrictions on on the capital*
 
-(b) shall not render more restrictive the operation of existing subsidiary legislation or other law governing the movement of capital, except as authorised by the Treaty.
+*current movements. services and removed.*
 
-*Removal of restrictions on capital movements.*
+(iii) on current payments and transfers; (b) shall not render more restrictive the operation of existing subsidiary legislation or other law governing the movement of capital, except as authorised by the Treaty. Subject to the provisions of this Act, restrictions movement of all capital payments, and on all payments, including payments for goods and other current transfers to Member States shall be
 
-**15.** (1) Subject to the provisions of this Act, restrictions on the movement of all capital payments, and on all current payments, including payments for goods and services and other current transfers to Member States shall be removed.
+*current*
 
-(2) For the purposes of this Part, capital and current payments and transfers include –
+(2) For the purposes of this Part, capital and payments and transfers include –
 
-(a) equity and portfolio investments;
-
-(b) short-term bank and credit transactions;
+(a) equity and portfolio investments; (b) short-term bank and credit transactions;
 
 (c) payment of interest on loans and amortisation;
 
@@ -460,23 +460,31 @@ organ prior to the application of the restrictions, the Minister shall, upon app
 
 (d) to prevent the unreasonable exercise of rights granted by this Act;
 
+*Caribbean*
+
+Community (Movement of Factors) Cap. 18:10
+
 (e) the exercise of which could impair the development of the CARICOM Single Market and Economy.
 
-*Nondiscrimination applying permissible restrictions.*
+*\24. The Non-*
 
-**24.** The Minister in applying the restrictions pursuant to section 21 shall not discriminate on the ground of nationality and –
+*discrimination to section 21 applying*
+
+*nationality and permissible restrictions.*
+
+Minister in applying the restrictions pursuant shall not discriminate on the ground of –
 
 (a) shall progressively relax them as relevant conditions improve;
 
 (b) may maintain them only to the extent that conditions mentioned in section 21 continue to justify their application.
 
-*General exceptions to the obligation*
+*General*
 
-**25.** (1) Notwithstanding any of the provisions of this Act, the Minister shall not be precluded from taking measures
+*\25. (1)*
 
-*–*
+*exceptions to Act, the the obligation – to remove restrictions.*
 
-*to remove restrictions.*
+Notwithstanding any of the provisions of this Minister shall not be precluded from taking measures
 
 (a) to protect public morals or maintain public order and safety;
 

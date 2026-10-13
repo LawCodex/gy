@@ -80,9 +80,7 @@ Aliens (Immigration and Registration) (Exemption) Order 13 (O. 47/1961)
 
 __________________________
 
-*1953 Ed. c. 101*
-
-_______________________________________________________
+*1953 Ed. c. 101 _______________________________________________________*
 
 *37 of 1947*
 
@@ -94,15 +92,13 @@ An Act to regulate entry of Aliens into Guyana to make provision for the registr
 
 **1.** This Act may be cited as the Aliens (Immigration and Registration) Act.
 
-Interpretation. 2. (1) In this Act—
+*Interpretation. [2 of 1969 O. 80/80]*
 
-*[2 of 1969 O. 80/80]*
-
-“alien” has the meaning assigned to it in article 232 of
+**2.** (1) In this Act—
 
 *c. 1:01*
 
-the Constitution;
+“alien” has the meaning assigned to it in article 232 of the Constitution;
 
 “registration officer” includes the Chief Registration Officer, the Deputy Chief Registration Officer, and any officer of the police force authorised under section 3(4) to exercise and perform the powers, functions and duties of a
 
@@ -166,11 +162,9 @@ an alien who is found in Guyana at any time after the expiration of the period l
 
 alien has no residence in Guyana; and
 
-(b) furnish to the registration officer particulars as to the matters set out in
-
 *Schedule.*
 
-the Schedule; and
+(b) furnish to the registration officer particulars as to the matters set out in the Schedule; and
 
 (c) produce to the registration officer a passport containing a photograph of himself or some other document establishing to the satisfaction of the registration officer the identity and nationality of the alien; or
 
@@ -296,19 +290,19 @@ _____________
 
 _________________
 
-*O. in C. 36/1948*
+*O. in C. ALIENS 36/1948*
 
-### ALIENS (REGISTRATION) (EXEMPTION) ORDER
+### (REGISTRATION) (EXEMPTION) ORDER
 
 made under section 11
 
-*Citation.*
+*Citation. 1. This (Exemption)*
 
-**1.** This order may be cited as the Aliens (Registration) (Exemption) Order.
+order may be cited as the Aliens (Registration) Order.
 
-*Exemptions from section 5(2).*
+*Exemptions from 2. The section 5(2). the said Act,*
 
-**2.** The provisions of section 5(2) of the Aliens Act, which require an alien who enters Guyana to register under the said Act, shall apply to –
+provisions of section 5(2) of the Aliens Act, which require an alien who enters Guyana to register under shall apply to –
 
 (a) any alien who is a citizen of the United States of America and who intends to remain in Guyana for a period not exceeding three months from the date of the his entry into Guyana; and
 
@@ -316,15 +310,19 @@ made under section 11
 
 _____________________
 
-*O. 47/1961*
+*ALIENS O. 47/1961*
 
-### ALIENS (IMMIGRATION AND REGISTRATION) (EXEMPTION) ORDER
+### (IMMIGRATION AND REGISTRATION) (EXEMPTION) ORDER
 
 made under section 11
 
 *Citation.*
 
 **1.** This Order may be cited as Aliens
+
+*Cap.*
+
+14:03
 
 *[Subsidiary]*
 

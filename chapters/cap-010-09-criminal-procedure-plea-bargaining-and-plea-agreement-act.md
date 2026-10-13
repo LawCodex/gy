@@ -124,7 +124,11 @@ An Act to provide for the establishment of a system of plea bargaining and plea 
 
 (b) fraudulent misrepresentation of a material fact by the prosecutor either before a plea bargaining is entered into or during the course of discussion on plea agreement;
 
-“plea agreement” or “agreement” means an agreement entered into—
+Criminal Procedure (Plea Bargaining and
+
+*“plea*
+
+agreement” or “agreement” means an agreement entered into—
 
 (a) between the accused person and the prosecutor; or
 
@@ -132,7 +136,9 @@ An Act to provide for the establishment of a system of plea bargaining and plea 
 
 whereby the accused person agrees to plead guilty and the prosecutor agrees to take a particular course of action;
 
-”plea bargaining” means a discussion held with a view to arriving at an agreement—
+*”plea*
+
+bargaining” means a discussion held with a view to arriving at an agreement—
 
 (a) between an accused person and a prosecutor; or
 
@@ -220,11 +226,9 @@ bargaining.
 
 **9.** (1) A plea agreement which has been concluded between the prosecutor and the attorneys-at-law for the accused person shall be set out as in Form I of the Schedule and where such agreement is concluded, the prosecutor shall file the agreement with the Registrar or the Clerk of the Court, as the case may be.
 
-(2) A plea agreement which has been concluded between the prosecutor and an unrepresented accused person
-
 *Schedule Form II*
 
-shall be set out as in Form II of the Schedule and where such agreement is concluded it shall be signed by both parties in the presence of a Justice of the Peace and filed with the Registrar or Clerk of the Court, as the case may be.
+(2) A plea agreement which has been concluded between the prosecutor and an unrepresented accused person shall be set out as in Form II of the Schedule and where such agreement is concluded it shall be signed by both parties in the presence of a Justice of the Peace and filed with the Registrar or Clerk of the Court, as the case may be.
 
 (3) Upon receipt and filing of the plea agreement, the Registrar or the Clerk of the Court shall set down the matter for hearing before a Judge or Magistrate, as the case may be.
 

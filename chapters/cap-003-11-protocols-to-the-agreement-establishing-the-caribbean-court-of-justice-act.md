@@ -56,9 +56,9 @@ SCHEDULE II – Protocol to the Agreement Establishing the Caribbean Court of Ju
 
 ## SCHEDULE III – Protocol to the Agreement Establishing the Caribbean Court of Justice rel ati ng to the Tenure of Of fice of Judges of the Court.
 
-*25 of 2007*
+*25 of*
 
-AN ACT to give effect to certain Protocols to the Agreement Establishing the Caribbean Court of Justice and for matters connected therewith.
+2007 AN ACT to give effect to certain Protocols to the Agreement Establishing the Caribbean Court of Justice and for matters connected therewith.
 
 ### [23 RD JULY, 2002]
 
@@ -118,21 +118,39 @@ Desiring to effect certain amendments to the Agreement in order to
 
 (d) Make abundantly clear the relationship between the original jurisdiction of the Caribbean Court of
 
+*Protocols to the*
+
+the Agreement Establishing
+
+Caribbean Court of Justice
+
 Justice and the constitutional order in their respective jurisdictions.
 
-Agree as follows:
+*Agree as*
 
-Article I Tenure of Office of Judges
+follows:
 
-Paragraph 5 of Article IX of the Agreement shall be reworded to read as follows:
+Article I
+
+Tenure of Office of Judges
+
+*Paragraph 5 of to read as*
+
+Article IX of the Agreement shall be reworded follows:
 
 **5.** (1) Subject to Article IV, paragraph 6, the President shall be removed from office by the Heads of Government on the recommendation of the Commission, if the question of the removal of the President has been referred by the Heads of Government to a tribunal and the tribunal has advised the Commission that the President ought to be removed from office for inability or misbehaviour referred to in paragraph 4.
 
 (2) Subject to Article IV, paragraph 7, a Judge other than the President shall be removed from office by the Commission if the question of the removal of the Judge has been referred by the Commission to a tribunal; and the tribunal has advised the Commission that the Judge ought to be removed from office for inability or misbehaviour referred to in paragraph 4.
 
-Article II Rules of the Court Governing Original Jurisdiction
+Article II
 
-In Article XXI of the Agreement, insert in paragraph I, immediately before the word “five” the words “not less
+*Rules of*
+
+the Court Governing Original Jurisdiction
+
+*In Article immediately*
+
+XXI of the Agreement, insert in paragraph I, before the word “five” the words “not less
 
 than two nor more than”. The provision as amended shall read as follows:
 
@@ -314,13 +332,17 @@ Commission from office has been referred to a tribunal under paragraph 2, the He
 
 ### SIGNATURE
 
-This Protocol shall be open for signature by the Contracting Parties to the Agreement.
+*This*
+
+Protocol shall be open for signature by the Contracting Parties to the Agreement.
 
 ### ARTICLE IV
 
 ### ENTRY INTO FORCE
 
-This protocol shall enter into force immediately upon signature of at least three Contracting Parties.
+*This*
+
+protocol shall enter into force immediately upon signature of at least three Contracting Parties.
 
 ### ARTICLE V
 

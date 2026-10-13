@@ -468,9 +468,9 @@ An Act to consolidate and amend the Laws relating to Insolvency.
 
 Acts of Insolvency
 
-*When debtor commits act of insolvency*
+*When debtor commits act of the insolvency*
 
-**3.** (1) A debtor commits an act of insolvency in each of the following cases:
+**3.** (1) A debtor commits an act of insolvency in each of following cases:
 
 (a) in Guyana or elsewhere, he makes any conveyance or assignment of his property for the benefit of his creditors generally; or
 
@@ -598,11 +598,9 @@ Proceedings consequent on Order
 
 **16.** (1) As soon as may be after the making of a receiving order against a debtor, a general meeting of his creditors (in this Act referred to as the first meeting of creditors) shall be held for the purpose of considering whether a proposal for a composition or scheme of arrangement shall be entertained, or whether it is expedient that the debtor shall be adjudged insolvent, and generally as to the mode of dealing with a debtor’s property.
 
-(2) With respect to the summoning of, and proceedings at, the first and other meetings of creditors, the
-
 *First Schedule.*
 
-rules contained in the First Schedule shall be observed.
+(2) With respect to the summoning of, and proceedings at, the first and other meetings of creditors, the rules contained in the First Schedule shall be observed.
 
 *Debtor’s statement of affairs.*
 
@@ -720,7 +718,7 @@ Adjudication of Insolvency
 
 if a composition or scheme is not accepted and approved in pursuance of this Act within twenty-one days
 
-after conclusion of examination of the debtor or any further time allowed by the Court; or
+after conclusion examination of the debtor or any further time allowed by the Court; or
 
 (d) if the Official Receiver satisfies the Court that the debtor does not intend to propose a composition or scheme, or that the debtor has absconded, or is wilfully keeping out of the jurisdiction of the Court in order to avoid examination in respect of his affairs, or otherwise to avoid, delay, or embarrass proceedings in insolvency against him,
 
@@ -840,11 +838,9 @@ Discharge of Insolvent
 
 (2) On the hearing of the application the Court shall take into consideration a report of the Official Receiver as to the insolvent’s conduct and affairs (including a report as to the insolvent’s conduct during the proceedings under his insolvency), and may either grant or refuse an absolute order of discharge, or suspend the operation of the order for a specified time, or grant an order of discharge subject to any conditions with respect to any earnings or income which may afterwards become due to the insolvent, or with respect to his after- acquired property:
 
-Provided that the Court shall refuse the discharge in all cases where the insolvent has committed any misdemeanour under sections 213 to 216 (inclusive) of the Criminal Law
-
 *c. 8:01*
 
-(Offences) Act, or any other misdemeanour connected with his insolvency, or any felony connected with his insolvency, unless for special reasons the Court otherwise determines, and shall, on proof of any of the facts hereinafter mentioned, either—
+Provided that the Court shall refuse the discharge in all cases where the insolvent has committed any misdemeanour under sections 213 to 216 (inclusive) of the Criminal Law (Offences) Act, or any other misdemeanour connected with his insolvency, or any felony connected with his insolvency, unless for special reasons the Court otherwise determines, and shall, on proof of any of the facts hereinafter mentioned, either—
 
 (a) refuse the discharge; or
 
@@ -1098,11 +1094,9 @@ debts, and the separate estate of each partner shall be applicable, in the first
 
 (c) If there is a surplus of the joint estate, it shall be dealt with as part of the respective separate estates in proportion to the right and interest of each partner in the joint estate.
 
-(10) Nothing in this section shall alter the effect of
-
 *c. 89:02*
 
-section 5 of the Partnership Act, or prejudice the provisions of any Act for the time being in force relating to friendly societies.
+(10) Nothing in this section shall alter the effect of section 5 of the Partnership Act, or prejudice the provisions of any Act for the time being in force relating to friendly societies.
 
 *Preferential claim in case of apprenticeship.*
 
@@ -1132,7 +1126,9 @@ all property belonging to or vested in the insolvent at the commencement of the 
 
 (iii) all goods being, at the commencement of the insolvency, in the possession, order, or disposition of the insolvent in his trade or business by the consent and permission of the true owner, in such circumstances that he is the reputed owner of them:
 
-Provided that—
+*Provided*
+
+that—
 
 (a) things in action, other than debts due or growing due to the insolvent in the course of his trade or business, shall not be deemed goods within the meaning of this section; and
 
@@ -1296,13 +1292,11 @@ and in either event (if the case so requires) as if the lease had comprised only
 
 Act, and execute any powers of attorney, deeds, and other instruments for the purpose of carrying into effect the provisions of this Act.
 
-*Powers exercisable with permission of*
+*\54. (1) Powers*
 
-**54.** (1) The assignee, with the permission of the committee of inspection, may do all or any of the following
+*exercisable with committee of permission of things: committee of inspection.*
 
-*things:*
-
-*committee of inspection.*
+The assignee, with the permission of the inspection, may do all or any of the following
 
 (a) carry on the business of the insolvent, so far as may be necessary for beneficially winding it up;
 
@@ -1426,9 +1420,11 @@ committed any act which constitutes a misdemeanour under any Act for the time be
 
 (b) to make any other reports concerning the conduct of the debtor directed by the Court.
 
-*Duty as regards administration of estate.*
+*\68. (1) Duty as regards*
 
-**68.** (1) As regards the estate of a debtor it shall be the duty of the Official Receiver—
+*administration duty of the of estate.*
+
+As regards the estate of a debtor it shall be the Official Receiver—
 
 (a) pending the appointment of an assignee, to act as interim receiver of the debtor’s estate, and, where a special manager is not appointed, as manager thereof;
 
@@ -1442,7 +1438,7 @@ committed any act which constitutes a misdemeanour under any Act for the time be
 
 (f) to advertise the receiving order, the date of the first meeting of creditors
 
-of debtor’s public examination, and any other matters necessary to be advertised;
+debtor’s public examination, and any other matters necessary to be advertised;
 
 (g) to act as assignee during any vacancy in the office of assignee:
 
@@ -1864,11 +1860,9 @@ shall be construed and have effect as if they respectively had been made and pre
 
 *Making of general rules.*
 
-(2) The authority empowered to make rules of court regulating the practice and procedure of the Court may from time to time make general rules for carrying into effect
-
 *[O. 37/1966A] c. 6:04*
 
-the objects of this Act, and also for carrying into effect the Debtors’ Act.
+(2) The authority empowered to make rules of court regulating the practice and procedure of the Court may from time to time make general rules for carrying into effect the objects of this Act, and also for carrying into effect the Debtors’ Act.
 
 (3) Any copy of the rules purporting to have been printed for the Government of Guyana, shall be prima facie evidence in all courts and for all purposes of their due making and tenor.
 
@@ -2000,11 +1994,9 @@ Attorneys-at-law
 
 *Application of*
 
-**129.** Where there is no provision in this Act relating
-
 *Ordinance,*
 
-to similar proceedings, the provisions of the Insolvency Ordinance, 1884, shall, notwithstanding its repeal, apply as if 1884
+**129.** Where there is no provision in this Act relating to similar proceedings, the provisions of the Insolvency Ordinance, 1884, shall, notwithstanding its repeal, apply as if 1884
 
 this Act had not been passed.
 
@@ -3214,17 +3206,23 @@ made under section 109
 
 Provided that the Minister may from time to time alter any forms which relate to matters of an administrative,
 
-and not of a judicial, character, or substitute new forms in lieu thereof.
+*and not of a thereof.*
 
-(2) Where the Minister alters any form or substitutes any new form in lieu of a form prescribed by these Rules, such altered or substituted form shall be published in the Gazette.
+judicial, character, or substitute new forms in lieu
 
-## PART I COURT PROCEDURE
+*substitutes any Rules, such the Gazette.*
+
+(2) Where the Minister alters any form or new form in lieu of a form prescribed by these altered or substituted form shall be published in
+
+## PART I — COURT PROCEDURE
 
 Court and Chambers
 
-*Matters to be heard in Court.*
+*\5. The Matters to be*
 
-**5.** The following matters and applications shall be heard and determined in open court:
+*heard in Court. heard and*
+
+following matters and applications shall be determined in open court:
 
 (a) the public examination of debtors;
 
@@ -3246,11 +3244,9 @@ Court and Chambers
 
 (j) applications by an assignee for directions;
 
-(k) applications to commit under the Debtor's
-
 *c.6:04*
 
-Act.
+(k) applications to commit under the Debtor's Act.
 
 Any other matter or application may be heard and determined in chambers.
 
@@ -3392,11 +3388,9 @@ lodged in Court by way of security for costs shall apply to money lodged in Cour
 
 *Notice of sureties.*
 
-**32.** In all cases where a person proposes to give a bond by way of security, he shall serve, by post or otherwise,
-
 *Form 20*
 
-on the opposite party and on the Registrar at the Court, notice of the proposed sureties, which shall be in Form 20, and the Registrar shall forthwith give notice to both parties of the time and place at which he proposes that the bond shall be executed, and shall state in the notice that, should the proposed obligee have any valid objection to make to the sureties, or either of them, it must be made at that time.
+**32.** In all cases where a person proposes to give a bond by way of security, he shall serve, by post or otherwise, on the opposite party and on the Registrar at the Court, notice of the proposed sureties, which shall be in Form 20, and the Registrar shall forthwith give notice to both parties of the time and place at which he proposes that the bond shall be executed, and shall state in the notice that, should the proposed obligee have any valid objection to make to the sureties, or either of them, it must be made at that time.
 
 *Justification by sureties. Form 21.*
 
@@ -3524,11 +3518,9 @@ writer a sum not exceeding sixteen cents per folio of seventy-two words for any 
 
 *Applications for discovery.*
 
-**58.** Every application to the Court under section 28 of the Act shall be in writing, and shall state shortly the grounds upon which the application is made; and where the application is not made on behalf of the Official Receiver or assignee, it shall be verified by affidavit. The application may be made as regards several persons at the same time. The
-
 *Form 130*
 
-summons shall be in Form 130 with such variations and additions as the circumstances may require.
+**58.** Every application to the Court under section 28 of the Act shall be in writing, and shall state shortly the grounds upon which the application is made; and where the application is not made on behalf of the Official Receiver or assignee, it shall be verified by affidavit. The application may be made as regards several persons at the same time. The summons shall be in Form 130 with such variations and additions as the circumstances may require.
 
 APPROPRIATION OF PAY, SALARY, PENSIONS, ETC.
 
@@ -3666,11 +3658,9 @@ costs of any matter or application shall be taxed and paid as between party and 
 
 *Bill of cost to be filed.*
 
-**85.** Upon the taxation of any bill of costs, charges, or expenses being completed, the Registrar shall forthwith file such bill with the proceedings in the matter, and shall thereupon issue to the person presenting such bill for taxation his certificate of
-
 *Form 124.*
 
-taxation, which may be in Form 124.
+**85.** Upon the taxation of any bill of costs, charges, or expenses being completed, the Registrar shall forthwith file such bill with the proceedings in the matter, and shall thereupon issue to the person presenting such bill for taxation his certificate of taxation, which may be in Form 124.
 
 *Certificate of employment.*
 
@@ -3720,25 +3710,47 @@ Next: the remuneration of the special manager (if any);
 
 such creditor;
 
-„ the remuneration and charges of the person (if any) appointed to assist the debtor in the preparation of his statement of affairs;
+*„*
 
-“ any allowance made to the debtor by the Official Receiver;
+the remuneration and charges of the person (if any) appointed to assist the debtor in the preparation of his statement of affairs;
 
-“ taxed charges of any shorthand writer appointed by the Court;
+*“*
 
-“ the assignee's necessary disbursements other than actual expenses of realization heretofore provided for;
+any allowance made to the debtor by the Official Receiver;
 
-“ the costs of any person properly employed by the assignee with the sanction of the Committee of Inspection;
+*“*
 
-“ any allowance made to the debtor by the assignee with the sanction of the Committee of Inspection;
+taxed charges of any shorthand writer appointed by the Court;
 
-“ the remuneration of the assignee;
+*“*
 
-“ the actual out of pocket expenses necessarily incurred by the Committee of Inspection subject to the approval of the Court.
+the assignee's necessary disbursements other than actual expenses of realization heretofore provided for;
 
-*Disallowance of costs of unnecessary petition.*
+*“*
 
-**92.** In any case in which, after an insolvency petition has been presented by a creditor against a debtor, and before the hearing of such petition, the debtor files a petition, and a receiving order is made on the petition of the debtor, unless in the opinion of the Court the estate has benefited thereby, or there are special circumstances which make it just that such costs should be allowed, no costs shall be allowed to the debtor or his solicitor out of the estate.
+the costs of any person properly employed by the assignee with the sanction of the Committee of Inspection;
+
+*“*
+
+any allowance made to the debtor by the assignee with the sanction of the Committee of Inspection;
+
+*“*
+
+the remuneration of the assignee;
+
+*“*
+
+the actual out of pocket expenses necessarily incurred by the Committee of Inspection subject to the approval of the Court.
+
+*\92. In Disallowance*
+
+*of costs of been presented unnecessary petition.*
+
+*opinion of the special*
+
+any case in which, after an insolvency petition has by a creditor against a debtor, and before the hearing of such petition, the debtor files a petition, and a receiving order is made on the petition of the debtor, unless in the Court the estate has benefited thereby, or there are circumstances which make it just that such costs should be allowed, no costs shall be allowed to the debtor or his solicitor out
+
+*of the estate.*
 
 *Apportionment of costs in case of partnership.*
 
@@ -3806,11 +3818,9 @@ Declaration of Inability to pay Debts
 
 **104.** (1) Every notice shall be endorsed with the name and place of business of the solicitor actually suing out the same, or if no solicitor be employed, with a memorandum that it is sued out by the creditor in person.
 
-(2) There shall also be endorsed on every insolvency notice an intimation to the debtor that if he has a counter-claim, set-off, or cross-demand which equals or exceeds the amount of the judgment debt, and which he could not have set up in the action in which the judgment was obtained he must within the
-
 *Form 7*
 
-time specified in the notice file an affidavit to that effect with the Registrar.
+(2) There shall also be endorsed on every insolvency notice an intimation to the debtor that if he has a counter-claim, set-off, or cross-demand which equals or exceeds the amount of the judgment debt, and which he could not have set up in the action in which the judgment was obtained he must within the time specified in the notice file an affidavit to that effect with the Registrar.
 
 (3) In the case of a notice served in Guyana the time shall be three days. In the case of a notice served elsewhere the Registrar when issuing the notice shall fix the time.
 
@@ -4058,11 +4068,9 @@ debtor be examined in some manner or at some place other than is usual on the gr
 
 (4) Where the order is made on the application of the Official Receiver, the expense of holding the examination shall be deemed to be an expense incurred by the Official Receiver within the meaning of rule 91. Where the application is made by any other person, he shall, before any order is made on the application, deposit with the Official Receiver such sum as the Official Receiver shall certify to be necessary for the expenses of the examination.
 
-(5) The order to be made on the application shall
-
 *Form 34 Form 35*
 
-be in Form 34 or Form 35 as the case may be, with such variations as circumstances may require.
+(5) The order to be made on the application shall be in Form 34 or Form 35 as the case may be, with such variations as circumstances may require.
 
 ### ADJUDICATION
 
@@ -4306,11 +4314,9 @@ within the time specified in this rule, the assignee shall exclude all proofs wh
 
 **194.** (1) An insolvent intending to apply for his discharge under section 29 of the Act shall file his application with the Registrar who shall, not less than twenty-eight days before the day appointed for the hearing of the application,
 
-give notice of the time and place of hearing the application to the Official Receiver and assignee, and publish a notice of the time and place appointed for the hearing twenty-one days
-
 *Form 52*
 
-before the day appointed. Such notice shall be in Form 52.
+give notice of the time and place of hearing the application to the Official Receiver and assignee, and publish a notice of the time and place appointed for the hearing twenty-one days before the day appointed. Such notice shall be in Form 52.
 
 *Form 148 (3)*
 
@@ -4328,11 +4334,9 @@ before the day appointed. Such notice shall be in Form 52.
 
 *Evidence in answer to report.*
 
-**197.** Where an insolvent intends to dispute any statement with regard to his conduct and affairs contained in the Official Receiver's report, he shall, not less than two days before the hearing of the application for discharge, give notice in writing to the Official Receiver, specifying the statements
-
 *Opposition by creditor.*
 
-in the report which he proposes at the hearing to dispute. Any creditor who intends to oppose the opposition discharge of an insolvent on grounds other than those mentioned in the Official Receiver's report, shall give notice of the intended opposition stating the grounds thereof to the Official Receiver not less than two days before the hearing of the application.
+**197.** Where an insolvent intends to dispute any statement with regard to his conduct and affairs contained in the Official Receiver's report, he shall, not less than two days before the hearing of the application for discharge, give notice in writing to the Official Receiver, specifying the statements in the report which he proposes at the hearing to dispute. Any creditor who intends to oppose the opposition discharge of an insolvent on grounds other than those mentioned in the Official Receiver's report, shall give notice of the intended opposition stating the grounds thereof to the Official Receiver not less than two days before the hearing of the application.
 
 *Costs of application.*
 
@@ -4342,11 +4346,9 @@ to him out of his estate
 
 *Conditional Orders.*
 
-**199.** (1) Where the Court grants an order of discharge conditionally upon the insolvent consenting to judgment being entered against him by the Official Receiver or assignee for the balance or any part of the balance of the debts provable under the insolvency which is not satisfied at the date of his discharge, the order of discharge shall not be signed, completed or delivered out until the insolvent has given the required consent in
-
 *Form 58*
 
-Form 58.
+**199.** (1) Where the Court grants an order of discharge conditionally upon the insolvent consenting to judgment being entered against him by the Official Receiver or assignee for the balance or any part of the balance of the debts provable under the insolvency which is not satisfied at the date of his discharge, the order of discharge shall not be signed, completed or delivered out until the insolvent has given the required consent in Form 58.
 
 (2) On such consent being filed the Court shall give judgment in terms of such consent.
 
@@ -4354,15 +4356,11 @@ Form 58.
 
 *Order.*
 
-**200.** The order of the Court made on an application for discharge shall be dated the day on which it is made, and
-
 *Delivery of order.*
-
-shall take effect on and from the day of its date; but such order shall not be delivered out or gazetted until after the expiration of the time allowed for appeal, or, if an appeal be
 
 *Forms 53 to 57.*
 
-entered, until after the decision of the Full Court thereon. The order shall be in one of Forms 53, 54, 55, 56 and 57 as the case may require.
+**200.** The order of the Court made on an application for discharge shall be dated the day on which it is made, and shall take effect on and from the day of its date; but such order shall not be delivered out or gazetted until after the expiration of the time allowed for appeal, or, if an appeal be entered, until after the decision of the Full Court thereon. The order shall be in one of Forms 53, 54, 55, 56 and 57 as the case may require.
 
 *Gazetting order.*
 
@@ -4420,11 +4418,9 @@ circumstances may require.
 
 *Notice to debtor.*
 
-**210.** (1) The Official Receiver shall give three days notice to the debtor of the time and place appointed for the
-
 *Form 81.*
 
-first meeting of creditors. The notice, which shall be in Form 81, may be either delivered to him personally or sent to him by prepaid post letter, as may be convenient.
+**210.** (1) The Official Receiver shall give three days notice to the debtor of the time and place appointed for the first meeting of creditors. The notice, which shall be in Form 81, may be either delivered to him personally or sent to him by prepaid post letter, as may be convenient.
 
 It shall nevertheless be the duty of the debtor to attend such first meeting, although the notice is not sent to or does not reach him.
 
@@ -4598,11 +4594,19 @@ assignee if any, forthwith to raise such amount to be specified as may be suffic
 
 *Notice to be given.*
 
-**242.** The Court on receiving such report shall appoint a day within a period not exceeding twenty days from the date of receiving such report for hearing all persons interested as to the maintenance or sale of the plantation. Notice of the day appointed shall be published for at least seven days, and the Official Receiver shall, seven days before the day appointed, send by post a copy of the notice addressed to the Minister responsible for finance and to each mortgagee if resident in Guyana or his representatives if he be represented in Guyana, and if the debtor be in Guyana shall in like manner send a notice to the debtor.
+*as to the*
+
+*the Official*
+
+*Minister resident in*
+
+**242.** The Court on receiving such report shall appoint a day within a period not exceeding twenty days from the date of receiving such report for hearing all persons interested maintenance or sale of the plantation. Notice of the day appointed shall be published for at least seven days, and Receiver shall, seven days before the day appointed, send by post a copy of the notice addressed to the responsible for finance and to each mortgagee if Guyana or his representatives if he be represented in Guyana, and if the debtor be in Guyana shall in like manner send a notice to the debtor.
 
 *Parties to be heard.*
 
-**243.** The Court on the day appointed shall hear all persons interested who desire to be heard, and after such hearing and after such adjournments as may be necessary and
+*persons hearing and*
+
+**243.** The Court on the day appointed shall hear all interested who desire to be heard, and after such after such adjournments as may be necessary and
 
 after receiving such further reports as the Court may order, shall give such directions as regards the maintenance and manner and time of sale of the plantation as the circumstances may require.
 
@@ -4652,27 +4656,23 @@ The Court shall also have reference to the probability of obtaining a fair price
 
 **253.** The terms "plantation in cultivation" and
 
-"plantation" in these Rules mean a plantation on which there are 40 acres in cultivation or on which any immigrant is indentured.
+"plantation" in these Rules mean a plantation on which there are 40 acres in cultivation or on which any immigrant is
+
+*indentured.*
 
 ## PART III SPECIAL PROCEDURES
 
 Small Insolvencies
 
-*Application for order.*
+*Application for order. estate of a summary Form 37.*
 
-**254.** An application by the Official Receiver that the estate of a debtor may be ordered to be administered in a
+*circumstances*
 
-*Form 37.*
+**254.** An application by the Official Receiver that the debtor may be ordered to be administered in a manner shall be in Form 37, with such variations as may require.
 
-summary manner shall be in Form 37, with such variations as circumstances may require.
+*Summary administration. a summary provisions of Form 38.*
 
-*Summary administration.*
-
-**255.** Where an estate is ordered to be administered in a summary manner, under section 105 of the Act, the
-
-*Form 38.*
-
-provisions of the Act and of these Rules shall, subject to any special direction of the Court, be modified as follows:
+**255.** Where an estate is ordered to be administered in manner, under section 105 of the Act, the the Act and of these Rules shall, subject to any special direction of the Court, be modified as follows:
 
 (a) There shall be no advertisement in any other paper than the Gazette.
 
@@ -4694,11 +4694,9 @@ reasonable despatch and, where practicable, distributed in a single dividend whe
 
 In lieu of the copy of the accounts to be filed (g)
 
-with the Court as prescribed by section 80(4) of the Act, a statement showing the position
-
 *Form 106.*
 
-of the estate analogous, as nearly as may , to that prescribed by Form 106 shall be filed.
+with the Court as prescribed by section 80(4) of the Act, a statement showing the position of the estate analogous, as nearly as may , to that prescribed by Form 106 shall be filed.
 
 (h) The costs or charges of any person employed by the Official Receiver other than of a
 
@@ -4776,11 +4774,9 @@ Registrar's Books
 
 *Audit of Cash Book.*
 
-**267.** The committee of inspection shall not less than once every three months audit the Cash Book and certify therein under their hands the day on which the said book was
-
 *Form 109.*
 
-audited. The certificate shall be in Form 109, with such variations as circumstances may require. If the Official Receiver is not the assignee and no committee of inspection has been appointed, the Official Receiver shall discharge the functions of a committee of inspection under this and the last preceding rules.
+**267.** The committee of inspection shall not less than once every three months audit the Cash Book and certify therein under their hands the day on which the said book was audited. The certificate shall be in Form 109, with such variations as circumstances may require. If the Official Receiver is not the assignee and no committee of inspection has been appointed, the Official Receiver shall discharge the functions of a committee of inspection under this and the last preceding rules.
 
 *Passing of accounts.*
 
@@ -4790,11 +4786,9 @@ accounts for the preceding period as required by section 80 of the Act. He shall
 
 (2) When the estate has been fully realised and distributed, or if the adjudication is annulled, the assignee shall forthwith send in his accounts to the Registrar although the six months may not have expired.
 
-(3) The accounts sent in by the assignee shall be
-
 *Form 110.*
 
-certified and verified by him according to Form 110
+(3) The accounts sent in by the assignee shall be certified and verified by him according to Form 110
 
 *Copy accounts to be filed.*
 
@@ -4842,11 +4836,9 @@ transfer has been gazetted and published in one newspaper.
 
 *Court.*
 
-security proposed to be given by him, and is required by a majority in value of the creditors to notify the non-approval
-
 *Form 94.*
 
-or objection to the Court, the requisition shall be in Form 94, with such variations as circumstances may require. On receipt of such requisition the Official Receiver shall forthwith transmit a copy thereof to the Registrar, who shall fix a time for the hearing of the matter. At the hearing the person whose appointment or proposed security is objected to, and every creditor and the Official Receiver shall be entitled to be heard.
+security proposed to be given by him, and is required by a majority in value of the creditors to notify the non-approval or objection to the Court, the requisition shall be in Form 94, with such variations as circumstances may require. On receipt of such requisition the Official Receiver shall forthwith transmit a copy thereof to the Registrar, who shall fix a time for the hearing of the matter. At the hearing the person whose appointment or proposed security is objected to, and every creditor and the Official Receiver shall be entitled to be heard.
 
 (2) The Official Receiver may also with the copy of the requisition communicate to the Court the grounds of his non-approval or objection. Any report so made by the Official
 
@@ -4892,11 +4884,9 @@ The Official Receiver shall also cause a notice of the order to be published.
 
 **285.** An assignee before making application to the Court for his release, shall give notice of the application in Form 121 to all the creditors of the debtor who have proved their debts and to the debtor and shall send with such notice a
 
-summary of his receipts and payments as assignee in Form
-
 *Form 106.*
 
-106:
+summary of his receipts and payments as assignee in Form 106:
 
 Provided that when such application is made upon the assignee ceasing to act by reason of a composition having been approved under section 24 of the Act such notice and summary shall be sent to the debtor only.
 
@@ -4984,11 +4974,9 @@ been put into such possession.
 
 with notice of his intention to disclaim, and the lessor does not within seven days after the receipt of such notice give notice to the assignee requiring the matter to be brought before the Court;
 
-(b) where the insolvent has sublet the demised premises or created a charge upon the lease and the assignee serves the lessor and the sub-lessee or mortgagee with notice of his intention to disclaim, and neither the lessor nor the sublessee or mortgagee or any of them within 14 days after the receipt
-
 *Form 101*
 
-of such notice require or requires the matter to be brought before the Court.
+(b) where the insolvent has sublet the demised premises or created a charge upon the lease and the assignee serves the lessor and the sub-lessee or mortgagee with notice of his intention to disclaim, and neither the lessor nor the sublessee or mortgagee or any of them within 14 days after the receipt of such notice require or requires the matter to be brought before the Court.
 
 *Forms 99 and*
 
@@ -5094,11 +5082,13 @@ to do, furnish such accounts as the Court may order for any longer period. If th
 
 ### PAYMENTS INTO AND OUT OF BANK
 
-*Local bank.*
+*Local bank. account at a*
 
-**312.** Where the assignee is authorised to have an account at a bank, he shall forthwith pay all moneys received by him to the credit of the estate:
+**312.** Where the assignee is authorised to have an bank, he shall forthwith pay all moneys received by him to the credit of the estate:
 
-Provided always the proceeds of sale of any plantation sold by an assignee shall be paid into the Insolvency Estates Account. All payments out shall be made by cheque payable to order, and every cheque shall have marked or written on the face of it the name of the estate, and shall be signed by the assignee, and countersigned by such one or more person or persons as the creditors or the committee of inspection may appoint.
+*Insolvency by cheque marked or*
+
+Provided always the proceeds of sale of any plantation sold by an assignee shall be paid into the Estates Account. All payments out shall be made payable to order, and every cheque shall have written on the face of it the name of the estate, and shall be signed by the assignee, and countersigned by such one or more person or persons as the creditors or the committee of inspection may appoint.
 
 ### SECURITY BY ASSIGNEE OR SPECIAL MANAGER
 
@@ -5124,11 +5114,9 @@ and nature of such security, and may from time to time as he thinks fit either i
 
 *Accounts.*
 
-**315.** Every special manager shall account to the Official Receiver, and such special manager's accounts shall
-
 *Form 90.*
 
-be verified by affidavit in the prescribed form, and, when approved by the Official Receiver, the totals of the receipts and payments shall be added to the Official Receiver's accounts.
+**315.** Every special manager shall account to the Official Receiver, and such special manager's accounts shall be verified by affidavit in the prescribed form, and, when approved by the Official Receiver, the totals of the receipts and payments shall be added to the Official Receiver's accounts.
 
 ### UNCLAIMED FUNDS, ETC., UNDER SECTION 126
 
@@ -5162,21 +5150,27 @@ Provided, however, that if the order is not made the creditor shall have the rig
 
 *Notice of request.*
 
-**320.** Upon a request being filed the Registrar shall as soon as may be send a copy to the Official Receiver who shall
-
 *Form 151*
 
-thereupon send by post a notice according to Form 151 to all the creditors mentioned in the list of the day and hour when the debtor's application will be heard; such notice shall be sent by post five clear days before the day appointed for hearing the application.
+**320.** Upon a request being filed the Registrar shall as soon as may be send a copy to the Official Receiver who shall thereupon send by post a notice according to Form 151 to all the creditors mentioned in the list of the day and hour when the debtor's application will be heard; such notice shall be sent by post five clear days before the day appointed for hearing the application.
 
 The Official Receiver shall also in like manner send notice to the debtor according to Form 150.
 
 *Objection to debt set.*
 
-**321.** Any creditor to whom the notice of the request has been sent, and who desires to object to any debt stated by the debtor shall send written notice thereof by post or otherwise to the Registrar as well as to the Official Receiver and to the debtor and creditor whose claim is objected to three clear days before the date fixed for the hearing of the request, and therein he shall state the grounds of his objection. Such notice may be sent by post. The Court may, if it sees fit, proceed to hear the objection although such notice has not been given.
+*the debtor*
 
-*Proceedings on hearing of request.*
+*and to the*
 
-**322.** Upon the request coming on for hearing the course of proceedings shall be as follows:
+*request, and*
+
+*it sees fit, has not been*
+
+**321.** Any creditor to whom the notice of the request has been sent, and who desires to object to any debt stated by shall send written notice thereof by post or otherwise to the Registrar as well as to the Official Receiver debtor and creditor whose claim is objected to three clear days before the date fixed for the hearing of the therein he shall state the grounds of his objection. Such notice may be sent by post. The Court may, if proceed to hear the objection although such notice given.
+
+*Proceedings on hearing of course of request.*
+
+**322.** Upon the request coming on for hearing the proceedings shall be as follows:
 
 (a) The debtor shall attend in person unless the Court otherwise directs.
 
@@ -5200,11 +5194,9 @@ composition no administration order other than for payment in full shall be made
 
 The dissent of the creditors may be given (h)
 
-orally at the hearing or by written notice to
-
 *Form 151*
 
-the Registrar in Form No. 151.
+orally at the hearing or by written notice to the Registrar in Form No. 151.
 
 Where it appears that the conduct of the (i)
 
@@ -5212,9 +5204,9 @@ debtor has been such that, if the debtor were applying for the sanction of a com
 
 (j) No administration order shall be made under which payments shall be extended over a period of more than four years from the date of the order.
 
-*Proceedings when order*
+*Proceedings when order Notice of the*
 
-**323.** The administration order shall be in Form 152. Notice of the order shall be in Form 153 and shall be
+The administration order shall be in Form 152. order shall be in Form 153 and shall be
 
 *made. Form 152 and 153.*
 
@@ -5232,11 +5224,9 @@ No creditor shall be entitled to make any such objection after the expiration of
 
 *Proof under section 106(11)*
 
-**326.** Any creditor desirous to prove a debt under section 106(11) of the Act shall send in his claim in writing to the Registrar, who shall thereupon send notice to the debtor
-
 *Form 157.*
 
-of the same, according to Form 157.
+**326.** Any creditor desirous to prove a debt under section 106(11) of the Act shall send in his claim in writing to the Registrar, who shall thereupon send notice to the debtor of the same, according to Form 157.
 
 *Proceedings if claim not disputed. Form 158.*
 
@@ -5250,11 +5240,9 @@ of the same, according to Form 157.
 
 **329.** If the Court thinks fit, or is so requested by the majority of the creditors present at the hearing of the request who may have proved, the Court may appoint any person to have the conduct of the order, and may at any time afterwards remove him.
 
-It shall be the duty of any person so appointed to take all proper proceedings for enforcing the terms of the order, but in case of his neglect to proceed or of urgency any creditor may take such proceedings. The person having the conduct of the order shall pay the Official Receiver the prescribed fee in respect of the order out of the first moneys coming into his
-
 *\*
 
-hands.
+It shall be the duty of any person so appointed to take all proper proceedings for enforcing the terms of the order, but in case of his neglect to proceed or of urgency any creditor may take such proceedings. The person having the conduct of the order shall pay the Official Receiver the prescribed fee in respect of the order out of the first moneys coming into his hands.
 
 *Judgment summons to enforce order. Form 115 and 156. C.6:04*
 
@@ -5276,13 +5264,17 @@ ordered to be paid are in arrear;
 
 (e) where a receiving order has since the date of the administration order been made against the debtor.
 
-*Effect of rescission.*
+*Effect of rescission. the last anything*
 
-**332.** (1) Where an order is set aside or rescinded under the last preceding rule, it shall be without prejudice to anything already done or suffered under the order.
+**332.** (1) Where an order is set aside or rescinded under preceding rule, it shall be without prejudice to already done or suffered under the order.
 
-(2) Any money paid into Court under the order may be dealt with as if the order had not been set aside or rescinded.
+*may be dealt rescinded.*
 
-(3) Notice shall be published by the Registrar that the order has been set aside or rescinded.
+(2) Any money paid into Court under the order with as if the order had not been set aside or
+
+*the order has*
+
+(3) Notice shall be published by the Registrar that been set aside or rescinded.
 
 *Suspension of order.*
 
@@ -5290,7 +5282,7 @@ ordered to be paid are in arrear;
 
 *Second request.*
 
-**334.** Where the debtor has filed a request for an
+Where the debtor has filed a request for an
 
 administration order, and the Court has refused to make the order, or when an order has been rescinded, the debtor shall not be allowed to file another request without first obtaining the leave of the Court.
 
@@ -5348,11 +5340,9 @@ the summons shall prepare two or more copies of the summons one or more of which
 
 *Judgment summons where judgment against a firm.*
 
-**345.** Where a judgment or order is against a firm or against a person who is carrying on business in any name other than his own, in such other name and the person entitled to enforce the judgment or order desires to do so by judgment summons against any person whom he alleges to be a partner in or the sole member of such firm or against the person whom he alleges to be carrying on business in such other name as aforesaid, he shall file an affidavit together
-
 *Form 162. Form 161.*
 
-with a copy thereof in Form 162 and thereupon a judgment summons shall issue in Form 161 directed to such person alleged to be such partner or sole member or to be carrying on business in such other name as aforesaid, and there shall be annexed to such judgment summons and served therewith a copy of the said affidavit sealed with the seal of the Court. And if such person alleged to be such partner or sole member or to be carrying on business in any other name as aforesaid shall not appear on the return day of such business in such judgment summons he shall be deemed to admit that he is a partner in or the sole member of such firm or that he does carry on business in such other name as aforesaid and to admit his liability to pay the amount due and payable under such judgment or order. But if such person shall appear and deny that he is a partner in or sole member of such firm or that he carries on business in such other name as aforesaid the judge may decide the fact on the evidence then before him or
+**345.** Where a judgment or order is against a firm or against a person who is carrying on business in any name other than his own, in such other name and the person entitled to enforce the judgment or order desires to do so by judgment summons against any person whom he alleges to be a partner in or the sole member of such firm or against the person whom he alleges to be carrying on business in such other name as aforesaid, he shall file an affidavit together with a copy thereof in Form 162 and thereupon a judgment summons shall issue in Form 161 directed to such person alleged to be such partner or sole member or to be carrying on business in such other name as aforesaid, and there shall be annexed to such judgment summons and served therewith a copy of the said affidavit sealed with the seal of the Court. And if such person alleged to be such partner or sole member or to be carrying on business in any other name as aforesaid shall not appear on the return day of such business in such judgment summons he shall be deemed to admit that he is a partner in or the sole member of such firm or that he does carry on business in such other name as aforesaid and to admit his liability to pay the amount due and payable under such judgment or order. But if such person shall appear and deny that he is a partner in or sole member of such firm or that he carries on business in such other name as aforesaid the judge may decide the fact on the evidence then before him or
 
 may direct an issue to be tried to determine the same.
 
@@ -5422,7 +5412,9 @@ judgment debtor is, and the gaoler shall, on receipt of such notice, forthwith d
 
 ### FORMS
 
-NOTE— The notes appended to these Forms are not part of the Forms themselves, but are for the guidance of parties using the forms. In all forms requiring verification, the deponent may, at his option, substitute a statutory declaration for an oath.
+*Forms In all a*
+
+NOTE— The notes appended to these Forms are not part of the themselves, but are for the guidance of parties using the forms. forms requiring verification, the deponent may, at his option, substitute statutory declaration for an oath.
 
 *r.7*
 
@@ -5436,7 +5428,9 @@ In Insolvency. No………...of 20....
 
 Re (James Brown).
 
-(Ex parte here insert "the Debtor," or "J.S., a creditor," or the
+*or the*
+
+(Ex parte here insert "the Debtor," or "J.S., a creditor,"
 
 "Official Receiver," or the "Assignee.")
 
@@ -5450,7 +5444,11 @@ ___________
 
 (Title)
 
-I, A.B. (name and description of debtor), residing at (and carrying on business at) ............................................................. , hereby declare that I am unable
+*at (and*
+
+*hereby*
+
+I, A.B. (name and description of debtor), residing carrying on business at) ............................................................. , declare that I am unable
 
 to pay my debts.
 
@@ -5474,13 +5472,13 @@ Note.—Where the debtor resides at a place other than his place of business bot
 
 _______________
 
-### FORM 3
-
 *r. 109*
 
-DEBTOR'S PETITION (Title)
+FORM 3 DEBTOR'S PETITION (Title)
 
-I, (name, address, and description of debtor) residing at (or carrying on business at)………………………………………and being unable to pay my debts, hereby petition the Court that a receiving order be made in respect of my estate (and that I be adjudged Insolvent).
+*at (or*
+
+I, (name, address, and description of debtor) residing carrying on business at)………………………………………and being unable to pay my debts, hereby petition the Court that a receiving order be made in respect of my estate (and that I be adjudged Insolvent).
 
 I believe my estate will realise more (or less as the case may be) than the sum of $1,500.
 
@@ -5584,11 +5582,15 @@ I. A.B. of …………………………… make oath and say—
 
 **1.** That I was, on the………..day of.........................20....., served with the insolvency notice hereunto annexed (or, describe the notice).
 
-That I have satisfied the judgment debt claimed by CD. by (state nature of satisfaction).
+*CD.*
+
+That I have satisfied the judgment debt claimed by by (state nature of satisfaction).
 
 or,
 
-**2.** That I have a counter-claim (or set-off or cross-demand) for $................................being equal to (or exceeding) the claim of the said CD. in respect of (here state grounds of counter-claim).
+*the*
+
+**2.** That I have a counter-claim (or set-off or cross-demand) for $................................being equal to (or exceeding) claim of the said CD. in respect of (here state grounds of counter-claim).
 
 **3.** That I could not have set up the said counter-claim (or as the case may be) in the action in which the said judgment was obtained against me.
 
@@ -5604,7 +5606,9 @@ ORDER SETTING ASIDE INSOLVENCY NOTICE (Title)
 
 In the matter of an Insolvency Notice issued—
 
-Upon the application of A.B. to set aside this notice, and upon reading the affidavit of A.B. and upon hearing CD. (if present), it is ordered that this notice be set aside, and that
+*(if*
+
+Upon the application of A.B. to set aside this notice, upon reading the affidavit of A.B. and upon hearing CD. present), it is ordered that this notice be set aside, and that
 
 CD. (or as the case may be) pay to A.B. the sum of $ ……………….. for costs (or, the costs of this matter).
 
@@ -6050,13 +6054,9 @@ FORM 29 RECEIVING ORDER UNDER DEBTORS ACT (Section 4(8))
 
 In the matter of………………………….., a debtor.
 
-Whereas an order was made against the above-named debtor on the …………………….day……………………of 20
+*(Set out any further order of the Court).*
 
-*(Set out any*
-
-…., for the payment of his debts in full (or by instalments further order of of…………………..).
-
-*the Court).*
+Whereas an order was made against the above-named debtor on the …………………….day……………………of 20 …., for the payment of his debts in full (or by instalments of…………………..).
 
 And whereas the debtor has made default in payment of ……………………………. payable in pursuance of the said order:
 
@@ -6150,29 +6150,19 @@ By the Court,
 
 ORDER AS TO EXAMINATION OF DEBTOR WHO IS SUFFERING FROM MENTAL OR PHYSICAL AFFLICTION OR DISABILITY (Title)
 
-Upon the application of the Official Receiver (or, of (a)
-
 *(a) Insert name and address of*
 
-……………………of ……………………… ) in the above matter, and upon reading ……………………. and upon
+Upon the application of the Official Receiver (or, of (a) ……………………of ……………………… ) in the above matter, and upon reading ……………………. and upon
 
 *applicant, and capacity in which he make application.*
 
-hearing ………………….and it appearing to the Court that the debtor is suffering from physical disability which makes him unfit to attend a public examination in Court (or as the case
-
 *(b) This part of order to be adapted to circumstances of case.*
 
-may be), it is ordered that instead of a public examination of the debtor (b)……………………the debtor be examined on oath at (c)………………………… before the Registrar …………………on…………………..the……………….day of ……………………20….., at ……………… o'clock or such other
+*(c) Insert place of examination.*
 
-*(c) Insert place*
+*(d) Insert name of any other person authorised by Court to attend.*
 
-time as having regard to the condition of the debtor may be of examination. convenient, and that the Official Receiver and assignee and
-
-(d) Insert name (d) ………………… be at liberty to attend such
-
-*of any other person authorised by Court to attend.*
-
-examination and take part therein.
+hearing ………………….and it appearing to the Court that the debtor is suffering from physical disability which makes him unfit to attend a public examination in Court (or as the case may be), it is ordered that instead of a public examination of the debtor (b)……………………the debtor be examined on oath at (c)………………………… before the Registrar …………………on…………………..the……………….day of ……………………20….., at ……………… o'clock or such other time as having regard to the condition of the debtor may be convenient, and that the Official Receiver and assignee and (d) ………………… be at liberty to attend such examination and take part therein.
 
 Dated this……… day of….………………………20… By the Court,
 
@@ -6276,17 +6266,13 @@ Name of Address Amount of Date Con-Particulars Date Estimated Creditor and Debt 
 
 *No.*
 
-Name Address Amount Date Con- Particulars Date Estimated Estimated
-
 *Surplus*
-
-of Credi-and of Debt when sidera- of Security when value of
 
 *tor*
 
 *from Security*
 
-Occupa-con-tion given Security tion tracted
+Name Address Amount Date Con- Particulars Date Estimated Estimated of Credi-and of Debt when sidera- of Security when value of Occupa-con-tion given Security tion tracted
 
 ### LIST "D."—UNSECURED CREDITORS
 
@@ -6308,9 +6294,13 @@ Claim
 
 No. Name of Address and Amount Nature Reasons Claimant Occupation Claimed of for Claim nonadmission
 
-LIST "H."—PROPERTY Full particulars of every description of property in possession and in reversion as defined by section 2 of the Insolvency Act not included in any other list, are to be set forth in this list.
+*in the set*
 
-Full Statement and Nature of Property Estimated to Produce
+LIST "H."—PROPERTY Full particulars of every description of property possession and in reversion as defined by section 2 of Insolvency Act not included in any other list, are to be forth in this list.
+
+*Estimated to Produce*
+
+Full Statement and Nature of Property
 
 (a) Cash at Bankers .....................................................................................
 
@@ -6378,17 +6368,13 @@ Questions Answers
 
 and if partnership dissolved
 
-When did the dissolution take place?
-
 *……………………..*
 
-Under what circumstances and what were the terms
-
-What liabilities (if any) are you
+When did the dissolution take place? Under what circumstances and what were the terms
 
 *………………………*
 
-now under in respect thereof?
+What liabilities (if any) are you now under in respect thereof?
 
 **8.** What books of account have you kept, and where are they
 
@@ -6398,29 +6384,21 @@ now under in respect thereof?
 
 10.What money had you in hand or at your bankers at the date of the petition?
 
-**11.** Have you any bills of exchange, promissory notes, or other negotiable
+*…………………….*
+
+**11.** Have you any bills of exchange, promissory notes, or other negotiable securities, belonging to your estate ?
 
 *…………………….*
 
-securities, belonging to your estate ?
-
-**12.** Have you produced to or de livered up to the Official Receiver, or to his officer, all moneys, negotiable securities, bonds, deeds, and other property belonging to your estate and under your control, and which are
+**12.** Have you produced to or de livered up to the Official Receiver, or to his officer, all moneys, negotiable securities, bonds, deeds, and other property belonging to your estate and under your control, and which are capable of delivery?
 
 *…………………….*
 
-capable of delivery?
-
-**13.** State shortly the nature of the assets of your estate which will be available towards the payment of your debts and the amount which you
+**13.** State shortly the nature of the assets of your estate which will be available towards the payment of your debts and the amount which you believe will be realised from such assets?
 
 *…………………….*
 
-believe will be realised from such assets?
-
-**14.** Have you any property in
-
-*…………………….*
-
-reversion, remainder or expectancy ?
+**14.** Have you any property in reversion, remainder or expectancy ?
 
 **15.** Is your life insured?
 
@@ -6428,11 +6406,9 @@ reversion, remainder or expectancy ?
 
 If so—In what office or offices ?
 
-State dates, amounts, and
-
 *…………………….*
 
-annual premiums of policies
+State dates, amounts, and annual premiums of policies
 
 *…………………….*
 
@@ -6440,17 +6416,13 @@ Are the policies in your possession?
 
 If not—
 
-Where are they deposited and under
-
 *……………………*
 
-what circumstances?
-
-**16.** Have you any lease of your
+Where are they deposited and under what circumstances?
 
 *…………………….*
 
-premises?
+**16.** Have you any lease of your premises?
 
 If so—
 
@@ -6470,11 +6442,9 @@ What is the actual rack rent value of the premises?
 
 Where is the lease?
 
-**17.** Are your premises insured
-
 *…………………….*
 
-against fire?
+**17.** Are your premises insured against fire?
 
 If so—
 
@@ -6490,11 +6460,9 @@ For what amount?
 
 Where is the policy?
 
-**18.** Have you underlet any premises or portion of premises of which you
-
 *…………………….*
 
-are tenant or lessee?
+**18.** Have you underlet any premises or portion of premises of which you are tenant or lessee?
 
 If so—
 
@@ -6502,11 +6470,9 @@ If so—
 
 State particulars
 
-**19.** What is the nature of your stock-
-
 *…………………….*
 
-in-trade?
+**19.** What is the nature of your stock-in-trade?
 
 *…………………….*
 
@@ -6518,57 +6484,41 @@ In what office?
 
 *………………….....*
 
-And for what amount?
-
 *…………………….*
 
-Where is the Policy?
+And for what amount? Where is the Policy?
 
 **20.** Have you any other assets beyond those you have already mentioned ?
 
-**21.** Is any rent, rate or tax due in respect to the premises occupied by
-
 *……………………*
 
-you?
+**21.** Is any rent, rate or tax due in respect to the premises occupied by you?
 
 If so –
 
-State amount and the date at which the
+*……………………*
+
+State amount and the date at which the same became payable
 
 *……………………*
 
-same became payable
-
-**22.** What do you believe to be the
-
-*……………………*
-
-total amount of your indebtedness?
-
-**23.** Is there any judgment against you
+**22.** What do you believe to be the total amount of your indebtedness?
 
 *…………………….*
 
-in respect of any matter?
-
-If so state particulars and whether execution has issued, or the judgment creditor is in a position to issue
+**23.** Is there any judgment against you in respect of any matter?
 
 *…………………….*
 
-execution
-
-Are there any proceedings against you pending in any Court, with the exception of those under the present
+If so state particulars and whether execution has issued, or the judgment creditor is in a position to issue execution
 
 *……………….........*
 
-receiving order?
-
-**24.** Have you hypothecated any bills of lading, dock warrants, or other
+Are there any proceedings against you pending in any Court, with the exception of those under the present receiving order?
 
 *…………………….*
 
-securities of any kind?
+**24.** Have you hypothecated any bills of lading, dock warrants, or other securities of any kind?
 
 *…………………….*
 
@@ -6580,23 +6530,17 @@ If so, state particulars
 
 If so, state particulars
 
-**26.** Have you executed any bill of sale upon your stock-in-trade, furniture or
+*…………………….*
+
+**26.** Have you executed any bill of sale upon your stock-in-trade, furniture or other personal effects?
 
 *…………………….*
 
-other personal effects?
-
-If so, state particulars, date of bills of
+If so, state particulars, date of bills of sale and whether registered or not
 
 *…………………….*
 
-sale and whether registered or not
-
-**27.** Have you within the last three months given any charge on your property or made any special or preferential payments to any
-
-*…………………….*
-
-creditors?
+**27.** Have you within the last three months given any charge on your property or made any special or preferential payments to any creditors?
 
 If so –
 
@@ -6604,53 +6548,39 @@ If so –
 
 State names and amounts paid.
 
-**28.** Have you within the last twelve
-
 *……………………*
 
-months pledged any property ?
+**28.** Have you within the last twelve months pledged any property ?
 
 If so-
 
-State particulars of such property, the date when pledged, the amount
-
 *…………………….*
 
-obtained, and how disposed of
+State particulars of such property, the date when pledged, the amount obtained, and how disposed of
 
 *…………………….*
 
 Where are the pledge tickets?
 
-What did the pledged property cost,
-
 *…………………….*
 
-and what do you believe to be its present value?
-
-Has the pledged property been
+What did the pledged property cost, and what do you believe to be its present value?
 
 *……………………*
 
-paid for, if so, when?
-
-If not, state the name of the creditor
+Has the pledged property been paid for, if so, when?
 
 *……………………*
 
-from whom it was obtained
-
-**29.** When did you suspend payment of
+If not, state the name of the creditor from whom it was obtained
 
 *…………………….*
 
-your debts?
-
-**30.** Have you paid for, or deposited with your solicitor or agent, any sum of money or security for payment of the costs incurred, or to be incurred in
+**29.** When did you suspend payment of your debts?
 
 *…………………….*
 
-respect to your failure?
+**30.** Have you paid for, or deposited with your solicitor or agent, any sum of money or security for payment of the costs incurred, or to be incurred in respect to your failure?
 
 If so-
 
@@ -6668,17 +6598,13 @@ State particulars and amount
 
 **33.** When did you first become aware that you were insolvent?
 
-**34.** Have you contracted any debt since you became aware of your insolvency? If so, what expectation
+*……………………*
+
+**34.** Have you contracted any debt since you became aware of your insolvency? If so, what expectation had you of being able to pay such debts?
 
 *……………………*
 
-had you of being able to pay such debts?
-
-**35.** Have you within the last three years prepared any statement of your affairs ? If so, at what date and what
-
-*……………………*
-
-results did the statement show?
+**35.** Have you within the last three years prepared any statement of your affairs ? If so, at what date and what results did the statement show?
 
 *…………………….*
 
@@ -6692,37 +6618,29 @@ results did the statement show?
 
 Where is the stock account?
 
-**38.** Are you aware of having com-mitted any act of insolvency prior to that on which the receiving order
-
 *……………………*
 
-against you was made?
+**38.** Are you aware of having com-mitted any act of insolvency prior to that on which the receiving order against you was made?
 
 *…………………….*
 
 If so, state act and date
 
-**39.** Have you within the last twelve months incurred any losses other than
-
 *……………………*
 
-losses in trade?
+**39.** Have you within the last twelve months incurred any losses other than losses in trade?
 
 *…………………….*
 
 If so, state particulars and dates
 
-**40.** Have you drawn, or accepted, or
-
 *…………………….*
 
-endorsed any accommodation bills?
-
-If any such bills are now running,
+**40.** Have you drawn, or accepted, or endorsed any accommodation bills?
 
 *……………………*
 
-state particulars
+If any such bills are now running, state particulars
 
 **41.** Have you any accounts showing your income and your household and personal expenditure during the last three years?
 
@@ -6730,47 +6648,33 @@ state particulars
 
 of your income during that period?
 
-**43.** What has been about the annual amount of your household and
+*……………………*
+
+**43.** What has been about the annual amount of your household and personal expenditure during that period?
+
+*…………………….*
+
+**44.** Have you made any marriage or post-nuptial settlement or any other settlement of property within the last ten years?
+
+*…………………….*
+
+If so, state date, particulars, names of trustees, and of the persons taking any benefit thereunder
+
+*…………………….*
+
+**45.** In the case of such a settlement (if any) have you evidence that, at the time of making it, you were able to pay all your debts without the aid of the property thereby settled?
+
+*…………………….*
+
+**46.** Was any statement of your affairs prepared at the date of such settlement, and if so, where is it?
 
 *……………………*
 
-personal expenditure during that period?
-
-**44.** Have you made any marriage or post-nuptial settlement or any other
-
-*…………………….*
-
-settlement of property within the last ten years?
-
-If so, state date, particulars, names of
-
-*…………………….*
-
-trustees, and of the persons taking any benefit thereunder
-
-**45.** In the case of such a settlement (if any) have you evidence that, at the time of making it, you were able to pay all your debts without the aid of
-
-*…………………….*
-
-the property thereby settled?
-
-**46.** Was any statement of your affairs prepared at the date of such
-
-*…………………….*
-
-settlement, and if so, where is it?
-
-**47.** Who holds the deed or deeds of settlement, and can you produce a
+**47.** Who holds the deed or deeds of settlement, and can you produce a copy or copies?
 
 *……………………*
 
-copy or copies?
-
-**48.** Have you now disclosed the whole
-
-*……………………*
-
-of your estate and effects?
+**48.** Have you now disclosed the whole of your estate and effects?
 
 **49.** Have you previously been insolvent or made any assignment for
 
@@ -6992,11 +6896,9 @@ To the Registrar
 
 ____________
 
-### F ORM 52
-
 *r. 194*
 
-N OTICE OF A PPLICATION FOR D ISCHARGE (Title)
+F ORM 52 N OTICE OF A PPLICATION FOR D ISCHARGE (Title)
 
 Notice is hereby given that the insolvent A.B., of .......... , has applied to the Court for his discharge, and that the Court has fixed the …………………………… day of…………………. 20……, at ……………………………… o'clock for hearing the application.
 
@@ -7252,19 +7154,15 @@ I hereby certify that a composition (or scheme of arrangement) between A.B. of t
 
 Dated this…………….day of …………………. 20……
 
-(Signed)………………………
-
 *.*
 
-M.N. Registrar
+(Signed)……………………… M.N. Registrar
 
 ________
 
-### F ORM 66
-
 *r. 180*
 
-A FFIDAVIT OF P ROOF OF D EBT WITH OR WITHOUT S ECURITY (Title)
+F ORM 66 A FFIDAVIT OF P ROOF OF D EBT WITH OR WITHOUT S ECURITY (Title)
 
 I, ……………………………….., of. ............................ make oath and say—
 
@@ -7324,17 +7222,15 @@ Sworn at…………………..in the county of……………. this ..........d
 
 ____________
 
-*rr. 186 and 187*
+*rr. 186 and*
 
 ### F ORM 69
 
 N OTICE OF R EJECTION OF P ROOF OF D EBT (Title)
 
-Take notice, that as Official Receiver of the above estate, I have this day rejected your claim against such estate
-
 *(a) If proof wholly rejected strike out words in italics. (b) 21 days or 7 days as the case may be . See Rules 189 and 191 (2)*
 
-( a) to the extent of $ ………………………… on the following grounds—
+Take notice, that as Official Receiver of the above estate, I have this day rejected your claim against such estate ( a) to the extent of $ ………………………… on the following grounds—
 
 And further take notice that if you are dissatisfied with my decision in respect of your proof, you may apply to the Court to reverse or vary the same, but subject to the power of the Court to extend the time, no application to reverse or vary my decision in rejecting your proof will be entertained after the expiration of (b) …… … …… …… … days from this date.
 
@@ -7414,11 +7310,9 @@ N.B.—The letter must be sent in so as to reach the Official Receiver not later
 
 \-------------------------
 
-### F ORM 73
-
 *r. 211*
 
-N OTICE TO C REDITORS OF F IRST M EETING (Title)
+F ORM 73 N OTICE TO C REDITORS OF F IRST M EETING (Title)
 
 Notice is hereby given that the first meeting of creditors in the above matter will be held on the………………day of…………… 20…. at (insert place) at (insert hour).
 
@@ -7546,11 +7440,9 @@ P ROPOSAL FOR A C OMPOSITION (Title)
 
 I, .............................. , the above-named debtor, hereby submit the following proposal for a composition in satisfaction of my debts—
 
-**1.** That payment in priority to all other of my debts of all debts directed to be so paid in the distribution of the property of an insolvent shall be provided for as follows—
-
 *(a) To be signed by the debtor; in case of joint debtors to be signed in the firm name by such of the debtors as the official receiver shall require.*
 
-(Set out terms of proposal so far as they relate to preferential claims.)
+**1.** That payment in priority to all other of my debts of all debts directed to be so paid in the distribution of the property of an insolvent shall be provided for as follows— (Set out terms of proposal so far as they relate to preferential claims.)
 
 **2.** That provision for payment of all the proper costs, charges and expenses of and incidental to the proceedings, and all fees and percentages payable to the Official Receiver shall be made in the following manner—
 
@@ -7586,11 +7478,11 @@ I, …………………………… the above-named debtor, hereby submit the f
 
 (Set out or indicate by reference to the scheme, how it is proposed to satisfy preferential claims.)
 
-*(a) To be signed by the debtor, or in the case of joint debtors, to be signed in the firm name by such of the debtors as the official receiver shall require.*
+*(a) To be signed by the debtor, or in the case of joint debtors, to be signed in the firm name by such of the is debtors as the official receiver shall require.*
 
 **3.** That provision for payment of all the proper costs, charges, and expenses of and incidental to the proceedings, and all fees and percentages payable to the Official Receiver is provided for as follows—
 
-(Set out or indicate by reference to the scheme, how it is proposed to provide for fees, costs, charges, etc.)
+(Set out or indicate by reference to the scheme, how it proposed to provide for fees, costs, charges, etc.)
 
 (Set out any other terms.)
 
@@ -7612,7 +7504,7 @@ That the debtor has lodged with him a proposal for a composition (or scheme) to 
 
 (Here set out fully the terms of proposal.)
 
-That the liabilities, as shown by the debtor's statement of affairs, amount to the sum of $......................., and the
+That the liabilities, as shown by the debtor's statement affairs, amount to the sum of $......................., and the
 
 assets are estimated by the debtor at the sum of $......................after payment of preferential debts.
 
@@ -7630,11 +7522,9 @@ Dated this……………………day of. …………………. 20 …..
 
 *(a) Insert here the word “for” or the word “against” as the case may require.*
 
-I, .......................... of .............................................. . a creditor in the above matter for the sum of $............................. hereby request the Official Receiver of the said estate to record my vote (a)............................. the acceptance of the proposal as set forth in the report of the Official Receiver
-
 *(b) Creditors may if they think fit, author -ise the Official Receiver to vote “against” the proposal now submitted but “for” such amendment thereof as may be satisfactory to the Official Receiver.*
 
-hereto annexed and/or (b)………... any amendment thereof which shall in the opinion of the Official Receiver be calculated to benefit the general body of the creditors.
+I, .......................... of .............................................. . a creditor in the above matter for the sum of $............................. hereby request the Official Receiver of the said estate to record my vote (a)............................. the acceptance of the proposal as set forth in the report of the Official Receiver hereto annexed and/or (b)………... any amendment thereof which shall in the opinion of the Official Receiver be calculated to benefit the general body of the creditors.
 
 Dated this………day of………………..…….20 ……..
 
@@ -7642,11 +7532,9 @@ Dated this………day of………………..…….20 ……..
 
 (Signed) ............... Witness Address ..............................................
 
-_______
-
 *r. 216*
 
-### F ORM 80
+### _______ F ORM 80
 
 ### N OTICE TO C REDITORS OF A DJOURNED M EETING
 
@@ -7772,11 +7660,9 @@ By the Court,
 
 ### APPLICATION TO COURT TO APPOINT DAY FOR APPROVING COMPOSITION OR SCHEME (TITLE)
 
-Whereas at a meeting of creditors of the above-named debtor, held at ……………………. on the……………. day of
-
 *(a) Composition or scheme of arrangement.*
 
-…………………… 20….. , a resolution to accept ( a) …… … …… … was duly passed by a majority in number representing three-fourths in value of all the creditors who have proved their debts.
+Whereas at a meeting of creditors of the above-named debtor, held at ……………………. on the……………. day of …………………… 20….. , a resolution to accept ( a) …… … …… … was duly passed by a majority in number representing three-fourths in value of all the creditors who have proved their debts.
 
 And whereas the public examination of the debtor was concluded on the………… day of…………………. 20….
 
@@ -7920,11 +7806,9 @@ Dated this……..day of…………………….20…………
 
 ### F ORM 93
 
-### M INUTES OF M EETING FOR R ECEIVING R ESIGNATION OF
-
 *r. 282*
 
-A SSIGNEE (Title)
+M INUTES OF M EETING FOR R ECEIVING R ESIGNATION OF A SSIGNEE (Title)
 
 Minutes of proceedings had at a meeting of creditors of the said………………… held at ……………on the ……….day of………………………. 20……
 
@@ -8050,7 +7934,9 @@ Dated this .......... day of. ............................... 20 .........
 
 To Mr ................................. the landlord of the above-mentioned premises, and
 
-To Mr. ………………………….. sub-tenant or person in whose favour charge has been made.
+*in*
+
+To Mr. ………………………….. sub-tenant or person whose favour charge has been made.
 
 ______
 
@@ -8180,11 +8066,9 @@ Assets not yet realised estimated to produce $..................................
 
 _______
 
-### F ORM 107
-
 *r. 191*
 
-NOTICE OF DIVIDEND (Title)
+F ORM 107 NOTICE OF DIVIDEND (Title)
 
 N OTICE IS HEREBY GIVEN that a………...Dividend of …………………………….in the dollar has been declared in this matter, and that the same may be received at Office, as above, on………the…………………..day of…….………, or on any subsequent day between the hours of ..................................... Upon applying for payment, a creditor must produce any bills of exchange, or other securities held by him if not already filed; and if a creditor does not attend personally, he must fill up and sign a receipt and authority in accordance with the subjoined forms, when a cheque payable to his order will be delivered to the bearer.
 
@@ -8192,13 +8076,9 @@ N OTICE IS HEREBY GIVEN that a………...Dividend of ……………………�
 
 ### R ECEIPT
 
-……………………….. 20 ……..
+……………………….. 20 …….. R ECEIVED of…………………….the sum of…………………… dollars……………….cents being the amount payable to……………………….in respect of the…………….dividend of………………..in the dollar on……………………..claim against their estate.
 
-R ECEIVED of…………………….the sum of…………………… dollars……………….cents being the amount payable to……………………….in respect of the…………….dividend of………………..in the dollar on……………………..claim against their estate.
-
-(Signed)……………………………………..
-
-Creditor
+(Signed)…………………………………….. Creditor
 
 ### A UTHORITY
 
@@ -8222,7 +8102,9 @@ A PPLICATION BY C REDITOR FOR O RDER FOR A SSIGNEE TO P AY D IVIDEND W ITHHELD A
 
 I, F.K., of. ........................... make application to this Court for an order to be made upon the assignee to pay the dividend in this insolvency due to me, with interest thereon for the time it has been withheld from me, that is to say, from the…………….day of …………
 
-.............. 20 ........ , on which day I applied to the ...................................... for its paymen
+*for its paymen*
+
+.............. 20 ........ , on which day I applied to the ......................................
 
 Dated this……………..day of………………………..20….
 
@@ -8242,11 +8124,9 @@ Dated this .. ………………..day of……………..20…… By the Court,
 
 ________
 
-### F ORM 109
-
 *r. 267*
 
-### CERTIFICATE BY COMMITTEE OF INSPECTION AS TO AUDIT OF ASSIGNEE'SACCOUNT
+### F ORM 109 CERTIFICATE BY COMMITTEE OF INSPECTION AS TO AUDIT OF ASSIGNEE'SACCOUNT
 
 We, the undersigned, members of the committee of inspection in the matter of …………………., hereby certify that we have examined the foregoing account with the vouchers, and that to the best of our knowledge and belief the said account contains a full, true, and complete account of the assignee's receipts and payments on account of the estate.
 
@@ -8258,11 +8138,9 @@ C.D. Committee of Inspection E.F.
 
 __________
 
-### FORM 110 A FFIDAVIT V ERIFYING A SSIGNEE ' S A CCOUNT
-
 *r. 268*
 
-(Title)
+FORM 110 A FFIDAVIT V ERIFYING A SSIGNEE ' S A CCOUNT (Title)
 
 I, Y.Z., of ............................. the assignee of the property of the above-named ....... make oath and say—
 
@@ -8406,11 +8284,9 @@ J.P. Committee of Inspection E.F.
 
 Dated this………day of……….………………….20……
 
-### _________ F ORM 120
-
 *r. 289*
 
-O RDER OF O FFICIAL R ECEIVER FOR B ANKING A CCOUNT (Title)
+_________ F ORM 120 O RDER OF O FFICIAL R ECEIVER FOR B ANKING A CCOUNT (Title)
 
 You are hereby authorised to make your payments in the above matter into and out of the………………….Bank. All cheques to be countersigned by……..………………………..a member of the Committee of Inspection and by………………
 
@@ -8500,11 +8376,9 @@ of ……………….dollars, upon the balance of accounts between myself and t
 
 \--------------
 
-### F ORM 126
-
 *s.28*
 
-O RDER TO P AY A DMITTED D EBT (Title)
+F ORM 126 O RDER TO P AY A DMITTED D EBT (Title)
 
 Whereas J.K., of. .............................. . in his examination taken this day, and signed and subscribed by him, has admitted that he is indebted to the said debtor in the sum of…………………………….dollars, on the balance of accounts between him and the debtor; it is ordered that the J.K. do pay to the …………………… in full discharge of the sum so admitted, the sum of. …………………. dollars forthwith (or if otherwise, state the time and manner of payment), and do further pay to the said …………………………. the sum of ………………..….. dollars for costs.
 
@@ -8640,7 +8514,7 @@ I, G.H., the assignee of the property of the insolvent, A.B., make oath and say�
 
 **1.** That I believe that L.M., of ..................................... . hath in his possession or power as (here set out the capacity in which the person stands to the insolvent), certain moneys (and securities) belonging to the insolvent, that is to say, (here set out and describe the particular moneys and securities).
 
-**2.** That on the…..day of ……………….. 20…., I did apply personally to the said L.M., to pay and deliver to me the said moneys and securities, and that he did not then, nor has he since paid or delivered to me the same (or That I……………..day of ……………….. 20…., posted a letter to the said L.M., addressed to him at ......... , calling upon him to, etc., ……….day of ……………….. 20….,
+**2.** That on the…..day of ……………….. 20…., I did apply personally to the said L.M., to pay and deliver to me the said moneys and securities, and that he did not then, nor has he since paid or delivered to me the same (or That I……………..day of ……………….. 20…., posted a letter to the said L.M., addressed to him at ......... , calling upon him to, etc., ……….day ……………….. 20….,
 
 ………………………………. I posted another letter, by which I again called upon him to, etc., and that he has failed to pay and deliver the same.)
 
@@ -8730,11 +8604,9 @@ Dated this……………..day of ……………….. 20….
 
 _________
 
-### FORM 139
-
 *r. 67*
 
-O RDER OF C OMMITTAL U NDER S ECTION 25 (Title)
+FORM 139 O RDER OF C OMMITTAL U NDER S ECTION 25 (Title)
 
 Upon the application of the Official Receiver (or assignee) of the property of the insolvent (or debtor), and upon hearing the ………………(or if he does not appear), and reading the affidavit of (here insert name and description of
 
@@ -8934,17 +8806,23 @@ Dated this………… day the ………………….. 20….
 
 ### S CHEDULE
 
-Name of creditor Address Description Amount of debt
+*debt*
+
+Name of creditor Address Description Amount of
 
 N OTE .—The debt for which judgment has been obtained must be inserted as well as all other debts.
 
-If any of the above creditors in addition to the creditor who has obtained judgment have sued you in any Court, you must produce the citation in each case.
+*who*
 
-### S TATEMENT
+*has*
+
+*must*
+
+If any of the above creditors in addition to the creditor obtained judgment have sued you in any Court, you produce the citation in each case.
 
 *(a) Here state what you are. (b) Here state name, address, etc., of employer. (c) State amount received weekly or otherwise. (d)Insert the work done by your wife and the wages, etc., she earns. (e) Set out names of children. (f) State particulars.*
 
-Estate ........................................
+S TATEMENT Estate ........................................
 
 that I am (a)……………………………………………..... that I am employed at (b)………………………………... that my wages are (c)…………………………………….. that I have (or have not) a wife that my wife earns by (d)………………………………..
 
@@ -8956,9 +8834,7 @@ that I have the following children living with me (e)
 
 **3.** ……………………………………………………… etc.
 
-that numbers…..and...........earn money as follows (f) ……………………………………………………………………… ………..that the reason why I am unable to pay my debts is
-
-(g) ………………. that I have goods (household or otherwise)
+that numbers…..and...........earn money as follows (f) ……………………………………………………………………… ………..that the reason why I am unable to pay my debts is (g) ………………. that I have goods (household or otherwise)
 
 *(g) Here state reason*
 
@@ -9160,9 +9036,9 @@ Total amount of instalments due at the time of issuing of the judgment summons a
 
 ____________
 
-*rr 326 and 328*
+*rr 326 and*
 
-### F ORM 157
+328 F ORM 157
 
 *rr. 326 and 32*
 
@@ -9376,7 +9252,9 @@ I hereby certify that C.D., who was committed to your custody by virtue of an or
 
 (Signed)………………………… Registrar
 
-To the Keeper of ………………………. Prison.
+*To*
+
+the Keeper of ………………………. Prison.
 
 __________
 
@@ -9386,7 +9264,9 @@ __________
 
 ### S CALE OF C OUNSEL AND S OLICITORS ' F EES
 
-The Fees receivable in the High Court under the Rules of the High Court, as far as the same are applicable, with the following additions:
+*of*
+
+The Fees receivable in the High Court under the Rules the High Court, as far as the same are applicable, with the following additions:
 
 $ c. cc. Instructions for Petition .......................................... 8 00 Examining witnesses as to Act of Insolvency ….. 5 00 Attesting signature of each petitioner except in case of partnership…………………………………. 2 00 Two copies of Petition for sealing $2 each………. 4 00 Drawing order for hearing of Petition ….……….. 2 00 The actual expenses incurred in serving any notice or other document …………...…………… Attending consultation or conference with Counsel………………………………………….…... 5 00 Instructions for drawing and attesting declaration of inability to pay ……………………. 3 00 Instructions for and drawing Insolvency Notice………………………………………………. 3 00 Drawing Petition ………………………………….. 3 00 Attending Official Receiver on receiving order being made and giving
 
@@ -9406,31 +9286,23 @@ The allowance to witnesses in insolvency proceedings shall be in accordance with
 
 *$ c.*
 
-For inspecting books kept by him, provided such inspection
-
 *1 00 0 50*
 
-does not exceed half an hour ..............................................
+For inspecting books kept by him, provided such inspection does not exceed half an hour ..............................................
 
 “ every additional half an hour or part thereof .......................
 
-“ copies of Documents and Accounts per folio, each folio to contain not less than 18 lines and each line not less
-
 *0 50*
 
-than 30 letters ........................................................................
-
-“ receiving and filing each claim with the Documents and
+“ copies of Documents and Accounts per folio, each folio to contain not less than 18 lines and each line not less than 30 letters ........................................................................
 
 *1 00*
 
-Vouchers in support thereof ................................................
-
-“ administering oath to affidavit of claimant, if not pre
+“ receiving and filing each claim with the Documents and Vouchers in support thereof ................................................
 
 *1 00 1 00*
 
-viously sworn to before a Commissioner of Affidavits
+“ administering oath to affidavit of claimant, if not pre viously sworn to before a Commissioner of Affidavits
 
 “ searching the records of the office .........................................
 
@@ -9468,11 +9340,11 @@ $ c.
 
 **1.** On filing declaration of inability to pay debts ................... 5 00
 
-**2.** On filing petition for Receiving Order ................................ 10 00
+**2.** On filing petition for Receiving Order ................................ 10
 
-**3.** On filing application for Order of Discharge ..................... 15 00
+**3.** On filing application for Order of Discharge ..................... 15
 
-**4.** On filing of any other application to the Court……………..5 00
+**4.** On filing of any other application to the Court……………..5
 
 On a verbal application of an Official Receiver………… 2 00
 

@@ -40,7 +40,9 @@ Geneva Conventions (Supplementary Provisions) Cap. 15:04
 
 ### CHAPTER 15:04
 
-### GENEVA CONVENTIONS (SUPPLEMENTARY PROVISIONS) ACT
+*GENEVA*
+
+### CONVENTIONS (SUPPLEMENTARY PROVISIONS) ACT
 
 ## ARRANGEMENT OF SECTIONS
 
@@ -80,9 +82,9 @@ An Act to supplement the applied Act entitled the Geneva Conventions Act, 1957, 
 
 **3.** Where a protected prisoner of war or a protected internee has been convicted and sentenced to death or to imprisonment for a term of two years or more, the time
 
-**
+* Extended to*
 
-Extended to Guyana by applied law S.I. 1301/1959.
+Guyana by applied law S.I. 1301/1959.
 
 within which he must give notice of appeal shall notwithstanding anything in any enactment relating to such appeal be reckoned from the date on which he receives a notice given—
 
@@ -97,3 +99,7 @@ that the protecting power has been notified of his conviction and sentence, or o
 **4.** In any case to which this Act applies a reference in any law to any period relating to the revesting and restitution of property on conviction shall be deemed a reference to the period calculated in accordance with the last preceding section.
 
 ____________________
+
+*1/2012*
+
+L.R.O.

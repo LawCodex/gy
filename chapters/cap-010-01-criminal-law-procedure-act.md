@@ -190,7 +190,9 @@ Warrant for Apprehension of Accused Person
 
 **55.** Magistrate may direct security to be taken.
 
-### TITLE 4 – PROCEEDINGS ON APPEARANCE OF ACCUSED PERSON
+*TITLE*
+
+4 – PROCEEDINGS ON APPEARANCE OF ACCUSED PERSON
 
 **56.** Disposal of person apprehended upon warrant.
 
@@ -866,11 +868,9 @@ Provided that, in preparing the list, the Registrar shall not include therein th
 
 made in his name or description on the list, may appear and prove his case by oath or other evidence to the satisfaction of the revising officer.
 
-(4) The Registrar, the mayor and town clerk of Georgetown and New Amsterdam respectively, the mayors and chief executive officers (by whatever name called) of
-
 *c. 28:01*
 
-other towns established under section 33 of the Municipal and District Councils Act, the chairmen and chief executive officers of councils of local government districts established under the Municipal and District Councils Act, the chairmen of village councils, district commissioners and officers of police, shall have the right of audience and may on proper grounds lodge objections to the inclusion or omission of any name and to the correctness of any description.
+(4) The Registrar, the mayor and town clerk of Georgetown and New Amsterdam respectively, the mayors and chief executive officers (by whatever name called) of other towns established under section 33 of the Municipal and District Councils Act, the chairmen and chief executive officers of councils of local government districts established under the Municipal and District Councils Act, the chairmen of village councils, district commissioners and officers of police, shall have the right of audience and may on proper grounds lodge objections to the inclusion or omission of any name and to the correctness of any description.
 
 (5) (a) The revising officer may insert on the list the name of any person whom he considers should not have been omitted, and may strike out the name of any person whom he considers to be improperly included, and may correct any error or omission whether of name, description, or otherwise:
 
@@ -882,11 +882,9 @@ Provided that –
 
 revising officer shall cause written notice to be given, fixing a suitable place and date, not earlier than three days from the date of notice, requiring him to show cause why the inclusion, removal, or alteration should not be made.
 
-(b) Subject to the provisions of this Act the revising officer shall have all the powers of a registrar under regulation
-
 *c. 19:08 Sub. Leg.*
 
-27 of the National Registration (Residents) Regulations.
+(b) Subject to the provisions of this Act the revising officer shall have all the powers of a registrar under regulation 27 of the National Registration (Residents) Regulations.
 
 (6) When the list has been duly revised the revising officer shall sign it with his allowance thereof and transmit it to then Registrar on or before the 26th August, and the Registrar shall thereupon cause notice of all amendments to be published, on or before the 1st September, in the Gazette, and shall thereupon correct his original list according to each amendment.
 
@@ -1126,11 +1124,9 @@ otherwise orders.
 
 *Fourth Schedule. Form 4*
 
-(whether any particular person is charged or not) summon to appear before him any person whom he has reason to believe to be capable of giving material evidence concerning the offence, and may examine the person upon oath concerning
-
 *Form 13*
 
-the offence, and, if he sees cause, bind the person by recognizance to attend and give evidence, if called upon by any magistrate or by the court, at any time within the twelve months then next ensuing, unless the person can show some reasonable excuse to the contrary.
+(whether any particular person is charged or not) summon to appear before him any person whom he has reason to believe to be capable of giving material evidence concerning the offence, and may examine the person upon oath concerning the offence, and, if he sees cause, bind the person by recognizance to attend and give evidence, if called upon by any magistrate or by the court, at any time within the twelve months then next ensuing, unless the person can show some reasonable excuse to the contrary.
 
 (2) In case any person so summoned neglects to attend, or refuses without lawful excuse to take the oath, or, having taken it, to answer any question concerning the offence then put to him, or to enter into the recognisance aforesaid, he may be dealt with in the same manner as a witness may be dealt with who neglects or refuses to attend or give evidence, or to be bound by recognisance to do so, after having been served with a summons for that purpose.
 
@@ -1276,13 +1272,9 @@ Witnesses
 
 Proceedings at Preliminary Inquiry
 
-*General discretionary*
+*General discretionary in his discretion – powers of magistrate with respect to mode of holding inquiry*
 
 **62.** The magistrate holding a preliminary inquiry may,
-
-*in his discretion –*
-
-*powers of magistrate with respect to mode of holding inquiry*
 
 (a) give or refuse permission to the prosecutor to address him in support of the charge, either by way of opening or summing up the case, or by way of reply upon any evidence produced by the accused person;
 
@@ -1386,19 +1378,15 @@ Discharge
 
 **70.** (1) In every case of a complaint or information for an indictable offence where the accused person has been discharged, the magistrate, if he is of opinion that the complaint or information was frivolous or vexatious, may order the prosecutor, or other person by whom or at whose instance it was made or given, to pay to the accused person his just and reasonable costs, charges, and expenses, and those of his witnesses, caused or occasioned by, or consequent upon, the making of the complaint or giving of the information.
 
-(2) The amount of the costs, charges, and expenses shall be fixed by the magistrate and payment thereof may be enforced by distress in manner provided in Part IV of the
-
 *c. 10:02*
 
-Summary Jurisdiction (Procedure) Act.
+(2) The amount of the costs, charges, and expenses shall be fixed by the magistrate and payment thereof may be enforced by distress in manner provided in Part IV of the Summary Jurisdiction (Procedure) Act.
 
 *Appeal.*
 
-(3) Every order made under this section shall be subject to appeal in the manner and subject to the conditions
-
 *c. 3:04*
 
-prescribed in the Summary Jurisdiction (Appeals) Act.
+(3) Every order made under this section shall be subject to appeal in the manner and subject to the conditions prescribed in the Summary Jurisdiction (Appeals) Act.
 
 Committal for Trial
 
@@ -1534,11 +1522,9 @@ magistrate with directions to re-open the inquiry for the purpose of taking evid
 
 (b) where the accused person is on bail, the magistrate shall issue a summons for his attendance at the time and place when and where the proceedings are to be held; and
 
-(c) thereafter the proceedings shall be continued under this Act or the
-
 *c. 10:02*
 
-Summary Jurisdiction (Procedure) Act, as the case may be, and, if under the last-mentioned Act, in the same manner as if the magistrate had himself formed an opinion in terms of section 33 of that Act.
+(c) thereafter the proceedings shall be continued under this Act or the Summary Jurisdiction (Procedure) Act, as the case may be, and, if under the last-mentioned Act, in the same manner as if the magistrate had himself formed an opinion in terms of section 33 of that Act.
 
 *Condition under which witnesses at a preliminary inquiry need not be called at the trial.*
 
@@ -1584,11 +1570,9 @@ place to which during the course of the proceedings the hearing is from time to 
 
 (2) Whenever the preliminary inquiry is for any reason adjourned or interrupted, the magistrate holding it shall or may, as the case may be, instead of remanding the accused person to prison, admit him to bail on condition of his appearing at the time to which the inquiry is adjourned, or at an earlier day if so required.
 
-(3) If an accused person who has appeared and has been admitted to bail (either on the recognisance of sureties or on his own recognisance) to appear at any adjournment, fails to appear according to the condition of the recognisance, the magistrate before whom he ought to have appeared may
-
 *Form 9.*
 
-issue a warrant for his apprehension, whether there has been any information in writing and upon oath or not.
+(3) If an accused person who has appeared and has been admitted to bail (either on the recognisance of sureties or on his own recognisance) to appear at any adjournment, fails to appear according to the condition of the recognisance, the magistrate before whom he ought to have appeared may issue a warrant for his apprehension, whether there has been any information in writing and upon oath or not.
 
 *Committal of accused person to prison for safe custody pending preliminary inquiry.*
 
@@ -1624,11 +1608,9 @@ the keeper shall receive and detain the person named therein (or detain him, if 
 
 (2) (a) The magistrate holding the preliminary inquiry, shall, if required at any time before the trial, by or on behalf of the accused person, make and sign one or more duplicate copies of the aforesaid certificate, and, on the production of a duplicate to any justice of the peace, the justice may take the recognisance of one or more sureties in conformity therewith, and shall thereupon transmit the recognisance to the magistrate of the district in which the accused person was committed.
 
-(b) When the recognisances of all the sureties required have been received,
-
 *Form 17.*
 
-the committing magistrate shall issue his warrant of deliverance to the keeper, requiring him to take the recognisance of the accused person and to discharge him, and the keeper is hereby authorised to take that recognisance, and shall forthwith do so and discharge the accused person, unless he is in his custody for some other reason.
+(b) When the recognisances of all the sureties required have been received, the committing magistrate shall issue his warrant of deliverance to the keeper, requiring him to take the recognisance of the accused person and to discharge him, and the keeper is hereby authorised to take that recognisance, and shall forthwith do so and discharge the accused person, unless he is in his custody for some other reason.
 
 *Power of the Court or judge to bail accused persons.*
 
@@ -1674,11 +1656,9 @@ force in relation to informations filed by the Attorney-General of England in th
 
 **93.** For the purposes of the next five succeeding sections, unless the context otherwise requires –
 
-“the rules” means the rules with respect to indictments (which shall have effect as if enacted herein), contained
-
 *Fifth Schedule.*
 
-in the Fifth Schedule; and includes any further or other rules made under the provisions of the next succeeding section;
+“the rules” means the rules with respect to indictments (which shall have effect as if enacted herein), contained in the Fifth Schedule; and includes any further or other rules made under the provisions of the next succeeding section;
 
 “the court” means the court before which any offence punishable on indictment is tried or prosecuted.
 
@@ -2086,11 +2066,9 @@ Arraignment
 
 indictable offence, or as the case may be, purporting to be signed by the officer having the custody of the records of the Court where the offender was convicted, or
 
-(b) production of a copy of a warrant of commitment reciting the conviction purporting to be certified under the hand of the keeper of a prison, or production of a register kept under section 5 of the Prevention of Crimes
-
 *c. 9:01*
 
-Act containing an entry of the conviction,
+(b) production of a copy of a warrant of commitment reciting the conviction purporting to be certified under the hand of the keeper of a prison, or production of a register kept under section 5 of the Prevention of Crimes Act containing an entry of the conviction,
 
 shall, upon proof of identity of the person, be sufficient evidence of the conviction.
 
@@ -2386,11 +2364,9 @@ Capital Punishment
 
 **186.** (1) As soon as may be after judgment of death has been executed on the person sentenced, the medical officer of the prison shall examine the body and ascertain the fact of death, and shall sign a certificate thereof and deliver it to the Director of Prisons.
 
-(2) The Director of Prisons, the keeper of the prison, and those officers and other persons present (if any) whom the Director of Prisons requires or allows to do so,
-
 *Form 20.*
 
-shall also sign a declaration to the effect that judgment of death has been executed on the person sentenced.
+(2) The Director of Prisons, the keeper of the prison, and those officers and other persons present (if any) whom the Director of Prisons requires or allows to do so, shall also sign a declaration to the effect that judgment of death has been executed on the person sentenced.
 
 *Publication of certificate and declaration.*
 
@@ -2440,11 +2416,9 @@ Ownership of Property
 
 *Mode of stating ownership of public property. [24 of 1969]*
 
-**195.** Where in any document in any proceeding under this Act it is necessary to state the ownership of any work or building, made, erected, or maintained, either in whole or in part, at the expense of the inhabitants of Guyana, or of any city, town, local government district established under the
-
 *c. 28:01*
 
-Municipal and District Councils Act, or village thereof, or of anything belonging to or being in or used in relation to the work or building, or of anything provided for the use of the poor or of any public institution or establishment, or of any materials or tools provided or used for repairing the work or building or any public road or highway, or of any other property whatsoever, whether movable or immovable, of the inhabitants aforesaid, it shall be sufficient to state that that
+**195.** Where in any document in any proceeding under this Act it is necessary to state the ownership of any work or building, made, erected, or maintained, either in whole or in part, at the expense of the inhabitants of Guyana, or of any city, town, local government district established under the Municipal and District Councils Act, or village thereof, or of anything belonging to or being in or used in relation to the work or building, or of anything provided for the use of the poor or of any public institution or establishment, or of any materials or tools provided or used for repairing the work or building or any public road or highway, or of any other property whatsoever, whether movable or immovable, of the inhabitants aforesaid, it shall be sufficient to state that that
 
 property is the property of the inhabitants of Guyana, or of the city, town, local government district established under the Municipal and District Councils Act, or village, as the case may be, without naming any of them.
 
@@ -2476,11 +2450,9 @@ anyone may, without warrant, arrest the person if that offence has actually been
 
 (4) Everyone who arrests any person under any of the provisions in this section contained shall (if the person making the arrest is not himself a peace officer) deliver the person so arrested to some police or other constable, in order that he may be conveyed as soon as reasonably may be before a magistrate, to be by the magistrate dealt with according to law, or himself convey him before a magistrate as soon as reasonably may be.
 
-(5) Nothing in this section shall affect the powers
-
 *c. 16:01*
 
-of apprehension conferred upon constables by the Police Act.
+(5) Nothing in this section shall affect the powers of apprehension conferred upon constables by the Police Act.
 
 *Form and requisites of warrant of apprehension.*
 
@@ -2920,9 +2892,9 @@ ___________________
 
 ### FORMS FOR USE IN PROCEEDINGS RELATING TO INDICTABLE OFFENCES
 
-Table of Forms
+*PART*
 
-## PART I. – PROOFS:
+Table of Forms I. – PROOFS:
 
 **1.** Information upon oath.
 
@@ -2930,7 +2902,9 @@ Table of Forms
 
 **3.** Statement of accused person.
 
-## PART II. – PROCESS TO ENFORCE APPEARANCE:
+*PART*
+
+II. – PROCESS TO ENFORCE APPEARANCE:
 
 **4.** Summons to witness under section 50.
 
@@ -2944,13 +2918,17 @@ Table of Forms
 
 **9.** Warrant of apprehension where accused person on bail has absconded.
 
-## PART III – BAIL:
+*PART*
+
+III – BAIL:
 
 **10.** Certificate of consent to bail by committing magistrate endorsed on commitment.
 
 **11.** The like on a separate paper.
 
-## PART IV. – RECOGNISANCES:
+*PART*
+
+IV. – RECOGNISANCES:
 
 **12.** Recognisance to appear, etc.
 
@@ -2958,7 +2936,9 @@ Table of Forms
 
 **14.** Writ of execution for enforcement of forfeited recognisance.
 
-## PART V. – WARRANTS
+*PART*
+
+### V. – WARRANTS
 
 **15.** Warrant to commit [or detain] accused person for trial, etc.
 
@@ -2968,7 +2948,9 @@ Table of Forms
 
 **18.** Search warrant.
 
-## PART VI. – CAPITAL PUNISHMENT.
+*PART*
+
+VI. – CAPITAL PUNISHMENT.
 
 Certificate of medical officer of prison.
 
@@ -3074,7 +3056,9 @@ same:–This is to command you to appear at ...........o’clock ......m., on ..
 
 Dated this ................day of ......................20........
 
-(Signed)....................... .................Magistrate, ..................District.
+(Signed).......................
+
+.................Magistrate, ..................District.
 
 *s. 52 and s. 60*
 
@@ -3084,13 +3068,9 @@ Summons to accused person or witness
 
 ....................................DISTRICT.
 
-To.............................. of ..................................................................... Whereas information has been laid before me, the undersigned magistrate for the said district, for that
+*(1) State concisely the substance of the charge. (2) Insert:– an accused person, or, a witness.*
 
-*(1) State concisely the substance of the charge. (2) Insert:– an*
-
-(l)............................. This is to command you to appear as (2).........................on the hearing of the said information at..............o’clock .........m., on...............day, the....................... day of.......................20 ........, at....................before the magistrate accused person, of the said district.
-
-*or, a witness.*
+To.............................. of ..................................................................... Whereas information has been laid before me, the undersigned magistrate for the said district, for that (l)............................. This is to command you to appear as (2).........................on the hearing of the said information at..............o’clock .........m., on...............day, the....................... day of.......................20 ........, at....................before the magistrate of the said district.
 
 Dated this.........day of.....................20..........
 
@@ -3170,11 +3150,9 @@ Take notice that the above-mentioned case will be tried at the next sitting of t
 
 Dated this..................day of.......................20........
 
-(Signed)............................
-
 *s. 82*
 
-...................Magistrate,.................District.
+(Signed)............................ ...................Magistrate,.................District.
 
 9.
 
@@ -3212,11 +3190,9 @@ The like on a separate paper
 
 ..............................DISTRICT.
 
-Whereas C.D. was, on the...................day of ........................20....... committed by me to the....................prison
-
 *(1) State concisely the substance of the charge.*
 
-charged with (1)....................... I hereby certify that I consent to the said C.D. being bailed by recognisance, himself in ...............and [two] sureties in............................each.
+Whereas C.D. was, on the...................day of ........................20....... committed by me to the....................prison charged with (1)....................... I hereby certify that I consent to the said C.D. being bailed by recognisance, himself in ...............and [two] sureties in............................each.
 
 Dated this..................day of............................20...... (Signed)........................ ................Magistrate,.................District
 
@@ -3306,7 +3282,7 @@ By order, (Signed).............................. ........................Registr
 
 Warrant to commit [or detain] accused person or refractory witness
 
-*(1) State concisely the substance of the charge. (2) Recitals:— Trial:— Whereas I am of opinion that a prima facie case has been made out against the said C.D. Adjournment:— whereas the hearing of the said charge has been adjourned to the*
+*(1) State concisely the substance of the charge. (2) Recitals:— Trial:— Whereas I am of opinion that a prima facie case has been made out against the said C.D. Adjournment:— whereas the hearing of the said charge has been adjourned to the day of 20 , at or, whereas the hearing of the said charge was adjourned, etc., and the said C.D. was admitted to bail to appear on that day, or at an earlier date, if so required, and whereas the said C.D. was summoned to attend on the day of , but did not appear according to his*
 
 ............................DISTRICT.
 
@@ -3315,10 +3291,6 @@ To...........................police [or other] constable.
 Whereas a charge was made on the...................day of ........................20......., upon the oath of A.B. [or A.B. and others, as the case may be] for that C.D. (1)....................................................................................................
 
 and (2) ............................................................................................
-
-*day*
-
-*of 20 , at or, whereas the hearing of the said charge was adjourned, etc., and the said C.D. was admitted to bail to appear on that day, or at an earlier date, if so required, and whereas the said C.D. was summoned to attend on the day of , but did not appear according to his*
 
 *recognisance. Remand on arrest.— whereas the said C.D. has been brought before me under a warrant of apprehension, and the said charge is to be heard on the day of 20 , at Refractory witness:— whereas E.F., a material witness, has, without just excuse, refused to make oath as a witness or, to answer certain questions, or to enter into a recognisance to give evidence on the trial of the said C.D. in that behalf. (3) Name of person to be committed. (4) Period of imprisonnent:— For trial:—until his trial, or until he shall be discharged in due course of law. For witness:— until the trial of the said C.D. unless he shall in the*
 
@@ -3344,11 +3316,9 @@ Warrant to convey accused person before the magistrate of another district
 
 To...........................police [or other] constable.
 
-Whereas information has been laid before me, the undersigned magistrate for the.....................district, for that
-
 *(1) State concisely the substance of the charge.*
 
-C.D. (1).......................
+Whereas information has been laid before me, the undersigned magistrate for the.....................district, for that C.D. (1).......................
 
 And whereas I have taken the deposition of A.B. as to the said offence; And whereas the charge is of an offence committed in the.................................district:—This is to command you to convey the said C.D., of ......................................before the magistrate of the last-mentioned district, and to deliver to him this warrant and the said deposition.
 
@@ -3388,15 +3358,9 @@ Search Warrant
 
 To................................police [or other] constable.
 
-Whereas it appears, upon the oath of A.B., of .....................
+*(1) Insert description of the things to be searched for, and of the offence in respect of which the search is made.*
 
-*(1) Insert*
-
-that there is reason to suspect that (1)..............................are description of the concealed in ........................at ........................:—This is therefore
-
-*things to be searched for, and of the offence in respect of which the search is made.*
-
-to authorise and require you to enter, between the hours of .............and ................ into the said premises, and to search for the said things, and to bring the same before me or some other magistrate.
+Whereas it appears, upon the oath of A.B., of ..................... that there is reason to suspect that (1)..............................are concealed in ........................at ........................:—This is therefore to authorise and require you to enter, between the hours of .............and ................ into the said premises, and to search for the said things, and to bring the same before me or some other magistrate.
 
 Dated this................day of........................ 20.......
 
@@ -3458,17 +3422,15 @@ on...............day, the................day of ........................20......
 
 Receipt for prisoner
 
-I hereby certify that I have received from R.S. (l)......................of ....................the body of C.D., together with a
-
 *(1) Rank. etc.*
-
-warrant under the hand of......................... Esquire, magistrate of the................................ district, and that the said prisoner
 
 *(2) Sober or as the case may be.*
 
-was (2)...................at the time he was delivered into my custody.
+I hereby certify that I have received from R.S. (l)......................of ....................the body of C.D., together with a warrant under the hand of......................... Esquire, magistrate of the................................ district, and that the said prisoner was (2)...................at the time he was delivered into my custody.
 
-Dated this.................... day of .......................20...... (Signed)......................... Keeper of .....................Prison.
+Dated this.................... day of .......................20......
+
+(Signed)......................... Keeper of .....................Prison.
 
 \--------------------
 
@@ -3476,11 +3438,9 @@ Dated this.................... day of .......................20...... (Signed)..
 
 ## FIFTH SCHEDULE RULES
 
-**1.** (1) An indictment may be on parchment or durable
+*Material, etc., for indictments.*
 
-*Material, etc.,*
-
-paper, and may be either written or printed, or partly written for indictments. or partly printed.
+**1.** (1) An indictment may be on parchment or durable paper, and may be either written or printed, or partly written or partly printed.
 
 (2) Each sheet on which an indictment is set out
 
@@ -3786,11 +3746,17 @@ PARTICULARS OF OFFENCE A.B., on the......................day of.................
 
 Second count
 
-Fraudulent conversion of property, contrary to section 197(1)(b) of the Criminal Law (Offences) Act.
+*to section*
+
+Fraudulent conversion of property, contrary 197(1)(b) of the Criminal Law (Offences) Act.
 
 ### PARTICULARS OF OFFENCE
 
-A.B., on the.......................day of................................in the county of............................fraudulently converted to his own use and benefit certain property, that is to say, the sum of two hundred dollars received by him for and on account of L.M.
+*the*
+
+*of L.M.*
+
+A.B., on the.......................day of................................in county of............................fraudulently converted to his own use and benefit certain property, that is to say, the sum of two hundred dollars received by him for and on account
 
 \--------------------
 
@@ -3798,35 +3764,61 @@ A.B., on the.......................day of................................in the 
 
 ## SIXTH SCHEDULE REMUNERATION OF WITNESSES
 
-Each person in the following classes, for each day that person attends, or is travelling to attend, or to return from, any trial, provided the person is not in receipt of any salary or wages as a public officer or servant in Guyana, shall be remunerated as follows:
+*day that from, salary or shall be*
 
-**1.** Medical and legal practitioners, ministers of religion, civil, mechanical and electrical engineers and persons professionally qualified in other branches of engineering, registered dentist, chartered accountants and persons registered as public auditors under the Companies Act and other persons professionally qualified, but not otherwise specified in this Schedule. $325 00
+Each person in the following classes, for each person attends, or is travelling to attend, or to return any trial, provided the person is not in receipt of any wages as a public officer or servant in Guyana, remunerated as follows:
 
-**2.** Every merchant, attorney, director or manager of a mercantile firm, estate proprietor, 195 00 estate manager or attorney
+*$325 00*
 
-**3.** Every architect, surveyor, building contractor, chemist and druggist, auctioneer, 165 00
+**1.** Medical and legal practitioners, ministers of religion, civil, mechanical and electrical engineers and persons professionally qualified in other branches of engineering, registered dentist, chartered accountants and persons registered as public auditors under the Companies Act and other persons professionally qualified, but not otherwise specified in this Schedule.
+
+*195 00*
+
+**2.** Every merchant, attorney, director or manager of a mercantile firm, estate proprietor, estate manager or attorney
+
+*165 00*
+
+**3.** Every architect, surveyor, building contractor, chemist and druggist, auctioneer,
 
 manufacturers agent, master of a sea-going vessel or other person similarly employed
 
-**4.** Every mercantile clerk, shop or store keeper, master tradesman, estate overseer, mate of a seagoing vessel or other person similarly employed 130 00
+*130 00*
 
-**5.** Every shop assistant, provision farmer, tradesman, stevedore porter, estate superintendent or other person similarly employed 100 00
+**4.** Every mercantile clerk, shop or store keeper, master tradesman, estate overseer, mate of a seagoing vessel or other person similarly employed
 
-**6.** Every pedlar, store porter, chauffeur, seamstress, labourer on a timber grant, balata grant, placer or mining claim, or other person similarly employed 80 00
+*100 00*
 
-**7.** Every domestic servant, agricultural labourer, gardener, huckster, groom or other person similarly employed 65 00
+**5.** Every shop assistant, provision farmer, tradesman, stevedore porter, estate superintendent or other person similarly employed
 
-**8.** Every person between the ages of 6 and 16 35 00
+*80 00*
+
+**6.** Every pedlar, store porter, chauffeur, seamstress, labourer on a timber grant, balata grant, placer or mining claim, or other person similarly employed
+
+*65 00 35 00*
+
+**7.** Every domestic servant, agricultural labourer, gardener, huckster, groom or other person similarly employed
+
+**8.** Every person between the ages of 6 and 16
 
 **9.** Every person being the wife or unmarried daughter of any person in the classes above mentioned, one half of the allowance of that person, provided that such wife or daughter is over the age of 16 years and is not in employment
 
-**10.** Every person belonging to any class not specified 35 00
+*35 00*
+
+**10.** Every person belonging to any class not specified
 
 **11.** For qualifying to give evidence and for attendance in court of expert scientific or other witness such sum as may be fixed by the court not being less than $325.00 or more than $3,250.00.
 
-Note. (l) A witness in classes I and 2 who resides within the boundaries of the City of Georgetown, or within the boundaries of the Town of New Amsterdam, or within 1 mile of the Court House at Suddie shall not receive any remuneration unless he satisfies the Registrar that he has incurred loss by attending the court.
+*boundaries*
 
-(2) In all cases a witness (including a public officer or servant when attending as a witness in a matter not arising out of his official duties) shall be entitled to such actual travelling and hotel expenses(where necessary) as the
+*of*
+
+*Town of New shall not that he has*
+
+Note. (l) A witness in classes I and 2 who resides within the the City of Georgetown, or within the boundaries of the Amsterdam, or within 1 mile of the Court House at Suddie receive any remuneration unless he satisfies the Registrar incurred loss by attending the court.
+
+*servant when shall be as the*
+
+(2) In all cases a witness (including a public officer or attending as a witness in a matter not arising out of his official duties) entitled to such actual travelling and hotel expenses(where necessary)
 
 Registrar shall in each case allow.
 
@@ -3870,17 +3862,13 @@ RUPUNUNI TRIALS ORDER made under section 9(2)
 
 **2.** It is hereby directed that all persons, committed for trial from the Magisterial District mentioned in the first column of the Schedule shall be committed for trial to, and shall be tried at, a sitting of the High Court for the County indicated in the second column of the Schedule.
 
-## SCHEDULE District of committal County of trial
-
 *O. in C. 20/3/1894*
 
-North West Magisterial
-
-District Demerara
+## SCHEDULE District of committal County of trial North West Magisterial
 
 *O. in C. 1/6/1923*
 
-Rupununi Magisterial
+District Demerara Rupununi Magisterial
 
 District Demerara
 

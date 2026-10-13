@@ -180,11 +180,9 @@ An Act to afford protection in cases involving domestic violence by the granting
 
 “domestic violence offence” means a prescribed offence committed by a person against a person with whom he is associated or a relevant child;
 
-“drug” means a substance or product for the time being specified in the First, Second or Third Schedule to the Narcotics Drugs and Psychotropic Substances (Control)
-
 *c. 10:10*
 
-Act;
+“drug” means a substance or product for the time being specified in the First, Second or Third Schedule to the Narcotics Drugs and Psychotropic Substances (Control) Act;
 
 “harassment” includes—
 
@@ -226,6 +224,10 @@ premises that are the place of education of a person, or the watching or besetti
 
 adoption,
 
+*Cap.*
+
+11:09
+
 and includes a guardian or any person who has actual custody of a child, and “parental responsibility” shall be construed accordingly;
 
 *c. 16:01*
@@ -240,11 +242,9 @@ and includes a guardian or any person who has actual custody of a child, and “
 
 (c) the use or threatened use of any other violence or physical or emotional injury;
 
-(d) a rape offence within the meaning of the Sexual Offences
-
 *c. 8:03*
 
-Act;
+(d) a rape offence within the meaning of the Sexual Offences Act;
 
 “protection order’’ means an order made under section 5 and includes an interim order made under that section;
 
@@ -284,13 +284,17 @@ and the term “tenancy” has a corresponding meaning.
 
 (f) they have agreed to marry one another, (whether or not the agreement has been terminated); or (g) in relation to any child, they are persons falling within subsection (2).
 
-(2) A person falls within this subsection in relation to a child if–
+*to a child*
+
+(2) A person falls within this subsection in relation if–
 
 (a) he is a parent of the child; or
 
 (b) he has or has had parental responsibility for the child.
 
-(3) In the case where the child has been adopted, two persons are associated with each other for the purposes of this Act if—
+*two of this Act*
+
+(3) In the case where the child has been adopted, persons are associated with each other for the purposes if—
 
 (a) one is a natural parent of the child or a parent of such a natural parent; and
 
@@ -350,11 +354,9 @@ the court shall, subject to this section, make a protection order restraining th
 
 (3) Where the court is satisfied that it is necessary in order to ensure the safety of the applicant or the person for whose benefit the order would be made pending the hearing and determination of the application to make an interim protection order the court may make such an order whether or not the application has been served on the respondent.
 
-(4) Where the court is satisfied that a previous protection order has not been made against and no undertaking has been given by the respondent the court may at any time before a protection order is made accept from the
-
 *Form I Schedule.*
 
-respondent a signed undertaking in Form I in the Schedule that he shall refrain from engaging in conduct of the nature
+(4) Where the court is satisfied that a previous protection order has not been made against and no undertaking has been given by the respondent the court may at any time before a protection order is made accept from the respondent a signed undertaking in Form I in the Schedule that he shall refrain from engaging in conduct of the nature
 
 specified in the application and in conduct that would constitute any domestic violence offence:
 
@@ -544,11 +546,9 @@ place of residence in compliance with an order made under this Act.
 
 **18.** (1) Proceedings in respect of an application shall be heard in camera unless the court otherwise directs.
 
-(2) Except as otherwise provided by this Act, the
-
 *c. 10:02*
 
-Summary Jurisdiction (Procedure) Act shall apply mutatis mutandis in respect of proceedings on an application.
+(2) Except as otherwise provided by this Act, the Summary Jurisdiction (Procedure) Act shall apply mutatis mutandis in respect of proceedings on an application.
 
 *Restrictions on publication.*
 
@@ -586,17 +586,13 @@ contempt of court.
 
 disability does not normally reside or does not reside on a regular basis with the parent, on the person with whom the child under sixteen or person suffering from a mental disability normally resides or resides on a regular basis.
 
-(3) A notice of the proceedings which is issued and served under this Part is deemed to be a summons that is duly issued and served under the Summary Jurisdiction
-
 *c. 10:02*
 
-(Procedure) Act and the respondent shall appear in court to answer the application as if it were a complaint to which that Act applies.
-
-(4) Any notice of proceedings issued under this Part may be served by the applicant or his agent and the court
+(3) A notice of the proceedings which is issued and served under this Part is deemed to be a summons that is duly issued and served under the Summary Jurisdiction (Procedure) Act and the respondent shall appear in court to answer the application as if it were a complaint to which that Act applies.
 
 *Form 4. Schedule.*
 
-may, at its discretion, receive proof of such service by affidavit in Form 4 in the Schedule.
+(4) Any notice of proceedings issued under this Part may be served by the applicant or his agent and the court may, at its discretion, receive proof of such service by affidavit in Form 4 in the Schedule.
 
 *Service other than personal service.*
 
@@ -714,17 +710,13 @@ protection order the court shall have regard to the matters specified in section
 
 (3) In subsection (1), a reference to an order in the prescribed form means—
 
-(a) in the case of the making of a protection order or an interim
-
 *Form 6. Schedule.*
 
-protection order, an order in Form 6 in the Schedule;
-
-(b) in the case of the varying of a protection order or an interim
+(a) in the case of the making of a protection order or an interim protection order, an order in Form 6 in the Schedule;
 
 *Form 7. Schedule*
 
-protection order, an order in Form 7 in the Schedule.
+(b) in the case of the varying of a protection order or an interim protection order, an order in Form 7 in the Schedule.
 
 *Breach of protection order.*
 
@@ -790,7 +782,9 @@ may without warrant enter premises for the purpose of giving assistance to a per
 
 remain in the place of residence, employment, or education while under the influence of alcohol or a drug.
 
-(2) Where a police officer believes on reasonable grounds that a person who has been admitted to bail subject to one or more of the conditions set out in subsection (1) has failed to comply with a condition of the recognisance, the police officer may apprehend the person without a warrant
+*failed to police officer*
+
+(2) Where a police officer believes on reasonable grounds that a person who has been admitted to bail subject to one or more of the conditions set out in subsection (1) has comply with a condition of the recognisance, the may apprehend the person without a warrant
 
 (3) Where—
 
@@ -798,11 +792,15 @@ remain in the place of residence, employment, or education while under the influ
 
 (b) the person contravenes or fails to comply with the condition,
 
-the bail is thereupon forfeited and the accused is liable to be re- arrested.
+*the bail is re- arrested.*
+
+thereupon forfeited and the accused is liable to be
 
 *Issue of warrant.*
 
-**37.** Where a Magistrate is satisfied by information on oath that—
+**37.** Where a Magistrate is satisfied by information on
+
+*oath that—*
 
 (a) there are reasonable grounds to suspect that a person on premises has suffered, or is in imminent danger of physical injury at the hands of another person and needs assistance to prevent or deal with the injury; and
 
@@ -822,11 +820,9 @@ the Magistrate may issue a warrant in writing authorising a police officer to en
 
 *Appeals.*
 
-**40.** (1) An appeal from any order or judgment of the court made or given under this Act shall lie to the Full Court and the appeal shall be regulated in all respects by the
-
 *c. 3:04*
 
-Summary Jurisdiction (Appeals) Act.
+**40.** (1) An appeal from any order or judgment of the court made or given under this Act shall lie to the Full Court and the appeal shall be regulated in all respects by the Summary Jurisdiction (Appeals) Act.
 
 (2) Except where the court which makes an order under this Act otherwise directs, the operation of such order shall not be suspended by virtue of an appeal under this section, and every such order may be enforced in the same manner and in all respects as if no appeal were pending.
 
@@ -924,11 +920,9 @@ Respondent
 
 ..............Magistrate......................Magisterial District
 
-________
-
 *s. 17*
 
-### FORM 2
+### ________ FORM 2
 
 ### APPLICATION FOR PROTECTION ORDER/INTERIM PROTECTION ORDER
 

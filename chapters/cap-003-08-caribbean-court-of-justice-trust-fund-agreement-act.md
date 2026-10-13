@@ -128,6 +128,10 @@ Noting the provisions of Article XXVIII of the Agreement establishing the Court 
 
 Conscious that the financial viability of the Court is essential
 
+*Cap.*
+
+3:08
+
 for its efficiency, effectiveness and independence in the performance of its functions;
 
 Bearing in mind the decision of the Twenty-Third Meeting of the Conference of Heads of Government of the Caribbean Community concerning the capital and recurrent expenditures of the Court;

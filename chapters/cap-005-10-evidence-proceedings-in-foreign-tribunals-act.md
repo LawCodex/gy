@@ -62,9 +62,9 @@ This Chapter contains no subsidiary legislation.
 
 **8.** Act not in derogation of rules 49 to 56 of Order 34.
 
-*32 of 1991*
+*32 of*
 
-An Act to make new provision to enable the High Court to assist in obtaining evidence requested for the purposes of proceedings in foreign tribunals.
+1991 An Act to make new provision to enable the High Court to assist in obtaining evidence requested for the purposes of proceedings in foreign tribunals.
 
 [27 th SEPTEMBER, 1991]
 
@@ -74,23 +74,33 @@ An Act to make new provision to enable the High Court to assist in obtaining evi
 
 **2.** In this Act— Interpretation.
 
-[13 of 1992]
+*[13 of*
+
+1992]
 
 “agreement” means any convention, treaty or international agreement to which Guyana is a Contracting State;
 
 “competent authority” means such authority by whatever name called vested with power in an agreement to make an application under section 3;
 
-“the Court” has the same meaning as in the High Court Act;
+“the Court” has the same meaning as in the High Court
 
-“civil proceedings”, in relation to the requesting court, means proceedings in any civil or commercial matter;
+*Act;*
+
+*“civil means*
+
+proceedings”, in relation to the requesting court, proceedings in any civil or commercial matter;
 
 “request” includes any commission, order, letter or other process issued by or on behalf of the requesting court;
 
-“requesting court” has the meaning given in section 3 and includes the competent authority named in an agreement.
+“requesting court” has the meaning given in section 3 and includes the competent authority named in an
 
-*Application to the Court for assistance.*
+*agreement.*
 
-**3.** Where an application is made to the Court for an order for evidence to be obtained from any witness within the jurisdiction of the Court for proceedings before a court or tribunal of a foreign country, and it is established to the satisfaction of the Court that—
+*Application to the Court for order for assistance.*
+
+*tribunal of a satisfaction of*
+
+**3.** Where an application is made to the Court for an evidence to be obtained from any witness within the jurisdiction of the Court for proceedings before a court or foreign country, and it is established to the the Court that—
 
 (a) the application is made in pursuance of a request issued by or on behalf of a court or tribunal (“the requesting court”) exercising jurisdiction in a country or territory outside Guyana;
 
@@ -114,11 +124,9 @@ the Court shall have the powers conferred on it by the following provisions of t
 
 (d) for the taking of samples of any property and the carrying out of any experiments on or with any property.
 
-(3) Evidence to be obtained from any witness under the provisions of this Act shall be in accordance with
-
 *c. 5:03*
 
-the provisions of the Evidence Act and shall include evidence taken and recorded in the form of a deposition upon affidavit.
+(3) Evidence to be obtained from any witness under the provisions of this Act shall be in accordance with the provisions of the Evidence Act and shall include evidence taken and recorded in the form of a deposition upon affidavit.
 
 *Fees and expenses for the attendance of a witness.*
 

@@ -124,11 +124,9 @@ a person has committed an offence or done the act or made the omission charged o
 
 to determine any question affecting the rights, privileges, obligations or liabilities of any person, or to receive evidence affecting the determination of any such question;
 
-“sentence” includes any order (including a sentence under section 15, or any order referred to in section 19, of the
-
 *c. 10:03*
 
-Juvenile Offenders Act) made by a court in dealing with a person in respect of his conviction of any offence other than—
+“sentence” includes any order (including a sentence under section 15, or any order referred to in section 19, of the Juvenile Offenders Act) made by a court in dealing with a person in respect of his conviction of any offence other than—
 
 an order for committal to prison, or any other order, made in default of payment of a fine or other sum adjudged to be paid by, or imposed on, a person in respect of a conviction or for want of sufficient distress to satisfy that fine or other sum;
 
@@ -182,11 +180,9 @@ and the rehabilitation periods applicable to the sentences mentioned in subsecti
 
 (2) Where in respect of a conviction a person has been discharged conditionally, ordered to enter into a recognisance for keeping the peace and being of good behaviour, or placed on probation, the rehabilitation period applicable to the sentence shall be one year from the date of conviction or a period beginning with that date and ending with the date on which the order for conditional discharge, the recognisance for keeping the peace and being of good behaviour, or the probation order, ceases or ceased to have effect, whichever is the longer.
 
-(3) Where in respect of any child or young person an order referred to in section 19(b) or (c) of the Juvenile
-
 *c. 10:03*
 
-Offenders Act, that is, discharging the offender on his entering into a recognisance or discharging the offender and placing him under the supervision of a probation officer, has been made, the rehabilitation period applicable to the sentence shall be one year from the date of the order or a period beginning with that date and ending with the date on which the recognisance or probation order ceases or ceased to
+(3) Where in respect of any child or young person an order referred to in section 19(b) or (c) of the Juvenile Offenders Act, that is, discharging the offender on his entering into a recognisance or discharging the offender and placing him under the supervision of a probation officer, has been made, the rehabilitation period applicable to the sentence shall be one year from the date of the order or a period beginning with that date and ending with the date on which the recognisance or probation order ceases or ceased to
 
 have effect, whichever is longer.
 
@@ -460,19 +456,15 @@ not exceeding sixty months.
 
 8a. A sentence of detention for a term exceeding thirty months but not
 
-exceeding sixty months under section 15 of the Juvenile Offenders
-
 *c.10:03*
 
-Act
+exceeding sixty months under section 15 of the Juvenile Offenders Act
 
 *Ten years.*
 
-8b. A sentence of detention for a term exceeding sixty months under section 15 of the Juvenile Offenders
-
 *c.10:03*
 
-Act.
+8b. A sentence of detention for a term exceeding sixty months under section 15 of the Juvenile Offenders Act.
 
 *Twenty years.*
 
@@ -480,27 +472,21 @@ Act.
 
 *Three years.*
 
-**9.** Any order referred to in section 19 (except in paragraph (a), (b), (c), (e) or (i) thereof) of the Juvenile Offenders Act in respect of a child or
-
 *c. 10:03*
 
-young person.
+**9.** Any order referred to in section 19 (except in paragraph (a), (b), (c), (e) or (i) thereof) of the Juvenile Offenders Act in respect of a child or young person.
 
 *One year.*
 
-**10.** An order referred to in section 19(a) of the Juvenile Offenders Act in
-
 *c. 10:03*
 
-respect of a child or young person.
+**10.** An order referred to in section 19(a) of the Juvenile Offenders Act in respect of a child or young person.
 
 *One year.*
-
-**11.** An order under section 3 of the
 
 *c. 11:02*
 
-Extra- Mural Work Act.
+**11.** An order under section 3 of the Extra- Mural Work Act.
 
 *Five years*
 

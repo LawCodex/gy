@@ -138,9 +138,9 @@ ______________________
 
 ### COMBATING OF TRAFFICKING IN PERSONS ACT
 
-*2 of 2005*
+*2 of 2005 An*
 
-An Act to provide comprehensive measures to combat trafficking in persons.
+Act to provide comprehensive measures to combat trafficking in persons.
 
 ### [7 TH APRIL 2005]
 
@@ -163,6 +163,10 @@ An Act to provide comprehensive measures to combat trafficking in persons.
 (i) threats of serious harm to or physical restraint against any person;
 
 (ii) any scheme, plan, or pattern intended to cause a person to believe that failure to perform an act would result in serious harm to or physical
+
+*Cap.*
+
+10:06
 
 restraint against any persons; or (iii) the abuse or threatened abuse of the legal process;
 
@@ -192,9 +196,9 @@ bondage, serfdom, forced or servile marriages and delivery of children for explo
 
 ## PART II CRIMINAL OFFENCES AND RELATED PROVISIONS
 
-*Trafficking persons.*
+*Trafficking persons. or or in*
 
-**3.** (1) Whoever engages in or conspires to engage in, or attempts to engage in, or assist another person to engage in or organizes or directs other persons to engage in “trafficking in persons” shall—
+**3.** (1) Whoever engages in or conspires to engage in, attempts to engage in, or assist another person to engage in organizes or directs other persons to engage in “trafficking persons” shall—
 
 (a) on summary conviction—
 
@@ -410,11 +414,9 @@ requirements of this section and to ensure that all victims are treated with res
 
 **19.** (1) The Minister of Home Affairs may provide victims of trafficking and accompanying dependent children with appropriate visas or other required authorisation to permit them to remain in Guyana for the duration of the criminal prosecution against the traffickers, provided that the victim is willing to comply with the reasonable requests, if any, to assist in the investigation or prosecution of the traffickers.
 
-(2) Victims of trafficking may be eligible for residence in Guyana in the manner prescribed in the
-
 *c. 14:02*
 
-Immigration Act, provided they have complied with reasonable requests, if any, for assistance in the investigation or prosecution of acts of trafficking. Dependent children accompanying the victim also shall be eligible for resident status in Guyana in the manner prescribed in the said Act.
+(2) Victims of trafficking may be eligible for residence in Guyana in the manner prescribed in the Immigration Act, provided they have complied with reasonable requests, if any, for assistance in the investigation or prosecution of acts of trafficking. Dependent children accompanying the victim also shall be eligible for resident status in Guyana in the manner prescribed in the said Act.
 
 (3) A victim’s spouse and children, and in the case of child victims, the parents or guardian, and the victim's siblings, may be eligible to join the victim in Guyana as part of the victim’s initial application for residence under the preceding subsections.
 

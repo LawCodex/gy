@@ -58,7 +58,7 @@ This Chapter contains no subsidiary legislation.
 
 **7.** Savings.
 
-## SCHEDULE- Form of Statutory Declaration.
+## SCHEDULE-Form of Statutory Declaration.
 
 *1929 Ed. c. 255 1953 Ed. c. 36*
 
@@ -74,11 +74,9 @@ An Act for the Suppression of Voluntary and Extra-Judicial Oaths and Affidavits.
 
 Prohibition of
 
-**2.** No magistrate, justice of the peace, or other person administration may lawfully administer or cause or allow to be administered,
-
 *of oath or*
 
-or receive or cause to allow to be received, any oath, affidavit, affidavit, except
+**2.** No magistrate, justice of the peace, or other person administration may lawfully administer or cause or allow to be administered, or receive or cause to allow to be received, any oath, affidavit, affidavit, except
 
 *where*
 
@@ -102,13 +100,17 @@ Provided that nothing herein contained shall be construed to extend to any oath,
 
 **4.** Everyone who makes a declaration according to this Act containing any statement false in fact, which he knows or believes to be false or does not believe to be true, shall be guilty of a misdemeanour and shall be liable to imprisonment for one year.
 
-*Mode of referring to declaration.*
+*1/2022*
 
-**5.** A declaration made under this Act may be referred to in any Act, or in any official or legal document, as a statutory declaration.
+L.R.O.
 
-*Fee payable by declarant.*
+*Mode of 5. A referring to declaration. statutory*
 
-**6.** Whenever a declaration is made and subscribed by any person according to this Act, any fee which would have been due and payable on the taking or making any legal oath, affidavit, or solemn affirmation, shall in like manner be due and payable upon making and subscribing the declaration.
+declaration made under this Act may be referred to in any Act, or in any official or legal document, as a declaration.
+
+*Fee payable by declarant. any person been due and affidavit, or and payable*
+
+**6.** Whenever a declaration is made and subscribed by according to this Act, any fee which would have payable on the taking or making any legal oath, solemn affirmation, shall in like manner be due upon making and subscribing the declaration.
 
 *Savings.*
 

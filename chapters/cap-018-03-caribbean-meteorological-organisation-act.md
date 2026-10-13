@@ -336,15 +336,21 @@ The Institute established in Barbados as part of a project in co-operation with 
 
 ### PROCEDURE
 
-**1.** Four Members (not including ex officio members) shall constitute a quorum for any meeting of the Board.
+*shall*
 
-**2.** The ex officio members of the Board shall have no right to vote.
+**1.** Four Members (not including ex officio members) constitute a quorum for any meeting of the Board.
+
+*right*
+
+**2.** The ex officio members of the Board shall have no to vote.
 
 **3.** Subject to the foregoing provisions the Board shall regulate its own procedure.
 
 ### ARTICLE 16 POWERS
 
-The powers of the Board shall include—
+*The*
+
+powers of the Board shall include—
 
 (a) appointing such staff (other than the Principal of the Institute) and other persons as may be necessary for the adequate performance of the functions of the Institute;
 

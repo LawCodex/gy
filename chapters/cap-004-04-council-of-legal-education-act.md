@@ -46,7 +46,9 @@ This Chapter contains no subsidiary legislation.
 
 **2.** Interpretation.
 
-**3.** Certain provisions of the Agreement to have the force of law in Guyana.
+*Certain Guyana.*
+
+**3.** provisions of the Agreement to have the force of law in
 
 **4.** Amendment of the Schedule.
 
@@ -62,15 +64,13 @@ An Act to enable the implementation by Guyana of the Agreement for the establish
 
 **1.** This Act may be cited as the Council of Legal Education Act.
 
+*Interpretation.*
+
 **2.** In this Act—
-
-Interpretation.
-
-“Agreement”‖ means the Agreement establishing the Council of Legal Education the original of which is deposited with the Secretary- General of the Commonwealth Caribbean Regional Secretariat (including the amendments made thereto by the Supplemental Agreement entered into by the Contracting Parties and deposited in like manner before the enactment of this Act) and of which the text of the Articles is set out in the
 
 *Schedule.*
 
-Schedule;
+“Agreement”‖ means the Agreement establishing the Council of Legal Education the original of which is deposited with the Secretary- General of the Commonwealth Caribbean Regional Secretariat (including the amendments made thereto by the Supplemental Agreement entered into by the Contracting Parties and deposited in like manner before the enactment of this Act) and of which the text of the Articles is set out in the Schedule;
 
 “Minister”‖ means the Minister responsible for legal matters (other than criminal prosecutions).
 
@@ -144,9 +144,13 @@ nominated the appropriate professional body.
 
 (e) Any committee of the Council shall have the power to co-opt such person or persons as it thinks fit.
 
-**2.** Legal Status
+*\2. Legal*
 
-The Council shall possess full juridical personality and, in particular, full capacity—
+Status
+
+*The Council in particular, full*
+
+shall possess full juridical personality and, capacity—
 
 (a) to contract;
 
@@ -194,9 +198,13 @@ Provided that any national who prior to 1st October, 1972 was the holder of a Un
 
 **1.** On the satisfactory completion by any person of the course of study and professional training at one of the Law
 
-Schools established by the Council, that person shall be awarded by the Council a certificate herein referred to as a Legal Education Certificate.
+*Schools*
 
-**2.** Any person to whom paragraph 1 (b) of Article 6 does not apply and who–
+established by the Council, that person shall be awarded by the Council a certificate herein referred to as a Legal Education Certificate.
+
+*\2. Any*
+
+person to whom paragraph 1 (b) of Article 6 does not apply and who–
 
 (a) has obtained a degree of a University or Institution which is recognised by the Council as equivalent to the University of the West Indies LL.B. degree; and
 
@@ -206,11 +214,17 @@ Schools established by the Council, that person shall be awarded by the Council 
 
 (c) has completed, to the satisfaction of the Council, a six month course of training organised by the Council,
 
-shall be awarded, by the Council, a Legal Education Certificate.
+shall be awarded, by the Council, a Legal Education
+
+*Certificate.*
 
 ### ARTICLE 5 ADMISSION TO PRACTISE
 
-**1.** The Government of each of the participating territories undertakes that it will recognise that any person holding a Legal Education Certificate fulfils the requirements for
+*\1. The*
+
+*Legal*
+
+Government of each of the participating territories undertakes that it will recognise that any person holding a Education Certificate fulfils the requirements for
 
 practice in its territory so far as institutional training and education are concerned and that (subject to the transitional provisions hereinafter contained and to any reciprocal arrangements that any of the said territories may hereafter make with any other country) no person shall be admitted to practise in that territory who does not hold such certificate. But nothing herein contained shall prevent any territory from imposing additional qualifications as a condition of admission to practise therein.
 

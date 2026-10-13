@@ -72,19 +72,27 @@ References to Orders made between the years 1965 to the year 1999 inclusive and 
 
 ## SCHEDULE—Salaries and allowances prescribed for the holders of certain offices.
 
-7 of 1965 An Act to make provision for the payment of salaries and allowances to Ministers, Members of the National Assembly and the holders of certain other offices.
+*7 of*
+
+1965 An Act to make provision for the payment of salaries and allowances to Ministers, Members of the National Assembly and the holders of certain other offices.
 
 ### [14 TH DECEMBER, 1964]
 
-Short title. 1. This Act may be cited as the Ministers, Members of the National Assembly and Special Offices (Emoluments) Act.
+*Short*
 
-**2.** (1) Subject to the provisions of this Act, there shall Salaries and
+title. 1. This Act may be cited as the Ministers, Members of the National Assembly and Special Offices (Emoluments) Act.
+
+*Salaries*
+
+**2.** (1) Subject to the provisions of this Act, there shall and
 
 allowances be paid to the persons holding the respective offices prescribed for
 
-specified in the Schedule the salaries and allowances the holders of
+*the certain*
 
-specified therein in respect of the said offices. certain offices.
+specified in the Schedule the salaries and allowances holders of
+
+specified therein in respect of the said offices. offices.
 
 *Schedule. [16 of 1966A O. 38/1966A]*
 
@@ -100,11 +108,9 @@ specified therein in respect of the said offices. certain offices.
 
 “the Minister”).
 
-(2) A member of the National Assembly who has made and subscribed the oath of office under article 167 of
-
 *c.1:01*
 
-the Constitution shall be entitled to travel at the expense of the Government on any transport services operated by the Transport and Harbours Department.
+(2) A member of the National Assembly who has made and subscribed the oath of office under article 167 of the Constitution shall be entitled to travel at the expense of the Government on any transport services operated by the Transport and Harbours Department.
 
 *Sums payable under this Act charged on the Consolidated Fund. [O. 38/1966A]*
 
@@ -118,17 +124,13 @@ the Constitution shall be entitled to travel at the expense of the Government on
 
 where a person is appointed to be a Minister or Parliamentary Secretary, or the Minority Leader, or is elected to be the Speaker or the Deputy Speaker of the National Assembly, the appropriate payments shall be made to him as a Minister or Parliamentary Secretary or the Minority Leader or as Speaker or Deputy Speaker of the National Assembly with effect from the date on which he commences to hold such office.
 
-(2) No payment shall be made under this Act to a member of the National Assembly in relation to his office as such a member with respect to any period during which he is
-
 *c.1:01*
 
-required by the Constitution to cease to perform his functions as such a member or is suspended from the exercise of such functions in pursuance of any Standing Order for the regulation and conduct of the proceedings of the National Assembly.
-
-(3) Where a member of the National Assembly fails to make and subscribe the oath of office required by
+(2) No payment shall be made under this Act to a member of the National Assembly in relation to his office as such a member with respect to any period during which he is required by the Constitution to cease to perform his functions as such a member or is suspended from the exercise of such functions in pursuance of any Standing Order for the regulation and conduct of the proceedings of the National Assembly.
 
 *c. 1:01*
 
-article 167 of the Constitution on the date of the first sitting of the National Assembly after his election, no payment shall be made under this Act to the member in relation to his office as such member with respect to the period commencing on the date of the first sitting of the National Assembly and ending on the day immediately preceding the date on which he makes and subscribes the oath unless his failure to make and subscribe the oath is for a reason approved, by resolution, by the National Assembly.
+(3) Where a member of the National Assembly fails to make and subscribe the oath of office required by article 167 of the Constitution on the date of the first sitting of the National Assembly after his election, no payment shall be made under this Act to the member in relation to his office as such member with respect to the period commencing on the date of the first sitting of the National Assembly and ending on the day immediately preceding the date on which he makes and subscribes the oath unless his failure to make and subscribe the oath is for a reason approved, by resolution, by the National Assembly.
 
 *Exemptions from income tax. c. 81:01*
 
@@ -138,11 +140,9 @@ the value of any residence occupied by the Prime Minister or any
 
 allowance paid to the Prime Minister in lieu of such occupation under section 3;
 
-(b) any allowance paid to the holder of any office specified in the Schedule, under section 2 or 4 which but for this section would be liable to tax under
-
 *c. 81:01*
 
-the Income Tax Act.
+(b) any allowance paid to the holder of any office specified in the Schedule, under section 2 or 4 which but for this section would be liable to tax under the Income Tax Act.
 
 *Power to amend, alter, vary or replace Schedule.*
 
@@ -190,11 +190,9 @@ National Assembly…………… $336.432 per annum Minority Leader …………
 
 National Assembly…………… $248, 400 per annum
 
-Provided that where any such other Member of the National Assembly had served as a legislator for the period prescribed by section 10(1)(e) of the Pensions (President,
-
 *c. 22:03*
 
-Parliamentary and Special Offices) Act and where, if he had ceased to be a legislator at the end of that period, his pension—
+Provided that where any such other Member of the National Assembly had served as a legislator for the period prescribed by section 10(1)(e) of the Pensions (President, Parliamentary and Special Offices) Act and where, if he had ceased to be a legislator at the end of that period, his pension—
 
 (a) computed at the rate provided for in section 10 of that Act, if he has not received any payment under section 9(8) thereof;
 
@@ -202,11 +200,9 @@ Parliamentary and Special Offices) Act and where, if he had ceased to be a legis
 
 would have exceeded his salary as such Member of the National Assembly, he shall in addition to such salary be paid a sum equivalent to the difference between such salary and such pension.
 
-**1A.** In the proviso to paragraph 1 “legislator” has the same meaning as in section 2 of the Pensions (President,
-
 *c. 27:03*
 
-Parliamentary and Special Offices) Act.
+**1A.** In the proviso to paragraph 1 “legislator” has the same meaning as in section 2 of the Pensions (President, Parliamentary and Special Offices) Act.
 
 **2.** The persons holding the respective offices specified hereunder shall be paid duty allowances at the respective rates specified hereunder in respect of the said offices—
 
@@ -254,6 +250,10 @@ Minority Leader
 
 (b) The Deputy Prime Minister is entitled to occupy free of rent a furnished residence provided by the Government, or in lieu thereof, he is entitled to be paid a house allowance of $25,000 per month.
 
+*Cap.*
+
+1:07 Ministers, Members of the National Assembly
+
 (c) A Senior Minister is entitled to occupy free of rent a furnished residence provided by the Government, or in lieu thereof, he is entitled to be paid a house allowance of $25,000 per month.
 
 (d) The Attorney-General (if he is not a Senior Minister) is entitled to occupy free of rent a furnished residence provided by the Government, or in lieu thereof, he is entitled to be paid a house allowance of $25,000 per month.
@@ -266,8 +266,14 @@ Minority Leader
 
 every member of the National Assembly –
 
+*Ministers, and*
+
+Members of the National Assembly Special Offices (Emoluments)
+
 (i) who is a member of a Parliamentary Sessional Committee, a tax free allowance of $20,000 per month (regardless of the number of committees of which he is a member);
 
 (ii) who is a Chairman or Deputy Chairman of a Parliamentary Sessional Committee, a tax free allowance of $25,000 per month (regardless of the number of committees of which he is Chairman or Deputy Chairman.
 
-(b) who is elected to represent a Geographic Constituency an allowance of $15,000 per month.
+*(b) who is elected allowance of*
+
+to represent a Geographic Constituency an $15,000 per month.

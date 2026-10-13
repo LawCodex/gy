@@ -282,11 +282,9 @@ care and protection; or
 
 (d) is under the care of a parent or guardian who, by reason of criminal or drunken habits, is unfit to have the care of the child; or
 
-(e) is the daughter, whether legitimate or illegitimate, of a father who has been convicted of an offence under section
-
 *c. 8:01*
 
-66 of the Criminal Law (Offences) Act in respect of any of his daughters, whether legitimate or illegitimate; or
+(e) is the daughter, whether legitimate or illegitimate, of a father who has been convicted of an offence under section 66 of the Criminal Law (Offences) Act in respect of any of his daughters, whether legitimate or illegitimate; or
 
 (f) frequents the company of any reputed thief, or common or reputed prostitute; or
 
@@ -340,11 +338,9 @@ punishable with imprisonment or a less punishment, and he ought in the opinion o
 
 (d) committing the offender to the care of a relative or other fit person or of an institution named by the court; or
 
-(e) sending the offender to a training school within the meaning of the
-
 *c. 11:06*
 
-Training Schools Act; or
+(e) sending the offender to a training school within the meaning of the Training Schools Act; or
 
 (f) [Deleted by Act No. 20 of 2010]
 
@@ -354,11 +350,9 @@ Training Schools Act; or
 
 (i) committing the offender to custody in a place of detention provided under this Act; or
 
-(j) where the offender is a young person, such as could be made under section 3
-
 *c. 11:02*
 
-of the Extra-Mural Work Act, and in that event the provisions of that Act shall apply with such modifications as are necessary to bring them into accord with this Act.
+(j) where the offender is a young person, such as could be made under section 3 of the Extra-Mural Work Act, and in that event the provisions of that Act shall apply with such modifications as are necessary to bring them into accord with this Act.
 
 *Provision of places of detention.*
 

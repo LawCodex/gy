@@ -100,6 +100,8 @@ This Chapter contains no subsidiary legislation.
 
 (43 Eliz. c. 4.)
 
+Cap. 6:01
+
 ### SECTION
 
 **8.** Voluntary conveyances and settlements (13 Eliz. c. 5.) (27 Eliz. c. 4.)
@@ -182,11 +184,9 @@ title, or interest in any property, movable or immovable, or of any other right 
 
 **3.** From and after the date aforesaid—
 
-(a) the law of Guyana relating to wills, fideicommissa, trusts, suretyship, donations or gifts (both as regards movable and immovable property), liens or rights of retention, tacit and legal hypothecs or mortgages, partnership, agency, mandate, powers of attorney and appointment, hiring and lease, landlord and tenant, negotiable instruments, bailments, carriers, torts, or delicts, quasi-delicts, every description whatsoever of contracts and obligations whether mercantile or otherwise, all questions relating to husband and wife, marriage, separation, and divorce (save as to the rights acquired and obligations contracted by marriage in community of goods or subject to ante-nuptial contract prior
-
 *c. 45:04*
 
-to the Married Persons (Property) Act), parent and child, guardian and ward, minors or infants, lunatics, persons of unsound mind, master and servant, the presumptions and rules as to continuance of life and proof of death, movable or personal property, immovable or real property and chattels real, and all matters relating to any of the aforesaid subjects, and the law of Guyana relating to all other matters whatsoever, whether ejusdem generis with the foregoing or not, shall cease to be Roman-Dutch law, and as regards all matters arising and all rights acquired or accruing after the date aforesaid, the Roman-Dutch law shall cease to apply to Guyana;
+(a) the law of Guyana relating to wills, fideicommissa, trusts, suretyship, donations or gifts (both as regards movable and immovable property), liens or rights of retention, tacit and legal hypothecs or mortgages, partnership, agency, mandate, powers of attorney and appointment, hiring and lease, landlord and tenant, negotiable instruments, bailments, carriers, torts, or delicts, quasi-delicts, every description whatsoever of contracts and obligations whether mercantile or otherwise, all questions relating to husband and wife, marriage, separation, and divorce (save as to the rights acquired and obligations contracted by marriage in community of goods or subject to ante-nuptial contract prior to the Married Persons (Property) Act), parent and child, guardian and ward, minors or infants, lunatics, persons of unsound mind, master and servant, the presumptions and rules as to continuance of life and proof of death, movable or personal property, immovable or real property and chattels real, and all matters relating to any of the aforesaid subjects, and the law of Guyana relating to all other matters whatsoever, whether ejusdem generis with the foregoing or not, shall cease to be Roman-Dutch law, and as regards all matters arising and all rights acquired or accruing after the date aforesaid, the Roman-Dutch law shall cease to apply to Guyana;
 
 *Introduction of English common law.*
 
@@ -236,11 +236,9 @@ state whether that property will be sold without reserve, or subject to a reserv
 
 *Vesting foreshore, sea-bed and minerals thereunder in the State. [11 of 1971]*
 
-**4.** (1) From and after the date aforesaid, the foreshore of Guyana (that is to say, the part of the shore of the sea and of tidal navigable rivers which is covered by the medium high tide between the spring tides and the neap tides), the soil under tidal waters, and the sea-bed within the territorial waters of Guyana (hereafter in this section called “the lands”), shall be deemed to be State lands and may be dealt with in the same manner in which State lands are now dealt with
-
 *c. 62:01*
 
-under the State Lands Act or under any later Act.
+**4.** (1) From and after the date aforesaid, the foreshore of Guyana (that is to say, the part of the shore of the sea and of tidal navigable rivers which is covered by the medium high tide between the spring tides and the neap tides), the soil under tidal waters, and the sea-bed within the territorial waters of Guyana (hereafter in this section called “the lands”), shall be deemed to be State lands and may be dealt with in the same manner in which State lands are now dealt with under the State Lands Act or under any later Act.
 
 *c. 65:01*
 
@@ -290,11 +288,9 @@ per stirpes, no other representation being admitted among collaterals:
 
 (d) if there is no widow or widower and no descendant of the intestate the whole estate shall be distributed among the next of kin of the intestate who are in equal degree, their descendants taking per stirpes;
 
-(e) the father and mother shall rank
-
 *(1 Jas. II, c. 17, s.7)*
 
-equally as of the same degree, and the
+(e) the father and mother shall rank equally as of the same degree, and the
 
 father shall not take in exclusion of the mother, but each shall be entitled if of the same degree to a separate and equal share, and if, after the death of either parent, any of the children die intestate without wife or children, every brother and sister and their representatives shall have an equal share with the surviving parent;
 
@@ -324,11 +320,9 @@ common ancestor and down thence to the person in question.
 
 *Escheat.*
 
-(6)(a) In the absence of all blood relations, including all persons entitled to succeed to the estate of a
-
 *c. 46:01*
 
-deceased person under section 11 of the Legitimacy Act and in the absence of a surviving wife or husband of a deceased person, his residuary estate shall belong to the State as bona vacantia and in lieu of any right to escheat.
+(6)(a) In the absence of all blood relations, including all persons entitled to succeed to the estate of a deceased person under section 11 of the Legitimacy Act and in the absence of a surviving wife or husband of a deceased person, his residuary estate shall belong to the State as bona vacantia and in lieu of any right to escheat.
 
 (b) the President may, at any time, out of the whole or any part of the property devolving on the State as aforesaid, provide for—
 
@@ -354,11 +348,9 @@ advice or direction.
 
 (f) No proceedings may be brought against the State in respect of any property disposed of in pursuance of paragraph (b).
 
-(g) In this subsection the expression “personal representative of a deceased person” includes the Public Trustee acting in the capacity of a personal representative with respect to any intestacy, and section 13 of the Public
-
 *13:01*
 
-Trustee Act shall have no application to monies received by the Public Trustee acting as aforesaid.
+(g) In this subsection the expression “personal representative of a deceased person” includes the Public Trustee acting in the capacity of a personal representative with respect to any intestacy, and section 13 of the Public Trustee Act shall have no application to monies received by the Public Trustee acting as aforesaid.
 
 (7) In determining relationships for the purposes of this section no regard shall be had to whether any person is born in wedlock or out of wedlock and a person born out of wedlock shall be entitled to the same rights under this section as a person born in wedlock:
 
@@ -386,35 +378,47 @@ the child of anyone;
 
 (c) no person by will or other document shall so settle or dispose of any property that the rents or profits thereof shall be wholly or partially accumulated for the purchase of land only for any longer period than during the minority of anyone who would be entitled to receive the rents or profits under the will or other document if of full age.
 
-*Charities. (43 Eliz. c.4)*
+*Charities. (43 Eliz. c.4) England:*
 
-**7.** The law as to charities shall be the common law of England:
+**7.** The law as to charities shall be the common law of
 
-Provided that—
+*Provided*
+
+that—
 
 (a) no bequest or gift, whether testamentary or otherwise, shall be held void by reason only that it is for a superstitious use or purpose; and
 
 (b) by “charities” shall be ordinarily understood charities within the meaning, purview, and interpretation of the preamble to the Act of the forty-third year of Queen Elizabeth, chapter four, as preserved by section 13 of the Mortmain and Charitable Uses Act, 1888, of the United Kingdom.
 
-*Voluntary conveyances and settlements. (13 Eliz. c. 5) (27 Eliz. c. 4)*
+*Voluntary conveyances voluntary and*
 
-**8.** Voluntary conveyances or settlements, or other voluntary dispositions of property, whether movable or immovable, that is to say, conveyances, settlements, or dispositions, made otherwise than on valuable consideration and in good faith lawfully conveyed to, or made in favour of, a person who is without notice of any fraudulent intent, shall
+*immovable, settlements. dispositions, (13 Eliz. c. 5) (27 Eliz. c. 4) and in good*
 
-be void as against existing creditors.
+**8.** Voluntary conveyances or settlements, or other dispositions of property, whether movable or that is to say, conveyances, settlements, or made otherwise than on valuable consideration faith lawfully conveyed to, or made in favour of, a person who is without notice of any fraudulent intent, shall
+
+*be void as*
+
+against existing creditors.
 
 ### MARRIAGE
 
-*Annus luctus abolished.*
+*Annus luctus abolished. any other under*
 
-**9.** The obligation of observing the annus luctus, and any other limitation of the right of a widow or widower under Roman-Dutch to re-marry, are hereby abolished.
+**9.** The obligation of observing the annus luctus, and limitation of the right of a widow or widower Roman-Dutch to re-marry, are hereby abolished.
 
 ### TRUSTS
 
-*Trusts and Trustees. (56 & 57 Vic. c. 53)*
+*Trusts and Trustees.*
 
-**10.** Subject to this or any other Act, the Trustee Act, 1893, of the United Kingdom shall be part of the law of Guyana so far as the same is applicable:
+*1893, of the (56 & 57 Vic. c.*
 
-Provided that—
+*53)*
+
+**10.** Subject to this or any other Act, the Trustee Act, United Kingdom shall be part of the law of Guyana so far as the same is applicable:
+
+*Provided*
+
+that—
 
 (a) the High Court may exercise any power which the High Court of Justice in England may exercise under that Act;
 
@@ -480,11 +484,9 @@ Provided that if the debtor, trustee, or other person liable in respect of the d
 
 Court may, on application by the Attorney-General, or by a wife, husband, blood relation, creditor, or duly appointed agent or attorney of the person so adjudged, make an order as to the custody of the person so adjudged, and thereupon that order shall supersede any order of committal or removal made under the Act aforesaid and if any previous order of committal or removal has been made, the judge shall cause the Attorney-General to be notified of the application and shall fix a day for hearing his objection (if any) thereto.
 
-(2) On the application of any of the persons mentioned in the preceding subsection, the judge may also, in respect of the estate or property in Guyana of any of those hereinafter mentioned, and whether they are or are not resident or domiciled in Guyana, make any of the orders, or exercise or direct to be exercised any of the powers, which a judge in lunacy may make or exercise or direct to be exercised under the Lunacy Act, 1890, of the United Kingdom and any
-
 *53 Vic., c. 5*
 
-Act amending it.
+(2) On the application of any of the persons mentioned in the preceding subsection, the judge may also, in respect of the estate or property in Guyana of any of those hereinafter mentioned, and whether they are or are not resident or domiciled in Guyana, make any of the orders, or exercise or direct to be exercised any of the powers, which a judge in lunacy may make or exercise or direct to be exercised under the Lunacy Act, 1890, of the United Kingdom and any Act amending it.
 
 (3) The persons in respect of whose estate or property in Guyana any order may be made or power exercised under the last preceding subsection are as follows—
 
@@ -492,11 +494,9 @@ Act amending it.
 
 (i) so adjudged under the Mental Hospital Act;
 
-(ii) so found by inquisition within the meaning of the Lunacy Act, 1890, of the United Kingdom whether so adjudged under the Mental
-
 *Cap. 140 1953 Ed.*
 
-Hospital Act or not; (iii) not so found or
+(ii) so found by inquisition within the meaning of the Lunacy Act, 1890, of the United Kingdom whether so adjudged under the Mental Hospital Act or not; (iii) not so found or
 
 adjudged, for the protection or administration of whose property any order has been made by a court of competent jurisdiction in any part of the United Kingdom or in any colony or dependency thereof;
 

@@ -72,7 +72,9 @@ Page Guyana Citizenship Regulations 18 (Reg. 11/1967, 17/1967, 25/1981, 5/1985)
 
 **16.** Regulations.
 
-## FIRST SCHEDULE—Form of oath.
+*FIRST*
+
+## SCHEDULE—Form of oath.
 
 ## SECOND SCHEDULE—Qualifications for Naturalisation.
 
@@ -108,11 +110,9 @@ An Act to make provision for the acquisition of citizenship of Guyana by persons
 
 “minor” means a person who is not of full age;
 
-“oath of allegiance” means an oath of allegiance set out in the
-
 *First Schedule.*
 
-First Schedule to this Act.
+“oath of allegiance” means an oath of allegiance set out in the First Schedule to this Act.
 
 (2) For the purposes of this Act, a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the Government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
 
@@ -182,11 +182,9 @@ satisfies him that he is qualified under the Second Schedule for naturalisation 
 
 **10.** (1) Subject to subsection (2) if any citizen of Guyana of full age and capacity who is or is about to become—
 
-(a) a citizen of any country to which
-
 *c. 1:01*
 
-article 47 of the Constitution applies, or of the Republic of Ireland; or
+(a) a citizen of any country to which article 47 of the Constitution applies, or of the Republic of Ireland; or
 
 (b) a national of a foreign country,
 
@@ -238,21 +236,17 @@ on application made by or on behalf of any person with respect to whose citizens
 
 *Evidence.*
 
-**13.** (1) Every document purporting to be a notice, certificate, order or declaration, or an entry in a register or a subscription of an oath of allegiance, given, granted or made
-
 *c. 1:01*
 
-under this Act or under Chapter IV of the Constitution shall be received in evidence and shall, unless the contrary is proved, be deemed to have been given, granted or made by or on behalf of the person by whom or on whose behalf it purports to have been given, granted or made.
+**13.** (1) Every document purporting to be a notice, certificate, order or declaration, or an entry in a register or a subscription of an oath of allegiance, given, granted or made under this Act or under Chapter IV of the Constitution shall be received in evidence and shall, unless the contrary is proved, be deemed to have been given, granted or made by or on behalf of the person by whom or on whose behalf it purports to have been given, granted or made.
 
 (2) Prima facie evidence of any such document as aforesaid may be given by production of a document purporting to be certified as a true copy thereof by such person and in such manner as may be prescribed.
 
 (3) Any entry in a register under this Act or under Chapter IV of the Constitution shall be received as evidence of the matters stated in the entry.
 
-(4) Nothing in this section shall prejudice the admissibility of anything in evidence, or the effect of any such
-
 *c. 5:03*
 
-evidence, pursuant to any provisions of the Evidence Act.
+(4) Nothing in this section shall prejudice the admissibility of anything in evidence, or the effect of any such evidence, pursuant to any provisions of the Evidence Act.
 
 *Offences. [13 of 1997 14 of 1998]*
 
@@ -286,11 +280,9 @@ shall be liable—
 
 **16.** The Minister may make regulations generally for giving effect to this Act, and in particular but without prejudice to the generality of the foregoing may make regulations—
 
-(a) prescribing anything which is required by this Act or by Chapter IV
-
 *c. 1:01*
 
-of the Constitution to be prescribed;
+(a) prescribing anything which is required by this Act or by Chapter IV of the Constitution to be prescribed;
 
 (b) for the registration of anything required or authorised under this Act or under Chapter IV of the Constitution to be registered;
 
@@ -372,17 +364,19 @@ _______________________
 
 [Deleted by O.80/1980]
 
+*Cap.*
+
+14:01
+
 ### SUBSIDIARY LEGISLATION _________________
 
 *Reg. 11/1967 17/1967*
 
 GUYANA CITIZENSHIP REGULATIONS made under section 16
 
-**1.** These Regulations may be cited as the Guyana
-
 *Citation.*
 
-Citizenship Regulations.
+**1.** These Regulations may be cited as the Guyana Citizenship Regulations.
 
 *Interpretation.*
 
@@ -390,7 +384,7 @@ Citizenship Regulations.
 
 “Form” means form set out in the First Schedule.
 
-## PART I — CITIZENSHIP BY REGISTRATION
+## PART I CITIZENSHIP BY REGISTRATION
 
 *Application under Article 42(1) or 45. [Reg. 25/1981] Form R1.*
 
@@ -552,15 +546,9 @@ Caution—Section 14(1) of the Guyana Citizenship Act (cap. 14:01) provides as f
 
 "Any person who for the purpose of procuring anything to be done or not to be done under this Act or under Chapter IV of the Constitution, makes any statement which he knows to be false in a material particular, or recklessly makes a statement which is false in a material particular, shall be liable on summary conviction to a fine of five hundred dollars and to imprisonment for three months."
 
-*Name and address in full*
+*Name and address in full at in block capitals*
 
-**1.** I of was born
-
-*at*
-
-*in block capitals*
-
-on
+**1.** I of was born on
 
 *Delete word in ( ) which does not apply.*
 
@@ -572,13 +560,9 @@ on
 
 **3.** I was married at on to [full name of husband/wife] of (late of)[husband's/wife’s address or last address if deceased] .
 
-*Delete word in ( ) which does*
+*Delete word in ( ) which does . not apply.*
 
 **4.** My husband/ wife was born at on
-
-*.*
-
-*not apply.*
 
 *Delete words in ( ) which do not apply.*
 
@@ -618,7 +602,9 @@ or (g) a stateless alien and was formerly a subject or citizen of the following 
 
 **10.** I (have) (have not) previously renounced or been deprived of citizenship of Guyana. [If the applicant has renounced his or her citizenship of Guyana, here state the date on which the declaration of renunciation was made; and if he or she had been deprived of his or her citizenship, state the date on which, and the authority by whom, the order of deprivation was made]
 
-1 * These countries, are Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus, Dominica, Fiji, the Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self-Governing Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Leone, Singapore, Solomon Islands, Sri Lanka, Saint Lucia, St Vincent, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Western Samoa and Zambia.
+*1 \* These countries, are Cyprus, Dominica, Fiji, the Malawi, Malaysia, Malta, Governing Countries in Seychelles, Sierra Leone, Swaziland, Tanzania, Colonies, Western Samoa*
+
+Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Mauritius, Nauru, New Zealand and Island Territories and Self-free Association with New Zealand, Nigeria, Papua New Guinea, Singapore, Solomon Islands, Sri Lanka, Saint Lucia, St Vincent, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and and Zambia.
 
 **11.** I hereby apply to be registered as a citizen of Guyana and am conscious of the duty of such a citizen to be loyal to the Constitution and to demonstrate no disaffection towards it, whether by any act subversive of its principles or institutions or otherwise.
 
@@ -632,9 +618,9 @@ Made and subscribed this day of 20 before me at .
 
 ### OATH OF ALLEGIANCE
 
-*I*
+*I Name and address in full*
 
-*Name and address in full in block capitals. Delete word in ( ) which does not apply. Delete words in ( ) which does not apply. Delete words in ( ) which does not apply. Delete subparagraph ) which does not apply. c.1:01*
+*in block capitals. Delete word in ( ) which does not apply. Delete words in ( ) which does not apply. Delete words in ( ) which does not apply. Delete subparagraph ) which does not apply. c.1:01*
 
 do swear [solemnly affirm] that I will be faithful and bear true allegiance to Guyana and will honour, uphold and preserve the Constitution of the Co-operative Republic of Guyana.
 
@@ -672,17 +658,17 @@ Caution—Section 14(1) of the Guyana Citizenship Act (cap. 14:01) provides as f
 
 and he was born at on .
 
-**3.** I am (single) (married) (a widow) (a widower) Delete words in
+*Delete words in ( ) which do not apply.*
 
-( ) which do not (divorced from my wife/husband).
-
-apply.
+**3.** I am (single) (married) (a widow) (a widower) (divorced from my wife/husband).
 
 **4.** My (wife's/husband's) full name (is) (was)
 
-**5.** I am (a) a citizen of the following countries  to which article 47 of the Constitution applies, that is to say, Delete words in
+*Delete words in ( ) which do not apply.*
 
-( ) which do not [Insert name of country or countries] apply.
+**5.** I am (a) a citizen of the following countries  to which article 47 of the Constitution applies, that is to say,
+
+[Insert name of country or countries]
 
 or (b) a citizen of the Republic of Ireland. or (c) a British subject under the British Nationality Act, 1948, of the United Kingdom,
 
@@ -690,15 +676,17 @@ or (d) a British subject by virtue of the British Nationality Act, 1965, of the 
 
 by reason of the fact that [Here state the grounds on which the applicant claims to be such a citizen or British subject]
 
-**6.** I have been ordinarily resident in Guyana or Delete words
+*Delete words which do not apply.*
 
-which do not have been in the Service of the Government of apply.
+**6.** I have been ordinarily resident in Guyana or have been in the Service of the Government of Guyana or partly the one and partly other for a period of five years ending with the date of this application.
 
-Guyana or partly the one and partly other for a period of five years ending with the date of this application.
+* These Cyprus, Dominica, Malawi, Malaysia,*
 
-
+*Seychelles, Sierra*
 
-These countries, are Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus, Dominica, Fiji, the Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self-Governing Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Leone, Singapore, Solomon Islands, Sri Lanka, Saint Lucia, St Vincent, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Western Samoa and Zambia.
+*Colonies, Western*
+
+countries, are Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Fiji, the Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self-Governing Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Leone, Singapore, Solomon Islands, Sri Lanka, Saint Lucia, St Vincent, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Samoa and Zambia.
 
 *Either or both of subparagraphs (a) and (b) should be completed.*
 
@@ -714,7 +702,9 @@ Total residence years.
 
 Government Capacity in From To Years Months Department which (Date) (Date)
 
-by which employed
+*by*
+
+which employed
 
 employed
 
@@ -792,13 +782,19 @@ State how change in
 
 nationality was made
 
-If stateless, say how nationality was lost Name Nation State if minor is single, married, widower -ality or divorced
+*If*
 
-Place Date If married, give full name and
+stateless, say how nationality was lost Name Nation State if minor is single, married, widower -ality or divorced
+
+*If*
+
+Place Date married, give full name and
 
 nationality of wife
 
-Place Date If wife is dead, give place and date of
+*If*
+
+Place Date wife is dead, give place and date of
 
 death
 
@@ -982,21 +978,19 @@ Place
 
 Date of Birth
 
-\*(b) Nationality at birth
+*\\*(b) \*(c) \*(d) *
 
-\*(c) Present Nationality if different *(d) State how change in Nationality was made
+Nationality at birth
 
-**
-
-(e) If stateless, say how change in nationality was lost
+Present Nationality if different State how change in Nationality was made (e) If stateless, say how change in nationality was lost
 
 (f) If the applicant is a British protected person:—
 
 (i) State name of protectorate, pro-tected state, mandated territory or trust territory from which he derives the status of a British protected person
 
-**
+* If the applicant is a British*
 
-If the applicant is a British protected person he/she need not complete (b), (c), (d), and (e).
+protected person he/she need not complete (b), (c), (d), and (e).
 
 (ii) Say how that status was acquired
 
@@ -1254,17 +1248,23 @@ PARTICULARS RELATING TO APPLICANT Full name
 
 Address
 
-Profession or occupation Place and date of birth
+Profession or occupation
+
+Place and date of birth
 
 Nationality
 
 Single, married, etc.
 
-Name of wife or husband Names and nationalities of parents .
+Name of wife or husband
+
+Names and nationalities of parents .
 
 Oath of Allegiance
 
-I do swear [solemnly affirm] that I will be faithful and bear true allegiance to Guyana and will honour, uphold and preserve the Constitution of Guyana.
+*will be*
+
+I do swear [solemnly affirm] that I faithful and bear true allegiance to Guyana and will honour, uphold and preserve the Constitution of Guyana.
 
 So help me God. [To be omitted in affirmation].
 
@@ -1286,13 +1286,11 @@ _________________
 
 DECLARATION OF RENUNCIATION OF CITIZENSHIP UNDER SECTION 10 OF THE ACT MADE BY A CITIZEN OF GUYANA WHO IS OR IS ABOUT TO BECOME A CITIZEN OF ONE OF THE COUNTRIES TO WHICH ARTICLE 47 OF THE CONSTITUTION APPLIES  OR OF THE REPUBLIC OF IRELAND OR A NATIONAL OF A FOREIGN COUNTRY
 
-**1.** I am of full capacity and was born at [Here insert
+*[Here insert full name and address of declarant]*
 
-full name and on address of
+**1.** I am of full capacity and was born at on
 
 **2.** I have/have not been married.
-
-declarant]
 
 **3.** I am/am about to become a citizen/national of under the law of that country.
 
@@ -1300,9 +1298,11 @@ declarant]
 
 I do solemnly and sincerely declare that the foregoing particulars stated in this declaration are true, and I make this solemn declaration con-
 
-
+**
 
-These countries, are Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus, Dominica, Fiji, the Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Malta, Mauritius, Nauru, New Zealand and Island Territories and Self- Governing Countries in free Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Leone, Singapore, Solomon Islands, Sri Lanka, Saint Lucia, St Vincent, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Western Samoa and Zambia.
+*Dominica, Fiji, the Malaysia, Malta, Countries in free Leone, Singapore,*
+
+These countries, are Australia, the Bahamas, Bangladesh, Barbados, Botswana, Canada, Cyprus, Gambia, Ghana, Grenada, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Mauritius, Nauru, New Zealand and Island Territories and Self- Governing Association with New Zealand, Nigeria, Papua New Guinea, Seychelles, Sierra Solomon Islands, Sri Lanka, Saint Lucia, St Vincent, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, United Kingdom and Colonies, Western Samoa and Zambia.
 
 scientiously believing the same to be true.
 
@@ -1314,7 +1314,9 @@ Made and subscribed this day of 20 before me.
 
 (Signed)
 
-[Magistrate, Justice of the Peace or other official title] ____________________
+*title]*
+
+[Magistrate, Justice of the Peace or other official ____________________
 
 *Reg. 7/1982*
 
@@ -1328,31 +1330,29 @@ Matter in which fee may be taken of fee
 
 *$ c*
 
-Application for registration as a citizen
+*20 00*
+
+Application for registration as a citizen under article 42 or 45 of the Constitution
 
 *20 00*
 
-under article 42 or 45 of the Constitution
-
-Application for registration as a citizen under
-
-*20 00*
-
-section 4(1) of the Act
+Application for registration as a citizen under section 4(1) of the Act
 
 Registration of a minor child who is a British protected person or an alien as a citizen under section 5 of the Act—
 
-If application for the minor's registration was made at the same time as an application by one of his parents for a
-
 *20 00*
 
-Certificate of Naturalisation
+If application for the minor's registration was made at the same time as an application by one of his parents for a Certificate of Naturalisation
 
 In other cases—
 
 *100 00*
 
 If the minor is a British protected person
+
+*14:01*
+
+Cap.
 
 If the minor is an alien
 
@@ -1366,20 +1366,16 @@ To a British protected person –
 
 To an alien
 
-Grant of a Certificate of Citizenship in case of
-
 *15 00*
 
-doubt
+Grant of a Certificate of Citizenship in case of doubt
 
 *20 00*
 
 Registration of renunciation of Citizenship
 
-Supplying a certified true copy of any notice; certificate, order, declaration or entry given, granted or made by or under the Constitution
-
 *10 00*
 
-or the Act
+Supplying a certified true copy of any notice; certificate, order, declaration or entry given, granted or made by or under the Constitution or the Act
 
 ______________________

@@ -568,6 +568,10 @@ made under section 32(a)
 
 (b) an employee of the Authority.
 
+*1/2012*
+
+L.R.O.
+
 *Composition of the Authority.*
 
 **4.** The Authority shall consist of a Chairman and not less than two other and not more than four other members appointed by the Minister.

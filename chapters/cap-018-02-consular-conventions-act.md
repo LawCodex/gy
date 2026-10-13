@@ -62,17 +62,17 @@ Consular Conventions (Italian Republic) Order 10 (O. in C. 47/1958)
 
 *SECTION*
 
-**1.** Short title.
+*Short title. Power of deceased No Exemption Property of Wrecks.*
 
-**2.** Power of consular officers in relation to property in Guyana of deceased persons.
+1.
 
-**3.** No immunity in respect of acts done by virtue of sections 1 and 2
+**2.** consular officers in relation to property in Guyana of persons.
 
-**4.** Exemption from taxes.
+**3.** immunity in respect of acts done by virtue of sections 1 and 2
 
-**5.** Property of deceased seamen.
+**4.** from taxes.
 
-*Wrecks.*
+**5.** deceased seamen.
 
 6.
 
@@ -82,9 +82,9 @@ __________________________
 
 *1953 Ed. c. 351 _______________________________________________________*
 
-*41 of 1950*
+*41 of 1950 An*
 
-An Act to confer upon the Consular Officers of Foreign States with which consular conventions are concluded by the Government of Guyana certain powers relating to the administration of the estates and property of deceased nationals of such States; to exempt such officers from the payment of any tax in respect of any land or buildings owned or occupied by any such State for the purpose of a Consular Office; to enable any land or buildings to be conveyed to any such State without the payment of stamp duties; to restrict the powers of constables and other persons to enter the Consular Offices of such States; and for purposes connected with the matters aforesaid.
+Act to confer upon the Consular Officers of Foreign States with which consular conventions are concluded by the Government of Guyana certain powers relating to the administration of the estates and property of deceased nationals of such States; to exempt such officers from the payment of any tax in respect of any land or buildings owned or occupied by any such State for the purpose of a Consular Office; to enable any land or buildings to be conveyed to any such State without the payment of stamp duties; to restrict the powers of constables and other persons to enter the Consular Offices of such States; and for purposes connected with the matters aforesaid.
 
 [7 th October, 1950]
 
@@ -194,7 +194,7 @@ _______________
 
 ### KINGDOM OF SWEDEN
 
-*41/1952 Citation.*
+*Citation.*
 
 **1.** This Order may be cited as the Consular Conventions (Kingdom of Sweden) Order and shall be
 
@@ -230,11 +230,9 @@ l. This Order may be cited as the Consular Conventions (Kingdom of Greece) Order
 
 __________________
 
-### CONSULAR CONVENTIONS (UNITED STATES OF
-
 *48/1955*
 
-MEXICO) ORDER made under section 8 (1)
+CONSULAR CONVENTIONS (UNITED STATES OF MEXICO) ORDER made under section 8 (1)
 
 *Citation.*
 

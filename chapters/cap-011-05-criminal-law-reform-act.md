@@ -70,9 +70,9 @@ This Chapter contains no subsidiary legislation.
 
 _______________________________________________________
 
-*12 of 1988*
+*12 of*
 
-An Act to make provision for suspended sentences and for certain other matters relating to sentences.
+1988 An Act to make provision for suspended sentences and for certain other matters relating to sentences.
 
 ### [1 ST JANUARY 1989]
 
@@ -192,19 +192,25 @@ to the case as the court first mentioned considers likely to be of assistance to
 
 (c) the new supervising officer and the immediately previous supervising officer.
 
-(7) A supervision order shall cease to have effect if before the end of the period specified in it—
+*before the*
+
+(7) A supervision order shall cease to have effect if end of the period specified in it—
 
 (a) a court orders under section 4 that the suspended sentence passed in the proceedings in which the supervision order was made shall take effect whether with or without variation; or
 
 (b) the order is discharged or replaced under subsection (8) or (9).
 
-(8) A supervision order may be discharged on the application of the supervising officer or the person in relation to whom it was made—
+*to whom*
+
+(8) A supervision order may be discharged on the application of the supervising officer or the person in relation it was made—
 
 (a) if it was made by the High Court and includes a direction reserving the power of discharging it to that court, by the High Court; or
 
 (b) in any other case, by a magistrate’s court having jurisdiction over the magisterial district for the time being specified in the supervision order as the area of residence of the said person.
 
-(9) Where under section 4 of this Act a court deals with a person in respect of a suspended sentence by varying
+*with a*
+
+(9) Where under section 4 of this Act a court deals person in respect of a suspended sentence by varying
 
 the operational period of that sentence or by ordering that no order need be made under subsection (1)(a), (b) or (c) of that section, the court may—
 
@@ -280,18 +286,14 @@ the written law empowers the court to
 
 impose any other penalty, instead of the sentence of imprisonment, if there are special reasons;
 
-(b) section 19 of the Criminal Law
-
 *c. 8:01*
 
-(Offences) Act or any other written law empowers the court to substitute any other punishment for the sentence of imprisonment; or
+(b) section 19 of the Criminal Law (Offences) Act or any other written law empowers the court to substitute any other punishment for the sentence of imprisonment; or
 
 (c) power is vested in any authority to remit the sentence of imprisonment, to substitute another form of punishment for the sentence of imprisonment, or to accept compensation in substitution for proceedings in a court.
 
-*Power to make regulations.*
+*Power to make regulations. the purposes of this Act.*
 
 **11.** The Minister may make regulations to carry out
-
-*the purposes of this Act.*
 
 ________________

@@ -26,7 +26,7 @@ Act
 
 Current Authorised Pages Pages Authorised (inclusive) by L.R.O.
 
-– 1 3 1/2012
+– 1 3
 
 Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
@@ -86,17 +86,23 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 “dependent” in relation to a person means –
 
-(a) any unmarried child of that person -
-
-under the age of eighteen years; (i)
+(a) any unmarried child of that person - under the age of eighteen years; (i)
 
 (ii) under the age of twenty-five years attending school or university full time;
 
-(iii) over the age of eighteen years who, due to disability, is wholly dependent on that person, whether born in or out of wedlock and includes a step child, a child adopted by law or a child of the family;
+*who,*
 
-(b) a parent who is wholly dependent on that person for his subsistence;
+*and by*
 
-(c) any other natural person certified as such by order of court;’;
+(iii) over the age of eighteen years due to disability, is wholly dependent on that person, whether born in or out of wedlock includes a step child, a child adopted law or a child of the family;
+
+*that*
+
+(b) a parent who is wholly dependent on person for his subsistence;
+
+*such by*
+
+(c) any other natural person certified as order of court;’;
 
 “immigration officer” has the same meaning as in the Immigration Act;
 
@@ -156,11 +162,9 @@ shall be deemed to be a passport issued by Montserrat;
 
 *Grant of*
 
-**7.** (1) The Minister shall, subject to subsection (2)
-
 *Certificate.*
 
-and sections 8 and 13, grant a Schedule II Certificate to any applicant under section 6 who is -
+**7.** (1) The Minister shall, subject to subsection (2) and sections 8 and 13, grant a Schedule II Certificate to any applicant under section 6 who is -
 
 (a) a citizen of Guyana; or
 
@@ -210,11 +214,9 @@ States.
 
 *Effect of a*
 
-**10.** (1) Subject to sections 11, 13 and 14 and permission notwithstanding any other law a person who holds a under sections
-
 *3 or 4. [9 of 2014]*
 
-Schedule II Certificate and who is granted a permission under section 3 shall, as in the case of a citizen of Guyana, not be subject to—
+**10.** (1) Subject to sections 11, 13 and 14 and permission notwithstanding any other law a person who holds a under sections Schedule II Certificate and who is granted a permission under section 3 shall, as in the case of a citizen of Guyana, not be subject to—
 
 (a) any restriction on his or his spouse and dependent members of his family’s freedom of movement, including the freedom to leave and re-enter Guyana without further permission;
 

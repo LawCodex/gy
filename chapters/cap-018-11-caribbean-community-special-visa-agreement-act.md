@@ -52,11 +52,9 @@ This Chapter contains no subsidiary legislation.
 
 ## SCHEDULE - Caribbean Community Special Visa Agreement
 
-__________________________
-
 *8 of 2007*
 
-An Act to provide for the implementation in Guyana of the Caribbean Community Special Visa Agreement and for matters connected therewith.
+__________________________ An Act to provide for the implementation in Guyana of the Caribbean Community Special Visa Agreement and for matters connected therewith.
 
 ### [31 ST JANUARY, 2007]
 
@@ -64,7 +62,9 @@ An Act to provide for the implementation in Guyana of the Caribbean Community Sp
 
 **1.** This Act may be cited as the Caribbean Community Special Visa Agreement Act.
 
-Interpretation. 2. In this Act —
+*Interpretation.*
+
+**2.** In this Act —
 
 *Schedule*
 

@@ -124,13 +124,17 @@ Provided that no person shall be detained under the warrant for a longer period 
 
 (b) being present before the legislative body, wilfully insults any member thereof,
 
-shall be liable on summary conviction to a fine of thirty-two thousand five hundred dollars and to imprisonment for six months:
+*shall be liable thousand five months:*
 
-Provided that where the improper conduct has taken place before any committee of the National Assembly, the circumstances shall be reported in writing by that committee to the Council.
+on summary conviction to a fine of thirty-two hundred dollars and to imprisonment for six
 
-*Privilege of witness. [4 of 1972]*
+*place before circumstances*
 
-**7.** Upon consideration by a legislative body of any question arising for its determination—
+Provided that where the improper conduct has taken any committee of the National Assembly, the shall be reported in writing by that committee to the Council.
+
+*Privilege of witness. any question [4 of 1972]*
+
+**7.** Upon consideration by a legislative body of arising for its determination—
 
 (a) every witness examined under this Act shall be entitled to the same protection, privileges, and immunities as a witness in the High Court in its civil jurisdiction; and
 
@@ -140,7 +144,9 @@ Provided that where the improper conduct has taken place before any committee of
 
 *Perjury.*
 
-**8.** Every person examined under this Act who wilfully gives false evidence shall be guilty of perjury.
+*wilfully gives*
+
+**8.** Every person examined under this Act who false evidence shall be guilty of perjury.
 
 ## SCHEDULE
 

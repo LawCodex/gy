@@ -42,9 +42,9 @@ This Chapter contains no subsidiary legislation.
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-**1.** Short title.
+**1.** title.
 
 **2.** Interpretation.
 
@@ -132,9 +132,13 @@ In this Treaty, unless the context otherwise requires:
 
 "Contracting States" means Antigua and Barbuda, The Bahamas, Barbados, Belize; Dominica; Grenada; Guyana; Jamaica; St. Kitts and Nevis; Saint Lucia; St. Vincent and the Grenadines; Suriname; and Trinidad and Tobago;
 
-"Co-ordinator" means the Co-ordinator of the RSS appointed in accordance with the Treaty;
+*"Co-ordinator" in*
 
-"Forces Commanders" means the –
+means the Co-ordinator of the RSS appointed accordance with the Treaty;
+
+*"Forces*
+
+Commanders" means the –
 
 (a) Commander of the Antigua and Barbuda Defence Force;
 
@@ -172,11 +176,23 @@ In this Treaty, unless the context otherwise requires:
 
 (v) Commissioner of Police of the Trinidad and Tobago Police Service
 
-"Full command" means the military authority and responsibility of a commander to issue orders to his subordinates in every aspect of military administration and operations.
+*"Full*
 
-"Regional Security System" or "RSS" means the Organisation established by the Treaty signed at St Georges, Grenada, on the 5th day of March 1996 between Barbados and the Member States of the Organisation of Eastern Caribbean States;
+*and*
 
-"Security Assistance Mechanism" means the arrangements
+command" means the military authority and responsibility of a commander to issue orders to his subordinates in every aspect of military administration operations.
+
+*"Regional*
+
+Security System" or "RSS" means the Organisation established by the Treaty signed at St Georges, Grenada, on the 5th day of March 1996 between Barbados and the Member States of the Organisation of Eastern Caribbean States;
+
+*"Security*
+
+Assistance Mechanism" means the arrangements
+
+*Cap.*
+
+15:06
 
 and the utilization of the support facilities required to expedite the mobilization, coordination and deployment of resources to respond effectively and in a timely manner to control the threat of serious crimes, man-made or natural disasters, and national and regional crisis;
 
@@ -222,15 +238,27 @@ Each Contracting State shall take all necessary measures, including legislative 
 
 (d) any other function mandated by the Contracting States which is within the objectives stated in Article 3.
 
-**5.** Subject to Article 11, the Committee shall be responsible for mobilising coordinating and deploying the resources of the Security Assistance Mechanism in response to a request for assistance by a Contracting State.
+*responsible for resources of the to a request for*
 
-**6.** Combined operations shall be coordinated at any suitable place as may be agreed upon by the Committee.
+**5.** Subject to Article 11, the Committee shall be mobilising coordinating and deploying the Security Assistance Mechanism in response assistance by a Contracting State.
 
-### ARTICLE 6 THE COORDINATING SECRETARIAT
+*suitable place as*
 
-**1.** The Central Liaison Office of the RSS shall be designated the Coordinating Secretariat of the Security Assistance Mechanism.
+**6.** Combined operations shall be coordinated at any may be agreed upon by the Committee.
 
-**2.** In the performance of its functions the Coordinating Secretariat shall:
+### ARTICLE 6
+
+*THE*
+
+### COORDINATING SECRETARIAT
+
+*\1. The designated the Assistance*
+
+Central Liaison Office of the RSS shall be Coordinating Secretariat of the Security Mechanism.
+
+*\2. In the Secretariat shall:*
+
+performance of its functions the Coordinating
 
 (a) seek to ascertain the quantum and availability of the resources in the territories of the Contracting States which may be identified for use by the Security Assistance
 
@@ -246,13 +274,21 @@ Mechanism;
 
 (f) perform any other function mandated by the Contracting States which is within the objectives stated in Article 3.
 
-**3.** The Central Liaison Office of the RSS shall provide administrative and secretarial services for the purposes of the Security Assistance Mechanism.
+*\3. The administrative Security*
 
-### ARTICLE 7 COORDINATOR
+Central Liaison Office of the RSS shall provide and secretarial services for the purposes of the Assistance Mechanism.
 
-**1.** The Coordinator shall be responsible for the general administrative direction of the Security Assistance Mechanism.
+### ARTICLE 7
 
-**2.** The duties of the Coordinator shall include –
+### COORDINATOR
+
+*\1. The administrative Mechanism.*
+
+Coordinator shall be responsible for the general direction of the Security Assistance
+
+*\2. The*
+
+duties of the Coordinator shall include –
 
 (a) advising the Contracting States on request
 
@@ -266,13 +302,21 @@ on the issues of serious crimes, man-made and natural disasters and matters of r
 
 (e) taking appropriate action in respect of any decision taken or directive received from the Contracting States.
 
-**3.** The Coordinator shall submit any information and prepare any document sending by the Contracting States and submit any information which in his opinion the Contracting States ought to be informed.
+*prepare any submit any*
+
+**3.** The Coordinator shall submit any information and document sending by the Contracting States and information which in his opinion the Contracting States ought to be informed.
 
 ### ARTICLE 8 THE BUDGET
 
-**1.** The Contracting States may, where the exigencies of the Security Assistance Mechanism so require, agree to the preparation of a budget in which the quantum or proportion of each Contracting State contribution is determined.
+*the Security*
 
-**2.** Whenever a request is made for assistance or cooperation from the Security Assistance Mechanism, the receiving Contracting State shall meet the financial obligations arising from the rendering of such assistance or cooperation.
+*of each*
+
+**1.** The Contracting States may, where the exigencies of Assistance Mechanism so require, agree to the preparation of a budget in which the quantum or proportion Contracting State contribution is determined.
+
+*cooperation receiving obligations cooperation.*
+
+**2.** Whenever a request is made for assistance or from the Security Assistance Mechanism, the Contracting State shall meet the financial arising from the rendering of such assistance or
 
 **3.** Budget estimates shall on request be prepared by
 
@@ -348,7 +392,9 @@ embodied in it.
 
 ### CLAIMS
 
-Except as otherwise agreed, the receiving Contracting Party shall:
+*Except as shall:*
+
+otherwise agreed, the receiving Contracting Party
 
 (a) not institute any legal proceedings against a sending Contracting Party or its service personnel or other legal entities acting on its behalf;
 
@@ -362,9 +408,13 @@ in respect of death or injury to such service personnel, damage to or loss of eq
 
 ### ARTICLE 15 OPERATIONAL AND MEDICAL EXPENSES
 
-**1.** The receiving Contracting State shall pay the expenses incurred in accommodating and victualling the service personnel of the sending Contracting Party.
+*expenses service*
 
-**2.** The medical expenses of any service personnel of the sending Contracting State who needs medical attention –
+**1.** The receiving Contracting State shall pay the incurred in accommodating and victualling the personnel of the sending Contracting Party.
+
+*\2. The the sending*
+
+medical expenses of any service personnel of Contracting State who needs medical attention –
 
 (a) in the receiving Contracting State as a result of injuries received, or illness occurring during operations or training in that Contracting State shall be borne by the receiving Contracting State;
 
@@ -372,15 +422,21 @@ in respect of death or injury to such service personnel, damage to or loss of eq
 
 (c) as a result of injuries or illness referred to in paragraph (a) which cannot be obtained in either the receiving Contracting State or the sending Contracting State shall be borne by both Contracting States in such proportion as may be agreed upon.
 
-**3.** The receiving Contracting Party shall pay the operational expenses incurred in respect of the transportation and use of the resources necessary to mobilize and execute any request made on its behalf.
+*\3. The operational and use of the any request*
+
+receiving Contracting Party shall pay the expenses incurred in respect of the transportation resources necessary to mobilize and execute made on its behalf.
 
 ### ARTICLE 16 TRAINING
 
-**1.** The Contracting Parties may make arrangements for the training of service personnel.
+*\1. The for the training*
+
+Contracting Parties may make arrangements of service personnel.
 
 **2.** Training may be conducted on a collective or individual basis.
 
-**3.** The Committee shall be responsible for all training initiatives undertaken by virtue of this Treaty.
+*\3. The initiatives*
+
+Committee shall be responsible for all training undertaken by virtue of this Treaty.
 
 ### SETTLEMENT OF DISPUTES
 
@@ -520,7 +576,9 @@ of the incident or event for which it is convened;
 
 (g) performing any other function mandated by the Conference within the scope of its establishment pursuant to paragraph 2 of Article 2.
 
-**2.** COPACS shall establish a Regional Operations Coordinating Centre as required to be the Operational Headquarters under the command of the Regional Operations Commander, in order to execute the Plan specified in subsection (c) of paragraph 1 and related matters.
+*Coordinating Headquarters Commander,*
+
+**2.** COPACS shall establish a Regional Operations Centre as required to be the Operational under the command of the Regional Operations in order to execute the Plan specified in subsection (c) of paragraph 1 and related matters.
 
 ### SECURITY ASSISTANCE MECHANISM
 
@@ -548,11 +606,9 @@ for the Government of Barbados on the……….. day of ………
 
 at …………………………………………………… Signed by………………………………….
 
-for the Government of Belize on the………. day of………….. at…………………………………………..........................................
-
 *.*
 
-Signed by………………………………….
+for the Government of Belize on the………. day of………….. at………………………………………….......................................... Signed by………………………………….
 
 for the Government of the Commonwealth of Dominica on the………day of……………………. at….....…………………….. Signed by………………………………..
 

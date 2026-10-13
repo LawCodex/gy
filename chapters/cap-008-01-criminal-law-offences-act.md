@@ -212,7 +212,9 @@ TITLE 6—BODILY INJURY, ETC.
 
 ### TITLE 7—INCEST, RAPE AND SIMILAR OFFENCES
 
-65-72. Repealed by Act No. 7 of 2010.
+*65-72.*
+
+Repealed by Act No. 7 of 2010.
 
 **73.** Procuration.
 
@@ -254,7 +256,9 @@ Manslaughter
 
 **96.** Attempt to commit suicide.
 
-**97.** Disposal of dead body of child with intent to conceal its birth.
+*its birth.*
+
+**97.** Disposal of dead body of child with intent to conceal
 
 Infanticide and child destruction
 
@@ -272,7 +276,9 @@ Murder
 
 **102.** Conspiracy or incitement to commit murder.
 
-**103.** Attempt to commit murder in certain specified ways.
+*ways.*
+
+**103.** Attempt to commit murder in certain specified
 
 **104.** Attempt to commit murder in other ways.
 
@@ -424,7 +430,9 @@ Injury by Fire to Building, etc.
 
 **154.** Manufacture or possession of explosive under suspicious circumstances.
 
-**155.** Manufacture or possession of explosive, etc., for commission of indictable offence.
+*of*
+
+**155.** Manufacture or possession of explosive, etc., for commission indictable offence.
 
 **156.** Issue of warrant to search for and seize explosive, etc.
 
@@ -946,11 +954,9 @@ An Act to consolidate and amend the Laws relating to Procedure with respect to I
 
 **1.** This Act may be cited as the Criminal Law (Offences) Act.
 
+*Interpretation. [O. 15/1970 25 of 1973 O. 4/1974 88/1975*
+
 **2.** In this Act—
-
-Interpretation.
-
-*[O. 15/1970 25 of 1973 O. 4/1974 88/1975*
 
 “act” includes any act or omission, and any series of acts or omissions, and any combination of acts and omissions;
 
@@ -986,11 +992,9 @@ expressions referring to “the public” refer not only to citizens of Guyana w
 
 court, and includes any matter in respect of which a magistrate‘s court can make an order in the exercise of its summary jurisdiction;
 
-“town” includes the City of Georgetown, the towns of
-
 *c. 28:01 c. 28:02*
 
-New Amsterdam, Bartica, and Morawhanna, towns and local government districts established under section 33 of the Municipal and District Councils Act, and any village under the Local Government Act or any other place having a population of more than three thousand inhabitants, which may be declared, by an order of the Minister, to be a town for the purposes of this Act;
+“town” includes the City of Georgetown, the towns of New Amsterdam, Bartica, and Morawhanna, towns and local government districts established under section 33 of the Municipal and District Councils Act, and any village under the Local Government Act or any other place having a population of more than three thousand inhabitants, which may be declared, by an order of the Minister, to be a town for the purposes of this Act;
 
 “trustee” means a trustee on some express trust created by any deed, will, or instrument in writing, and includes the heir, executor, or personal representative of a trustee, and any other person upon or to whom the duty of the trust has devolved or come, and also an executor and administrator, and the Official Receiver, and an official manager, assignee, liquidator, or other like officer acting under any Act for the time being in force in relation to joint-stock companies, bankruptcy, or insolvency;
 
@@ -1636,11 +1640,9 @@ that person as a juror in any criminal trial;
 
 (4) In this section –
 
-“prison officer” has the same meaning as
-
 *c. 11:01*
 
-in the Prisons Act;
+“prison officer” has the same meaning as in the Prisons Act;
 
 “judicial or legal officer” applies to the categories of persons referred to in Article 199 (3) of the Constitution;
 
@@ -1670,11 +1672,9 @@ in the Prisons Act;
 
 (c) the sentence may be carried into execution as heretofore has been the practice.
 
-(3) In the case of a person convicted of murder, the following provisions shall have effect with regard to that person’s eligibility for parole, as if those provisions had been
-
 *c. 11:08*
 
-substituted for section 6(1) to (4) of the Parole Act –
+(3) In the case of a person convicted of murder, the following provisions shall have effect with regard to that person’s eligibility for parole, as if those provisions had been substituted for section 6(1) to (4) of the Parole Act –
 
 (a) where a Court imposes a sentence of imprisonment for life pursuant to subsection (1) (a), the Court shall specify a period, being not less than twenty years, which that person should serve before becoming eligible for parole; or
 
@@ -1852,11 +1852,9 @@ to be other numbers or parts of the same periodical previously or subsequently p
 
 **112.** It shall be a defence to an indictment for a defamatory libel that the publishing of the defamatory matter in the manner in which it was published was for the public benefit at the time when it was published, and that the matter itself was true:
 
-Provided that that defence shall not be entertained unless it is pleaded in the manner provided for in the Criminal Law
-
 *c. 10:01*
 
-(Procedure) Act.
+Provided that that defence shall not be entertained unless it is pleaded in the manner provided for in the Criminal Law (Procedure) Act.
 
 *Publication of defamatory libel.*
 
@@ -1922,13 +1920,17 @@ Injury to Machinery
 
 *Destroying draining engine.*
 
-**122.** Everyone who unlawfully and maliciously—
+Everyone who unlawfully and maliciously—
 
 (a) pulls down or destroys, or damages with intent to destroy or to render useless, any steam engine or other engine for draining, or for in anywise assisting in draining, the lands of any plantation or place, or any appliance or apparatus in connection with that steam or other engine; or
 
 (b) stops, obstructs, or hinders the working of that steam or other engine, or of the appliance or apparatus aforesaid,
 
-with intent, or so as thereby, to destroy or damage the cultivation of the plantation or place, or to hinder, obstruct, or delay the working thereof, shall be guilty of felony and liable to imprisonment for seven years.
+*with intent, or*
+
+*or delay the liable to*
+
+so as thereby, to destroy or damage the cultivation of the plantation or place, or to hinder, obstruct, working thereof, shall be guilty of felony and imprisonment for seven years.
 
 Injury to Public or Private Work
 
@@ -2528,11 +2530,9 @@ fraudulently to obtain any chattel, money, valuable security, or other property,
 
 *imprisonment for life.*
 
-*Personation of certain persons.*
+*Personation of certain persons. personates—*
 
 **211.** Everyone who falsely and deceitfully
-
-*personates—*
 
 (a) any owner of any share or interest of or in the debt of any public body, or of or in the debt or capital stock of any body corporate, company, or society established by charter, or by, under, or by virtue of any statute; or
 
@@ -2604,19 +2604,15 @@ any statement relating to his affairs, unless the jury are satisfied that he had
 
 (n) if, within four months next before the presentation of an insolvency petition by or against him, or in case of a receiving order made under section 4
 
-(8) of the Debtors Act before the date
-
 *c. 6:04*
 
-of the order, he has obtained, by any false representation or other fraud, any property on credit and has not paid for it; or
+(8) of the Debtors Act before the date of the order, he has obtained, by any false representation or other fraud, any property on credit and has not paid for it; or
 
 (o) if, within four months next before the presentation of an insolvency petition by or against him, or in case of a receiving order made under section 4
 
-(8) of the Debtors Act before the date
-
 *c. 6:04*
 
-of the order, he has obtained, under the false pretence of carrying on
+(8) of the Debtors Act before the date of the order, he has obtained, under the false pretence of carrying on
 
 business and dealing in the ordinary way in his trade, any property on credit and has not paid for it unless the jury are satisfied that he had no intent to defraud; or
 
@@ -3280,11 +3276,9 @@ Commonwealth, or lawfully current in any foreign country;
 
 “false or counterfeit coin resembling, or apparently intended to resemble or pass for, any current gold or silver coin” includes any of the current coin which has been gilt, silvered, washed, cased over, or coloured, or in any manner altered so as to resemble, or be apparently intended to resemble or pass for, any current coin of a higher denomination.
 
-(2) Any reference in this Title to silver coin shall include a reference to coin of cupro-nickel issued under the
-
 *c. 283 1953 Ed.*
 
-Currency Act and accordingly such coin shall be excluded from the definition of “copper coin” in subsection (1).
+(2) Any reference in this Title to silver coin shall include a reference to coin of cupro-nickel issued under the Currency Act and accordingly such coin shall be excluded from the definition of “copper coin” in subsection (1).
 
 *Application of Title to foreign coin. [15 of 1937 O. 15/1970]*
 
@@ -3698,11 +3692,9 @@ to execute any judicial process, or to administer any oath, or to interpret, or 
 
 protection of the pecuniary interests of Government, and every officer in the service or pay of Government or remunerated by fees or commission for the performance of any public duty;
 
-(1) every officer whose official duty it is to take, receive, keep, or expend any property, to make any survey or assessment, or to levy any rate or tax for any common purpose of any village, town or district, or to make, authenticate, or keep any document for the ascertaining of the rights of the people of any village, town or district; (m) every member of, and every person employed by, a local authority under the Local Government or by a council (as defined in the Municipal and
-
 *c. 28:02 c. 28:01*
 
-District Councils Act);
+(1) every officer whose official duty it is to take, receive, keep, or expend any property, to make any survey or assessment, or to levy any rate or tax for any common purpose of any village, town or district, or to make, authenticate, or keep any document for the ascertaining of the rights of the people of any village, town or district; (m) every member of, and every person employed by, a local authority under the Local Government or by a council (as defined in the Municipal and District Councils Act);
 
 (n) every person, other than a person falling under any of the descriptions in the preceding subparagraphs, who holds an office listed in Schedule I of the Integrity Commission Act.
 
@@ -3734,11 +3726,9 @@ otherwise, other than legal remuneration, as a motive or reward for doing or for
 
 **337.** (1) In this section—
 
-“agent” means any person employed by or acting for another, and includes a person serving under the State or under any corporation, municipal council, council of a local government district, established under the Municipal and
-
 *c. 28:01 c. 28:02*
 
-District Councils Act, board of guardians, or any local authority under the Local Government Act;
+“agent” means any person employed by or acting for another, and includes a person serving under the State or under any corporation, municipal council, council of a local government district, established under the Municipal and District Councils Act, board of guardians, or any local authority under the Local Government Act;
 
 “consideration” means valuable consideration of any kind;
 
@@ -3812,11 +3802,11 @@ conviction of and before sentence for, or whilst in lawful custody upon a charge
 
 shall be guilty of felony and liable to imprisonment for seven
 
-*years.*
-
-*Rescuing or aiding escape of person in custody in other cases.*
+*years. Rescuing or aiding escape of*
 
 **343.** Everyone who—
+
+*person in custody in other cases.*
 
 (a) rescues any person, or assists any person in escaping or attempting to escape from lawful custody, whether in prison or not, otherwise than upon a charge, conviction, or sentence of or for an offence punishable with death or imprisonment for more than two years; or
 

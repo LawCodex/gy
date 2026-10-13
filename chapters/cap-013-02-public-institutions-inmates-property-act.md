@@ -70,21 +70,13 @@ An Act to provide for the Disposal of small sums of Money and other Movable Prop
 
 **1.** This Act may be cited as the Public Institutions (Inmates’ Property) Act.
 
-Disposal of 2. (1) When any inmate of a hospital, an asylum, a
+*Disposal of unclaimed property, not*
 
-*unclaimed*
+**2.** (1) When any inmate of a hospital, an asylum, a prison, or any other public institution of whatever kind, dies, having in his possession any money or other movable exceeding $10
 
-prison, or any other public institution of whatever kind, dies, property, not
+*in value, of deceased inmate of public institution. [26 of 1930]*
 
-having in his possession any money or other movable exceeding $10
-
-property to an amount or value, or to an amount and value, in value, of
-
-*deceased inmate of public institution.*
-
-not exceeding ten dollars, the principal resident officer in charge of the institution shall take possession of the money and property.
-
-[26 of 1930]
+property to an amount or value, or to an amount and value, not exceeding ten dollars, the principal resident officer in charge of the institution shall take possession of the money and property.
 
 (2) If the money and property are not claimed with effect by any person within one month after the death of the
 
@@ -105,6 +97,10 @@ Provided that where such officer cannot effect a sale of any such property the s
 (3) The Minister responsible for finance, if he is satisfied of the correctness of the claim, may pay to the claimant the amount claimed or any portion thereof to which the right has been established, but if he is not so satisfied may authorise and require the claimant to establish his claim in due course of law, and shall make any defence thereto he may be advised.
 
 (4) When the claimant establishes his claim in due course of law, he shall receive interest on the sum of money claimed and allowed at the rate of three per cent per annum from the date of the application for payment.
+
+*1/2012*
+
+L.R.O.
 
 *Saving.*
 

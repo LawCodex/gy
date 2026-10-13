@@ -111,15 +111,9 @@ in respect of Guyana, shall be read and construed as if it were a reference to t
 
 (2) Where any matter or thing has been commenced before the appointed day by the Governor- General in exercise of any power in that behalf under existing law, such matter or thing may be continued and completed by the President on or after the appointed day.
 
-*Succession*
+*Succession to property.*
 
-*to*
-
-**6.** ( 1) All property which, immediately before the
-
-*property.*
-
-appointed day, is vested in Her Majesty or the Governor-General for the purposes of the Government of Guyana shall, on the appointed day, vest in the State.
+**6.** ( 1) All property which, immediately before the appointed day, is vested in Her Majesty or the Governor-General for the purposes of the Government of Guyana shall, on the appointed day, vest in the State.
 
 (2) Any property which, immediately before the appointed day, is liable to escheat or to be forfeited to Her Majesty for the purposes of the Government of Guyana, shall, from the appointed day, be liable to escheat or to be forfeited to the State.
 

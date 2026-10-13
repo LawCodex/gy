@@ -44,7 +44,9 @@ This Chapter contains no subsidiary legislation.
 
 *SECTION*
 
-**1.** Short title.
+*\1. Short*
+
+title.
 
 **2.** Interpretation.
 
@@ -74,11 +76,9 @@ An Act to provide for the implementation by Guyana of the Agreement for the esta
 
 *Interpretation.*
 
-**2.** In this Act “Agreement” means the Agreement for the establishment of a regime for CARICOM Enterprises, the
-
 *Schedule.*
 
-text of which is set out in the Schedule and to which Guyana is a party.
+**2.** In this Act “Agreement” means the Agreement for the establishment of a regime for CARICOM Enterprises, the text of which is set out in the Schedule and to which Guyana is a party.
 
 *Agreement to have the force of law.*
 
@@ -116,9 +116,15 @@ ______________________
 
 ### AGREEMENT FOR THE ESTABLISHMENT OF A REGIME FOR CARICOM ENTERPRISES
 
-The Governments of the Member States of the Caribbean Common Market,
+*The Common*
 
-HAVING REGARD to the provisions of the Common Market Annex of the Treaty Establishing the Caribbean Community and, in particular, to—
+Governments of the Member States of the Caribbean Market,
+
+*HAVING*
+
+*Community*
+
+REGARD to the provisions of the Common Market Annex of the Treaty Establishing the Caribbean and, in particular, to—
 
 (a) Article 3 on the “Objectives of the Common Market”;
 
@@ -134,7 +140,9 @@ HAVING REGARD to the provisions of the Common Market Annex of the Treaty Establi
 
 (f) Article 59 on “Financial Assistance from the More Developed Countries” to Less Developed Countries;
 
-COGNISANT of the urgent need to develop economic activities in the Common Market on the basis of joint enterprises between national investors (as hereinafter defined
+*activities in enterprises*
+
+COGNISANT of the urgent need to develop economic the Common Market on the basis of joint between national investors (as hereinafter defined
 
 in Article 1);
 
@@ -176,6 +184,10 @@ Definitions
 
 “Member State” means a Member State which is a Member of the Caribbean Common Market established by the Annex
 
+*Cap.*
+
+18:07
+
 to the Treaty and a Party to this Agreement.
 
 “more Developed Country” means Barbados, Guyana, Jamaica or Trinidad and Tobago.
@@ -192,7 +204,11 @@ to the Treaty and a Party to this Agreement.
 
 (c) the right to receive more than one-half of any capital distribution in the event of the winding-up or of a reduction in share capital of that company;
 
-or such greater proportion than is specified in paragraphs (a) to (c) above as the Council may, from time to time, determine in relation to any sector of the regional economy.
+*or to in*
+
+such greater proportion than is specified in paragraphs (a)
+
+(c) above as the Council may, from time to time, determine relation to any sector of the regional economy.
 
 “Registrar” in relation to a Member State, means the officer responsible for the registration of companies.
 
@@ -330,13 +346,23 @@ Provided, that the Authority shall afford the CARICOM ENTERPRISE an opportunity 
 
 **5.** A CARICOM ENTERPRISE which has been struck off from the CARICOM ENTERPRISE register may operate as a company under the national laws of the Headquarters State. Its name may be restored not earlier than twelve months after its name has been struck off the register of CARICOM ENTERPRISES if it successfully;
 
-applies to the Authority or reinstatement.
+*applies to the*
+
+Authority or reinstatement.
 
 ### ARTICLE 12 BENEFITS TO BE ENJOYED BY CARICOM ENTERPRISES
 
-**1.** A CARICOM ENTERPRISE shall have full legal personality in every Member State in which it is registered as such, as if it were a company incorporated and registered under the general statutes relating to the incorporation, registration and management of companies.
+*\1. A*
 
-**2.** In the exercise of its legal personality in any Member State in which it is registered, a CARICOM ENTERPRISE shall not be regarded as having a separate personality from that which it enjoys in another Member State in which it is also registered, and accordingly Member States will provide—
+*such, as if it under the*
+
+CARICOM ENTERPRISE shall have full legal personality in every Member State in which it is registered as were a company incorporated and registered general statutes relating to the incorporation, registration and management of companies.
+
+*\2. In*
+
+*personality in which it is*
+
+the exercise of its legal personality in any Member State in which it is registered, a CARICOM ENTERPRISE shall not be regarded as having a separate from that which it enjoys in another Member State also registered, and accordingly Member States will provide—
 
 (a) that the public documents of a CARICOM ENTERPRISE must reflect the indivisibility of the legal personality of the enterprise and any rights and obligations acquired by or imposed on the enterprise; and
 
@@ -344,7 +370,9 @@ applies to the Authority or reinstatement.
 
 (c) that the judgements and orders of any such courts will be enforced in accordance with a common procedure.
 
-**3.** Each Member State shall in accordance with the Exchange Control laws in force in its State permit a CARICOM ENTERPRISE registered as such in its State to:
+*Exchange CARICOM*
+
+**3.** Each Member State shall in accordance with the Control laws in force in its State permit a ENTERPRISE registered as such in its State to:
 
 (a) keep such foreign accounts including portfolio securities in another Member State in which the CARICOM ENTERPRISE is registered, as are required for the fulfilment of its objects;
 
@@ -354,7 +382,9 @@ applies to the Authority or reinstatement.
 
 (ii) capital on reduction of its share capital on no less favourable terms than those accorded to any investor in that State who is not a national.
 
-**4.** Each Member State undertakes to:
+*\4. Each*
+
+Member State undertakes to:
 
 (a) grant to a CARICOM ENTERPRISE registered in its territory on terms no less favourable than is accorded to any other similar enterprise of that Member State all licences and permissions necessary for the proper conduct of the affairs of any CARICOM ENTERPRISE registered as such in its State;
 
@@ -372,9 +402,13 @@ which is relevant to its operations on terms no less favourable than is accorded
 
 (g) consider the product of a CARICOM ENTERPRISE for protection by quantitative restrictions or other forms of protection imposed at a uniform level by the Member States against imports from third countries on terms no less favourable than those which may be accorded to the product of any other similar enterprise.
 
-### ARTICLE 13 TAXATION OF CARICOM ENTERPRISES
+### ARTICLE 13
 
-**1.** The corporate profits of a CARICOM ENTERPRISE shall be subject to tax except that where the equity capital is wholly- owned by Governments of Member States those
+### TAXATION OF CARICOM ENTERPRISES
+
+*\1. The shall be subject wholly- owned*
+
+corporate profits of a CARICOM ENTERPRISE to tax except that where the equity capital is by Governments of Member States those
 
 Governments may agree otherwise.
 

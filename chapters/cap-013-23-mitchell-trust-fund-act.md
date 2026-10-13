@@ -48,11 +48,15 @@ This Chapter contains no subsidiary legislation.
 
 **3.** Appointment of trustees.
 
-**4.** Trustees not affected by dissolution of National Assembly.
+*Trustees*
+
+**4.** not affected by dissolution of National Assembly.
 
 **5.** Administration and accounting by trustees.
 
-**6.** Cost of administration.
+*Cost of*
+
+**6.** administration.
 
 **7.** Appointment of Secretary.
 
@@ -62,33 +66,37 @@ This Chapter contains no subsidiary legislation.
 
 **10.** Applications to trustees.
 
-**11.** Selection of beneficiaries.
+*Selection Tenure Filling*
 
-**12.** Tenure and benefits.
+**11.** of beneficiaries.
 
-**13.** Filling vacancies amongst beneficiaries.
+**12.** and benefits.
+
+**13.** vacancies amongst beneficiaries.
 
 **14.** Revocation of a benefaction.
 
-**15.** Power to make rules.
+*Power to Provision*
 
-**16.** Provision for cases of difference between the trustees.
+**15.** make rules.
+
+**16.** for cases of difference between the trustees.
 
 ## SCHEDULE-Property held in trust
 
 __________________________
 
-*1953 Ed. c. 53*
+*1953 Ed. c. 53 _______________________________________________________*
 
-_______________________________________________________
+*30 of 1937 An*
 
-*30 of 1937*
-
-An Act to make provision for the future disposition of the charitable bequest contained in the will of Walter Mitchell, deceased, and for the administration of the assets now pertaining thereto.
+Act to make provision for the future disposition of the charitable bequest contained in the will of Walter Mitchell, deceased, and for the administration of the assets now pertaining thereto.
 
 ### [1 ST JANUARY, 1938]
 
-WHEREAS the late Walter Mitchell died at Georgetown on the 24th March, 1862, and by his last Will and Testament
+*on*
+
+WHEREAS the late Walter Mitchell died at Georgetown the 24th March, 1862, and by his last Will and Testament
 
 dated 4th March, 1862, which was deposited in the Deeds Registry on 27th March, 1862, directed that after the lapse of fifteen years from the date of his death the whole of his residuary estate was to be at the disposal of the Legislature of Guyana in order to form or found a church college or other charitable institution in Guyana similar to the Saffon Establishment though not with the same exclusion but under similar rules for such purpose appointing the Legislature his residuary heir, leaving the arrangement to the superior judgment of the Governor and Court of Policy, the then Legislature of Guyana;
 

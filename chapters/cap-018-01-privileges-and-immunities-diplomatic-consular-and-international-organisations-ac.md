@@ -118,15 +118,17 @@ Privileges and Immunities (Diplomatic, Consular, and International Organisations
 
 ## FOURTH SCHEDULE—Articles of the Convention on the privileges and immunities of the specialised agencies having the force of law in Guyana.
 
-## FIFTH SCHEDULE—Privileges and immunities of the Organisation __________________________
+*FIFTH*
+
+## SCHEDULE—Privileges and immunities of the Organisation __________________________
 
 ### CHAPTER 18:01
 
 ### PRIVILEGES AND IMMUNITIES (DIPLOMATIC, CONSULAR AND INTERNATIONAL ORGANISATIONS) ACT
 
-*26 of 1970*
+*26 of 1970 An*
 
-An Act to confer certain privileges and immunities on members of the Diplomatic Services, the Consular Services and on the United Nations and the Specialised Agencies by giving the force of law in Guyana to certain articles of the Vienna Convention on Diplomatic Relations, the Vienna Convention on Consular Relations, the Convention on the Privileges and Immunities of the United Nations and the Convention on the Privileges and Immunities of the Specialised Agencies and for other purposes.
+Act to confer certain privileges and immunities on members of the Diplomatic Services, the Consular Services and on the United Nations and the Specialised Agencies by giving the force of law in Guyana to certain articles of the Vienna Convention on Diplomatic Relations, the Vienna Convention on Consular Relations, the Convention on the Privileges and Immunities of the United Nations and the Convention on the Privileges and Immunities of the Specialised Agencies and for other purposes.
 
 ### [28 TH NOVEMBER, 1970]
 
@@ -141,6 +143,10 @@ An Act to confer certain privileges and immunities on members of the Diplomatic 
 **2.** In this Act—
 
 “the Convention on the Privileges and Immunities of the Specialised Agencies” means the Convention on the Privileges and Immunities of the Specialised Agencies
+
+*Cap.*
+
+18:01
 
 approved by the General Assembly of the United Nations on the 21st November, 1947;
 
@@ -250,11 +256,9 @@ receiving State or to privileges and immunities so far as these are granted by t
 
 (2) The Minister may, by order, exclude or restrict the provisions of subsection (1) in relation to the diplomatic agents or consular officers of any State if it appears to him that in any territory of that State diplomatic agents or consular officers of Guyana are not permitted to perform functions corresponding in nature and extent to those authorised by that subsection.
 
-(3) In this section “diplomatic agent” has the same
-
 *First Schedule.*
 
-meaning as in Article 1 in the First Schedule.
+(3) In this section “diplomatic agent” has the same meaning as in Article 1 in the First Schedule.
 
 *Commonwealth and Irish consular officers. c. 18:02*
 
@@ -310,11 +314,9 @@ or the Government or Governments of one or more such Powers, are members.
 
 (a) confer on the organisation the legal capacities of a body corporate;
 
-(b) provide that the organisation shall, to such extent as may be specified in the order, have the privileges and immunities set out in Part I of the
-
 *Fifth Schedule.*
 
-Fifth Schedule;
+(b) provide that the organisation shall, to such extent as may be specified in the order, have the privileges and immunities set out in Part I of the Fifth Schedule;
 
 (c) confer the privileges and immunities set out in Part II of the Fifth Schedule to such extent as may be specified in the order, on persons of any such class as is mentioned in subsection (3);
 
@@ -776,13 +778,19 @@ FACILITIES, PRIVILEGES AND IMMUNITIES RELATING TO CAREER CONSULAR OFFICERS AND O
 
 (b) that they are covered by the social security provisions which are in force in the sending State or a third State.
 
-**3.** Members of the consular post who employ persons to whom the exemption provided for in paragraph 2 of this Article does not apply shall observe the obligations which the social security provisions of the receiving State impose upon employers.
+**3.** Members of the consular post who employ persons to whom the exemption provided for in paragraph 2 of this Article does not apply shall observe the obligations which the social security provisions of the receiving State impose upon
 
-**4.** The exemption provided for in paragraphs 1 and 2 of this Article shall not preclude voluntary participation in the social security system of the receiving State, provided that such participation is permitted by that State.
+*employers.*
+
+*such*
+
+**4.** The exemption provided for in paragraphs 1 and 2 of this Article shall not preclude voluntary participation in the social security system of the receiving State, provided that participation is permitted by that State.
 
 ### ARTICLE 49 EXEMPTION FROM TAXATION
 
-**1.** Consular officers and consular employees and members of their families forming part of their households shall be exempt from all dues and taxes, personal or real, national, regional or municipal, except—
+*shall be national,*
+
+**1.** Consular officers and consular employees and members of their families forming part of their households exempt from all dues and taxes, personal or real, regional or municipal, except—
 
 (a) indirect taxes of a kind which are normally incorporated in the price of goods or services;
 
@@ -798,13 +806,19 @@ FACILITIES, PRIVILEGES AND IMMUNITIES RELATING TO CAREER CONSULAR OFFICERS AND O
 
 (f) registration, court or record fees, mortgage dues and stamp duties, subject to the provisions of Article 32.
 
-**2.** Members of the service staff shall be exempt from dues and taxes on the wages which they receive for their services.
+**2.** Members of the service staff shall be exempt from dues and taxes on the wages which they receive for their
 
-**3.** Members of the consular post who employ persons whose wages or salaries are not exempt from income tax in the receiving State shall observe the obligations which the laws and regulations of that State impose upon employers concerning the levying of income tax.
+*services.*
+
+*laws and*
+
+**3.** Members of the consular post who employ persons whose wages or salaries are not exempt from income tax in the receiving State shall observe the obligations which the regulations of that State impose upon employers concerning the levying of income tax.
 
 ### ARTICLE 50 EXEMPTIONS FROM CUSTOMS DUTIES AND INSPECTION
 
-**1.** The receiving State shall, in accordance with such laws and regulations as it may adopt, permit entry of and grant exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services, on—
+*laws and grant*
+
+**1.** The receiving State shall, in accordance with such regulations as it may adopt, permit entry of and exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services, on—
 
 (a) articles for the official use of the consular post;
 
@@ -826,11 +840,17 @@ property of the deceased, with the exception of any such property acquired in th
 
 ### ARTICLE 52 EXEMPTION FROM PERSONAL SERVICES AND CONTRIBUTION
 
-The receiving State shall exempt members of the consular post and members of their families forming part of their households from all personal services, from all public service of any kind whatsoever, and from military obligations such as those connected with requisitioning, military contributions and billeting.
+*post and households of any kind those*
+
+The receiving State shall exempt members of the consular members of their families forming part of their from all personal services, from all public service whatsoever, and from military obligations such as connected with requisitioning, military contributions and billeting.
 
 ### ARTICLE 53 BEGINNING AND END OF CONSULAR PRIVILEGES AND IMMUNITIES
 
-**1.** Every member of the consular post shall enjoy the privileges and immunities provided in the present Convention from the moment he enters the territory of the receiving State on proceeding to take up his post or, if already in its territory, from the moment when he enters on his duties with the consular post.
+*Convention*
+
+*with the*
+
+**1.** Every member of the consular post shall enjoy the privileges and immunities provided in the present from the moment he enters the territory of the receiving State on proceeding to take up his post or, if already in its territory, from the moment when he enters on his duties consular post.
 
 **2.** Members of the family of a member of the consular post forming part of his household and members of his private staff shall receive the privileges and immunities provided in the present Convention from the date from which he enjoys privileges and immunities in accordance with paragraph 1 of this Article or from the date of their entry into the territory of the receiving State or from the date of their becoming a member of such family or private staff, whichever is the latest.
 
@@ -1364,11 +1384,9 @@ made under section 13
 
 "duties" includes taxes and related charges other than charges for storage, cartage and similar services;
 
-"income tax" includes surtax imposed by the National
-
 *c.80:10 [5 of 1987]*
 
-Development Surtax Act [Repealed];
+"income tax" includes surtax imposed by the National Development Surtax Act [Repealed];
 
 "senior officer" in relation to the Commonwealth Secretariat, means an officer of the Secretariat, recognised by the Minister as being a senior officer of the Secretariat.
 
@@ -1398,11 +1416,9 @@ Schedule to the Act except that the Commonwealth Secretariat shall not have immu
 
 ## Part II of the Fifth Schedule to the Act, except exemption from the payment of income tax.
 
-(2) In accordance with paragraph (1), service as a senior officer falling within that paragraph shall not be treated as employment in respect of which contributions are required to be paid, or as insurable employment, under the
-
 *c. 36:01*
 
-National Insurance and Social Security Act but the foregoing provision shall not be construed as rendering any person liable to any contribution which he would not be required to
+(2) In accordance with paragraph (1), service as a senior officer falling within that paragraph shall not be treated as employment in respect of which contributions are required to be paid, or as insurable employment, under the National Insurance and Social Security Act but the foregoing provision shall not be construed as rendering any person liable to any contribution which he would not be required to
 
 pay if service as aforesaid were not so treated.
 

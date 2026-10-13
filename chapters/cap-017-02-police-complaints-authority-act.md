@@ -130,29 +130,37 @@ Interpretation.
 
 (b) in relation to any member of the Force, other than those mentioned in subparagraph (i), the disciplinary authority;
 
-“Authority” means the person appointed as the Police Complaints Authority established by section 3 and includes any person appointed as an ad hoc Police Complaints Authority under section 4;
+*“Authority”*
+
+*includes*
+
+means the person appointed as the Police Complaints Authority established by section 3 and any person appointed as an ad hoc Police Complaints Authority under section 4;
 
 “Commissioner” means the Commissioner of Police;
 
-“disciplinary authority” has the same meaning as in the
+*“disciplinary Police c. 17:01*
 
-*c. 17:01*
-
-Police (Discipline) Act; “member of the Force”—
+authority” has the same meaning as in the (Discipline) Act; “member of the Force”—
 
 (a) except in Part II and the Schedule, has the same meaning as in the Police Act;
 
 (b) in Part II and the Schedule, does not include the Commissioner, but in other respects has the same meaning as in the Police Act;
 
-“misconduct” means any of the acts or omissions specified in the Schedule, each of such acts or omissions being an offence against discipline under the Police (Discipline) Act;
+*the offence Act;*
 
-“prescribed” means prescribed by the Minister by regulations;
+“misconduct” means any of the acts or omissions specified in Schedule, each of such acts or omissions being an against discipline under the Police (Discipline)
+
+*“prescribed”*
+
+means prescribed by the Minister by regulations;
 
 “the Force” has the same meaning as in the Police Act.
 
-*Establishment of Police Complaints*
+*Establishment 3. (1) of Police*
 
-**3.** (1) There is hereby established an authority to be known as the Police Complaints Authority which shall consist
+*known as the Complaints*
+
+There is hereby established an authority to be Police Complaints Authority which shall consist
 
 *Authority.*
 
@@ -270,11 +278,9 @@ direction or request made to him under this Act by the Authority, shall be deeme
 
 *Application of Part.*
 
-**12.** (1) This Part shall apply in relation to any complaint or information that any member of the Force has unlawfully caused the death of any person or has committed any offence referred to in section 48, 49, or 50, section 55 read with section 56, or section 57 of the Criminal Law (Offences)
-
 *c. 8:01*
 
-Act or such other offence as may be specified by the Minister by order.
+**12.** (1) This Part shall apply in relation to any complaint or information that any member of the Force has unlawfully caused the death of any person or has committed any offence referred to in section 48, 49, or 50, section 55 read with section 56, or section 57 of the Criminal Law (Offences) Act or such other offence as may be specified by the Minister by order.
 
 (2) This Part shall apply in relation to a complaint or information of the nature referred to in subsection (1), notwithstanding that any person against whom, jointly with a member of the Force, the complaint is made or information is received, is not a member of the Force.
 
@@ -358,11 +364,9 @@ document received by him by virtue of the provisions of this Part) shall not be 
 
 (2) Every order under subsection (1) shall be subject to negative resolution of the National Assembly.
 
-(3) Notwithstanding anything contained in this
-
 *c. 17:01*
 
-Act or the Police (Discipline) Act, every act or omission mentioned in the Schedule shall be deemed to be a misconduct for the purposes of this Act and an offence against discipline for the purposes of the Police (Discipline) Act.
+(3) Notwithstanding anything contained in this Act or the Police (Discipline) Act, every act or omission mentioned in the Schedule shall be deemed to be a misconduct for the purposes of this Act and an offence against discipline for the purposes of the Police (Discipline) Act.
 
 *Annual report by Authority.*
 
@@ -400,17 +404,13 @@ Act or the Police (Discipline) Act, every act or omission mentioned in the Sched
 
 **1.** Neglect of his duty, that is to say—
 
-(i) neglect, or without good and sufficient cause omission, to
-
 *and*
 
-carry out promptly diligently anything which is his duty as a member of the Force;
-
-(ii) when on duty failing to
+(i) neglect, or without good and sufficient cause omission, to carry out promptly diligently anything which is his duty as a member of the Force;
 
 *with*
 
-perform his duty diligence;
+(ii) when on duty failing to perform his duty diligence;
 
 (iii) failing to work his best in accordance with orders, or leaving his beat or patrol, point or other place of duty to which he has been ordered without due permission or sufficient cause;
 

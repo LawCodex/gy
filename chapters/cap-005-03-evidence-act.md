@@ -354,11 +354,9 @@ An Act to consolidate and amend the Laws relating to Evidence.
 
 **2.** In this Act–
 
-“authorised analyst” means a person designated as such by the
-
 *c. 51:02*
 
-Minister responsible for the Motor Vehicles and Road Traffic Act for the purposes of that Act;
+“authorised analyst” means a person designated as such by the Minister responsible for the Motor Vehicles and Road Traffic Act for the purposes of that Act;
 
 *[13 of 2018]*
 
@@ -400,11 +398,9 @@ thing to be stolen which forms the subject of the proceedings so taken against h
 
 (2) Where proceedings are taken against anyone for having received anything knowing it to be stolen, or for having in his possession any stolen thing, and evidence has been given that the stolen thing has been found in his possession, then, if that person has, within the five years immediately preceding, been convicted of any offence involving fraud or dishonesty, evidence of the previous conviction may be given at any stage of the proceedings and may be taken into consideration for the purpose of proving that the person knew the thing to be stolen which forms the subject of the proceedings so taken against him:
 
-Provided that not less than two days’ notice in writing has been given to the person that proof is intended to be given of the previous conviction; and that proof may be given in the manner
-
 *c. 10:01 c. 10:02*
 
-prescribed in the Summary Jurisdiction (Procedure) Act, or in the Criminal Law (Procedure) Act, as the case may be.
+Provided that not less than two days’ notice in writing has been given to the person that proof is intended to be given of the previous conviction; and that proof may be given in the manner prescribed in the Summary Jurisdiction (Procedure) Act, or in the Criminal Law (Procedure) Act, as the case may be.
 
 (3) It shall not be necessary, for the purposes of this section, to charge the previous conviction in the complaint, or information, or indictment.
 
@@ -456,11 +452,9 @@ the manner in which data is transferred from the system to removable media like 
 
 *Right of banker to refuse to produce books. [20 of 1997] c. 19:12*
 
-**11.** A bank or an officer of a bank is not, in any cause or matter to which the bank is not a party, compellable to produce any banker’s book, or to appear as a witness to prove the matters, transactions, and accounts therein recorded, except by order of a Court made for special cause or pursuant to a summons issued by
-
 *c. 26:01*
 
-the Integrity Commission established by the Integrity Commission Act.
+**11.** A bank or an officer of a bank is not, in any cause or matter to which the bank is not a party, compellable to produce any banker’s book, or to appear as a witness to prove the matters, transactions, and accounts therein recorded, except by order of a Court made for special cause or pursuant to a summons issued by the Integrity Commission established by the Integrity Commission Act.
 
 *Order of Court for inspection of banker’s books.*
 
@@ -528,15 +522,11 @@ Character
 
 (a) being on his trial for any felony not punishable with death, has been previously convicted of felony; or
 
-(b) being on his trial for any offence involving fraud or dishonesty
-
 *c. 8:02*
-
-punishable under the Summary Jurisdiction (Offences) Act, or the
 
 *c. 8:01*
 
-Criminal Law (Offences) Act, has been previously convicted of any offence punishable on summary conviction or on indictment; or
+(b) being on his trial for any offence involving fraud or dishonesty punishable under the Summary Jurisdiction (Offences) Act, or the Criminal Law (Offences) Act, has been previously convicted of any offence punishable on summary conviction or on indictment; or
 
 (c) being on his trial for any offence in respect of coin punishable under either of the said Acts has been previously convicted of any offence in respect of coin,
 
@@ -652,11 +642,9 @@ Proof of Public Documents
 
 (b) any other officer authorised to issue to the public such certified copy or extract and purporting to be sealed and stamped with the seal of the Court or office from which such record is issued.
 
-(2) In relation to the records mentioned in this section some other mode of proof may be substituted for or added to that provided in subsection (1) either generally or with respect to any particular Commonwealth territory by rules of Court made under
-
 *c. 3:02*
 
-the High Court Act.
+(2) In relation to the records mentioned in this section some other mode of proof may be substituted for or added to that provided in subsection (1) either generally or with respect to any particular Commonwealth territory by rules of Court made under the High Court Act.
 
 *Records of Guyana. [4 of 1972]*
 
@@ -742,11 +730,9 @@ a report made by a duly registered medical practitioner within forty-eight hours
 
 (ii) a firearm or ammunition; (iii) a poisonous and noxious substance;
 
-(iv) a local or foreign currency;
-
 *[15 of 2021]*
 
-(v) human blood, hair, bone or tissue; or
+(iv) a local or foreign currency; (v) human blood, hair, bone or tissue; or
 
 (vi) fuel or fuel-based substance,
 
@@ -766,11 +752,9 @@ and the results of his analysis or examination; and
 
 **43A.** (1) For the purposes of any proceedings for an offence under section 39 or 39A of the Motor Vehicles and Road Traffic Act, a certificate signed by an authorised analyst, certifying the proportion of alcohol found in a specimen identified by the certificate shall, subject to section 39F(3) of that Act, be evidence of the matters so certified and of the qualifications of the analyst.
 
-(2) For the purposes of any proceedings for an offence
-
 *c. 51:02*
 
-under section 39 or 39A of the Motor Vehicles and Road Traffic Act, a certificate purporting to be signed by a registered medical practitioner that he took a specimen of blood from a person with that person’s consent shall, subject to section 39F(3) of that Act, be evidence of the matters so certified and of the qualifications of the registered medical practitioner.
+(2) For the purposes of any proceedings for an offence under section 39 or 39A of the Motor Vehicles and Road Traffic Act, a certificate purporting to be signed by a registered medical practitioner that he took a specimen of blood from a person with that person’s consent shall, subject to section 39F(3) of that Act, be evidence of the matters so certified and of the qualifications of the registered medical practitioner.
 
 *Certification of accuracy of speedometers, radar and weighing devices. [10 of 2008]*
 
@@ -802,11 +786,9 @@ the radar, weight device or apparatus specified therein are true; and
 
 (3) In this section–
 
-“Licensing Authority” means the Licensing Authority established
-
 *c. 51:02*
 
-under the Motor Vehicles and Road Traffic Act.
+“Licensing Authority” means the Licensing Authority established under the Motor Vehicles and Road Traffic Act.
 
 *Certified copy of document. [4 of 1972 6 of 1997]*
 
@@ -858,17 +840,13 @@ answers to those questions, or from knowing that he ought to speak the truth.
 
 **51.** (l) In any criminal proceeding against a husband or wife for any bodily injury or violence inflicted upon his wife or her husband, the wife or husband is competent and compellable to give evidence.
 
-(2) In any proceeding against anyone for an offence
-
 *c. 8:02 c. 8:01*
 
-under section 23 of the Summary Jurisdiction (Offences) Act, or under section 92 of the Criminal Law (Offences) Act, that person, and his wife or her husband, shall be a competent witness but not compellable to give evidence.
-
-(3) In any criminal proceeding against a husband or
+(2) In any proceeding against anyone for an offence under section 23 of the Summary Jurisdiction (Offences) Act, or under section 92 of the Criminal Law (Offences) Act, that person, and his wife or her husband, shall be a competent witness but not compellable to give evidence.
 
 *c. 10:02 c. 10:01*
 
-wife authorised by section 68 or 69 of the Summary Jurisdiction (Procedure) Act, or by section 196 or 197 of the Criminal Law (Procedure) Act, the wife and husband respectively are competent witnesses and, except when defendants or accused persons, compellable to give evidence.
+(3) In any criminal proceeding against a husband or wife authorised by section 68 or 69 of the Summary Jurisdiction (Procedure) Act, or by section 196 or 197 of the Criminal Law (Procedure) Act, the wife and husband respectively are competent witnesses and, except when defendants or accused persons, compellable to give evidence.
 
 *Competency of witnesses in criminal cases.*
 
@@ -896,11 +874,9 @@ be required to answer, any question tending to show that he has committed, or be
 
 (g) every person called as a witness in pursuance of this Act shall, unless otherwise directed by the Court, give his evidence from the witness box, or other place from which the other witnesses give their evidence;
 
-(h) nothing in this Act shall affect
-
 *c. 10:01*
 
-section 65 of the Criminal Law (Procedure) Act, or any right of the
+(h) nothing in this Act shall affect section 65 of the Criminal Law (Procedure) Act, or any right of the
 
 person charged to make a statement without being sworn.
 
@@ -954,17 +930,13 @@ Provided that no witness in those proceedings0, whether a party to the cause or 
 
 unless the evidence of the mother of the child is corroborated in some material particular, to the satisfaction of the Court.
 
-(3) A person shall not be liable to be convicted of an
-
 *c. 8:02 c. 8:01*
 
-offence under section 23 of the Summary Jurisdiction (Offences) Act, or under section 92 of the Criminal Law (Offences) Act, upon the evidence given without oath of a child, unless that evidence be corroborated by some other material evidence implicating the defendant or the accused person, as the case may be.
-
-(4) A person shall not be liable to be convicted of an
+(3) A person shall not be liable to be convicted of an offence under section 23 of the Summary Jurisdiction (Offences) Act, or under section 92 of the Criminal Law (Offences) Act, upon the evidence given without oath of a child, unless that evidence be corroborated by some other material evidence implicating the defendant or the accused person, as the case may be.
 
 *c. 8:01*
 
-offence under section 72 or 73 of the Criminal Law (Offences) Act, upon the evidence of one witness only, unless that witness be corroborated in some material particular by evidence implicating the accused person.
+(4) A person shall not be liable to be convicted of an offence under section 72 or 73 of the Criminal Law (Offences) Act, upon the evidence of one witness only, unless that witness be corroborated in some material particular by evidence implicating the accused person.
 
 (5) Where the only proof against a person charged with an indictable offence is the evidence of an accomplice, uncorroborated in any material particular, it is the duty of the judge to warn the jury that it is unsafe to convict any person upon that evidence, though they have a legal right to do so.
 
@@ -1052,11 +1024,9 @@ Oral Evidence
 
 (2) Oral evidence taken in Court must be taken according to the rules hereinafter contained relating to the examination of witnesses.
 
-(3) Oral evidence taken on any preliminary hearing
-
 *c. 10:01*
 
-under Part II of the Criminal Law (Procedure) Act, may be recorded in the form of a deposition, and the deposition may be used as documentary evidence of the matters stated therein in the cases, and on the conditions, specified in section 95 of this Act, and in the section aforesaid of that Act, respectively.
+(3) Oral evidence taken on any preliminary hearing under Part II of the Criminal Law (Procedure) Act, may be recorded in the form of a deposition, and the deposition may be used as documentary evidence of the matters stated therein in the cases, and on the conditions, specified in section 95 of this Act, and in the section aforesaid of that Act, respectively.
 
 (4) Oral evidence taken upon affidavit must be confined to the facts the witness is able of his own knowledge to prove, except on interlocutory motions, on which statements as to his belief and the grounds thereof may be admitted; and the costs of every affidavit unnecessarily setting forth matters of hearsay or argumentative matter, or copies of or extracts from documents, must be paid by the party filing it.
 
@@ -1112,19 +1082,15 @@ evidence in the Court room where the Court is sitting; or
 
 (ii) a committal proceeding; (iii) where a person has previously been remanded in custody, any subsequent proceeding with respect to the remand of the person in custody for the same offence; (iv) any interlocutory proceeding held in connection with any criminal proceeding; (v) a trial or a hearing of an appeal.
 
-**73B.** (1) A requirement by or under any written law that
-
 *Legal recognition of use of audio visual link facilities in civil and criminal proceedings. [19 of 2008]*
 
-a person shall appear or be brought or be present before a Court is taken to be satisfied if the person appears before the Court by way of an audio visual link pursuant to an order made under section 73A(1).
+**73B.** (1) A requirement by or under any written law that a person shall appear or be brought or be present before a Court is taken to be satisfied if the person appears before the Court by way of an audio visual link pursuant to an order made under section 73A(1).
 
 (2) Any requirement of law for the presence of a person or entitlement of a person under any written law for a person to be present in proceeding before a Court concerning bail is taken to be satisfied if audio visual link is used in relation to the person pursuant to an order made under section 73A(1).
 
-(3) Any entitlement of a person under section 24 of the
-
 *c. 3:01*
 
-Court of Appeal Act to be present in proceedings on the hearing of an appeal is taken to be satisfied if audio visual link approved by the Court of Appeal is used in relation to the person.
+(3) Any entitlement of a person under section 24 of the Court of Appeal Act to be present in proceedings on the hearing of an appeal is taken to be satisfied if audio visual link approved by the Court of Appeal is used in relation to the person.
 
 (4) A Court may allow a person in custody to be produced before the Court by way of audio visual link from the place of detention and such production shall be deemed to be a production or appearance of the person in custody before the Court as required under any law.
 
@@ -1388,11 +1354,9 @@ concerned with the supply of information to that computer, or with the operation
 
 *Giving depositions in evidence at trial. [21 of 1932 29 of 1961 4 of 1972]*
 
-**95.** (1) Where any person has been committed for trial for any offence, the deposition of any person taken before a magistrate may, if the conditions hereinafter set out are satisfied, without further proof be read as evidence on the trial of that person, whether for that offence or for any other offence arising out of the same transaction or set of circumstances as that offence. The conditions hereinbefore referred to are the following– (a) the depositions must be the deposition either of a witness whose attendance at the trial is stated by or on behalf of the Director of Public Prosecutions to be unnecessary in accordance with the provisions of
-
 *c. 10:01*
 
-section 80 of the Criminal Law (Procedure) Act, or of a witness who is proved at the trial by the oath of a credible witness to be dead or insane, or so ill as not to be able to travel, or who is absent from Guyana or cannot be found, provided that, if the Court is satisfied that such absence is
+**95.** (1) Where any person has been committed for trial for any offence, the deposition of any person taken before a magistrate may, if the conditions hereinafter set out are satisfied, without further proof be read as evidence on the trial of that person, whether for that offence or for any other offence arising out of the same transaction or set of circumstances as that offence. The conditions hereinbefore referred to are the following– (a) the depositions must be the deposition either of a witness whose attendance at the trial is stated by or on behalf of the Director of Public Prosecutions to be unnecessary in accordance with the provisions of section 80 of the Criminal Law (Procedure) Act, or of a witness who is proved at the trial by the oath of a credible witness to be dead or insane, or so ill as not to be able to travel, or who is absent from Guyana or cannot be found, provided that, if the Court is satisfied that such absence is
 
 caused by or due to any improper motive connected with the cause on the part of the deponent, and, if that motive exists, that there is any collusion between the deponent and the party tendering the deposition in respect of the motive, this enactment shall not apply;
 
@@ -1400,11 +1364,9 @@ caused by or due to any improper motive connected with the cause on the part of 
 
 (c) the deposition must purport to be signed by the magistrate before whom it purports to have been taken.
 
-(2) In the case of a deposition taken under section 68 or
-
 *c. 10:01*
 
-76 of the Criminal Law (Procedure) Act, the provisions of subsection (1) of this section other than paragraph (b) shall apply on its being proved at the trial either by a certificate purporting to be signed by the magistrate before whom the deposition purports to have been taken or by the oath of a credible witness–
+(2) In the case of a deposition taken under section 68 or 76 of the Criminal Law (Procedure) Act, the provisions of subsection (1) of this section other than paragraph (b) shall apply on its being proved at the trial either by a certificate purporting to be signed by the magistrate before whom the deposition purports to have been taken or by the oath of a credible witness–
 
 (a) that reasonable notice of the intention to take such depositions was served upon the person (whether accused or prosecutor) against whom it is proposed to be given in evidence; and
 
@@ -1412,11 +1374,9 @@ that person or his counsel or solicitor had, or might have had, if he had chosen
 
 (3) This section shall not have effect in any case in which it is proved–
 
-(a) that the deposition, or where the proof required by this section is given by means of a certificate, that the certificate was not in fact signed by the magistrate by whom it purports to have been signed; or (b) that where the deposition is the deposition of a witness whose attendance at the trial is stated to be unnecessary as provided by section
-
 *c. 10:01*
 
-80 of the Criminal Law (Procedure) Act the witness has been duly notified that he is required to attend the trial.
+(a) that the deposition, or where the proof required by this section is given by means of a certificate, that the certificate was not in fact signed by the magistrate by whom it purports to have been signed; or (b) that where the deposition is the deposition of a witness whose attendance at the trial is stated to be unnecessary as provided by section 80 of the Criminal Law (Procedure) Act the witness has been duly notified that he is required to attend the trial.
 
 (4) It shall be sufficient evidence of absence from Guyana, within the meaning of this section, to prove that the deponent was on board a vessel or an aircraft on its outward journey from Guyana bound for some port or place beyond Guyana, and that on inquiry being made for the deponent before trial at his last or most usual place of abode or business he could not be found.
 
@@ -1426,11 +1386,9 @@ that person or his counsel or solicitor had, or might have had, if he had chosen
 
 *Appointment of commissioners to administer oaths to affidavits. [35 of 1929]*
 
-**96.** (1) The President may issue to any justice of the peace or other fit person a commission empowering him to be a commissioner to administer oaths to affidavits, and to receive declarations and affirmations in lieu of oaths, and statutory
-
 *c. 5:09*
 
-declarations under the Statutory Declarations Act, and to certify those affidavits, declarations, affirmations, or statutory declarations.
+**96.** (1) The President may issue to any justice of the peace or other fit person a commission empowering him to be a commissioner to administer oaths to affidavits, and to receive declarations and affirmations in lieu of oaths, and statutory declarations under the Statutory Declarations Act, and to certify those affidavits, declarations, affirmations, or statutory declarations.
 
 The President may in any such commission limit the power conferred thereby as to place or time or otherwise.
 
@@ -1452,11 +1410,9 @@ The President may in any such commission limit the power conferred thereby as to
 
 **98.** (1) Every diplomatic agent or consular officer of Guyana exercising his functions in any foreign country or place may in that country or place administer any oath and take any affidavit and also do any notarial act which any notary public can do within Guyana; and every oath, affidavit and notarial act administered, sworn, or done by or before any such person shall be as effectual as if duly administered, sworn and done by or before any lawful authority in Guyana.
 
-(2) For every oath administered, affidavit taken or notarial act done under subsection (1), a diplomatic agent or a consular officer shall charge such fee as may be prescribed by order of the Minister responsible for finance; and any reference to
-
 *c. 80:01*
 
-a notarial act in section 13 of the Tax Act shall include a reference to a notarial act performed under this section.
+(2) For every oath administered, affidavit taken or notarial act done under subsection (1), a diplomatic agent or a consular officer shall charge such fee as may be prescribed by order of the Minister responsible for finance; and any reference to a notarial act in section 13 of the Tax Act shall include a reference to a notarial act performed under this section.
 
 *Summary power of committal of person deemed guilty of perjury.*
 

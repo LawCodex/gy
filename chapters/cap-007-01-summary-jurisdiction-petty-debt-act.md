@@ -196,41 +196,53 @@ Interpleader
 
 **56.** Claim by third party to movable property taken in execution.
 
-### SECTION
+*Cap.*
 
-**57.** Deposit of value of property taken.
+7:01
+
+*SECTION Deposit of*
+
+**57.** value of property taken.
 
 Amendment
 
-**58.** Powers of amendment.
+*Powers of*
+
+**58.** amendment.
 
 Process
 
-**59.** Issuing process.
+*Issuing Proof of Proof of*
 
-**60.** Proof of service of process by bailiff or constable.
+**59.** process.
 
-**61.** Proof of service.
+**60.** service of process by bailiff or constable.
+
+**61.** service.
 
 Books and Records
 
-**62.** Keeping of record books of causes.
+*Keeping Keeping Custody*
 
-**63.** Keeping of cash book and other records.
+**62.** of record books of causes.
 
-**64.** Custody of records.
+**63.** of cash book and other records.
+
+**64.** of records.
 
 Forms
 
-**65.** Use of forms.
+*Use of*
+
+**65.** forms.
 
 ## SCHEDULE—Forms.
 
-1929 Ed. CHAPTER 7:01 c. 15
+*1929 Ed. c. 15 1953 Ed. c. 16*
 
-1953 Ed. SUMMARY JURISDICTION (PETTY DEBT) ACT c. 16
+*11 of 1893 An*
 
-11 of 1893 An Act to consolidate and amend the Laws relating to the Jurisdiction of Magistrates’ Courts in Actions for the Recovery of Debts and Demands and in Actions for Damages, and to the Practice and Procedure of the said Courts with respect to such Actions.
+CHAPTER 7:01 SUMMARY JURISDICTION (PETTY DEBT) ACT Act to consolidate and amend the Laws relating to the Jurisdiction of Magistrates’ Courts in Actions for the Recovery of Debts and Demands and in Actions for Damages, and to the Practice and Procedure of the said Courts with respect to such Actions.
 
 ### [1 ST MARCH, 1894]
 
@@ -266,11 +278,9 @@ Forms
 
 “prescribed” means prescribed by the rules;
 
-“the rules” means the rules relating to the practice and procedure of the court in the exercise of its civil
-
 *c. 3:05*
 
-jurisdiction made under the Summary Jurisdiction (Magistrates) Act, and for the time being in force.
+“the rules” means the rules relating to the practice and procedure of the court in the exercise of its civil jurisdiction made under the Summary Jurisdiction (Magistrates) Act, and for the time being in force.
 
 ## PART I JURISDICTION AND LAW
 
@@ -354,11 +364,9 @@ then, in either of those cases, service shall be made by affixing the summons, w
 
 (2) The clerk of the court shall, as soon as conveniently may be after receiving the prescribed notice, communicate it to the plaintiff by post, or by causing it to be delivered at his last or most usual place of abode or at his place of business, but it shall not be necessary for the defendant to prove at the hearing that the notice was communicated to the plaintiff by the clerk of the court.
 
-**13.** (1) The defendant may, at any time before the
-
 *Payment into court by defendant.*
 
-hearing, file a consent in writing to judgment or he may pay into court any sum of money he thinks a full satisfaction for the claim of the plaintiff, together with the costs incurred by the plaintiff up to the time of the payment.
+**13.** (1) The defendant may, at any time before the hearing, file a consent in writing to judgment or he may pay into court any sum of money he thinks a full satisfaction for the claim of the plaintiff, together with the costs incurred by the plaintiff up to the time of the payment.
 
 (2) Notice of the payment shall without delay be communicated by the clerk of the court to the plaintiff by post, or by causing the notice to be delivered at his last or most usual place of abode or at his place of business.
 
@@ -512,11 +520,9 @@ action was commenced shall forthwith transmit, by post or otherwise, to the cler
 
 **32.** If in any case the court is satisfied by an unsuccessful party to an action that he was prevented by causes beyond his control from placing his case fully before the court at the first hearing of the action or that the judgment was obtained by fraud or other improper conduct on the part of the successful party the court may, if it thinks proper, order a new hearing of the action to be had upon the terms it thinks reasonable, and in the meantime stay the proceedings in the action:
 
-Provided that nothing in this section shall be construed
-
 *c. 3:04*
 
-to take away or in any manner affect any right of appeal under the Summary Jurisdiction (Appeals) Act.
+Provided that nothing in this section shall be construed to take away or in any manner affect any right of appeal under the Summary Jurisdiction (Appeals) Act.
 
 *Finality of judgment. c. 3:04*
 
@@ -650,7 +656,9 @@ Execution against Immovable Property
 
 (3) Title to any immovable property so sold shall be granted by the High Court to the purchaser in like manner as title is for the time being granted in respect of other immovable property sold in execution.
 
-28 Cap. 7:01
+*28 Cap.*
+
+7:01
 
 *Execution against buildings.*
 
@@ -704,17 +712,13 @@ action, but that the right thereto belongs to some third party who has sued or i
 
 (3) The court shall have the same powers under this and the last preceding section as in an ordinary action before it, and costs shall be apportionable and recoverable in the same manner as in an ordinary action.
 
-(4) Fees to be demanded in all interpleader actions under this section shall be those chargeable and payable in ordinary actions as set forth in Table A in the
-
 *c. 3:05*
 
-Schedule to the Summary Jurisdiction (Magistrates) Act.
-
-**57.** Where any such claim as aforesaid is made, the
+(4) Fees to be demanded in all interpleader actions under this section shall be those chargeable and payable in ordinary actions as set forth in Table A in the Schedule to the Summary Jurisdiction (Magistrates) Act.
 
 *Deposit of value of property taken.*
 
-claimant may deposit with the bailiff either the amount of the value of the goods claimed, that value to be fixed by appraisement in case of dispute, to be by the bailiff paid into court to abide the decision of the court upon the claim, or the sum which the bailiff shall be allowed to charge as costs for keeping possession of the goods until the decision can be obtained, or may give to the bailiff, in the prescribed manner, security for the value of the goods claimed, and, in default of the claimant so doing, the bailiff shall sell the goods as if the claim had not been made, and shall pay into court the proceeds of sale to abide the decision of the court.
+**57.** Where any such claim as aforesaid is made, the claimant may deposit with the bailiff either the amount of the value of the goods claimed, that value to be fixed by appraisement in case of dispute, to be by the bailiff paid into court to abide the decision of the court upon the claim, or the sum which the bailiff shall be allowed to charge as costs for keeping possession of the goods until the decision can be obtained, or may give to the bailiff, in the prescribed manner, security for the value of the goods claimed, and, in default of the claimant so doing, the bailiff shall sell the goods as if the claim had not been made, and shall pay into court the proceeds of sale to abide the decision of the court.
 
 Amendment
 

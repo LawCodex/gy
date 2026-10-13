@@ -224,11 +224,9 @@ proceedings were institu-ted resident in, or being a body corporate had its prin
 
 (c) in the case of a judgment given in an action other than any such action as is mentioned in paragraph (a) or (b), if the jurisdiction of the original court is recognised by the law of the registering court.
 
-(3) Notwithstanding anything in the last preceding subsection, the courts of the country of the original court shall
-
 *not be*
 
-deemed to have had jurisdiction—
+(3) Notwithstanding anything in the last preceding subsection, the courts of the country of the original court shall deemed to have had jurisdiction—
 
 (a) if the subject matter of the proceedings was immovable property outside the country of the original court; or
 
@@ -260,15 +258,17 @@ registration enforceable by execution in the country of the original court, the 
 
 (a) the last mentioned Ordinance shall cease to have effect;
 
-(b) Part I shall have effect as if— (i) the expression
+(b) Part I shall have effect as if—
+
+(i) the expression
 
 “judgment” included an award in proceedings on an arbitration if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place;
 
 (ii) the fact that a judgment was given before the coming into operation of the order did not prevent it from being a judgment to which Part I applies, but the time limited for the registration of a judgment were, in the case of a judgment so
 
-
+* The Judgments published in Commonwealth*
 
-The Judgments Extension Ordinance (1953 Ed. cap. 27) though still in force has not been published in this Edition as it is proposed to apply Part I of this Act to the Commonwealth territories to which that Ordinance now extends.
+Extension Ordinance (1953 Ed. cap. 27) though still in force has not been this Edition as it is proposed to apply Part I of this Act to the territories to which that Ordinance now extends.
 
 given, twelve months from the date of the judgment or such longer period as may be allowed by the High Court;
 
@@ -300,20 +300,16 @@ or counter-claim in any such proceedings.
 
 *Power to make*
 
-**11.** (l) If it appears to the Minister that the treatment
-
 *judgments unenforceable in Guyana if no reciprocity.*
 
-in respect of recognition and enforcement accorded by the courts of any foreign country to judgments given in the High Court is substantially less favourable than that accorded by the High Court to judgments of the superior courts of that country, the Minister may by order apply this section to that country.
+**11.** (l) If it appears to the Minister that the treatment in respect of recognition and enforcement accorded by the courts of any foreign country to judgments given in the High Court is substantially less favourable than that accorded by the High Court to judgments of the superior courts of that country, the Minister may by order apply this section to that country.
 
 (2) Except in so far as the Minister may by order under this section otherwise direct, no proceedings shall be entertained in the High Court for the recovery of any sum alleged to be payable under a judgment given in a court of a country to which this section applies.
 
 *Issue of certificates of judgments obtained in Guyana.*
 
-**12.** Where a judgment under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty, has been entered in the High Court against any person and the judgment creditor is desirous of enforcing the judgment in a foreign country to which Part I applies, the Court shall, on an application made by the judgment creditor and on payment of such fee as may be fixed for the purposes of this section by rules of court made under section 67 of the
-
 *c. 3:02*
 
-High Court Act, issue to the judgment creditor a certified copy of the judgment, together with a certificate containing such particulars with respect to the action, including the causes of action, and the rate of interest, if any, payable on the sum payable under the judgment, as may be prescribed:
+**12.** Where a judgment under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty, has been entered in the High Court against any person and the judgment creditor is desirous of enforcing the judgment in a foreign country to which Part I applies, the Court shall, on an application made by the judgment creditor and on payment of such fee as may be fixed for the purposes of this section by rules of court made under section 67 of the High Court Act, issue to the judgment creditor a certified copy of the judgment, together with a certificate containing such particulars with respect to the action, including the causes of action, and the rate of interest, if any, payable on the sum payable under the judgment, as may be prescribed:
 
 Provided that, where execution of a judgment is stayed for any period pending an appeal or for any other reason, an application shall not be made under this section with respect to the judgment until the expiration of that period.

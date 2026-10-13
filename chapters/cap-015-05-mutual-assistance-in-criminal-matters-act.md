@@ -54,7 +54,9 @@ This Chapter contains no subsidiary legislation.
 
 **6.** Non-derogation from other forms of cooperation.
 
-P ART II R EQUEST B Y G UYANA T O C OMMONWEALTH C OUNTRIES F OR A SSISTANCE
+*R*
+
+P ART II EQUEST B Y G UYANA T O C OMMONWEALTH C OUNTRIES F OR A SSISTANCE
 
 **7.** Assistance in obtaining evidence.
 
@@ -84,7 +86,9 @@ P ART II R EQUEST B Y G UYANA T O C OMMONWEALTH C OUNTRIES F OR A SSISTANCE
 
 **20.** Immunities and privileges.
 
-P ART III R EQUESTS B Y C OMMONWEALTH C OUNTRIES T O G UYANA F OR A SSISTANCE
+*R*
+
+P ART III EQUESTS B Y C OMMONWEALTH C OUNTRIES T O G UYANA F OR A SSISTANCE
 
 **21.** Interpretation of this Part.
 
@@ -542,19 +546,25 @@ for —
 
 (b) after the document is made public for a purpose referred to in paragraph (a).
 
-(2) No person may be compelled in connection with any legal proceedings –
+*with any*
+
+(2) No person may be compelled in connection legal proceedings –
 
 (a) to produce a foreign document or a copy of it; or
 
 (b) to give evidence relating to any information that is contained in a foreign document.
 
-(3) Every person who contravenes or fails to comply with subsection (1) commits an offence and is liable on summary conviction —
+*comply on*
+
+(3) Every person who contravenes or fails to with subsection (1) commits an offence and is liable summary conviction —
 
 (a) in the case of an individual, to a fine of $1,000,000 and imprisonment for a term of 2 years; and
 
 (b) in the case of a person other than an individual, to a fine of $10,000,000.
 
-(4) In this section, "foreign document" means a document sent to the central authority for Guyana by a Commonwealth country as a result of a request under this
+*document*
+
+(4) In this section, "foreign document" means a sent to the central authority for Guyana by a Commonwealth country as a result of a request under this
 
 *Part.*
 
@@ -598,11 +608,9 @@ P ART III R EQUESTS B Y C OMMONWEALTH C OUNTRIES T O G UYANA F OR A SSISTANCE
 
 the request shall be deemed to have been withdrawn unless a request in accordance with the Schedule is transmitted within 7 days or such other period as the central authority for Guyana specifies to the central authority for the requesting country.
 
-*Acceptance, refusal, or postponement of requests.*
+*Acceptance, refusal, or postponement of requests. Act.*
 
 **23.** (1) Subject to this section and section 24, the central authority for Guyana shall as soon as practicable accept and carry out a request made in accordance with this
-
-*Act.*
 
 (2) A request shall be refused if the central authority for Guyana believes that-
 

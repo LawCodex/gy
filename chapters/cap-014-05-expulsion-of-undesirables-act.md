@@ -76,15 +76,17 @@ __________________________
 
 _______________________________________________________
 
-*30 of 1930*
+*30 of*
 
-An Act to make provision for preventing the entry of undesirable persons into Guyana and for the expulsion of undesirable persons from Guyana.
+1930 An Act to make provision for preventing the entry of undesirable persons into Guyana and for the expulsion of undesirable persons from Guyana.
 
 [1 st NOVEMBER, 1930]
 
 *Short title.*
 
 **1.** This Act may be cited as the Expulsion of Undesirables Act.
+
+*[10 of*
 
 Interpretation. 2. In this Act—
 
@@ -154,10 +156,8 @@ whose custody he shall be shall give him all reasonable assistance for their pre
 
 (2) The President may at any time revoke an expulsion order absolutely or suspend its operation simply or subject to such conditions as he may think fit.
 
-*This Act to prevail over Immigration Act.*
+*This Act to prevail over Immigration Act. [10 of 1967] c. 14:02.*
 
 **13.** This Act shall have effect notwithstanding anything provided by the Immigration Act.
 
 ____________________
-
-*c. 14:02.*

@@ -68,11 +68,9 @@ An Act empowering the President of Guyana to invite observers at general electio
 
 **2.** (1) In this Act “election” means an election of members of the National Assembly referred to in article 60 (2) of the Constitution.
 
-(2) Expressions used in this Act but not defined herein shall have the same meanings as in the Representation of
-
 *c. 1:03*
 
-the People Act.
+(2) Expressions used in this Act but not defined herein shall have the same meanings as in the Representation of the People Act.
 
 *Observers at general elections.*
 
@@ -97,6 +95,10 @@ democratic processes of the State as enshrined in the Constitution and more spec
 *Obstruction of or interference with an observer. [6 of 1997]*
 
 **6.** Everyone who assaults an observer or obstructs or interferes with him in the performance of his functions or the exercise of his rights under this Act shall be liable on summary conviction to a fine of fifteen thousand dollars and imprisonment for eighteen months.
+
+*1/2022*
+
+L.R.O.
 
 *Personation. [6 of 1997]*
 

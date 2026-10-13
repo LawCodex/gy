@@ -85,3 +85,7 @@ Provided that this enactment shall not prevent—
 **3.** Anyone not serving in the Guyana Defence Force who wears, without the Minister’s permission, the uniform of that force, or any dress having the appearance or bearing any of the regimental or other distinctive marks of that uniform, in such a manner or in such circumstances as to be likely to bring contempt upon that uniform or employs any other person so to wear that uniform or dress, shall be liable on summary conviction to a fine of nine thousand seven hundred and fifty dollars or to imprisonment for one month.
 
 ____________________
+
+*1.2012*
+
+L.R.O.

@@ -266,11 +266,9 @@ Rural Constables (fees and allowances) Order 50 ( O. 98/1975 )
 
 __________________________
 
-### CHAPTER 16:01 POLICE ACT
-
 *39 of 1957*
 
-An Act to amend and consolidate the law relating to the Guyana Police Force.
+CHAPTER 16:01 POLICE ACT An Act to amend and consolidate the law relating to the Guyana Police Force.
 
 ### [10 TH AUGUST, 1957]
 
@@ -321,6 +319,10 @@ appointed to maintain the efficiency of the wireless telegraphy system in use in
 “quartermaster” means the officer specially appointed to control the receipt and issue of all stores and responsible therefore to the Commissioner;
 
 “regulations” mean regulations made under section 93;
+
+*Cap.*
+
+16:01
 
 “senior superintendent”, “superintendent”, “deputy superintendent”, “assistant superintendent” and “cadet officer” mean a senior superintendent of police, a superintendent of police, a deputy superintendent of police, an assistant superintendent of police and a cadet officer of police respectively;
 
@@ -401,6 +403,10 @@ The Minister may make regulations for the administration of the Force or part th
 (3) Subject to such regulations as aforesaid, the provisions of the Defence Act for the time being in force with respect to discipline shall apply to a military force constituted under this section.
 
 (4) When any member of the Force is killed on
+
+*Cap.*
+
+16:01
 
 actual military service, or dies from wounds or disease contracted on actual military service, provision may be made out of moneys provided by Parliament for his wife and family in accordance with the regulations prescribed by the Minister.
 
@@ -1068,15 +1074,21 @@ __________
 
 **5.** For executing in the prescribed manner any warrant of distress or levy or warrant of ejectment, or other process issued by a magistrate...........................................$195.00
 
-**6.** For performance of police duties when required to assist the police—
+*assist*
+
+**6.** For performance of police duties when required to the police—
 
 (a) for the first eight hours or part thereof..........................................$260.00
 
 (b) for each hour after the first eight hours..............................................$65.00
 
-**7.** For the attendance at any muster to a subordinate officer or constable per diem .............................................$195.00
+*officer*
 
-**8.** Travelling allowance to a constable when engaged in the execution of his duty, on the scale for the time being sanctioned for the police force.
+**7.** For the attendance at any muster to a subordinate or constable per diem .............................................$195.00
+
+*in the*
+
+**8.** Travelling allowance to a constable when engaged execution of his duty, on the scale for the time being sanctioned for the police force.
 
 **9.** (a) the allowance specified in item 8 shall be in the discretion of the magistrate, and shall be paid by the magistrate at the conclusion of the case or the completion of the service. The account shall be made out by the police.
 

@@ -124,11 +124,9 @@ AN ACT to provide for the constitution of lay magistrates' courts; for the appoi
 
 **8.** (1) It is hereby declared that the functions of a clerk include the giving to the lay magistrate to whom he is clerk, as and when required by the lay magistrate, such advice within his competence about law, practice or procedure on questions arising in connection with the discharge of his functions, and it shall be the duty of the clerk to bring to the attention of the lay magistrate any point of law, practice or procedure that is or may be involved in any questions so arising.
 
-(2) Without prejudice to subsection (1) the duties of the clerk, shall be such as may be assigned by the Chancellor and, where appropriate, shall include those duties specified
-
 *Cap. 3:05*
 
-under section 23 of the Summary Jurisdiction (Magistrates) Act so far as those duties apply to the aforesaid clerk.
+(2) Without prejudice to subsection (1) the duties of the clerk, shall be such as may be assigned by the Chancellor and, where appropriate, shall include those duties specified under section 23 of the Summary Jurisdiction (Magistrates) Act so far as those duties apply to the aforesaid clerk.
 
 *Criminal jurisdiction of a lay magistrates'*
 
@@ -218,21 +216,15 @@ I the records and returns of cases of the lay magistrates’ court;
 
 (2) Until rules under subsection (1) are made, the practice and procedure to be followed by a lay magistrates’ court shall be regulated –
 
-(a) in its criminal jurisdiction in respect of summary conviction offences, by the
-
 *c. 10:02*
 
-Summary Jurisdiction (Procedure) Act and by any other written law relating thereto;
-
-(b) in its civil jurisdiction, by Summary
+(a) in its criminal jurisdiction in respect of summary conviction offences, by the Summary Jurisdiction (Procedure) Act and by any other written law relating thereto;
 
 *c. 7:01*
 
-Jurisdiction (Petty Debt) Act and by any other written law relating thereto including the Summary Jurisdiction
-
 *c.3:05 [sub.leg.]*
 
-(Magistrates) Money Regulations and the Summary Jurisdiction (Civil Procedure) Rules;
+(b) in its civil jurisdiction, by Summary Jurisdiction (Petty Debt) Act and by any other written law relating thereto including the Summary Jurisdiction (Magistrates) Money Regulations and the Summary Jurisdiction (Civil Procedure) Rules;
 
 subject to such modifications as the Chancellor may deem necessary or expedient.
 

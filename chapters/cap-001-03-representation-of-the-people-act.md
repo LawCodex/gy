@@ -104,11 +104,11 @@ Grouping of Divisions for polling Notice (Gaz. 24/10/1946, Nt. 386F, Gaz. 7/11/1
 
 **12.** Representatives of lists.
 
-**13.** Examination of lists.
+Examination of lists.
 
-**14.** Defective lists.
+Defective lists.
 
-**15.** Correction of lists.
+Correction of lists.
 
 Application for symbols.
 
@@ -484,11 +484,9 @@ Use of certain premises as committee room prohibited.
 
 ## SCHEDULE – Table of Forms
 
-### CHAPTER 1:03 REPRESENTATION OF THE PEOPLE ACT
-
 *Reg. 24/1964 O. 50/1980*
 
-An Act to make provision for the election of members of the National Assembly under a system of proportional representation and for purposes connected therewith.
+CHAPTER 1:03 REPRESENTATION OF THE PEOPLE ACT An Act to make provision for the election of members of the National Assembly under a system of proportional representation and for purposes connected therewith.
 
 ### [23 RD SEPTEMBER, 1964]
 
@@ -506,11 +504,9 @@ An Act to make provision for the election of members of the National Assembly un
 
 “certificate of employment” means a certificate issued under section 29(4);
 
-“Commission” means the Elections Commission established by
-
 *c. 1:01*
 
-article 161 of the Constitution;
+“Commission” means the Elections Commission established by article 161 of the Constitution;
 
 *[25 of 2022] c. 19:08*
 
@@ -520,27 +516,21 @@ article 161 of the Constitution;
 
 “Deputy Commissioner” means the Deputy Commissioner of Registration appointed under the National Registration Act;
 
-“disciplined force” has the same meaning as in article 154 of the
-
 *c. 1:01*
 
-Constitution;
+“disciplined force” has the same meaning as in article 154 of the Constitution;
 
 “district” means a polling district constituted under section 6(1);
 
 “division” means a polling division as defined by section 6(2);
 
-“election” means an election in accordance with article 60(2) of the
+*c. 1:01*
+
+“election” means an election in accordance with article 60(2) of the Constitution of members to the National Assembly, and elector shall be construed accordingly;
 
 *c. 1:01*
 
-Constitution of members to the National Assembly, and elector shall be construed accordingly;
-
-“election day”, in relation to any election, means the day
-
-*c. 1:01*
-
-appointed under article 61 of the Constitution for the holding of the election;
+“election day”, in relation to any election, means the day appointed under article 61 of the Constitution for the holding of the election;
 
 “election expenses declaration” means a declaration as to election expenses as required by section 108;
 
@@ -588,11 +578,9 @@ appointed under article 61 of the Constitution for the holding of the election;
 
 Provided the identity paper tendered to a presiding officer on the day of an election by an elector shall be the latest identity paper issued to him by the Commissioner under this Act;
 
-“member”, in relation to a disciplined force, has the same meaning
-
 *c. 1:01*
 
-as in article 154 of the Constitution;
+“member”, in relation to a disciplined force, has the same meaning as in article 154 of the Constitution;
 
 “official list of elector” means the official list of electors for a polling division as prescribed by subsection (3);
 
@@ -614,11 +602,9 @@ as in article 154 of the Constitution;
 
 an assistant presiding officer;
 
-“region” means any of the ten regions which may be established
-
 *c. 1:01*
 
-under article 72(1) of the Constitution;
+“region” means any of the ten regions which may be established under article 72(1) of the Constitution;
 
 *c. 19:08*
 
@@ -648,11 +634,9 @@ under article 72(1) of the Constitution;
 
 *[25 of 2022]*
 
-(3) The official list of electors for any division shall be the preliminary list of the electors with registered addresses in that division, prepared before election day in pursuance of section
-
 *c. 19:08*
 
-14 of the National Registration Act or last prepared in pursuance thereof before such day, as the case may be, but with every such modification as may be necessary to bring that list into conformity with the divisional register–
+(3) The official list of electors for any division shall be the preliminary list of the electors with registered addresses in that division, prepared before election day in pursuance of section 14 of the National Registration Act or last prepared in pursuance thereof before such day, as the case may be, but with every such modification as may be necessary to bring that list into conformity with the divisional register–
 
 *c. 19:08*
 
@@ -664,15 +648,19 @@ objections finally determined before the said election day;
 
 (b) pursuant to any alteration thereto made under section 8 or 8B of the National Registration Act, prior to compliance with section 34(2)(a)(iv) in respect of the said official list, for the purpose of changing the registered address of an elector or the registered name or occupation of any elector; or
 
-(c) pursuant to the cancellation of any elector’s registration therein effected in contravention
-
 *c. 19:08*
 
-of section 11(1) of the National Registration Act, or relating to an elector who is dead, under section 8 of the National Registration Act,
+(c) pursuant to the cancellation of any elector’s registration therein effected in contravention of section 11(1) of the National Registration Act, or relating to an elector who is dead, under section 8 of the National Registration Act,
 
-and every reference made to the official list of electors in the provisions hereinafter contained shall, in relation to any time on or before election day, be construed as a reference to such preliminary list as aforesaid with such modifications thereto (if any) as, at that time, shall have been made in conformity with this subsection.
+*and every provisions*
 
-(4) In subsection (3) reference to a preliminary list is a reference to such list read in conjunction with any supplementary list prepared for a revision of that preliminary list pursuant to regulations made under the Act for the purpose of showing the aforementioned modifications.
+*any) as, at that subsection.*
+
+reference made to the official list of electors in the hereinafter contained shall, in relation to any time on or before election day, be construed as a reference to such preliminary list as aforesaid with such modifications thereto (if time, shall have been made in conformity with this
+
+*(4) In*
+
+subsection (3) reference to a preliminary list is a reference to such list read in conjunction with any supplementary list prepared for a revision of that preliminary list pursuant to regulations made under the Act for the purpose of showing the aforementioned modifications.
 
 *Electoral system. [16 of 1968]*
 
@@ -680,9 +668,13 @@ and every reference made to the official list of electors in the provisions here
 
 (2) Throughout Guyana, votes shall be cast in favour of lists of candidates published in accordance with section 19.
 
-*Other functions of Commission.*
+*\4. The Other functions*
 
-**4.** The Commission shall have, in addition to the functions assigned to it by the Constitution, such functions as are assigned to it by this Act and, in the execution of this Act, such authority of
+*of Commission.*
+
+*to it by this Act*
+
+Commission shall have, in addition to the functions assigned to it by the Constitution, such functions as are assigned and, in the execution of this Act, such authority of
 
 the Commission as is exercised in pursuance of the provisions of the Constitution shall be duly deferred to.
 
@@ -740,11 +732,9 @@ appointed from among fit and proper persons who are not public officers.
 
 Provided that no polling district shall extend across the boundary of any region.
 
-(2) Subject to any orders made by the Commission under subsection (1), every registration division as constituted
-
 *c. 19:08*
 
-under section 5(2) of the National Registration Act shall be a polling division for the purposes of this Act.
+(2) Subject to any orders made by the Commission under subsection (1), every registration division as constituted under section 5(2) of the National Registration Act shall be a polling division for the purposes of this Act.
 
 *[25 of 2022]*
 
@@ -888,11 +878,9 @@ Provided that if any such person is unable to sign his name, his mark, made agai
 
 (3) A list of candidates shall set out the names, one below the other in such order as each party may determine of the surnames and other names, of at least 42 persons qualified to be elected to the National Assembly and who have consented to the inclusion of their names in the list as candidates for election, together with the address and occupation of each such person.
 
-(4) Each list of candidates shall be accompanied by a
-
 *Form 3.*
 
-statutory declaration, in Form 3, by each person named therein as a candidate of his qualifications a n d consent, made before a justice of the peace, commissioner of oaths, notary public or other person authorised by law to administer an oath in the place where the declaration is made.
+(4) Each list of candidates shall be accompanied by a statutory declaration, in Form 3, by each person named therein as a candidate of his qualifications a n d consent, made before a justice of the peace, commissioner of oaths, notary public or other person authorised by law to administer an oath in the place where the declaration is made.
 
 (5) Each list of candidates shall bear a title selected by the persons by whom it is submitted.
 
@@ -1038,11 +1026,9 @@ Provided that if the list does not bear a title the Commission may, if it seems 
 
 *Correction to lists.*
 
-**15.** The representative and deputy representative of a list of candidates, or either of them, may, not later than the 29th day
-
 *Reg. 6/1973]*
 
-before election day, submit to the Chief Election Officer
+**15.** The representative and deputy representative of a list of candidates, or either of them, may, not later than the 29th day before election day, submit to the Chief Election Officer
 
 corrections of any defects in the list (whether or not those defects are defects which have been notified under section 14); and the Chief Election Officer shall forward the corrections to the Commission together with his report thereon.
 
@@ -1194,11 +1180,9 @@ to be performed by the deputy returning officers at least 21 days before Electio
 
 *Voting to be at polling place where elector’s name displayed.*
 
-**28.** An elector shall be entitled to vote (whether in person or as a proxy on behalf of another elector) at the polling place where is displayed in pursuance of section 36 the official list of
-
 *Reg. 6/1973*
 
-electors or part thereof, as the case may be, on which his name
+**28.** An elector shall be entitled to vote (whether in person or as a proxy on behalf of another elector) at the polling place where is displayed in pursuance of section 36 the official list of electors or part thereof, as the case may be, on which his name
 
 appears; and no elector shall, subject to section 29, be entitled to vote (either in person or as a proxy on behalf of another elector), at any other polling place.
 
@@ -1214,11 +1198,9 @@ Provided that divisions which form part of different districts shall not be grou
 
 *[25 of 2022]*
 
-(4) An elector who, in the district in which his address as entered in the official list of electors affixed under section 34(2)(a)(iv) is situate, is employed as an election officer, member of the Police Force or of the Guyana Defence Force for a purpose connected with the election at a polling place other than that where his name is displayed under section 28 may vote at that polling place if, not later than two days before election day, he obtains from the returning officer of that district a certificate
-
 *Form 4*
 
-under his hand, in Form 4, authorising him to vote at that polling place, which certificate shall state the name of the elector, the number of his identity paper and the fact that he is to be so employed.
+(4) An elector who, in the district in which his address as entered in the official list of electors affixed under section 34(2)(a)(iv) is situate, is employed as an election officer, member of the Police Force or of the Guyana Defence Force for a purpose connected with the election at a polling place other than that where his name is displayed under section 28 may vote at that polling place if, not later than two days before election day, he obtains from the returning officer of that district a certificate under his hand, in Form 4, authorising him to vote at that polling place, which certificate shall state the name of the elector, the number of his identity paper and the fact that he is to be so employed.
 
 *Entitlement to vote by proxy. [16 of 1968 Reg. 21/1968 6 of 1973 16 of 1985]*
 
@@ -1240,7 +1222,9 @@ those unable, or likely to be unable, by reason either of blindness or any
 
 other physical incapacity, to go in person to the polling place or, if able to go, to vote unaided.
 
-(2) Not more than one person shall be appointed to vote as a proxy on behalf of any one elector.
+*as a*
+
+(2) Not more than one person shall be appointed to vote proxy on behalf of any one elector.
 
 (3) No person shall be appointed to vote as a proxy–
 
@@ -1248,11 +1232,13 @@ other physical incapacity, to go in person to the polling place or, if able to g
 
 (b) for more than two electors.
 
-(4) An elector voting as a proxy on behalf of another elector so shall do at the same polling place and at the same time as he votes on his own behalf.
+*elector so as he*
 
-*Application for appointment of proxy. [16 of 1968 25 of 2022] Form 5.*
+(4) An elector voting as a proxy on behalf of another shall do at the same polling place and at the same time votes on his own behalf.
 
-**31.** (1) Every application for any such appointment of an elector to vote as proxy at an election shall–
+*Application for appointment of elector to proxy. [16 of 1968 25 of 2022] Form 5.*
+
+**31.** (1) Every application for any such appointment of an vote as proxy at an election shall–
 
 (a) be in writing in Form 5;
 
@@ -1262,7 +1248,9 @@ other physical incapacity, to go in person to the polling place or, if able to g
 
 (c) be accompanied by the consent in writing of the elector, named as proxy therein to his appointment.
 
-(2) The returning officer shall cause a list of the names of the applicants and the electors to vote as proxies on behalf of the applicants, to be affixed to a conspicuous part of one building in each division of his district, and published daily on the
+*of the the in each*
+
+(2) The returning officer shall cause a list of the names applicants and the electors to vote as proxies on behalf of applicants, to be affixed to a conspicuous part of one building division of his district, and published daily on the
 
 Commission’s website, in a newspaper, on television and other media, to bring the contents of the list to the attention of the public for persons to make objections to the returning officer before a decision is made under section 32(1).
 
@@ -1290,11 +1278,9 @@ Commission’s website, in a newspaper, on television and other media, to bring 
 
 **33A.** (1) The Commissioner shall as expeditiously as possible on being instructed in writing by the Commission to do so, cause to be prepared an official list of electors for every polling division, and a non-resident electors' roll with reference to the qualifying date which shall be such date as the Commission shall by order specify.
 
-(2) The official list of electors and the non-resident electors' roll shall be prepared in accordance with sections 33B
-
 *c. 19:08*
 
-and 33C and the National Registration Act.
+(2) The official list of electors and the non-resident electors' roll shall be prepared in accordance with sections 33B and 33C and the National Registration Act.
 
 (3) An official list of electors for a polling division or a non-resident electors' roll, prepared under subsection (1) shall remain in force until the Commissioner on the instructions of the Commission prepares a new official list of electors for such polling division or a new non-resident electors' roll.
 
@@ -1356,17 +1342,13 @@ may accompany an enumerator, while the enumerator is performing his duties under
 
 (7) Where a claim is submitted by a scrutineer to have the name of any person included in the official list of electors, the scrutineer and such person shall both be deemed to be parties to the claim and where a scrutineer submits an objection, he shall be deemed to be a party to the objection.
 
-(8) A chief scrutineer shall in respect of the whole of Guyana, a deputy chief scrutineer and an assistant chief scrutineer shall in respect of the registration district or part thereof, for which he is appointed, be entitled to perform all the functions, and shall have all the rights, of a scrutineer and, subject to the
+*c. 19:08*
+
+(8) A chief scrutineer shall in respect of the whole of Guyana, a deputy chief scrutineer and an assistant chief scrutineer shall in respect of the registration district or part thereof, for which he is appointed, be entitled to perform all the functions, and shall have all the rights, of a scrutineer and, subject to the above, references in this Act or the National Registration Act to a scrutineer shall be deemed to include references to the chief scrutineer, every deputy chief scrutineer and every assistant chief scrutineer.
 
 *c. 19:08*
 
-above, references in this Act or the National Registration Act to a scrutineer shall be deemed to include references to the chief scrutineer, every deputy chief scrutineer and every assistant chief scrutineer.
-
-(9) A scrutineer shall not interfere with the
-
-*c. 19:08*
-
-performance, by any person referred to in section 4 of the National Registration Act, of his functions or obstruct any such person in the performance of his functions.
+(9) A scrutineer shall not interfere with the performance, by any person referred to in section 4 of the National Registration Act, of his functions or obstruct any such person in the performance of his functions.
 
 (10) Where a scrutineer, having become liable to surrender to the Commissioner the identification card issued to him under subsection (3), without reasonable cause refuses or fails to surrender the same in accordance with subsection (3), (4) or (5), or represents that he is a scrutineer or performs or attempts or purports to perform any of the functions of a scrutineer or contravenes subsection (9), he shall be liable, on summary conviction, to a fine of five thousand dollars and to imprisonment for six months.
 
@@ -1380,11 +1362,9 @@ performance, by any person referred to in section 4 of the National Registration
 
 (a) not later than the 30th day before election day, send the list of polling places in the district to the election agent of each list of candidates for any comments to be given by the agent not later than 7 days after receipt of the list of polling places, and address any concern raised by any election agent as regards any polling place; and
 
-(b) not later than the 21st day before election day, give a notice of poll
-
 *Form 9*
 
-which shall be in Form 9 and which shall specify–
+(b) not later than the 21st day before election day, give a notice of poll which shall be in Form 9 and which shall specify–
 
 (i) the day on and the hours between which the poll will be taken; and
 
@@ -1474,13 +1454,9 @@ of each list of candidates, the initial letters, title and symbol of each list o
 
 (d) the initial letters of each list of candidates shall be printed in large capitals and the full titles of each list in small capitals.
 
-*Requirements of ballot paper for*
+*Requirements of ballot paper for constituency shall– geographic constituencies. [15 of 2000]*
 
 **39A.** (1) Every ballot paper for a geographical
-
-*constituency shall–*
-
-*geographic constituencies. [15 of 2000]*
 
 (a) contain, serially numbered on the left hand side, and in alphabetical order of the initial letters of each list of a contesting party, the title and symbol of each contesting party; but the serial numbering on the ballot paper under paragraph (a) and the serial numbering on the counterfoil, under paragraph (c), shall be done in such a manner as to ensure that the two sets of serial numbers cannot be correlated;
 
@@ -1518,15 +1494,11 @@ spaces on their right where the vote is to be marked;
 
 (b) a sufficient number of copies of the directions for voting;
 
-a sufficient number of copies of this Act (including any amendments made thereto for the purpose of holding any election pursuant to
-
 *c. 1:01*
-
-article 60(2) of the Constitution but not yet incorporated in the text thereof as published in any revision
 
 *c. 2:02*
 
-thereof made pursuant to the Law Revision Act);
+a sufficient number of copies of this Act (including any amendments made thereto for the purpose of holding any election pursuant to article 60(2) of the Constitution but not yet incorporated in the text thereof as published in any revision thereof made pursuant to the Law Revision Act);
 
 (d) a sufficient number of copies of the official list of electors or part thereof, as the case may require, containing the names of the electors entitled to vote at the polling place;
 
@@ -1574,57 +1546,55 @@ thereof made pursuant to the Law Revision Act);
 
 (b) the words “and shall cause every such registration record to be issued in such manner as the Commissioner thinks fit to the person for whom it has been prepared, or to be made available for his procurement in such manner as the Commissioner may specify by notice published in the Gazette” had been inserted immediately after the word “Act” therein:
 
-Provided that if the Commissioner of Registration finds it for any reason impracticable–
+*Provided for any reason*
+
+that if the Commissioner of Registration finds it impracticable–
 
 (a) for a print of the photograph of any elector to be affixed to such identification card of that elector as may be required for the purposes of this Act;
 
-(b) for any such identification card of an elector as aforesaid to be prepared in conformity with regulation 20(2)(b)
-
 *c. 19:08*
 
-of the National Registration (Residents) Regulations,
+(b) for any such identification card of an elector as aforesaid to be prepared in conformity with regulation 20(2)(b) of the National Registration (Residents) Regulations,
 
-the lack of any such print or preparation, as the case may be, shall not invalidate the identification card for the said purposes.
+*the lack of any*
+
+such print or preparation, as the case may be, shall not invalidate the identification card for the said purposes.
 
 ## PART VI PREPARATION FOR NON-RESIDENT ELECTORS’ BALLOT
 
-*Interpretation of Part VI. [Reg. 25/1968 Reg. 6/1973 16 of 1985 3 of 1991 11 of 1992 12 of 2006]*
+*Interpretation of Part VI. [Reg. 25/1968 “ballot officer” Reg. 6/1973 16 of 1985 3 of 1991 11 of 1992 12 of 2006]*
 
 **44.** (1) In this Part—
 
-“ballot officer” means–
+means–
 
 (a) an ambassador or High Commissioner resident in any country and representing Guyana therein;
 
 (b) any person appointed to be a ballot officer in any other country in which an ambassador or High Commissioner is accredited but is not resident therein;
 
-“non-resident elector” means an elector whose name is on the non-residents’ electors roll;
+*“non-resident residents’*
 
-“non-resident electors’ roll” means the non-resident electors’ roll as prescribed by subsection (2).
+elector” means an elector whose name is on the non-electors roll;
 
-(2) The non-resident electors’ roll shall be the preliminary list of the electors not resident in Guyana comprising the persons specified in subsection (2A), prepared before election
+*“non-resident as*
 
-*c. 19:08*
-
-day in pursuance of section 14 of the National Registration Act or last prepared in pursuance thereof before such day, as the case may be, but with every such modification as may be necessary to bring that list into conformity with the central register (to the extent to which it consists of the registration records of electors aforesaid)–
-
-(a) as altered under section 15(6) of the
+electors’ roll” means the non-resident electors’ roll prescribed by subsection (2).
 
 *c. 19:08*
 
-National Registration Act to give effect to claims and objections finally determined before the said election day;
-
-(b) pursuant to any alteration thereto
+(2) The non-resident electors’ roll shall be the preliminary list of the electors not resident in Guyana comprising the persons specified in subsection (2A), prepared before election day in pursuance of section 14 of the National Registration Act or last prepared in pursuance thereof before such day, as the case may be, but with every such modification as may be necessary to bring that list into conformity with the central register (to the extent to which it consists of the registration records of electors aforesaid)–
 
 *c. 19:08*
 
-made under section 8 of the National Registration Act, prior to the date of publication in the Gazette under section 19 of the names of candidates, for the purpose of changing the registered address, name or occupation of an elector;
-
-(c) pursuant to the cancellation therein under section 8 aforesaid of an elector’s registration effected in contravention of section 11(1) of the
+(a) as altered under section 15(6) of the National Registration Act to give effect to claims and objections finally determined before the said election day;
 
 *c. 19:08*
 
-National Registration Act, or of relating to an elector who does not exist by reason of death or otherwise ought not to be registered;
+(b) pursuant to any alteration thereto made under section 8 of the National Registration Act, prior to the date of publication in the Gazette under section 19 of the names of candidates, for the purpose of changing the registered address, name or occupation of an elector;
+
+*c. 19:08*
+
+(c) pursuant to the cancellation therein under section 8 aforesaid of an elector’s registration effected in contravention of section 11(1) of the National Registration Act, or of relating to an elector who does not exist by reason of death or otherwise ought not to be registered;
 
 and every reference made to the non-resident electors’ roll in the provisions hereinafter contained shall, in relation to any time on or before election day, be construed as a reference to such preliminary list as aforesaid with such modifications thereto (if any) as, at that time, shall have been made in conformity with this subsection.
 
@@ -1638,11 +1608,9 @@ and every reference made to the non-resident electors’ roll in the provisions 
 
 (d) the wife or husband or child of a member of the staff of an Embassy or High Commission.
 
-(3) In subsection (2) or (2A) reference to a preliminary list is a reference to such list read in conjunction with any supplementary list prepared for a revision of that preliminary list
-
 *c. 19:08*
 
-pursuant to regulations made under the National Registration Act for the purpose of showing the aforementioned modifications.
+(3) In subsection (2) or (2A) reference to a preliminary list is a reference to such list read in conjunction with any supplementary list prepared for a revision of that preliminary list pursuant to regulations made under the National Registration Act for the purpose of showing the aforementioned modifications.
 
 *Display of nonresident electors’ roll. [3 of 1991]*
 
@@ -1714,29 +1682,23 @@ a sealed envelope, which shall be directed to the non-resident elector at his ad
 
 (i) an unsealed envelope (hereafter referred to in this Part as the addressed envelope) addressed in the name, and to the office, of the officer issuing the same, which shall be recognisable by him on its return as having been issued under this paragraph;
 
-(ii) a declaration of identity in
-
 *Form 14*
 
-Form 14 which shall bear the serial number of the nonresident elector on its reverse side;
+(ii) a declaration of identity in Form 14 which shall bear the serial number of the nonresident elector on its reverse side;
 
 (iii) an unsealed envelope (hereinafter referred to in this Part as the ballot envelope) addressed with the words
 
 “To the Chief Election Officer” and capable of containing a ballot paper and of being enclosed, together with the last-mentioned form, in the addressed envelope;
 
-(iv) a copy of the directions for balloting by non-resident
-
 *Form 15*
 
-electors as set out in Form 15;
+(iv) a copy of the directions for balloting by non-resident electors as set out in Form 15;
 
 a ballot paper stamped with the official mark.
 
-**52.** Upon issuing a ballot paper to any non-resident
-
 *Notes of ballot papers issued. [16 of 1985]*
 
-elector under section 51, a ballot officer or the Chief Election Officer, as the case may be, shall–
+**52.** Upon issuing a ballot paper to any non-resident elector under section 51, a ballot officer or the Chief Election Officer, as the case may be, shall–
 
 (a) show that a ballot paper has been issued to the non-resident elector, but without showing the particular ballot paper issued, place a mark on such copy of entries in the nonresident electors’ roll as shall be used by him for the purposes of this paragraph; and
 
@@ -1758,11 +1720,9 @@ elector under section 51, a ballot officer or the Chief Election Officer, as the
 
 (a) may upon satisfying any ballot attendant as to his identity by way of production of his passport, travel document or other proof of such identity, and of the envelope directed to him under section 51, not later than the 9th day before election day–
 
-(i) exhibit the said envelopes,
-
 *Form 14*
 
-Form 14 and ballot paper (unmarked) to the ballot attendant;
+(i) exhibit the said envelopes, Form 14 and ballot paper (unmarked) to the ballot attendant;
 
 (ii) secretly mark and fold the ballot paper in the like manner as provided by section 72(2), enclose it in the ballot envelope and seal that envelope, in the presence of the ballot attendant, but so that the ballot attendant does not observe the said manner of marking the ballot paper; and
 
@@ -1832,11 +1792,9 @@ sealed) from being illegally opened, prior to the discharge of his other duties 
 
 (e) a statement in writing, to be called
 
-“the non-resident electors’ ballot papers account” prepared by him in
-
 *Form 17.*
 
-Form 17,
+“the non-resident electors’ ballot papers account” prepared by him in Form 17,
 
 and, if he is a ballot officer, shall deliver such packets, so sealed, not later than the day next preceding election day to the Chief Election Officer and be responsible for their safe custody until such delivery.
 
@@ -1926,11 +1884,9 @@ lock the ballot box, retain the key thereof and place his seal upon the ballot b
 
 (2) Upon opening any such envelope under subsection
 
-(1) of this section, the Chief Election Officer shall, if requested so to do by a candidate appointed under section 59 or election agent, satisfy himself as to the identity of the signatory of any declaration
-
 *Form 14.*
 
-therein, made in Form 14, or of any certificate on the reverse side of any such Form, by comparing such signature with–
+(1) of this section, the Chief Election Officer shall, if requested so to do by a candidate appointed under section 59 or election agent, satisfy himself as to the identity of the signatory of any declaration therein, made in Form 14, or of any certificate on the reverse side of any such Form, by comparing such signature with–
 
 (a) the signature made on his registration record by the nonresident elector or in cases where in his opinion having regard to all the circumstances the request is unreasonable; or
 
@@ -1942,11 +1898,9 @@ Provided that–
 
 (a) the Chief Election Officer shall not accede to any such request if he has decided that, for any reason, section 62 does not require a vote to be cast from the addressed envelope in question or in cases where in his opinion having regard to all the circumstances the request is unreasonable;
 
-(b) every decision taken by the Chief Election Officer under the foregoing provisions of this section shall be final unless and until it is reversed by the High Court on an election petition presented under the
-
 *c. 1:04*
 
-National Assembly (Validity of Elections) Act.
+(b) every decision taken by the Chief Election Officer under the foregoing provisions of this section shall be final unless and until it is reversed by the High Court on an election petition presented under the National Assembly (Validity of Elections) Act.
 
 (3) The Commissioner shall cause to be made available such registration records as are required by the Chief Election Officer for the purposes of subsection (2)(a).
 
@@ -2192,11 +2146,9 @@ persons, if any, (being persons entitled to enter the polling place) as are pres
 
 (2) The poll clerk shall ascertain if the name of the applicant and that of any elector on whose behalf he holds a notice of appointment to vote as a proxy appear on the official list of electors, or part thereof, for the polling place and shall further ascertain whether any notice of appointment to vote as proxy is recorded in the copy of the list of proxies.
 
-(3) Where there is contained in the official list of electors, or part thereof, a name or other particulars which correspond so closely with the name or other particulars entered on the identity paper of an applicant to vote as to suggest that the entry in the official list or part thereof is intended to refer to him,
-
 *Form 19.*
 
-the applicant shall, upon taking an oath of identity in Form 19, be deemed to be the person so named in the official list or part thereof.
+(3) Where there is contained in the official list of electors, or part thereof, a name or other particulars which correspond so closely with the name or other particulars entered on the identity paper of an applicant to vote as to suggest that the entry in the official list or part thereof is intended to refer to him, the applicant shall, upon taking an oath of identity in Form 19, be deemed to be the person so named in the official list or part thereof.
 
 (4) Where an applicant to vote hands to the poll clerk both his identity paper and his certificate of employment, the poll
 
@@ -2230,11 +2182,9 @@ compare the thumb print or other finger print recorded on his identity paper wit
 
 (g) make such further comparisons as are reasonably necessary between the particulars recorded on his identity paper and those of the applicant;
 
-(h) require the applicant to take an oath
-
 *Form 19*
 
-of identity in Form 19 pursuant to section 69(3).
+(h) require the applicant to take an oath of identity in Form 19 pursuant to section 69(3).
 
 (3) An applicant shall–
 
@@ -2320,11 +2270,9 @@ Provided that this subsection shall not apply if an elector shows a ballot paper
 
 **73.** (1) The presiding officer shall, on the application of any elector who is incapacitated by blindness or other physical cause from voting in the manner prescribed by section 72 and who takes an oath in Form 21, mark the ballot paper of such elector in his presence and in the manner directed by him.
 
-(2) The presiding officer may, at the request of any elector incapacitated in the manner prescribed in subsection (1)
-
 *Form 21. Form 22.*
 
-and who has taken the oath in Form 21 and is accompanied by a friend who has taken the oath in Form 22, permit such friend, if he is an elector entitled to vote at the polling place, immediately after he has voted on his own behalf, and notwithstanding that his finger has been immersed in electoral ink, to accompany the
+(2) The presiding officer may, at the request of any elector incapacitated in the manner prescribed in subsection (1) and who has taken the oath in Form 21 and is accompanied by a friend who has taken the oath in Form 22, permit such friend, if he is an elector entitled to vote at the polling place, immediately after he has voted on his own behalf, and notwithstanding that his finger has been immersed in electoral ink, to accompany the
 
 elector into the voting compartment and mark his ballot paper for him:
 
@@ -2492,11 +2440,9 @@ Provided that the powers conferred by this subsection shall not be so exercised 
 
 c. 82:21(2) No intoxicating liquor shall be sold, offered for sale, or given away at any premises to which a licence issued under the Intoxicating Liquor Licensing Act applies, at any time between the opening of and the closing of the poll on election day.
 
-(3) No intoxicating liquor shall be supplied to any person at any premises to which a licence issued under the Club
-
 *c. 269*
 
-Registration Ordinance applies at any time between the opening of and the closing of the poll on election day.
+(3) No intoxicating liquor shall be supplied to any person at any premises to which a licence issued under the Club Registration Ordinance applies at any time between the opening of and the closing of the poll on election day.
 
 (4) Any person who contravenes any of the provisions of this section shall be liable on summary conviction to a fine of sixty-five thousand dollars and to imprisonment for six months.
 
@@ -3122,11 +3068,9 @@ or any other cause when he is called upon by the Chief Election Officer) so to d
 
 (c) in case of any such unwillingness or inability on the part of the deputy representative, a majority of the persons named in that list may designate in writing any such person able and willing (when called upon as aforesaid) so to do, who,
 
-shall extract from the said list as many names belonging to candidates selected by him for the purpose, including his own name, if he has not been declared elected as President under
-
 *c. 1:01*
 
-article 177 of the Constitution, as can be so extracted without their number exceeding the number of seats allocated to that list; and the Chief Election Officer shall declare such names, in the order of their extraction as aforesaid, to be the names of the candidates on such list who have been elected.
+shall extract from the said list as many names belonging to candidates selected by him for the purpose, including his own name, if he has not been declared elected as President under article 177 of the Constitution, as can be so extracted without their number exceeding the number of seats allocated to that list; and the Chief Election Officer shall declare such names, in the order of their extraction as aforesaid, to be the names of the candidates on such list who have been elected.
 
 *Publication of election results. [12 of 2006]*
 
@@ -3148,11 +3092,9 @@ and, as respects a combination of lists, such notification shall be so arranged 
 
 **99A.** (1) If the seat of a member of the National Assembly who was elected pursuant to article 60(2) of the Constitution is vacant for any cause other than a dissolution of Parliament, the vacancy shall be filled by the person who is not such an elected member of the Assembly but is qualified for election as, and willing to become, such a member and whose name is taken from the relevant list of candidates by way of further extraction therefrom in accordance with the provisions of section 98 by the representative or deputy representative of such list or a person designated by a majority of persons named in such list, as the case may be, as shall be called upon so to do by the Speaker, following as nearly as may be the like method as was observed at the preceding election of members under article 60(2) of the Constitution, the name of every person who became an elected member of the Assembly at that preceding election, or has since become such a member, being ineligible for extraction under the foregoing provisions of this subsection; and if there is no person whose name is eligible therefor the seat shall remain vacant until it is filled consequent upon an ensuing election under article 60(2) aforesaid.
 
-(2) In subsection (1) “the relevant list of candidates” means the list in which was included the name of the member of the Assembly vacating his seat or, where the vacancy exists because a person is held in proceedings under article 163 of the
-
 *c. 1:01*
 
-Constitution not to have been qualified to be elected as such a member, the name of that person.
+(2) In subsection (1) “the relevant list of candidates” means the list in which was included the name of the member of the Assembly vacating his seat or, where the vacancy exists because a person is held in proceedings under article 163 of the Constitution not to have been qualified to be elected as such a member, the name of that person.
 
 *Certificates of election.*
 
@@ -3160,11 +3102,9 @@ Constitution not to have been qualified to be elected as such a member, the name
 
 *Election Report.*
 
-**101.** The Chief Election Officer shall as soon as practicable
-
 *c. 19:08*
 
-after the election cause to be prepared and printed a general report on the election including the particulars specified in section
+**101.** The Chief Election Officer shall as soon as practicable after the election cause to be prepared and printed a general report on the election including the particulars specified in section
 
 110 and the total number of electors registered under the National Registration Act.
 
@@ -3172,11 +3112,9 @@ after the election cause to be prepared and printed a general report on the elec
 
 **102.** (1) The returning officer of each district shall, as soon as practicable after making the return required by section 89 (1)(f) make up in one parcel the packets he has received in pursuance of section 83(10)(b) and the other papers used at the polling places and in his possession and shall seal the parcel so that it cannot be opened without breaking the seals and deliver it to the Chief Election Officer.
 
-(2) The Chief Election Officer shall keep all parcels received in pursuance of subsection (1) in safe custody and, subject to the provisions of this Act and any law made under
-
 *c. 1:01*
 
-article 163 of the Constitution, allow no person to have access thereto.
+(2) The Chief Election Officer shall keep all parcels received in pursuance of subsection (1) in safe custody and, subject to the provisions of this Act and any law made under article 163 of the Constitution, allow no person to have access thereto.
 
 (3) The returning officer of each district shall, as soon as practicable after delivering the election documents, in accordance with subsection (1), cause the ballot boxes used at the election, together with their locks and keys, to be deposited in the custody of the Commission.
 
@@ -3226,11 +3164,9 @@ Provided that the inability under this Act to enforce such contract against a ca
 
 the expense of holding public meetings and holding outside Guyana meetings open to electors generally;
 
-(iv) the expenses of committee rooms, no more than one such room being situated in each district within the
-
 *c. 19:08*
 
-meaning of the National Registration Act;
+(iv) the expenses of committee rooms, no more than one such room being situated in each district within the meaning of the National Registration Act;
 
 (v) expenses permitted under section 118;
 
@@ -3248,11 +3184,9 @@ meaning of the National Registration Act;
 
 *Election expenses return and declarations.*
 
-**108.** (1) Not later than the 35th day after the declaration of the results of the election under section 99 the election agent of
-
 *Form 26.*
 
-each group of candidates shall forward to the Chief Election
+**108.** (1) Not later than the 35th day after the declaration of the results of the election under section 99 the election agent of each group of candidates shall forward to the Chief Election
 
 Officer a return which shall be in Form 26 and shall contain statements of–
 
@@ -3270,15 +3204,11 @@ Officer a return which shall be in Form 26 and shall contain statements of–
 
 (2) Every payment made by an election agent, in respect of any expenses incurred on account of or in respect of the conduct or management of the election shall except where less than one hundred dollars be vouched for by a receipt or by a bill stating the particulars; and all such bills and receipts shall be sent to the Chief Election Officer with the election expenses return.
 
-(3) The election expenses return shall be accompanied by a declaration by the election agent as to election expenses, in
-
 *Form 27.*
-
-Form 27 and each candidate shall make and transmit, or cause to be transmitted, to the Chief Election Officer not later than the 35th day after the declaration of the results of the election under section
 
 *Form 28.*
 
-99, a declaration as to election expenses in Form 28.
+(3) The election expenses return shall be accompanied by a declaration by the election agent as to election expenses, in Form 27 and each candidate shall make and transmit, or cause to be transmitted, to the Chief Election Officer not later than the 35th day after the declaration of the results of the election under section 99, a declaration as to election expenses in Form 28.
 
 (4) Where, after the election expenses return has been forwarded to the Chief Election Officer, leave is given by the High Court for any claim to be paid, the election agent shall, within seven days of the payment of such claims, forward to the Chief Election Officer a return of the sums paid together with a copy of the order of the court.
 
@@ -3724,11 +3654,9 @@ if he is an election officer or other person exercising powers or performing dut
 
 **138.** Without prejudice to section 138(a), every person who–
 
-(a) not being registered as a qualified person on an electoral register
-
 *c. 19:08*
 
-compiled under the National Registration Act, votes at an election; or
+(a) not being registered as a qualified person on an electoral register compiled under the National Registration Act, votes at an election; or
 
 (b) induces or procures any person not so registered to vote at an election,
 
@@ -3836,11 +3764,9 @@ act constituting the offence amounted to a corrupt practice, be found guilty of 
 
 *Rules of Court.*
 
-**146.** Rules of Court may, for any of the purposes of this Act, be made from time to time in the manner prescribed by the
-
 *c. 3:02*
 
-High Court Act.
+**146.** Rules of Court may, for any of the purposes of this Act, be made from time to time in the manner prescribed by the High Court Act.
 
 *Duty not to disclose finger-prints.*
 
@@ -3990,9 +3916,15 @@ s. 8(1)
 
 OATH (a) BY ELECTION OFFICER
 
-I........................(b) having been appointed .....................(c) ..............swear(d) that I will faithfully perform the duties of the said office according to law, without partiality, fear, favour or affection.
+*said*
 
-So help me God (e)…………….............(f)..................... Sworn (g) before me at.............................this…..…………..….day of..................20.......
+I........................(b) having been appointed .....................(c) ..............swear(d) that I will faithfully perform the duties of the office according to law, without partiality, fear, favour or affection.
+
+So help me God (e)…………….............(f).....................
+
+*Sworn*
+
+(g) before me at.............................this…..…………..….day of..................20.......
 
 Justice of the Peace (h) Chief Election Officer
 
@@ -4088,11 +4020,15 @@ Full names......................................................................
 
 Notes
 
-**1.** This application if approved entitles the proxy to vote for you and disentitles you from voting in person.
+*for*
+
+**1.** This application if approved entitles the proxy to vote you and disentitles you from voting in person.
 
 **2.** You may cancel this application if you give notice on Form 8 to the Returning Officer so that he receives the Form not later than the tenth day before election day.
 
-**3.** To be your proxy a person must be entitled to vote at the same polling place as you are and must not already have been appointed proxy for more than one other elector.
+*the*
+
+**3.** To be your proxy a person must be entitled to vote at same polling place as you are and must not already have been appointed proxy for more than one other elector.
 
 **4.** You are entitled to vote by proxy if you are–
 
@@ -4166,7 +4102,9 @@ THE REPRESENTATION OF THE PEOPLE ACT GENERAL ELECTIONS CANCELLATION OF PROXY To 
 
 ....................Polling District
 
-I (full names) ............... being registered in No ............... Polling Division hereby cancel the appointment of (name of proxy) as proxy to vote for me at the election to be held on the .......... day of , 20
+*of*
+
+I (full names) ............... being registered in No ............... Polling Division hereby cancel the appointment of (name proxy) as proxy to vote for me at the election to be held on the day of , 20
 
 Signed.................................................. Address.................................................. Date ................................
 
@@ -4288,15 +4226,19 @@ Page 2
 
 Entries on this page only to be made to show:
 
-(1) The name etc. of any blind or incapacitated elector whose ballot paper is marked by a friend or by the Presiding Officer.
+*whose Officer.*
+
+(1) The name etc. of any blind or incapacitated elector ballot paper is marked by a friend or by the Presiding
 
 (2) The reason therefor (i.e. the nature of his incapacity).
 
-(3) The oath taken by such elector and his friend, and the friend’s particulars.
+*the*
 
-*Name of Elector*
+(3) The oath taken by such elector and his friend, and friend’s particulars.
 
-No. on No. of Whether Reason for Oath Oath of friend official identity paper marked by marking Form 21 Form 22 list friend or P.O. sworn or sworn or refused refused Friend’s name and Serial No.
+*Name of No. Elector list*
+
+on No. of Whether Reason for Oath Oath of friend official identity paper marked by marking Form 21 Form 22 friend or P.O. sworn or sworn or refused refused Friend’s name and Serial No.
 
 Page 3
 
@@ -4680,7 +4622,11 @@ I am aware, as election agent for the (title)............... group of the follow
 
 By (names) ................ for ............ $..................
 
-(here set out the name and description of each person whose claim is disputed, the amount of the claim and the nature of the goods, work or services on which the claim is based). Unpaid claims allowed by the High Court By (names) .............. for ............. $..................... (here set out the name and description of each person to whom any such claim is due, the amount of the claim and the nature of the goods, work or services on which it is based). Date ...................... Signed Election Agent of the...............................group ____________________
+*whose of the*
+
+*whom nature*
+
+(here set out the name and description of each person claim is disputed, the amount of the claim and the nature goods, work or services on which the claim is based). Unpaid claims allowed by the High Court By (names) .............. for ............. $..................... (here set out the name and description of each person to any such claim is due, the amount of the claim and the of the goods, work or services on which it is based). Date ...................... Signed Election Agent of the...............................group ____________________
 
 s. 108(3)
 
@@ -4798,7 +4744,7 @@ Consisting of seventeen polling divisions being tlhe registration divisions of t
 
 **15.** DEMERARA COAST-WEST CENTRAL Consisting of fourteen polling divisions being the registration divisions of the Demerara Coast—West Central registration district.
 
-**16.** DEMERARA COAST-WEST
+### DEMERARA COAST-WEST
 
 Consisting of eleven polling divisions being the registration divisions of the Demerara Coast—West registration district.
 
@@ -4830,7 +4776,7 @@ Consisting of sixteen polling divisions being the registration divisions of the 
 
 Consisting of seventeen polling divisions being the registration divisions of the La Penitence—Lodge registration district.
 
-**24.** RUIMVELDT
+### RUIMVELDT
 
 Consisting of seventeen polling divisions being the registration divisions of the Ruimveldt registration district.
 
@@ -4860,7 +4806,7 @@ Consisting of twenty-two polling divisions being the registration divi-ions of t
 
 Consisting of twenty polling divisions being the registration divisions of the Leonora registration district.
 
-**32.** BOERASIRIE
+### BOERASIRIE
 
 Consisting of twenty polling division being the registration divisions of the Boerasirie registration district.
 

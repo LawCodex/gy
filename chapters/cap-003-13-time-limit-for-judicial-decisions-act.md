@@ -44,7 +44,9 @@ This Chapter contains no subsidiary legislation.
 
 *SECTION*
 
-**1.** Short title.
+*Short title.*
+
+1.
 
 **2.** Application of Act.
 
@@ -56,13 +58,17 @@ This Chapter contains no subsidiary legislation.
 
 **6.** Persistently failing to write or give decisions.
 
-**7.** Failure to write or give decisions.
+*Failure to*
+
+**7.** write or give decisions.
 
 **8.** Extension of time in special cases.
 
-**9.** Judge to inform Chancellor of non-compliance.
+*Judge to Judge's*
 
-**10.** Judge's report.
+**9.** inform Chancellor of non-compliance.
+
+**10.** report.
 
 **11.** Report of the Chancellor.
 
@@ -70,9 +76,9 @@ This Chapter contains no subsidiary legislation.
 
 **13.** Transition.
 
-*9 of 2009*
+*9 of 2009 An*
 
-An Act to specify a time limit in accordance with article 197
+Act to specify a time limit in accordance with article 197
 
 (3) of the Constitution within which a Judge shall give a decision in a civil case and any appeal case and for connected matters.
 
@@ -102,11 +108,9 @@ An Act to specify a time limit in accordance with article 197
 
 **6.** In accordance with article 197 (3) of the Constitution a Judge may be removed from office for, among other reasons, persistently failing to give written or oral decisions and reasons for the decisions within the time specified in this Act.
 
-**7.** Where a Judge fails to write or give an oral decision
-
 *Failure to write or give decisions.*
 
-and reasons for the decision within the time specified in section 4 or 5 or the extended time granted under section 8 the Chancellor shall cause the Registrar to notify the Judge that the Judge has failed to comply with the given time limit and that if the Judge persists in not writing or giving oral decisions as prescribed by this Act, action may be taken under
+**7.** Where a Judge fails to write or give an oral decision and reasons for the decision within the time specified in section 4 or 5 or the extended time granted under section 8 the Chancellor shall cause the Registrar to notify the Judge that the Judge has failed to comply with the given time limit and that if the Judge persists in not writing or giving oral decisions as prescribed by this Act, action may be taken under
 
 article 197 of the Constitution with a view to removing the Judge from office.
 

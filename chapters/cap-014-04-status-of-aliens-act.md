@@ -42,7 +42,9 @@ This Chapter contains no subsidiary legislation.
 
 **2.** Interpretation.
 
-**3.** Capacity of alien as to acquisition and disposition of property.
+*\3. Capacity*
+
+of alien as to acquisition and disposition of property.
 
 __________________________
 

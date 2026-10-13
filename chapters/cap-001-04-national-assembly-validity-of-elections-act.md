@@ -38,7 +38,9 @@ Page National Assembly (Validity of Elections) Rules 31 (R. 5/1968)
 
 ### CHAPTER 1:04
 
-### NATIONAL ASSEMBLY (VALIDITY OF ELECTIONS) ACT
+*ACT*
+
+### NATIONAL ASSEMBLY (VALIDITY OF ELECTIONS)
 
 ## ARRANGEMENT OF SECTIONS
 
@@ -96,7 +98,9 @@ Page National Assembly (Validity of Elections) Rules 31 (R. 5/1968)
 
 **26.** Abatement of petition.
 
-**27.** Withdrawal and substitution of respondents before trial.
+*trial.*
+
+**27.** Withdrawal and substitution of respondents before
 
 **28.** Avoidance of election of candidate for lack of qualification.
 
@@ -106,7 +110,7 @@ Page National Assembly (Validity of Elections) Rules 31 (R. 5/1968)
 
 **31.** Effect and manner of exercise of Court’s powers.
 
-### SECTION
+*SECTION*
 
 **32.** Conclusion of trial of petition.
 
@@ -114,7 +118,9 @@ Page National Assembly (Validity of Elections) Rules 31 (R. 5/1968)
 
 **34.** Further provision as to costs of petition.
 
-**35.** Report of the Court to the Speaker.
+*Report*
+
+**35.** of the Court to the Speaker.
 
 **36.** Exemption from liability.
 
@@ -124,9 +130,11 @@ Page National Assembly (Validity of Elections) Rules 31 (R. 5/1968)
 
 **39.** Certain powers of the Court to be exercisable by a single judge.
 
-**40.** Service of notices.
+*Service Costs.*
 
-**41.** Costs.
+**40.** of notices.
+
+41.
 
 **42.** Powers of Court.
 
@@ -134,49 +142,39 @@ Page National Assembly (Validity of Elections) Rules 31 (R. 5/1968)
 
 ### CHAPTER 1:04 NATIONAL ASSEMBLY (VALIDITY OF ELECTIONS) ACT
 
-Reg. 40 of 1946 An Act to provide for the determination of questions
+*Reg. 40 of 1946 [O. 50/1980]*
 
-[O. 50/1980]
-
-relating to the validity of elections of members of the National Assembly under a system of proportional representation, to other matters affecting such elections, to the allocation of seats of such members in the Assembly, and to vacancies in such seats.
+An Act to provide for the determination of questions relating to the validity of elections of members of the National Assembly under a system of proportional representation, to other matters affecting such elections, to the allocation of seats of such members in the Assembly, and to vacancies in such seats.
 
 ### [5 TH DECEMBER, 1964]
 
-Short title. 1. This Act may be cited as the National Assembly
+*Short title. [16 of 1968]*
 
-[16 of 1968]
+**1.** This Act may be cited as the National Assembly (Validity of Elections) Act.
 
-(Validity of Elections) Act.
+*Interpretation. [O. 80/1980]*
 
 **2.** (1) In this Act—
 
-Interpretation.
+*c.1:03*
 
-[O. 80/1980]
-
-“assistant agent” means an assistant agent appointed under section 24(1) of the Representation of the People Act; c.1:03
-
-“candidate” means a person whose name is included in a list of candidates submitted to the Chief Election Officer under section 11 of the Representation of the People
+“assistant agent” means an assistant agent appointed under section 24(1) of the Representation of the People Act;
 
 *c. 1:03*
 
-Act and approved or, having effect as if approved, by the Commission;
-
-“Commission”, “election”, “election day”, “group of candidates”, have the meanings respectively assigned to them by section 2 of the Representation of the
+“candidate” means a person whose name is included in a list of candidates submitted to the Chief Election Officer under section 11 of the Representation of the People Act and approved or, having effect as if approved, by the Commission;
 
 *c. 1:03*
 
-People Act;
+“Commission”, “election”, “election day”, “group of candidates”, have the meanings respectively assigned to them by section 2 of the Representation of the People Act;
 
 “costs” includes charges and expenses;
 
 “Court” means the High Court;
 
-“election agent” means an election agent appointed under
-
 *c. 1:03*
 
-section 23(1) of the Representation of the People Act;
+“election agent” means an election agent appointed under section 23(1) of the Representation of the People Act;
 
 “elector” shall be construed as provided in the definition of
 
@@ -192,11 +190,9 @@ section 23(1) of the Representation of the People Act;
 
 “Speaker” means the Speaker of the National Assembly.
 
-(2) In this Act, any references to a corrupt or illegal practice, or to illegal payments, employments or hirings shall be construed according to the Representation of the People
-
 *c. 1:03*
 
-Act.
+(2) In this Act, any references to a corrupt or illegal practice, or to illegal payments, employments or hirings shall be construed according to the Representation of the People Act.
 
 *Method of questioning validity of election. [16 of 1968 O. 50 of 1980]*
 
@@ -210,11 +206,9 @@ Act.
 
 (2) The person hereinafter referred to as the respondent is the representative of such list of candidates for election as comprises the names of persons with whose interests arising out of the election any contention in the election petition conflicts; and if the petition complains of any act or omission on the part of the Commission, or any member thereof, or any such person as is mentioned in article 162(1)(b) of the Constitution, the Chief Election Officer shall, for the purposes of this Act, be deemed to be a respondent and, if it questions the qualification of any person to be elected to the National Assembly, he or she shall, for the said purposes, be deemed a respondent.
 
-(3) Reference in subsection (2) to the representative of any list of candidates shall be construed as reference to the person who was nominated or regarded as such for the
-
 *c. 1:03*
 
-purpose of the Representation of the People Act, and the foregoing provisions of this section shall, in his or her absence or in respect of the performance under this Act of any functions delegated by him or her to his or her deputy, have effect as if for each reference in such provisions to the representative there were substituted a reference to the deputy representative.
+(3) Reference in subsection (2) to the representative of any list of candidates shall be construed as reference to the person who was nominated or regarded as such for the purpose of the Representation of the People Act, and the foregoing provisions of this section shall, in his or her absence or in respect of the performance under this Act of any functions delegated by him or her to his or her deputy, have effect as if for each reference in such provisions to the representative there were substituted a reference to the deputy representative.
 
 (4) An election petition shall be in the prescribed form, state the prescribed matters and be signed by the petitioner or all of the petitioners if more than one, and shall be presented by delivering it at the office of the Registrar; and the Registrar or the officer of the registry of the Supreme Court to whom the petition is delivered shall, if required, give a receipt therefor.
 
@@ -230,33 +224,25 @@ purpose of the Representation of the People Act, and the foregoing provisions of
 
 (3) An election petition questioning the effect of the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be presented—
 
-(a) within fourteen days after section 109(1) of the Representation of the
-
 *c. 1:03*
 
-People Act has been complied with in
+(a) within fourteen days after section 109(1) of the Representation of the People Act has been complied with in
 
 relation to the election expenses of the group of candidates comprised in any list mentioned in section 5 with reference to that election petition;
 
 (b) if specifically alleging a payment of money or some other act to have been made or done since such compliance, in the pursuance or in furtherance of the alleged illegal practice, within twenty-eight days after the date of the payment or other act:
 
-Provided that when there is an authorised excuse for failing to make an election expenses return or election expenses declaration section 109(1) of the Representation of
+*c. 1:03*
 
 *c. 1:03*
 
-the People Act shall, for the purposes of this subsection, be deemed to have been complied with on the date of the allowance of the excuse, or, if there was such a failure in two or more respects and the excuse was allowed at different times, on the date of the allowance of the last excuse as defined in section 110(4) of the Representation of the People
-
-*c. 1:03*
-
-Act.
+Provided that when there is an authorised excuse for failing to make an election expenses return or election expenses declaration section 109(1) of the Representation of the People Act shall, for the purposes of this subsection, be deemed to have been complied with on the date of the allowance of the excuse, or, if there was such a failure in two or more respects and the excuse was allowed at different times, on the date of the allowance of the last excuse as defined in section 110(4) of the Representation of the People Act.
 
 (4) Subsection (3) shall apply notwithstanding that the act constituting the alleged illegal practice amounted to a corrupt practice.
 
-(5) For the purposes of this section, the allegation that corrupt or illegal practices or illegal payments, employments or hirings were committed in reference to the election and had so extensively prevailed that they may have affected, or have affected, the allocation of seats under section 97 of the
-
 *c. 1:03*
 
-Representation of the People Act, shall be deemed to be an allegation of corrupt practices, notwithstanding that the offences alleged are or include offences other than corrupt practices.
+(5) For the purposes of this section, the allegation that corrupt or illegal practices or illegal payments, employments or hirings were committed in reference to the election and had so extensively prevailed that they may have affected, or have affected, the allocation of seats under section 97 of the Representation of the People Act, shall be deemed to be an allegation of corrupt practices, notwithstanding that the offences alleged are or include offences other than corrupt practices.
 
 *Amendment of election petition.*
 
@@ -288,11 +274,9 @@ Provided that no amendment for the purpose of inserting an allegation of a corru
 
 (2) The costs of hearing and deciding such application shall be paid and ordered by the judge or, in the absence of such order, shall form part of the general costs of the petition.
 
-**11.** (1) On the hearing of an application under section 10 any person who might have been a petitioner in respect of the
-
 *Substitution of petitioner on failure to give security.*
 
-matter to which the election petition relates may apply to the judge to be substituted as a petitioner for the original petitioner and the judge may, if he or she thinks fit, dismiss the original petitioner from the petition and substitute as the petitioner such applicant, who shall provide security in the sum of one thousand dollars and subject to the like conditions and to the same rights of objection as in the case of the original petitioner.
+**11.** (1) On the hearing of an application under section 10 any person who might have been a petitioner in respect of the matter to which the election petition relates may apply to the judge to be substituted as a petitioner for the original petitioner and the judge may, if he or she thinks fit, dismiss the original petitioner from the petition and substitute as the petitioner such applicant, who shall provide security in the sum of one thousand dollars and subject to the like conditions and to the same rights of objection as in the case of the original petitioner.
 
 (2) Such security shall be given within three days of the making of the order of substitution and on the failure of the applicant to comply with this subsection the petition shall stand dismissed.
 
@@ -344,11 +328,9 @@ Provided that—
 
 (b) an answer by a person to a question put by or before the Court when trying an election petition shall not, except in the case of any criminal proceedings for perjury in respect of the evidence, be in any proceedings, civil or criminal, admissible in evidence against him.
 
-(2) Where a person has received a certificate of indemnity in relation to an election, and any legal proceeding is at any time instituted against him for any corrupt or illegal practice, or any illegal payment, employment or hiring, or any offence under section 125 of the Representation of the
-
 *c. 1:03*
 
-People Act or section 23 of this Act, committed by him previously to the date of the certificate at or in relation to the election, any court having cognisance of the case shall, on production of the certificate, stay the proceeding and may, in its discretion, award to the said person such costs as he or she may have been put to in the proceeding.
+(2) Where a person has received a certificate of indemnity in relation to an election, and any legal proceeding is at any time instituted against him for any corrupt or illegal practice, or any illegal payment, employment or hiring, or any offence under section 125 of the Representation of the People Act or section 23 of this Act, committed by him previously to the date of the certificate at or in relation to the election, any court having cognisance of the case shall, on production of the certificate, stay the proceeding and may, in its discretion, award to the said person such costs as he or she may have been put to in the proceeding.
 
 (3) Nothing in this section shall be deemed to relieve a person receiving a certificate of indemnity from any
 
@@ -372,17 +354,13 @@ Provided that the Chief Election Officer shall, after the expiration of twelve m
 
 *Scrutiny.*
 
-**20.** (1) On a scrutiny at the trial of an election petition any tendered vote proved to be a valid vote shall, on the application of any party to the petition be added to the poll and any vote given on a ballot paper in contravention of
+*c. 1:03*
+
+**20.** (1) On a scrutiny at the trial of an election petition any tendered vote proved to be a valid vote shall, on the application of any party to the petition be added to the poll and any vote given on a ballot paper in contravention of section 87(2) of the Representation of the People Act shall be struck off.
 
 *c. 1:03*
 
-section 87(2) of the Representation of the People Act shall be struck off.
-
-(2) Any decision referred to in section 87(5)
-
-*c. 1:03*
-
-of the Representation of the People Act shall be subject to reversal by the Court on an election petition.
+(2) Any decision referred to in section 87(5) of the Representation of the People Act shall be subject to reversal by the Court on an election petition.
 
 *Withdrawal of petition.*
 
@@ -462,11 +440,9 @@ may, within the prescribed time after the notice is given, apply to the Court to
 
 **29.** (1) Where on an election petition the Court determines that the seats in the National Assembly were not allocated in accordance with section 97 of the Representation of the People Act, the Court shall so declare and may order that the seats be re-allocated in accordance with those provisions and that the membership of the Assembly be re-determined and re-declared in accordance with section 98 of the Representation of the People Act, so, however, those candidates selected thereunder from any list of candidates upon the defective allocation shall, in the order of extraction of their names upon such selection as aforesaid, be entitled to retain their seats in so far as the number of seats re-allocated to that list permits.
 
-(2) Where on an election petition the Court, on a scrutiny, determines that the number of valid votes cast for any list of candidates differs from the number of votes upon which seats in the National Assembly were allocated to that list, the Court may so declare and thereupon the allocation of seats to that list shall be reviewed by the Commission and, on it appearing to the Commission from such review that any seat was unlawfully allocated in consequence of such difference, the Commission shall direct the re-allocation of such seat in accordance with section 97 of the Representation
-
 *c. 1:03*
 
-of the People Act and in keeping with the number of valid votes cast as aforesaid, whereupon the membership of the Assembly shall be re-determined and re-declared in like manner as if the seat had been so re-allocated under subsection (1).
+(2) Where on an election petition the Court, on a scrutiny, determines that the number of valid votes cast for any list of candidates differs from the number of votes upon which seats in the National Assembly were allocated to that list, the Court may so declare and thereupon the allocation of seats to that list shall be reviewed by the Commission and, on it appearing to the Commission from such review that any seat was unlawfully allocated in consequence of such difference, the Commission shall direct the re-allocation of such seat in accordance with section 97 of the Representation of the People Act and in keeping with the number of valid votes cast as aforesaid, whereupon the membership of the Assembly shall be re-determined and re-declared in like manner as if the seat had been so re-allocated under subsection (1).
 
 *Unlawful acts or omissions affecting results [16 of 1968 O. 50/1980]*
 
@@ -474,17 +450,13 @@ of the People Act and in keeping with the number of valid votes cast as aforesai
 
 (a) in different placing of the respective
 
-lists of candidates in the order of magnitude of the allocations of seats to such lists under section 97 of the
-
 *c. 1:03*
 
-Representation of the People Act, or in different placing of any of the lists in that order, from their placing as aforesaid according to the result so affected; or
-
-(b) in more than half the members of the National Assembly being persons whose names appear on any list the seats allocated to which under section 97 of the Representation of
+lists of candidates in the order of magnitude of the allocations of seats to such lists under section 97 of the Representation of the People Act, or in different placing of any of the lists in that order, from their placing as aforesaid according to the result so affected; or
 
 *c.1:03*
 
-the People Act are occupied by not more than half the members of the Assembly according to the result affected as aforesaid;
+(b) in more than half the members of the National Assembly being persons whose names appear on any list the seats allocated to which under section 97 of the Representation of the People Act are occupied by not more than half the members of the Assembly according to the result affected as aforesaid;
 
 the Court may, in consequence of such determination, declare the election, or any part thereof if the Court is satisfied that the remainder is conveniently severable and was not affected by such unlawful act or omission, to have been ineffective and may accordingly order a fresh election to be held in whole or part for the purpose of rectifying the said result and give such incidental, ancillary or supplementary directions as the Court deems meet for the purpose of such rectification, including (without prejudice to the generality of the foregoing) the re-allocation of seats in the National Assembly.
 
@@ -508,11 +480,9 @@ good faith.
 
 (4) Nothing in subsection (3) shall be construed to authorise the rectification of any such result of an election as is not liable to be rectified apart from that subsection.
 
-(5) The result of an election shall not be impugned on the ground that the application of any elector entitled to vote by proxy so to vote was refused or that the application of any elector not entitled so to vote was granted; and such refusal and grant shall be deemed not to be procedural irregularities and notwithstanding any of the provisions of
-
 *c. 1:03*
 
-this section or the Representation of the People Act no votes shall be deemed invalid by reason thereof.
+(5) The result of an election shall not be impugned on the ground that the application of any elector entitled to vote by proxy so to vote was refused or that the application of any elector not entitled so to vote was granted; and such refusal and grant shall be deemed not to be procedural irregularities and notwithstanding any of the provisions of this section or the Representation of the People Act no votes shall be deemed invalid by reason thereof.
 
 *Effect and manner of exercise of Court’s powers. [16 of 1968 O. 80 of 1980]*
 
@@ -566,17 +536,13 @@ her defence to show why he or she should not be so reported.
 
 (4) Every person who is reported by the Court to have been personally guilty of any corrupt or illegal practice at the election shall, whether he obtained a certificate of indemnity or not, be subject to the same incapacities as he or she would be subject to if he or she had at the date of such election been convicted of the offence of which he or she is reported to have been guilty.
 
-(5) If the Court reports that any corrupt practice has been proved to have been committed by an election agent or assistant agent in reference to the election by or with the consent or connivance of a candidate at the election, the candidate shall be subject to the same incapacities as if at the date of the said report he or she had been convicted of such corrupt practice by virtue of section 26 of the Representation
+*c. 1:03*
+
+(5) If the Court reports that any corrupt practice has been proved to have been committed by an election agent or assistant agent in reference to the election by or with the consent or connivance of a candidate at the election, the candidate shall be subject to the same incapacities as if at the date of the said report he or she had been convicted of such corrupt practice by virtue of section 26 of the Representation of the People Act.
 
 *c. 1:03*
 
-of the People Act.
-
-(6) If the Court reports that any illegal practice has been proved to have been committed by an election agent or assistant agent in reference to the election by or with the consent or connivance of a candidate at the election, the candidate shall be subject to the same incapacities as if at the date of the report he or she had been convicted of such illegal practice by virtue of section 26 of the Representation of the
-
-*c. 1:03*
-
-People Act.
+(6) If the Court reports that any illegal practice has been proved to have been committed by an election agent or assistant agent in reference to the election by or with the consent or connivance of a candidate at the election, the candidate shall be subject to the same incapacities as if at the date of the report he or she had been convicted of such illegal practice by virtue of section 26 of the Representation of the People Act.
 
 *Exemption from liability. [16 of 1968]*
 
@@ -586,11 +552,9 @@ People Act.
 
 incapacity shall be deemed to be imposed on him by reason of the conviction.
 
-(3) Every reference to consequences under the
-
 *c. 1:03*
 
-Representation of the People Act in sections 110 and 112 thereof shall be construed to include a reference to consequences under this Act and nothing provided in this Act shall abridge any powers of the Court under those sections.
+(3) Every reference to consequences under the Representation of the People Act in sections 110 and 112 thereof shall be construed to include a reference to consequences under this Act and nothing provided in this Act shall abridge any powers of the Court under those sections.
 
 *Removal of incapacity if acquitted on prosecution. [16 of 1968 O.50/1980]*
 
@@ -598,11 +562,9 @@ Representation of the People Act in sections 110 and 112 thereof shall be constr
 
 (2) Where a person becomes subject to any incapacity by virtue of conviction of an offence or the report of the Court under section 34, and any witness who gave evidence against such incapacitated person upon the proceeding for such conviction or report is subsequently convicted of perjury in respect of that evidence, the incapacitated person may apply to the Court, and the Court, if satisfied that the conviction or report regarding such person was based upon perjury, may order that such incapacity shall henceforth cease, and the same shall cease accordingly; and if by reason of the conviction or report a
 
-vacancy has occurred in the National Assembly and such vacancy has been filled by another person in accordance with
-
 *c. 1:03*
 
-section 99A of the Representation of the People Act (as modified by the Constitution of the Co-operative Republic of Guyana (Adaptation and Modification of Laws) (Representation of the People) Order 1980) such other person shall cease to be a member of the Assembly and the person whose incapacity has ceased shall be reinstated as a member of the Assembly.
+vacancy has occurred in the National Assembly and such vacancy has been filled by another person in accordance with section 99A of the Representation of the People Act (as modified by the Constitution of the Co-operative Republic of Guyana (Adaptation and Modification of Laws) (Representation of the People) Order 1980) such other person shall cease to be a member of the Assembly and the person whose incapacity has ceased shall be reinstated as a member of the Assembly.
 
 *Observance of principles and rules of U.K. Parliament.*
 
@@ -636,11 +598,9 @@ section 99A of the Representation of the People Act (as modified by the Constitu
 
 *Vacancy disputes. [O. 50/1980]*
 
-**43.** Any such question as is referred to in sub-paragraphs (iii) and (iv) of paragraph (b) or in paragraph (c) of article 163(1) of the Constitution may, in respect of a seat to which an election under article 60 (2) is applicable, be referred to the Court, and shall thereupon be determined by it in accordance with the provisions of sections 181 to 187
-
 *c. 28:03*
 
-(inclusive) of the Local Authorities (Elections) Act, which shall apply for that purpose with such modifications, adaptations, qualifications and exceptions as may be necessary.
+**43.** Any such question as is referred to in sub-paragraphs (iii) and (iv) of paragraph (b) or in paragraph (c) of article 163(1) of the Constitution may, in respect of a seat to which an election under article 60 (2) is applicable, be referred to the Court, and shall thereupon be determined by it in accordance with the provisions of sections 181 to 187 (inclusive) of the Local Authorities (Elections) Act, which shall apply for that purpose with such modifications, adaptations, qualifications and exceptions as may be necessary.
 
 National Assembly (Validity of Elections) Cap. 1:04
 
@@ -700,13 +660,15 @@ National Assembly (Validity of Elections) Cap. 1:04
 
 **24.** Abatement of petition on death of petitioner. Form 8.
 
-*RULE*
+*RULE Notice of Time Notice of*
 
-**25.** Notice of intention not to oppose petition.
+**25.** intention not to oppose petition.
 
-**26.** Time within which to apply for admission as respondent.
+**26.** within which to apply for admission as respondent.
 
-**27.** Notice of application for substitution or admission as respondent. APPENDIX - Forms.
+*APPENDIX -*
+
+**27.** application for substitution or admission as respondent. Forms.
 
 *R. 5/1968*
 
@@ -716,9 +678,9 @@ NATIONAL ASSEMBLY (VALIDITY OF ELECTIONS) RULES made under section 163 of the Co
 
 **1.** These Rules may be cited as the National Assembly (Validity of Elections) Rules.
 
-**2.** In these Rules—
+*Interpretation.*
 
-Interpretation.
+**2.** In these Rules—
 
 “Act” means the National Assembly (Validity of Elections) Act;
 
@@ -732,9 +694,9 @@ Interpretation.
 
 “section” means a section of the Act.
 
-*Election to be questioned by Election*
+*Election to be questioned in by Election*
 
-**3.** (1) Except by way of an election petition for redress in conformity with the Act, there shall be no reference to the
+**3.** (1) Except by way of an election petition for redress conformity with the Act, there shall be no reference to the
 
 Court of any question regarding the qualifications of any person to be elected as a member of the National Assembly, or whether the result of an election may have or has been affected by any unlawful act or omission, or whether the seats in the Assembly have been lawfully allocated, or whether any election the results whereof are declared by the Elections Commission in pursuance of section 99 of the Representation of the People Act has been lawfully conducted.
 
@@ -856,21 +818,17 @@ be allowed and the security be declared insufficient, the judge shall in such or
 
 *Costs where no justification of sureties.*
 
-**16.** The costs of hearing and deciding an objection upon the ground of insufficiency of a surety or sureties shall be paid by the petitioner, and a clause to that effect shall be inserted in the judge's order declaring their sufficiency or insufficiency, unless at the time of leaving the recognizance under rule 11(2) there be also left an affidavit of the sufficiency of the surety or sureties sworn by each surety in
-
 *Form 3*
 
-Form 3.
+**16.** The costs of hearing and deciding an objection upon the ground of insufficiency of a surety or sureties shall be paid by the petitioner, and a clause to that effect shall be inserted in the judge's order declaring their sufficiency or insufficiency, unless at the time of leaving the recognizance under rule 11(2) there be also left an affidavit of the sufficiency of the surety or sureties sworn by each surety in Form 3.
 
 *Notice of application for dismissal.*
 
 **17.** (1) An application for an order directing the dismissal of a petition under section 10 shall be made by way of summons before a judge and a copy thereof shall be served on the petitioner and written notice thereof given to the Registrar.
 
-(2) The Registrar shall forthwith publish in the
-
 *Form 4*
 
-Gazette and one newspaper a notice in Form 4.
+(2) The Registrar shall forthwith publish in the Gazette and one newspaper a notice in Form 4.
 
 *Application for particulars.*
 
@@ -918,17 +876,13 @@ sitting in Georgetown.
 
 *Application to withdraw petition.*
 
-**23.** (1) Notice of application for leave to withdraw an election petition shall be in writing and signed by the petitioner or his solicitor and shall be sufficient if given in
-
 *Form 6*
 
-Form 6 and left at the registry and a copy of such notice shall be served on the respondent and sent to the Chief Election Officer.
-
-(2) The Registrar shall forthwith publish in the
+**23.** (1) Notice of application for leave to withdraw an election petition shall be in writing and signed by the petitioner or his solicitor and shall be sufficient if given in Form 6 and left at the registry and a copy of such notice shall be served on the respondent and sent to the Chief Election Officer.
 
 *Form 7.*
 
-Gazette and one newspaper a notice in Form 7.
+(2) The Registrar shall forthwith publish in the Gazette and one newspaper a notice in Form 7.
 
 (3) Any person who might have been a petitioner in respect of the matter to which the election petition relates,
 
@@ -948,11 +902,9 @@ may, within five days after such notice is published, give notice in writing sig
 
 (2) Upon such notice being left at the registry or upon receiving notice of the death of the respondent, the
 
-Registrar shall forthwith send by registered post to the petitioner or his solicitor, as the case may be, and to the Chief Election Officer, and shall forthwith cause to be published in
-
 *Form 9*
 
-the Gazette and one newspaper, a notice thereof in Form 9.
+Registrar shall forthwith send by registered post to the petitioner or his solicitor, as the case may be, and to the Chief Election Officer, and shall forthwith cause to be published in the Gazette and one newspaper, a notice thereof in Form 9.
 
 *Time within which to apply for admission as respondent.*
 

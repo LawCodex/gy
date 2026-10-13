@@ -83,3 +83,7 @@ Committee referred to in section 59(1) of the High Court Act.
 *Practice and procedure of subordinate courts in relation to references to High Court under article 153(3) of the Constitution.*
 
 **5.** The Rules Committee may make rules in respect of the practice and procedure of subordinate courts in relation to references to the High Court under article 153(3) of the Constitution.
+
+*1/2022*
+
+L.R.O.

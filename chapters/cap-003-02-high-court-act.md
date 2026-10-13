@@ -40,7 +40,7 @@ Current Authorised Pages
 
 Pages Authorised (inclusive) by L.R.O.
 
-1 – 37 … 1/2022
+1 – 37 …
 
 Index
 
@@ -418,11 +418,9 @@ who are hereby empowered and required to hold an examination whenever necessary.
 
 may be appointed a sworn clerk for such time as he may hold a public office in the registry.
 
-(4) For the purposes of subsection (3) “attorney-at-law”
-
 *c. 4:01*
 
-has the same meaning as in the Legal Practitioners Act.
+(4) For the purposes of subsection (3) “attorney-at-law” has the same meaning as in the Legal Practitioners Act.
 
 *Administration of oaths by Registrar.*
 
@@ -444,11 +442,9 @@ Liability of Officers
 
 **13.** Every marshal shall be liable for all losses, damages, costs, charges, and expenses, had and suffered by any person from or by reason of any irregularity, informality, omission, or neglect of duty by him, and may be sued in any manner and form applicable to the circumstances of the case, for the recovery of those losses, damages, costs, charges, or expenses:
 
-Provided that, in that suit, the marshal shall be entitled to
-
 *c. 5:07*
 
-the protection given to justices by the Justices Protection Act.
+Provided that, in that suit, the marshal shall be entitled to the protection given to justices by the Justices Protection Act.
 
 Commissioners
 
@@ -862,11 +858,9 @@ Rules of Court
 
 (c) a Puisne Judge;
 
-(d) the Attorney-General or such other Law Officer within the meaning of
-
 *c. 4:01*
 
-the Legal Practitioners Act as may be appointed by the Attorney-General from amongst the staff of his Chambers;
+(d) the Attorney-General or such other Law Officer within the meaning of the Legal Practitioners Act as may be appointed by the Attorney-General from amongst the staff of his Chambers;
 
 (e) the Registrar;
 
@@ -990,11 +984,9 @@ Provided that–
 
 *[9 of 2013]*
 
-(b) no appeal shall lie to the Full Court from any judgment or order of a single judge referred to in section 6(5)(b), (c), (d), (e) and (f) or (6) of the
-
 *c. 3:01*
 
-Court of Appeal Act.
+(b) no appeal shall lie to the Full Court from any judgment or order of a single judge referred to in section 6(5)(b), (c), (d), (e) and (f) or (6) of the Court of Appeal Act.
 
 (ii) Appeals from Magistrates
 
@@ -1002,11 +994,9 @@ Court of Appeal Act.
 
 **80.** (1) Every appeal from the decision of a magistrate shall be heard and determined by the Full Court.
 
-(2) In matters not provided for in this section or in the
-
 *c. 3:04*
 
-Summary Jurisdiction (Appeals) Act the practice and procedure of the Full Court in cases of appeal under this section shall be regulated by rules of court.
+(2) In matters not provided for in this section or in the Summary Jurisdiction (Appeals) Act the practice and procedure of the Full Court in cases of appeal under this section shall be regulated by rules of court.
 
 (iii) Power of Judge to State a Case
 

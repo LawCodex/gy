@@ -60,7 +60,7 @@ This Chapter contains no subsidiary legislation.
 
 **6.** Power of committee to accept gifts to fund.
 
-## SCHEDULE- Vesting of fund in Committee.
+## SCHEDULE-Vesting of fund in Committee.
 
 __________________________
 
@@ -80,15 +80,11 @@ An Act to regulate the Appointment of Trustees under the will of Samuel Brandfor
 
 **2.** (1) The fund created under the will of the late Vesting of fund
 
-in committee. Samuel Brandford Trotman for the benefit of destitute
-
-[O. 49/1953]
-
-planters and destitute widows and orphans of planters in the
+*in committee. [O. 49/1953]*
 
 *Schedule.*
 
-terms of the said will set forth in the Schedule, is hereby vested in a committee, which shall be styled the Committee of the Trotman Trust Fund and is hereinafter referred to as “the committee.”
+Samuel Brandford Trotman for the benefit of destitute planters and destitute widows and orphans of planters in the terms of the said will set forth in the Schedule, is hereby vested in a committee, which shall be styled the Committee of the Trotman Trust Fund and is hereinafter referred to as “the committee.”
 
 (2) The Committee shall consist of three persons appointed by the Minister, one of whom shall be an officer in the public service.
 

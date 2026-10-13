@@ -72,9 +72,9 @@ This Chapter contains no subsidiary legislation.
 
 ____________________
 
-*24 of 1991*
+*24 of*
 
-An Act to make provision for releasing convicted prisoners on parole and for matters connected therewith.
+1991 An Act to make provision for releasing convicted prisoners on parole and for matters connected therewith.
 
 [27 th SEPTEMBER, 1991]
 
@@ -98,13 +98,13 @@ Interpretation.
 
 “remission date”, in relation to a person serving a sentence of imprisonment or released on parole, and eligible for remission under the Prison Act, means the earliest day on which he would have been discharged from prison consequent on the remission of part of the sentence under that Act, if he had not been released on parole;
 
-“sentence of imprisonment” does not include a sentence of detention under the proviso to section 163 of the
-
 *c. 10:01 c. 10:03*
 
-Criminal Law (Procedure) Act or under section 15 of the Juvenile Offenders Act.
+“sentence of imprisonment” does not include a sentence of detention under the proviso to section 163 of the Criminal Law (Procedure) Act or under section 15 of the Juvenile Offenders Act.
 
-(2) Any reference in this Act to releasing a convicted prisoner on parole shall be construed as a reference to releasing such prisoner on a licence granted under section 5
+*to*
+
+(2) Any reference in this Act to releasing a convicted prisoner on parole shall be construed as a reference releasing such prisoner on a licence granted under section 5
 
 (1) or 6 (1).
 
@@ -134,7 +134,9 @@ one shall be a person who is a medical practitioner registered under any law rel
 
 **4.** It shall be the duty of the Board to advise the
 
-Minister with respect to—
+*Minister with*
+
+respect to—
 
 (a) the release on a licence under section 5 (1) or 6 (1), or the recall under section 7, of any person whose case has been referred to the Board by the Minister;
 
@@ -142,9 +144,11 @@ Minister with respect to—
 
 (c) any other matter, referred to the Board by the Minister, which is connected with the release of any person on a licence, or the recall, under section 7, of any person released on a licence or a condition of any licence.
 
-*Release on licence of persons serving determinate sentences.*
+*\5. (1)*
 
-**5.** (1) The Minister may, if recommended to do so by the Board on a reference made to it by him, release on licence a person serving a sentence of—
+*Release on licence of the Board on a persons serving determinate sentences.*
+
+The Minister may, if recommended to do so by reference made to it by him, release on licence a person serving a sentence of—
 
 (a) imprisonment, other than imprisonment for life or
 
@@ -152,9 +156,13 @@ Minister with respect to—
 
 (b) detention imposed under section 15 of the Juvenile Offenders Act in respect of an offence of wounding with intent to cause grievous bodily harm:
 
-Provided that no such person shall be released on a licence under this section before he has served one-third period of his sentence or the specified period of the sentence, whichever expires the later.
+*Provided licence under period of his whichever*
 
-(2) The Minister may specify in a licence under this section such conditions as he deems fit while releasing a
+that no such person shall be released on a this section before he has served one-third sentence or the specified period of the sentence, expires the later.
+
+*section such*
+
+The Minister may specify in a licence under this conditions as he deems fit while releasing a
 
 person on the licence and may after such release vary or cancel any such condition or insert a new condition.
 

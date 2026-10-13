@@ -88,11 +88,9 @@ An Act to provide for the Administration of the Trust Fund created under the Wil
 
 **2.** In this Act—
 
-“the estate” means the De Saffon Estate, that is to say, the
-
 *Schedule.*
 
-property set forth in the Schedule, according to the disposition thereof by the will of Pierre Louis De Saffon, deceased (hereafter in this Act described as “the will”), and all accumulations thereof;
+“the estate” means the De Saffon Estate, that is to say, the property set forth in the Schedule, according to the disposition thereof by the will of Pierre Louis De Saffon, deceased (hereafter in this Act described as “the will”), and all accumulations thereof;
 
 “the trustees” means the persons from time to time filling the office in the will styled administrator guardian and having and exercising all the rights and powers by the will in them in anywise vested.
 

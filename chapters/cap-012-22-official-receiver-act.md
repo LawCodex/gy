@@ -70,9 +70,9 @@ __________________________
 
 _______________________________________________________
 
-*18 of 1891*
+*18 of*
 
-An Act to abolish the Office of Administrator General and to make provision for the performance of certain of the duties hitherto performed by that Officer.
+1891 An Act to abolish the Office of Administrator General and to make provision for the performance of certain of the duties hitherto performed by that Officer.
 
 ### [1 ST APRIL, 1905]
 
@@ -111,6 +111,10 @@ An Act to abolish the Office of Administrator General and to make provision for 
 *Duty of Registrar to report neglect by Official Receiver.*
 
 **7.** It shall be the duty of the Registrar to bring to the notice of the Court any neglect on the part of the Official Receiver in rendering his accounts to be examined and passed as required by law.
+
+*1/2012*
+
+L.R.O.
 
 *Remuneration when in joint administration.*
 

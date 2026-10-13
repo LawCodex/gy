@@ -356,11 +356,9 @@ miscarriage has been thereby occasioned;
 
 (a) against his conviction, on any ground of appeal which involves a question of law alone;
 
-(b) if a female convicted of an offence punishable with death, from the finding of a jury on proceedings
-
 *c. 10:01*
 
-under section 167 of the Criminal Law (Procedure) Act, that she is not pregnant;
+(b) if a female convicted of an offence punishable with death, from the finding of a jury on proceedings under section 167 of the Criminal Law (Procedure) Act, that she is not pregnant;
 
 (c) with the leave of the Court of Appeal or upon the certificate of the judge who tried him that it is a fit case for appeal against his conviction on any ground of appeal which involves a question of fact alone, or a question of mixed law and fact, or any other ground which appears to the Court or judge to be a sufficient ground of appeal; and
 
@@ -384,11 +382,9 @@ Provided that the Court may, notwithstanding that they are of opinion that the p
 
 (3) Where on the conviction of the appellant the jury have found a special verdict, and the Court of Appeal consider that a wrong conclusion has been arrived at by the court before which the appellant has been convicted on the effect of that verdict, the Court of Appeal may, instead of allowing the appeal, order such conclusion to be recorded as appears to the Court to be in law required by the verdict, and pass such sentence in substitution for the sentence passed at the trial as may be warranted in law.
 
-(4) If on any appeal it appears to the Court of Appeal that, although the appellant was guilty of the act or omission charged against him, he was of unsound mind at the time the act was done or the omission made so as not to be responsible for his actions according to law, the Court of Appeal may quash the sentence passed at the trial and order that the appellant be kept in
-
 *c. 10:01*
 
-custody as a criminal lunatic under section 179 of the Criminal Law (Procedure) Act in the same manner as if a special verdict had been found by the jury under that Act.
+(4) If on any appeal it appears to the Court of Appeal that, although the appellant was guilty of the act or omission charged against him, he was of unsound mind at the time the act was done or the omission made so as not to be responsible for his actions according to law, the Court of Appeal may quash the sentence passed at the trial and order that the appellant be kept in custody as a criminal lunatic under section 179 of the Criminal Law (Procedure) Act in the same manner as if a special verdict had been found by the jury under that Act.
 
 *Re-vesting and restitution of property on conviction. c. 90:10*
 
@@ -736,11 +732,9 @@ may be exercised by any judge of the Court of Appeal in the same manner as they 
 
 *Qualification.*
 
-**36.** The period for which a person is required to have been qualified for admission as an advocate within the meaning of the
-
 *c. 1:01*
 
-Constitution for the purpose of qualification for appointment to hold or act in the office of a judge of the Court of Appeal, shall be ten years.
+**36.** The period for which a person is required to have been qualified for admission as an advocate within the meaning of the Constitution for the purpose of qualification for appointment to hold or act in the office of a judge of the Court of Appeal, shall be ten years.
 
 *Number of judges at sitting.*
 
@@ -770,11 +764,9 @@ Provided that, in giving any such instructions or approval with respect to any o
 
 **40.** The authority empowered by law to make rules of court regulating the practice and procedure of the High Court may make rules of court for all or any of the following purposes–
 
-(a) for regulating and prescribing the procedure and practice to be adopted on appeals and applications to the Court of Appeal or with respect to any appeal to the Judicial
-
 *c. 1:01*
 
-Committee under article 92 of the Constitution and in all other matters whatsoever in or with respect to which the Court has for the time being jurisdiction, and any matters incidental to or relating to any such procedure or practice, including but without prejudice to the generality of the foregoing provision, the manner in which and the time within which, any proceedings which under this or
+(a) for regulating and prescribing the procedure and practice to be adopted on appeals and applications to the Court of Appeal or with respect to any appeal to the Judicial Committee under article 92 of the Constitution and in all other matters whatsoever in or with respect to which the Court has for the time being jurisdiction, and any matters incidental to or relating to any such procedure or practice, including but without prejudice to the generality of the foregoing provision, the manner in which and the time within which, any proceedings which under this or
 
 any other law are to be taken in any of the aforementioned matters shall be taken;
 

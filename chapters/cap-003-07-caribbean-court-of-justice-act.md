@@ -84,7 +84,7 @@ This Chapter contains no subsidiary legislation.
 
 **18.** Enforcement of judgment or order of Court.
 
-### SECTION
+*SECTION*
 
 ## PART IV — FINANCIAL AND ADMINISTRATIVE PROVISIONS
 
@@ -120,7 +120,9 @@ An Act to implement the Agreement Establishing the Caribbean Court of Justice an
 
 **1.** This Act may be cited as the Caribbean Court of Justice Act.
 
-**2.** In this Act unless the context otherwise requires – Interpretation.
+*Interpretation.*
+
+**2.** In this Act unless the context otherwise requires –
 
 “Agreement” means the Agreement Establishing the Caribbean Court of Justice, signed at Bridgetown, Barbados, on the 14th day of February 2001, the text
 
@@ -168,7 +170,9 @@ CARICOM Single Market and Economy that was signed in Nassau, The Bahamas, on the
 
 (2) The decisions of the Court shall, subject to sections 9(5), 11(5) and 12, be final.
 
-(3) Nothing in this Act shall confer jurisdiction on the Court to hear matters in relation to any decision of the Court of Appeal which at the time of entry into force of this Act was declared to be final by any law.
+*of*
+
+(3) Nothing in this Act shall confer jurisdiction on the Court to hear matters in relation to any decision of the Court Appeal which at the time of entry into force of this Act was declared to be final by any law.
 
 *Original Jurisdiction of the Court.*
 
@@ -216,9 +220,11 @@ such persons directly;
 
 (5) For the purpose of subsection (1) “national courts” means the Supreme Courts of the Member States of the Caribbean Community and includes the Eastern Caribbean Supreme Court.
 
-*Appeal as of right.*
+*\6. An*
 
-**6.** An appeal shall lie to the Court from decisions of the Court of Appeal as of right –
+*Appeal as of right. the Court of*
+
+appeal shall lie to the Court from decisions of Appeal as of right –
 
 (a) in civil proceedings where the matter in dispute on appeal to the Court is of the value of not less than one million dollars or where the appeal involves directly or indirectly a claim or a question respecting property or a right of the aforesaid value;
 
@@ -230,9 +236,11 @@ such persons directly;
 
 (e) in respect of any other matter as may be prescribed by law.
 
-*Appeal with leave.*
+*\7. An*
 
-**7.** An appeal shall lie to the Court, with the leave of the Court of Appeal, from a decision of the Court of Appeal –
+*Appeal with the Court of leave.*
+
+appeal shall lie to the Court, with the leave of Appeal, from a decision of the Court of Appeal –
 
 (a) in any civil proceedings where, in the opinion of the Court of Appeal, the question is one that by reason of its great general or public importance or otherwise, ought to be submitted to Court; and
 
@@ -518,6 +526,10 @@ invited by the Conference to become a Party to this Agreement.
 
 **5.** The Court shall have and use, as occasion may require, a seal having a device or impression with the inscription “The Caribbean Court of Justice”.
 
+*Cap.*
+
+3:07
+
 ### ARTICLE IV CONSTITUTION OF THE COURT
 
 **1.** Subject to paragraph 2 of this Article, the Judges of the Court shall be the President and not more than nine other Judges of whom at least three shall possess expertise in international law including international trade law.
@@ -664,9 +676,17 @@ Commission shall appoint a tribunal which shall consist of a chairman and not le
 
 (b) the tribunal shall enquire into the matter and advise the Heads of Government or the Commission, as the case may be, whether or not the President or the Judge ought to be removed from office.
 
-**7.** The provisions of any law relating to the holding of commissions of inquiry in the Member State of the Caribbean Community where the inquiry is held shall apply as nearly as may be in relation to tribunals appointed under paragraph 6 of this Article or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that law.
+*\7. The*
 
-**8.** If the question of removing the President or any other Judge of the Court from office has been referred to a tribunal under paragraph 6 of this Article, the Heads of Government in the case of the President, or the Commission, in the case of any other Judge of the Court, may suspend such Judge from performing the functions of his office, and any such suspension may at any time be revoked by the Heads of Government or the Commission, as the case may be, and shall
+*Community may be in of this Article thereof as*
+
+provisions of any law relating to the holding of commissions of inquiry in the Member State of the Caribbean where the inquiry is held shall apply as nearly as relation to tribunals appointed under paragraph 6 or, as the context may require, to the members they apply in relation to Commissions or Commissioners appointed under that law.
+
+*other Judge of*
+
+*in the case of Judge from*
+
+**8.** If the question of removing the President or any the Court from office has been referred to a tribunal under paragraph 6 of this Article, the Heads of Government in the case of the President, or the Commission, any other Judge of the Court, may suspend such performing the functions of his office, and any such suspension may at any time be revoked by the Heads of Government or the Commission, as the case may be, and shall
 
 in any case cease to have effect if the tribunal advises the Heads of Government or the Commission that the Judge ought not to be removed from office.
 
@@ -794,13 +814,21 @@ six months of the discovery of the new fact.
 
 (i) regulating or prescribing or doing any other thing which may be regulated, prescribed or done by rules of Court.
 
-### ARTICLE XXII JUDGMENT OF THE COURT TO CONSTITUTE STARE DECISIS
+### ARTICLE XXII
 
-Judgments of the Court shall be legally binding precedents for parties in proceedings before the Court unless such judgments have been revised in accordance with Article XX.
+*JUDGMENT*
+
+### OF THE COURT TO CONSTITUTE STARE DECISIS
+
+*Judgments of for parties in judgments have*
+
+the Court shall be legally binding precedents proceedings before the Court unless such been revised in accordance with Article XX.
 
 ### ARTICLE XXIII ALTERNATIVE DISPUTE RESOLUTION
 
-**1.** Each Contracting Party shall, to the maximum
+*\1. Each*
+
+Contracting Party shall, to the maximum
 
 extent possible, encourage and facilitate the use of arbitration and other means of alternative dispute resolution for the settlement of international commercial disputes.
 
@@ -830,7 +858,9 @@ concerned may espouse the claim instead of the Contracting Party so entitled; an
 
 **1.** In the exercise of its appellate jurisdiction, the Court is a superior Court of record with such jurisdiction and powers as are conferred on it by this Agreement or by the Constitution or any other law of a Contracting Party.
 
-**2.** Appeals shall lie to the Court from decisions of the Court of Appeal of a Contracting Party as of right in the following cases:
+*Court of*
+
+**2.** Appeals shall lie to the Court from decisions of the Appeal of a Contracting Party as of right in the following cases:
 
 (a) final decisions in civil proceedings where the matter in dispute on appeal to the Court is of the value of not less than twenty-five thousand dollars Eastern Caribbean currency (EC$25,000) or where the appeal involves directly or indirectly a claim or a question respecting property or a right of the aforesaid value;
 
@@ -844,7 +874,9 @@ final decisions in any civil or other proceedings which involve a question as to
 
 (f) such other cases as may be prescribed by any law of the Contracting Party.
 
-**3.** An appeal shall lie to the Court with the leave of the Court of Appeal of a Contracting Party from the decisions of the Court of Appeal in the following cases:
+*\3. An the Court of of the Court of*
+
+appeal shall lie to the Court with the leave of Appeal of a Contracting Party from the decisions Appeal in the following cases:
 
 (a) final decisions in any civil proceedings where, in the opinion of the Court of Appeal, the question involved in the appeal is one that by reason of its great general or public importance or otherwise, ought to be submitted to the Court; and
 
@@ -886,7 +918,9 @@ duties of the officers of the Court;
 
 ### ARTICLE XXVI ENFORCEMENT OF ORDERS OF THE COURT
 
-The Contracting Parties agree to take all the necessary steps, including the enactment of legislation to ensure that:
+*including the*
+
+The Contracting Parties agree to take all the necessary steps, enactment of legislation to ensure that:
 
 (a) all authorities of a Contracting Party act in aid of the Court and that any judgment, decree, order or sentence of the Court given in exercise of its jurisdiction shall be enforced by all courts and authorities in any territory of the Contracting Parties as if it were a judgment, decree, order or sentence of a superior court of that Contracting Party;
 
@@ -894,7 +928,11 @@ The Contracting Parties agree to take all the necessary steps, including the ena
 
 ### ARTICLE XXVII OFFICIALS AND EMPLOYEES OF THE COURT
 
-**1.** There shall be a Registrar of the Court, Deputy Registrars and other officials and employees of the Court as the Commission may consider necessary. The holders of those offices shall be paid such salaries and allowances and shall
+*Registrars and*
+
+*offices shall be*
+
+**1.** There shall be a Registrar of the Court, Deputy other officials and employees of the Court as the Commission may consider necessary. The holders of those paid such salaries and allowances and shall
 
 have such other terms and conditions of service as may, from time to time, be determined by the Commission.
 
@@ -1002,61 +1040,37 @@ Signed by for the Government of Haiti on the
 
 2001 at .
 
-*Signed by*
+*Signed by day of*
 
-for the Government of Jamaica on the
+for the Government of Jamaica on the 2001 at .
 
-*day of*
+*Signed by day of*
 
-2001 at .
+for the Government of Montserrat on the 2001 at .
 
-*Signed by*
+*Signed by on the day of*
 
-for the Government of Montserrat on the
+for the Government of St. Kitts and Nevis 2001 at .
 
-*day of*
+*Signed by day of*
 
-2001 at .
-
-*Signed by on the*
-
-for the Government of St. Kitts and Nevis
-
-*day of*
-
-2001 at .
-
-*Signed by*
-
-for the Government of St. Lucia on the
-
-*day of*
-
-2001 at .
+for the Government of St. Lucia on the 2001 at .
 
 *Signed by Grenadines on the*
 
-for the Government of St Vincent and
-
 *.*
 
-day of 2001 at
+for the Government of St Vincent and day of 2001 at
 
 *Signed by Suriname on the*
 
-for the Government of the Republic of
-
 *.*
-
-day of 2001 at
 
 *Signed by*
 
-for the Government of the Republic of
-
 *.*
 
-Trinidad and Tobago on the day of 2001 at
+for the Government of the Republic of day of 2001 at for the Government of the Republic of Trinidad and Tobago on the day of 2001 at
 
 ### APPENDIX I OATH OF OFFICE
 

@@ -150,9 +150,7 @@ Contracts for legal services.
 
 ## PART III MEMBERSHIP OF BAR ASSOCIATIONS
 
-**47.** Annual subscription to the Bar Associations
-
-## FIRST SCHEDULE—Rules.
+**47.** Annual subscription to the Bar Associations FIRST SCHEDULE—Rules.
 
 ## SECOND SCHEDULE—Form.
 
@@ -198,11 +196,9 @@ An Act to establish criteria for the admission of persons to practise as attorne
 
 Tax Act.
 
-“Practise law” means practise as an attorney-at-law lawfully before the coming into operation of the
-
 *Act 3 of 1980.*
 
-Legal Practitioners (Amendment) Act 1980 and i n c l u d e s practising a t o ne a n d the same t i m e both as such attorney-at-law;
+“Practise law” means practise as an attorney-at-law lawfully before the coming into operation of the Legal Practitioners (Amendment) Act 1980 and i n c l u d e s practising a t o ne a n d the same t i m e both as such attorney-at-law;
 
 “the Registrar” means the Registrar of the Supreme Court;
 
@@ -358,11 +354,9 @@ precincts of any court except—
 
 (7) Where the judge in chambers rescinds the decision of the Registrar a notice to that effect shall be published in the Gazette.
 
-(8) The fees and costs set out in the Third
-
 *Third Schedule.*
 
-Schedule shall be the fees to be charged and taken in the registry and recovered by the Registrar and shall govern the taxation of costs for and in respect of the various matters specified therein.
+(8) The fees and costs set out in the Third Schedule shall be the fees to be charged and taken in the registry and recovered by the Registrar and shall govern the taxation of costs for and in respect of the various matters specified therein.
 
 (9) All costs of and incidental to an appeal under this section to a judge in chambers shall be in the discretion of the judge.
 
@@ -380,11 +374,9 @@ Schedule shall be the fees to be charged and taken in the registry and recovered
 
 **17.** A person who, not being entitled to practise as an attorney-at-law, or not being a public officer acting in the execution of his duty, either directly or indirectly for or in expectation of any fee, gain, or reward, draws or prepares, or offers to draw or prepare, any legal document other than a will, or holds himself out by advertisement or otherwise as prepared to do so, or who receives any fee, gain, or reward, for drawing or preparing that document, shall be liable on summary conviction to a fine of nine thousand seven hundred and fifty dollars for each offence:
 
-Provided that nothing contained in this section shall be construed to prevent a clerk of a magistrate’s court from preparing a complaint or information relating to an indictable or summary conviction offence, or a plaint under the
-
 *c. 7:01*
 
-Summary Jurisdiction (Petty Debt) Act, to be instituted in the court of which he is clerk, unless prohibited by the Chancellor from doing so.
+Provided that nothing contained in this section shall be construed to prevent a clerk of a magistrate’s court from preparing a complaint or information relating to an indictable or summary conviction offence, or a plaint under the Summary Jurisdiction (Petty Debt) Act, to be instituted in the court of which he is clerk, unless prohibited by the Chancellor from doing so.
 
 *Recovery of fees, charges or disbursements. [3 of 1980]*
 
@@ -728,11 +720,9 @@ Provided that any party to the proceedings may require a deponent to any such af
 
 (3) No person shall be compelled to produce any document which he could not be compelled to produce in the trial of an action.
 
-(4) A subpoena issued by the Committee under
-
 *Form 5.*
 
-section 40 or under this Rule may be on Form 5 of the Schedule to these rules with such variation as the case may require.
+(4) A subpoena issued by the Committee under section 40 or under this Rule may be on Form 5 of the Schedule to these rules with such variation as the case may require.
 
 *Notice of date of findings.*
 
@@ -806,6 +796,8 @@ In witness whereof I have hereunto set my hand this ............................
 
 (Signature)
 
+*Cap. 4:01*
+
 *r. 3*
 
 ### FORM 2 FORM OF AFFIDAVIT BY APPLICANT
@@ -818,11 +810,9 @@ In the matter of........................................................ Applica
 
 I, (1)............................................ of................................ make oath and say as follows:
 
-**1.** I am a (2).................................... and the applicant
-
 *(2) Insert occupation. (3) Insert full name and last known address.*
 
-herein.
+**1.** I am a (2).................................... and the applicant herein.
 
 **2.** The above named (3).................................................. of ......................................................... attorney-at-law, has been employed by me in a professional capacity (state period of time)
 
@@ -920,11 +910,9 @@ You are hereby commanded to attend before the Legal Practitioners Committee cons
 
 o’clock in the.............noon, and so from day to day until the application in the above matter is heard, to give evidence
 
-on behalf of [(2) and you are required to bring with you and produce at the time and place
+*(2) If it is duces tecum*
 
-(2) If it is duces
-
-tecum aforesaid...................................................................... (Specify the books or documents to be produced).] Dated..............................the day of........................................, 20.....
+on behalf of [(2) and you are required to bring with you and produce at the time and place aforesaid...................................................................... (Specify the books or documents to be produced).] Dated..............................the day of........................................, 20.....
 
 Chairman Legal Practitioners Committee
 
@@ -940,7 +928,9 @@ In the matter of section 17 of the Legal Practitioners
 
 *Act.*
 
-And in the matter of the decision of the Registrar of the Supreme Court.
+*the Supreme*
+
+And in the matter of the decision of the Registrar of Court.
 
 Between
 
@@ -950,7 +940,9 @@ and
 
 C.D. (The Registrar of the Supreme Court) Respondent
 
-**1.** Take notice that the above-named Appellant intends to appeal against the decision of the Registrar of the
+*intends to*
+
+**1.** Take notice that the above-named Appellant appeal against the decision of the Registrar of the
 
 Supreme Court who has declared the Appellant to be a tout by publication in the official Gazette of the ..............day of................., 20.................
 
@@ -1078,21 +1070,27 @@ making adequate arrangements for the client’s representation.
 
 ### RULE VI – ADVERTISEMENTS
 
-**1.** Advertising professional legal service in or through any medium is strictly forbidden. Advertising is incompatible with the honour of the profession and can be detrimental to the public interest. Brief announcements of a change in address or telephone numbers are permitted.
+*with the*
 
-**2.** An attorney-at-law shall not compensate a reporter or otherwise pay to have his name included in the report of a case, or other legal matter that he is handling.
+**1.** Advertising professional legal service in or through any medium is strictly forbidden. Advertising is incompatible the honour of the profession and can be detrimental to public interest. Brief announcements of a change in address or telephone numbers are permitted.
 
-**3.** The foregoing prohibition extends also to law firms, and each individual attorney-at-law connected with the erring firm shall be deemed to have transgressed these Rules, unless he can establish that the same was done without his knowledge, consent or participation.
+*An*
 
-**4.** An attorney-at-law may use the following letterheads, cards, office signs or legal and directory listings, and no other, in a restrained and dignified form –
+**2.** attorney-at-law shall not compensate a reporter or otherwise pay to have his name included in the report of a case, or other legal matter that he is handling.
 
-(i) a letterhead and professional card identifying the attorney-at-law by name and as an attorney-at-law, giving his decorations and degrees (legal or otherwise), his addresses, telephone numbers and the name of his law firm or professional associates, provided that such cards are not published in the news media and are only handed out on request;
+*The each firm*
 
-(ii) a sign on or near the door of the office, and in the building directory identifying the law office, provided that it is of a size and design compatible with the existing practice of the profession;
+**3.** foregoing prohibition extends also to law firms, and individual attorney-at-law connected with the erring shall be deemed to have transgressed these Rules, unless he can establish that the same was done without his knowledge, consent or participation.
 
-(iii) a listing in a telephone directory, a reputable law firm list, legal directory or biographical reference giving brief relevant information and not calculated to attract clients to himself or his firm.
+*An*
 
-An attorney-at-law may permit limited and dignified
+**4.** attorney-at-law may use the following letterheads, cards, office signs or legal and directory listings, and no other, in a restrained and dignified form –
+
+(i) a letterhead and professional card identifying the attorney-at-law by name and as an attorney-at-law, giving his decorations and degrees (legal or otherwise), his addresses, telephone numbers and the name of his law firm or professional associates, provided that such cards are not published in the news media and are only handed out on request; (ii) a sign on or near the door of the office, and in the building directory identifying the law office, provided that it is of a size and design compatible with the existing practice of the profession; (iii) a listing in a telephone directory, a reputable law firm list, legal directory or biographical reference giving brief relevant information and not calculated to attract clients to himself or his firm.
+
+*An*
+
+attorney-at-law may permit limited and dignified
 
 identification of himself as an attorney-at-law:
 
@@ -1170,7 +1168,7 @@ those who are associated with that client.
 
 **11.** An attorney-at-law shall not attempt to deceive a Court or influence the course of justice by offering false evidence, knowingly misstating facts or law, presenting or relying upon a false or deceptive affidavit, suppressing what ought to be disclosed or assisting in fraud, crime or illegal conduct.
 
-**12.** An attorney-at-law shall not knowingly misstate the
+An attorney-at-law shall not knowingly misstate the
 
 contents of a document, the testimony of a witness, the substance of an argument or the provisions of a statute, or like authority.
 
@@ -1278,11 +1276,9 @@ Practising attorneys-at-law shall not engage in or be associated with any illega
 
 **1.** An attorney-at-law shall promptly respond to a request from a Bar Association or committee or agent for comments or information on matters raised by the Bar Association with him.
 
-**2.** An attorney-at-law shall not practise as an attorney-at-law unless he has been issued a practice certificate by the Commissioner General in accordance with the provisions of
-
 *c. 80:01*
 
-section 39 of the Tax Act.
+**2.** An attorney-at-law shall not practise as an attorney-at-law unless he has been issued a practice certificate by the Commissioner General in accordance with the provisions of section 39 of the Tax Act.
 
 ### RULE XVI – FUNDS
 

@@ -304,11 +304,13 @@ Power to search premises.
 
 ## SECOND SCHEDULE – List of Psychotropic substances
 
-## THIRD SCHEDULE --- Prohibited Plants
+*THIRD FOURTH FIFTH*
 
-## FOURTH SCHEDULE ---List of Precursor Chemicals
+## SCHEDULE --- Prohibited Plants
 
-## FIFTH SCHEDULE—Enforcement Powers on Ships
+## SCHEDULE ---List of Precursor Chemicals
+
+## SCHEDULE—Enforcement Powers on Ships
 
 ### CHAPTER 10:10
 
@@ -358,23 +360,17 @@ tending the plant or harvesting the flowers, fruits, leaves or seeds or the whol
 
 “holder”, in relation to a licence, means the person to whom the licence is granted and includes every person who is an agent, a servant or other person acting on behalf of, or under the authority of, the person to whom the licence is granted;
 
-“narcotic” means any substance specified in the First
-
 *First Schedule.*
-
-Schedule or anything that contains any substance specified in that Schedule, and includes any psychotropic
 
 *Second Schedule.*
 
-substance specified in the Second Schedule or anything that contains any substance specified in that Schedule;
+“narcotic” means any substance specified in the First Schedule or anything that contains any substance specified in that Schedule, and includes any psychotropic substance specified in the Second Schedule or anything that contains any substance specified in that Schedule;
 
 “opium” includes raw opium, powdered opium and opium wholly or partially prepared for any use or purpose, whatever its content of morphine may be;
 
-“opium poppy” means all parts of plants of the species Papaver somniferum and includes all parts of any species
-
 *Third Schedule.*
 
-of plants, being a source of opium, specified in the Third Schedule;
+“opium poppy” means all parts of plants of the species Papaver somniferum and includes all parts of any species of plants, being a source of opium, specified in the Third Schedule;
 
 “pharmacist” means any person who is registered as a duly qualified pharmacist under any law for the time being in force in Guyana relating to the registration of pharmacists;
 
@@ -390,11 +386,9 @@ of plants, being a source of opium, specified in the Third Schedule;
 
 “Protocol” means the Protocol on Narcotic Drugs signed at Lake Success, New York, on the 11th December, 1946;
 
-“psychotropic substance” means any substance specified in
-
 *Second Schedule.*
 
-the Second Schedule or anything that contains any substance specified in that Schedule;
+“psychotropic substance” means any substance specified in the Second Schedule or anything that contains any substance specified in that Schedule;
 
 “regulations” means regulations made by the Minister under this Act;
 
@@ -426,11 +420,9 @@ other person qualified to do so, on the instructions of a practitioner;
 
 thing referred to in subparagraph (i) shall be deemed to include the tackle, apparel, and furniture and fittings thereof; and
 
-(iii) responsible officer, in relation to any aircraft or ship shall be construed to have the same
-
 *c. 82:01*
 
-meaning as in section 201(2) of the Customs Act, and includes also such other officers, not mentioned therein, as may be specified by the Minister by order;
+(iii) responsible officer, in relation to any aircraft or ship shall be construed to have the same meaning as in section 201(2) of the Customs Act, and includes also such other officers, not mentioned therein, as may be specified by the Minister by order;
 
 (d) any reference to any narcotic, pipe, utensil or other article shall be deemed to include a reference to any receptacle or package in which the same is found and all the other contents of the receptacle or package;
 
@@ -812,11 +804,9 @@ offence and is liable—
 
 **15C.** (1) The Minister may make regulations—
 
-(a) for imposing requirements as to the documentation of transactions
-
 *Fourth Schedule.*
 
-involving substances referred to in the Fourth Schedule;
+(a) for imposing requirements as to the documentation of transactions involving substances referred to in the Fourth Schedule;
 
 (b) requiring the keeping of records and the furnishing of information with regard to such substances;
 
@@ -832,11 +822,9 @@ involving substances referred to in the Fourth Schedule;
 
 (b) the production, in such circumstances as may be so specified, of evidence that the required notification has been given.
 
-(3) Regulations made under this section may make different provisions in relation to the substances specified in
-
 *Fourth Schedule.*
 
-the Fourth Schedule and in relation to different cases or circumstances.
+(3) Regulations made under this section may make different provisions in relation to the substances specified in the Fourth Schedule and in relation to different cases or circumstances.
 
 (4) Any person who fails to comply with any requirement imposed by the regulations or, in purported compliance with any such requirement, furnishes information which he knows to be false in a material particular or recklessly furnishes information which is false in a material particular is guilty of an offence and is liable—
 
@@ -854,11 +842,9 @@ criminal proceedings or of proceedings under this Act.
 
 **16.** For the purposes of this Part—
 
-“Commissioner -General” means the Commissioner-General of
-
 *c. 79:04*
 
-the Revenue Authority appointed pursuant to the Revenue Authority Act ;
+“Commissioner -General” means the Commissioner-General of the Revenue Authority appointed pursuant to the Revenue Authority Act ;
 
 “diversion certificate” means a certificate issued by a competent authority of a country, through which a narcotic passes in transit, authorising the diversion of the narcotic to a country, other than that specified as the country of ultimate destination in the export authorisation and containing all the particulars required to be included in the export authorisation together with the name of the country from which the narcotic was originally exported;
 
@@ -870,13 +856,9 @@ the Revenue Authority appointed pursuant to the Revenue Authority Act ;
 
 “removal licence” means a licence granted by the Minister under section 19(2).
 
-*Prohibition*
+*Prohibition against sending narcotics by post. [6 of 1997]*
 
-**17.** (1) No person shall post, or enclose in or with any
-
-*narcotics by post. [6 of 1997]*
-
-against sending letter, packet or other matter sent by post, any narcotic.
+**17.** (1) No person shall post, or enclose in or with any letter, packet or other matter sent by post, any narcotic.
 
 (2) Any person who contravenes subsection (1) shall be liable—
 
@@ -1044,11 +1026,9 @@ under section 27 (1)(b), the same power as any member of the Police Force or any
 
 Provided that a licence shall not be cancelled without giving the licensee a reasonable opportunity of being heard.
 
-(2) Without prejudice to the provisions of subsection (1), where the holder of a licence granted under this Act is convicted by any court of any offence against this
-
 *c. 82:01*
 
-Act or against the Customs Act, in addition to any other penalty to which he may be liable therefor, the court convicting him shall require him to produce his licence and thereupon proceed to cancel it.
+(2) Without prejudice to the provisions of subsection (1), where the holder of a licence granted under this Act is convicted by any court of any offence against this Act or against the Customs Act, in addition to any other penalty to which he may be liable therefor, the court convicting him shall require him to produce his licence and thereupon proceed to cancel it.
 
 *Regulation of possession or sale or supply of narcotics by licensee.*
 
@@ -1200,11 +1180,9 @@ when it was made use of for such conveyance, was not concerned in or privy to su
 
 “asset” means any property, movable or immovable, and includes, money, choses in action, goodwill and any interest in property;
 
-“defendant” has the same meaning as in the Summary
-
 *c. 10:02.*
 
-Jurisdiction (Procedure) Act;
+“defendant” has the same meaning as in the Summary Jurisdiction (Procedure) Act;
 
 “respondent” means the person against whom an application is made under section 37(1);
 
@@ -1336,11 +1314,9 @@ injunction and shall be published in at least one newspaper having circulation i
 
 (3) The Official Receiver shall not be personally liable for any taxes, duties, rates or other municipal or other statutory charges imposed by or under any law in respect of the assets of any person, of which he has been directed by a restraint order to take custody and control, except to the extent, if any, of rents and profits received by the Official Receiver in respect of that asset on or after the date of the restraint order.
 
-(4) Where the Official Receiver has taken custody and control of the assets of any person in accordance with a restraint order, he shall be entitled to receive, in respect of the exercise and the performance of his functions in relation to the assets, fees equal to the fees that he would be entitled to receive if he were exercising and performing the functions in consequence of his having taken custody or control of the asset by virtue of a receiving order made under the
-
 *c. 12:21*
 
-Insolvency Act.
+(4) Where the Official Receiver has taken custody and control of the assets of any person in accordance with a restraint order, he shall be entitled to receive, in respect of the exercise and the performance of his functions in relation to the assets, fees equal to the fees that he would be entitled to receive if he were exercising and performing the functions in consequence of his having taken custody or control of the asset by virtue of a receiving order made under the Insolvency Act.
 
 *Exclusion of assets, recognition of claims, and revocation of restraint order.*
 
@@ -1440,13 +1416,9 @@ the value of the assets released to the person under section 55;
 
 (e) the proportion of the total liabilities of the person to his total assets.
 
-*Claim by*
+*Claim by person who has committed a specified offence.*
 
-**55.** (1) Any person in respect of whom a notice has person who has been published under section 56(2) or (5) may apply to the committed a
-
-*specified offence.*
-
-Court, within thirty days of the publication of the aforesaid notice in a newspaper, for the release from forfeiture of any asset belonging to him on the ground that he acquired it—
+**55.** (1) Any person in respect of whom a notice has been published under section 56(2) or (5) may apply to the Court, within thirty days of the publication of the aforesaid notice in a newspaper, for the release from forfeiture of any asset belonging to him on the ground that he acquired it—
 
 (a) by succession;
 
@@ -1616,11 +1588,9 @@ obligations or discharging any of its functions;
 
 (2) The Secretary to the Treasury may, with the approval of the Minister of Finance, invest or place on deposit account any of the moneys of the Fund and any interest earned on moneys so invested or deposited shall be placed to the credit of the Fund.
 
-(3) The Secretary to the Treasury in his capacity as trustee of the Fund shall be exempt from the payment of
-
 *c. 81:01*
 
-income tax under the Income Tax Act.
+(3) The Secretary to the Treasury in his capacity as trustee of the Fund shall be exempt from the payment of income tax under the Income Tax Act.
 
 *Management of Fund.*
 
@@ -1664,21 +1634,17 @@ unless there are special reasons for doing so, which shall be recorded in writin
 
 where a person convicted of an offence under section 4 for being in possession of cannabis was on the date of the commission of the offence in the possession of an amount of cannabis not exceeding five grams, and the court is satisfied that such cannabis was in his possession only for his personal consumption, the court may deem such circumstances to be a special reason.
 
-(3) Notwithstanding anything contained in section
-
 *c. 10:02*
 
-61 of the Summary Jurisdiction (Procedure) Act, or the First Schedule thereto, the provisions of that section and Schedule shall not apply in relation to any offence under this Act.
+(3) Notwithstanding anything contained in section 61 of the Summary Jurisdiction (Procedure) Act, or the First Schedule thereto, the provisions of that section and Schedule shall not apply in relation to any offence under this Act.
 
 (4) In this section—
 
 (a) “child” and “young person” have the same meanings as in Part II;
 
-(b) “punishment” includes an order under any written law, made with or without recording a conviction, for the detention or custody of any offender, or releasing an offender on entering into a recognisance or under a probation order, or under 42(a) or (b)
-
 *c. 10:02 c. 10:03 c. 11:02 c. 11:06*
 
-of the Summary Jurisdiction (Procedure) Act, the Juvenile Offenders Act or the Extra-Mural Work Act, or sending a person to a training school established under the Training Schools Act.
+(b) “punishment” includes an order under any written law, made with or without recording a conviction, for the detention or custody of any offender, or releasing an offender on entering into a recognisance or under a probation order, or under 42(a) or (b) of the Summary Jurisdiction (Procedure) Act, the Juvenile Offenders Act or the Extra-Mural Work Act, or sending a person to a training school established under the Training Schools Act.
 
 (5) Notwithstanding subsection (4)(b), a court convicting a person of an offence under section 4 to which subsection (2)(b) of this section applies, shall impose a fine of not less than-
 
@@ -1686,11 +1652,9 @@ of the Summary Jurisdiction (Procedure) Act, the Juvenile Offenders Act or the E
 
 (b) six thousand dollars in lieu of the fine under section 4(i)(a)(ii) or (2)(A)(ii),
 
-and make an order requiring the person convicted to perform community service for such period not exceeding six months in lieu of imprisonment under section 4(1)(a)(i) or (2)(A)(i), and not exceeding nine months in lieu of imprisonment under section 4(1)(a)(ii) or (2)(A)(ii), and for such number of hours each day (excluding public holidays) as are specified in
-
 *c. 11:02*
 
-the order, and where any such order is made, the provisions of sections 3(2) to 7, inclusive, of the Extra-Mural Work Act shall, mutatis mutandis apply as if the order were an extramural work order made under section 3 of that Act.
+and make an order requiring the person convicted to perform community service for such period not exceeding six months in lieu of imprisonment under section 4(1)(a)(i) or (2)(A)(i), and not exceeding nine months in lieu of imprisonment under section 4(1)(a)(ii) or (2)(A)(ii), and for such number of hours each day (excluding public holidays) as are specified in the order, and where any such order is made, the provisions of sections 3(2) to 7, inclusive, of the Extra-Mural Work Act shall, mutatis mutandis apply as if the order were an extramural work order made under section 3 of that Act.
 
 *Full offence charged, part proved.*
 
@@ -2000,11 +1964,9 @@ the offences mentioned in those sections.
 
 (4) The Minister may, either of his motion or in response to a request from a Convention state authorise a Convention state to exercise in relation to a Guyana ship powers corresponding to those conferred on enforcement officers by the Fifth Schedule but subject to such conditions or limitations, if any, as he may impose.
 
-(5) Subsection (4) is without prejudice to any agreement made, or which may be made on behalf of Guyana whereby Guyana undertakes not to object to the exercise by any other state in relation to a Guyana ship of powers
-
 *Fifth Schedule.*
 
-corresponding to those conferred by the Fifth Schedule.
+(5) Subsection (4) is without prejudice to any agreement made, or which may be made on behalf of Guyana whereby Guyana undertakes not to object to the exercise by any other state in relation to a Guyana ship of powers corresponding to those conferred by the Fifth Schedule.
 
 (6) The powers conferred by the Fifth Schedule shall not be exercised in the territorial sea of any state other than Guyana without the authority of the Minister and he shall not give his authority unless that state has consented to the exercise of those powers.
 
@@ -2094,21 +2056,17 @@ the manner of disposal of any seizures under section 88(4) or 92(1) and of destr
 
 (x) any other matter that may be, or is required to be, prescribed by this Act by the Minister by regulations.
 
-(3) Regulations may also provide for authorising any person who is licensed or otherwise authorised and who lawfully keeps any shop for the retailing of poisons in accordance with the provisions of the Pharmacy and Poisons
-
 *36 of 1956*
 
-Ordinance, —
+(3) Regulations may also provide for authorising any person who is licensed or otherwise authorised and who lawfully keeps any shop for the retailing of poisons in accordance with the provisions of the Pharmacy and Poisons Ordinance, —
 
 (a) to manufacture at the shop in the ordinary course of his retail business any preparation, admixture, or extract, of any narcotic to which this Act applies; or
 
 (b) to carry on at the shop the business of retailing, dispensing, or compounding, any such narcotic,
 
-subject to the power of the Minister to withdraw the authorisation in the case of a person who has been convicted of an offence against this Act or against the Pharmacy and
-
 *36 of 1956 c. 34:03*
 
-Poisons Ordinance or the Food and Drugs Act, or who cannot, in the opinion of the Minister, properly be allowed to carry on the business of manufacturing or selling or distributing, as the case may be, of any such narcotic.
+subject to the power of the Minister to withdraw the authorisation in the case of a person who has been convicted of an offence against this Act or against the Pharmacy and Poisons Ordinance or the Food and Drugs Act, or who cannot, in the opinion of the Minister, properly be allowed to carry on the business of manufacturing or selling or distributing, as the case may be, of any such narcotic.
 
 (4) The Minister assigned responsibility for legal matters may, after consultation with the Chancellor, make regulations, prescribing the practice and procedure of the Court or any other court in regard to proceedings for forfeiture and condemnation by any such court under any provision of this Act, or relating to proceedings for a restraint order under Part VII, and for matters connected with or incidental to such proceedings.
 
@@ -2122,11 +2080,9 @@ Poisons Ordinance or the Food and Drugs Act, or who cannot, in the opinion of th
 
 (d) for any other matter that may be, or is required to be, prescribed by this Act by the Minister assigned responsibility for health services.
 
-(6) Nothing in any regulations made under this section shall be taken to authorise the sale, or the keeping of an open shop for the retailing, dispensing, or compounding of poisons by any person who is not qualified in that behalf under, or otherwise than in accordance with, the provisions of
-
 *36 of 1956*
 
-the Pharmacy and Poisons Ordinance, or to be in derogation of the provisions of that Ordinance prohibiting, restricting or regulating, the sale of poisons.
+(6) Nothing in any regulations made under this section shall be taken to authorise the sale, or the keeping of an open shop for the retailing, dispensing, or compounding of poisons by any person who is not qualified in that behalf under, or otherwise than in accordance with, the provisions of the Pharmacy and Poisons Ordinance, or to be in derogation of the provisions of that Ordinance prohibiting, restricting or regulating, the sale of poisons.
 
 *Rules of court.*
 
@@ -2230,7 +2186,9 @@ Apomorphine, and
 
 B. Synthetic cocaine.
 
-**3.** Cannabis, Cannabis sativa, Cannabis sativa L, their preparations, derivatives and similar synthetic preparations, as for example:
+*as*
+
+**3.** Cannabis, Cannabis sativa, Cannabis sativa L, their preparations, derivatives and similar synthetic preparations, for example:
 
 (1) Cannabis resin
 
@@ -2372,7 +2330,9 @@ methyl-4H-10, 4 A -iminoethanophenanthren-6-ol), and
 
 (10) Levallorphan (1-11-allyl-1, 2, 3, 9,10,1OA-hexahydro-4H-10, 4 A -iminoethanophenanthren- 6-ol)
 
-**12.** Benzazocines, their preparations, derivatives and salts as for example:
+*as*
+
+**12.** Benzazocines, their preparations, derivatives and salts for example:
 
 (1) Phenazocine (2’-hydroxy-5, 9-dimethyl-2-phenethyl-6, 7-benzomorphan)
 
@@ -2394,7 +2354,7 @@ The isomers, unless specifically excepted, of the drugs in this Schedule wheneve
 
 The esters and ethers, unless appearing in another Schedule, of the drugs in this Schedule whenever the existence of such esters or ethers is possible.
 
-The salts of the drugs listed in this Schedule, including the salts of esters, ethers and isomers as provided above,
+The salts of the drugs listed in this Schedule, including salts of esters, ethers and isomers as provided above,
 
 whenever the existence of such salts is possible.
 
@@ -2708,11 +2668,9 @@ NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) REGULATIONS made under sect
 
 (c) by a veterinary surgeon for the purposes of animal treatment;
 
-“private hospital” means a private hospital within the meaning of
-
 *c. 33:03*
 
-the Private Hospital Act, the building used for which has been granted a licence under section 3 of that Act;
+“private hospital” means a private hospital within the meaning of the Private Hospital Act, the building used for which has been granted a licence under section 3 of that Act;
 
 *Cap. 139 1953 Ed.*
 
@@ -2754,11 +2712,9 @@ Provided that an application for the grant of a licence shall not be refused wit
 
 (2) A licence granted under subsection (1) shall be in Form 2.
 
-(3) Where the Minister decides to grant to the applicant a licence under paragraph (1) for a purpose
-
 *Second Schedule.*
 
-specified in column (1) of the Second Schedule, the fee specified in the corresponding entry in column (2) of that Schedule shall be paid by the applicant before the issue of the licence to him.
+(3) Where the Minister decides to grant to the applicant a licence under paragraph (1) for a purpose specified in column (1) of the Second Schedule, the fee specified in the corresponding entry in column (2) of that Schedule shall be paid by the applicant before the issue of the licence to him.
 
 *Renewal of licence. Form 3.*
 
@@ -2826,11 +2782,9 @@ or failed to comply with any term or condition of such licence or any provision 
 
 a stock register relating to narcotics in Form 4;
 
-(b) a register in which daily transactions
-
 *Form 5.*
 
-in relation to narcotics are entered in Form 5; and
+(b) a register in which daily transactions in relation to narcotics are entered in Form 5; and
 
 (c) any other register or record that he is required to maintain under any other provision of these regulations.
 
@@ -2854,11 +2808,9 @@ distribute any narcotic shall maintain a stock register in Form
 
 4.
 
-(3) Every licensee or authorised person referred to in paragraph (1) shall, save as otherwise provided in
-
 *Form 6.*
 
-regulation 14, maintain also a register of daily transactions in Form 6 and shall comply with the following –
+(3) Every licensee or authorised person referred to in paragraph (1) shall, save as otherwise provided in regulation 14, maintain also a register of daily transactions in Form 6 and shall comply with the following –
 
 (a) he shall enter in chronological order in Part I or Part II, as the case may be, of the aforesaid register of daily transactions true particulars in relation to any quantity of any narcotic that may be sold, supplied, delivered or distributed to him, or otherwise obtained by him and in relation to any narcotic sold, supplied, delivered or distributed by him and in
 
@@ -3062,19 +3014,15 @@ grant or refuse the application:
 
 Provided that an application for the grant of an import or export licence shall not be refused without giving the applicant a reasonable opportunity of being heard.
 
-(2) An import or export licence granted under
-
 *Form 10.*
 
-paragraph (1) shall be in Form 10.
+(2) An import or export licence granted under paragraph (1) shall be in Form 10.
 
 (3) Where the Minister decides to grant to the applicant an import or export licence, a fee of five thousand dollars shall be paid by the applicant before the issue of the licence to him.
 
-(4) Where an import licence is granted under paragraph (1), the Minister shall issue, in relation to the narcotic intended to be imported, an import certificate in
-
 *Form 11.*
 
-Form 11, which shall be forwarded by the intended importer to the person from whom the narcotic is to be obtained:
+(4) Where an import licence is granted under paragraph (1), the Minister shall issue, in relation to the narcotic intended to be imported, an import certificate in Form 11, which shall be forwarded by the intended importer to the person from whom the narcotic is to be obtained:
 
 Provided that where the narcotic to which the import licence relates is proposed to be imported in more than one consignment, a separate import certificate shall be issued to him in respect of each such consignment.
 
@@ -3108,11 +3056,9 @@ extend the period of an import or export licence granted under paragraph (1) by 
 
 **29.** (1) An application for the grant of a removal licence under section 19 shall be in Form 12 and shall be accompanied by a fee of one hundred dollars.
 
-(2) A removal licence granted by the Minister
-
 *Form 13.*
 
-under section 19 shall be in Form 13.
+(2) A removal licence granted by the Minister under section 19 shall be in Form 13.
 
 *Diversion Certificate. Form 14.*
 
@@ -3176,11 +3122,9 @@ false,
 
 shall on summary conviction be liable to a fine of twenty-five thousand dollars together with imprisonment for five years.
 
-## FIRST SCHEDULE
-
 *reg. 4 (1)*
 
-FORMS FORM 1 APPLICATION FOR LICENCE TO POSSESS/MANUFACTURE/BUY/SELL/SUPPLY/TRANSPORT /DELIVER/DISTRIBUTE* A NARCOTIC NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) ACT (CAP. 10:10)
+FIRST SCHEDULE FORMS FORM 1 APPLICATION FOR LICENCE TO POSSESS/MANUFACTURE/BUY/SELL/SUPPLY/TRANSPORT /DELIVER/DISTRIBUTE* A NARCOTIC NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) ACT (CAP. 10:10)
 
 **1.** Name of the applicant.
 
@@ -3228,11 +3172,9 @@ Cap. 10:10 be liable on summary conviction to a fine of not less than five thous
 
 Signature of Applicant. Dated this........................day of.................................20..... *Cross out inapplicable words.
 
-### FORM 2
-
 *reg. 5 (2)*
 
-LICENCE/TO/POSSESS/MANUFACTURE/BUY/SELL SUPPLY/TRANSPORT/DELIVER/DISTRIBUTE* A NARCOTIC NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) ACT (Cap. 10:10)
+FORM 2 LICENCE/TO/POSSESS/MANUFACTURE/BUY/SELL SUPPLY/TRANSPORT/DELIVER/DISTRIBUTE* A NARCOTIC NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) ACT (Cap. 10:10)
 
 LICENCE No:......................
 
@@ -3250,17 +3192,15 @@ This licence is subject to the conditions specified in the Narcotic Drugs and Ps
 
 Dated this......................day of....................................20.... Official Stamp Minister *Cross out inapplicable words.
 
-### FORM 3
-
 *reg. 6 (1)*
 
-APPLICATION FOR RENEWAL OF LICENCE NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) ACT (CAP. 10:10)
+FORM 3 APPLICATION FOR RENEWAL OF LICENCE NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES (CONTROL) ACT (CAP. 10:10)
 
 **1.** Name of the applicant.
 
-**2.** Address of applicant.
+Address of applicant.
 
-**3.** Nationality.
+Nationality.
 
 Identity Card No. If applicant is an individual.
 

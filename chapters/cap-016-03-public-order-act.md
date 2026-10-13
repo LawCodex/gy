@@ -78,6 +78,10 @@ An Act to make provision for the preservation of public order and convenience on
 
 **1.** This Act may be cited as the Public Order Act.
 
+*Cap.*
+
+16:03
+
 *Interpretation.*
 
 **2.** In this Act—

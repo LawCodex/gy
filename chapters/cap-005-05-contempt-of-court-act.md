@@ -92,11 +92,9 @@ Note on Repeal This Act repealed the Contempt of Court Act (20 of 1919)
 
 ### CHAPTER 5:05
 
-### CONTEMPT OF COURT ACT
-
 *25 of 2010*
 
-An Act to define and regulate the law with respect to contempt of Court and related matters.
+CONTEMPT OF COURT ACT An Act to define and regulate the law with respect to contempt of Court and related matters.
 
 ### [2 ND NOVEMBER, 2010]
 
@@ -176,11 +174,9 @@ Provided that such a person shall not be deemed to be guilty of contempt of Cour
 
 **7.** (1) All fines payable under any order for contempt of Court shall be paid into the Consolidated Fund.
 
-(2) The payment of a fine imposed as punishment for a contempt of Court shall be enforced upon the order of the Court in like manner as if the order were a judgment or
-
 *c. 3:02*
 
-order for the payment of money under the High Court Act.
+(2) The payment of a fine imposed as punishment for a contempt of Court shall be enforced upon the order of the Court in like manner as if the order were a judgment or order for the payment of money under the High Court Act.
 
 *Revocation of order for contempt.*
 
@@ -252,11 +248,9 @@ Provided that the Court may order that the person may be released on bail or on 
 
 (c) the Court of Appeal, to the Caribbean Court of Justice.
 
-in like manner as if the order were a judgement or order under the High Court Act or the Court of Appeal Act, as the
-
 *c. 3:02 c. 3:01*
 
-case may be.
+in like manner as if the order were a judgement or order under the High Court Act or the Court of Appeal Act, as the case may be.
 
 *Limitation of action for contempt.*
 

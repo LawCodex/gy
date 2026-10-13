@@ -76,9 +76,9 @@ __________________________
 
 _______________________________________________________
 
-*12 of 1906*
+*12 of*
 
-An Act to amend the Law relating to Wills and the Attestation thereof, and to remove certain restrictions in the freedom of the disposition of property by the owner thereof.
+1906 An Act to amend the Law relating to Wills and the Attestation thereof, and to remove certain restrictions in the freedom of the disposition of property by the owner thereof.
 
 ### [3 RD OCTOBER, 1906]
 

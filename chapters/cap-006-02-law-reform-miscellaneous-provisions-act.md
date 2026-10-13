@@ -70,7 +70,11 @@ PART I CAPACITY, PROPERTY AND LIABILITIES OF MARRIED WOMEN; AND LIABILITIES OF H
 
 **10.** Saving for Maritime Conventions Act, 1911, and past cases.
 
-### SECTION
+*Cap.*
+
+6:02
+
+*SECTION*
 
 ### EFFECT OF DEATH ON CERTAIN CAUSES OF ACTION
 
@@ -82,17 +86,21 @@ PART I CAPACITY, PROPERTY AND LIABILITIES OF MARRIED WOMEN; AND LIABILITIES OF H
 
 ### CHAPTER 6:02
 
-LAW REFORM (MISCELLANEOUS PROVISIONS) 1953 Ed.
+*1953 Ed. c. 4*
 
-c. 4 ACT
+### LAW REFORM (MISCELLANEOUS PROVISIONS) ACT
 
-45 of 1952 An Act to amend the law relating to the capacity, property and liabilities of married women, and the liabilities of husbands and to abolish the presumption of coercion of a wife by a husband; to amend the law relating to proceedings against, and contribution between, tortfeasors; to amend the law relating to contributory negligence; to amend the law as to the effect of death in relation to causes of action and as to the awarding of interest in civil proceedings.
+*45 of 1952*
+
+An Act to amend the law relating to the capacity, property and liabilities of married women, and the liabilities of husbands and to abolish the presumption of coercion of a wife by a husband; to amend the law relating to proceedings against, and contribution between, tortfeasors; to amend the law relating to contributory negligence; to amend the law as to the effect of death in relation to causes of action and as to the awarding of interest in civil proceedings.
 
 [PARTS I, III, IV and V- 7 TH DECEMEBR, 1952
 
 ## PART II- 1 ST APRIL, 1954]
 
-Short title. 1. This Act may be cited as the Law Reform (Miscellaneous Provisions) Act.
+*Short title.*
+
+**1.** This Act may be cited as the Law Reform (Miscellaneous Provisions) Act.
 
 CAPACITY, PROPERTY AND LIABILITIES OF MARRIED WOMEN; AND LIABILITIES OF HUSBANDS; ABOLITION OF PRESUMPTION OF COERCION OF WIFE BY HUSBAND
 
@@ -134,27 +142,27 @@ Provided that nothing in this subsection shall interfere with or render inoperat
 
 (b) a provision contained in an instrument made in exercise of a special power of appointment shall be deemed to be contained in that instrument only and not in the
 
+*Law*
+
+Reform (Miscellaneous Provisions)
+
 instrument by which the power was created; and
 
 (c) the will of any testator who dies after the 31 st December, 1962, shall (notwithstanding the actual date of the execution thereof) be deemed to have been executed after 1 st January,
 
 1953.
 
-*Abolition of husband’s liability for*
+*Abolition of husband’s woman shall liability for liable— wife’s torts and ante-nuptial contracts, debts and obligations.*
 
-**4.** Subject to this Part the husband of a married woman shall not, by reason only of his being her husband, be
-
-*liable—*
-
-*wife’s torts and ante-nuptial contracts, debts and obligations.*
+**4.** Subject to this Part the husband of a married not, by reason only of his being her husband, be
 
 (a) in respect of any tort committed by her whether before or after the marriage, or in respect of any contract entered into, or debt or obligation incurred, by her before the marriage; or
 
 (b) be sued, or made a party to any legal proceeding brought, in respect of any such tort, contract, debt, or obligation.
 
-*Savings.*
+*\5. (1) Savings.*
 
-**5.** (1) Nothing in this Part shall—
+Nothing in this Part shall—
 
 (a) during the coverture which began before the 20th August, 1904, affect any property to which the title (whether vested or contingent, and whether in possession, reversion, or remainder) of a married woman accrued before that date, except property held for her separate use in equity;
 
@@ -176,13 +184,9 @@ debt or obligation, and of suing and being sued either in tort or in contract or
 
 (d) prevents the exercise of any joint power given to a husband and wife.
 
-*Abolition of*
+*Abolition of presumption of coercion of wife by husband. [21 of 1932]*
 
-**6.** Any presumption of law that an offence committed presumption of by a wife in the presence of her husband is committed under
-
-*coercion of wife by husband. [21 of 1932]*
-
-the coercion of her husband is hereby abolished, but on a charge against a wife for any offence other than treason or murder it shall be a good defence to prove that the offence was committed in the presence of, and under the coercion of, the husband.
+**6.** Any presumption of law that an offence committed by a wife in the presence of her husband is committed under the coercion of her husband is hereby abolished, but on a charge against a wife for any offence other than treason or murder it shall be a good defence to prove that the offence was committed in the presence of, and under the coercion of, the husband.
 
 ## PART II PROCEEDINGS AGAINST, AND CONTRIBUTIONS BETWEEN, TORTFEASORS
 
@@ -232,11 +236,9 @@ committed before the commencement of this Part; or
 
 “damage” includes loss of life and personal injury;
 
-“dependant” means any person for whose benefit an action could be brought under the Accidental Deaths and
-
 *Cap. 111 1953 Ed.*
 
-Workmen’s Injuries (Compensation) Ordinance, and any Act amending the same or substituted therefor;
+“dependant” means any person for whose benefit an action could be brought under the Accidental Deaths and Workmen’s Injuries (Compensation) Ordinance, and any Act amending the same or substituted therefor;
 
 “fault” means negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort, or would, apart from this Part, give rise to a defence of contributory negligence.
 
@@ -254,11 +256,9 @@ Provided that—
 
 (3) Section 7 shall apply in any case where two or more persons are liable or would, if they had all been sued, be liable by virtue of subsection (1) of this section in respect of the damage suffered by any person.
 
-(4) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under Part IV, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of the dependants of that person under the Accidental Deaths and
-
 *Cap. 111 1953 Ed.*
 
-Workmen’s Injuries (Compensation) Ordinance shall be reduced to a proportionate extent.
+(4) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under Part IV, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of the dependants of that person under the Accidental Deaths and Workmen’s Injuries (Compensation) Ordinance shall be reduced to a proportionate extent.
 
 (5) Where in any case to which subsection (1) applies, one of the persons at fault avoids liability to any other such person or his personal representative by pleading
 
@@ -308,27 +308,17 @@ proceedings are taken in respect thereof not later than six months after his per
 
 (4) Where damage has been suffered by reason of any act or omission in respect of which a cause of action would have subsisted against any person if that person had not died before or at the same time as the damage was suffered, there shall be deemed, for the purposes of this Part, to have been subsisting against him before his death such cause of action in respect of that act or omission as would have subsisted if he had died after the damage was suffered.
 
-(5) The rights conferred by this Part for the benefit of the estates of deceased persons shall be in addition to and not in derogation of any rights conferred on the dependants of deceased persons by the Accidental Deaths and Workmen’s
-
 *Cap. 111 1953 Ed.*
 
-Injuries (Compensation) Ordinances or the applied Act entitled the Carriage of Air Act, 1932, as applied to Guyana by the applied law entitled the Carriage by Air (Colonies, Protectorates and Mandated Territories) Order, 1934, and so much of this Part as relates to causes of action against the estates of deceased persons shall apply in relation to causes of action under said Acts as it applies in relation to other causes of action not expressly excepted from the operation of subsection (1).
+(5) The rights conferred by this Part for the benefit of the estates of deceased persons shall be in addition to and not in derogation of any rights conferred on the dependants of deceased persons by the Accidental Deaths and Workmen’s Injuries (Compensation) Ordinances or the applied Act entitled the Carriage of Air Act, 1932, as applied to Guyana by the applied law entitled the Carriage by Air (Colonies, Protectorates and Mandated Territories) Order, 1934, and so much of this Part as relates to causes of action against the estates of deceased persons shall apply in relation to causes of action under said Acts as it applies in relation to other causes of action not expressly excepted from the operation of subsection (1).
 
 (6) In the event of the insolvency of an estate against which proceedings are maintainable by virtue of this section, any liability in respect of the cause of action in respect of which the proceedings are maintainable shall be deemed to be a debt provable in the administration of the estate, notwithstanding that it is a demand in the nature of unliquidated damages arising otherwise than by a contract, promise or breach of trust.
 
 ### INTEREST.ON DEBTS, DAMAGES AND JUDGMENTS
 
-*Power of the*
+*Power of the courts to award interest on debts, damages and judgments. [29 of 1961]*
 
-**12.** (1) In any proceedings tried in any court for the courts to award recovery of any debt or damages, the court may, if it thinks
-
-*interest on debts, damages*
-
-fit, order that there should be included in the sum for which and judgments. judgment is given interest at such rate not exceeding six per
-
-*[29 of 1961]*
-
-cent per annum as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
+**12.** (1) In any proceedings tried in any court for the recovery of any debt or damages, the court may, if it thinks fit, order that there should be included in the sum for which judgment is given interest at such rate not exceeding six per cent per annum as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
 
 Provided that nothing in this section—
 

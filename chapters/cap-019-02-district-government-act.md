@@ -40,17 +40,21 @@ This Chapter contains no subsidiary legislation.
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-**1.** Short title.
+**1.** title.
 
 ## PART I PROCLAMATION OF DISTRICTS
 
 **2.** Establishment of administrative districts.
 
-**3.** North Western district.
+*North*
 
-## PART II- s. 4 to 8 [Omitted]
+**3.** Western district.
+
+*PART II-*
+
+s. 4 to 8 [Omitted]
 
 __________________________
 

@@ -478,11 +478,9 @@ enforce its laws against any such national.
 
 *Extension of*
 
-**21.** (1) The laws of Guyana extend to any offence
-
 *to offences committed on vessels outside Guyana waters.*
 
-committed outside Guyana waters on a vessel or aircraft registered in Guyana; and for the purposes of the jurisdiction of any court in Guyana, the offence shall be treated as if it were committed in the Magisterial District in which proceedings are brought.
+**21.** (1) The laws of Guyana extend to any offence committed outside Guyana waters on a vessel or aircraft registered in Guyana; and for the purposes of the jurisdiction of any court in Guyana, the offence shall be treated as if it were committed in the Magisterial District in which proceedings are brought.
 
 (2) Where the offence of illicit traffic is committed—
 

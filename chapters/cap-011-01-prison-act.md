@@ -190,11 +190,9 @@ Detention after date of discharge.
 
 **56.** Making of Rules. Powers of Minister .
 
-### CHAPTER 11:01 PRISON ACT
-
 *22 of 1957*
 
-An Act to make better provision for the Regulation of Prisons.
+CHAPTER 11:01 PRISON ACT An Act to make better provision for the Regulation of Prisons.
 
 [17 th SEPTEMBER, 1957]
 
@@ -209,6 +207,10 @@ An Act to make better provision for the Regulation of Prisons.
 **2.** In this Act—
 
 “criminal prisoner” means a prisoner duly committed to
+
+*Cap.*
+
+11:01
 
 custody under any writ, warrant, or order, of any court or authority exercising criminal jurisdiction or by order of a court martial;
 
@@ -258,11 +260,9 @@ custody under any writ, warrant, or order, of any court or authority exercising 
 
 other date as may be specified therein, such prison or lock-up shall cease to be a prison or lock-up.
 
-(2) The prisons established under the Prisons
-
 *Cap. 83 1953 Ed.*
 
-Ordinance shall be prisons for the purposes of this Act.
+(2) The prisons established under the Prisons Ordinance shall be prisons for the purposes of this Act.
 
 (3) Every place used as a lock-up at the commencement of this Act shall be deemed to be a lock-up for the purposes of this Act, as if such place had been declared to be a lock-up under subsection (1).
 
@@ -330,11 +330,9 @@ withdraw from prison duties unless he has first given to the Director not less t
 
 *Powers of prison officers.*
 
-**12.** Every prison officer while acting as such shall have by virtue of his office all the powers, authorities,
-
 *c. 16:01*
 
-immunities and privileges of a constable appointed under the Police Act for purposes of his duty as such prison officer.
+**12.** Every prison officer while acting as such shall have by virtue of his office all the powers, authorities, immunities and privileges of a constable appointed under the Police Act for purposes of his duty as such prison officer.
 
 *Use of weapons. [37 of 2009]*
 
@@ -362,11 +360,9 @@ Provided that resort shall not be had to the use of any such weapons unless such
 
 **15.** (1) All pay which is forfeited by, and fines inflicted upon, members of the subordinate staff under this Act shall be paid into a fund to be called “The Prison Fines Fund”, and this fund shall be administered by the Director in accordance with Prison Rules.
 
-(2) There shall be paid into the Prison Fines Fund all moneys standing to the credit of the Prison Officers Fine
-
 *1953 Ed.Vol. VIII p. 955*
 
-Fund established by the Fine Fund Regulations made on the 12th July, 1934 under the Prisons Ordinance, 1892.
+(2) There shall be paid into the Prison Fines Fund all moneys standing to the credit of the Prison Officers Fine Fund established by the Fine Fund Regulations made on the 12th July, 1934 under the Prisons Ordinance, 1892.
 
 ## PART IV CUSTODY AND REMOVAL OF PRISONERS AND PERSONS DETAINED IN ANY LOCK-UPS
 
@@ -416,11 +412,9 @@ until the next sitting of the court and shall be then brought before such court 
 
 prison or lock-up be deemed to be in legal custody.
 
-**24.** (1) Whenever a prisoner or person detained in a prison or lock- up appears to the Minister on the certificate of a government medical officer to be of unsound mind, the Minister may direct his removal to the Mental Hospital, there to be kept and treated as if such person had been detained in
-
 *Cap. 140 1953 Ed.*
 
-the Mental Hospital under the Mental Hospital Ordinance until the Medical Superintendent of the Mental Hospital certifies that such prisoner or person has ceased to require treatment in that institution.
+**24.** (1) Whenever a prisoner or person detained in a prison or lock- up appears to the Minister on the certificate of a government medical officer to be of unsound mind, the Minister may direct his removal to the Mental Hospital, there to be kept and treated as if such person had been detained in the Mental Hospital under the Mental Hospital Ordinance until the Medical Superintendent of the Mental Hospital certifies that such prisoner or person has ceased to require treatment in that institution.
 
 (2) Where the Medical Superintendent of the Mental Hospital has certified as set out in subsection (1) then if the person in respect of whom the certificate is given is—
 
@@ -563,6 +557,10 @@ offence.
 then on such prisoner being found guilty thereof on any enquiry by the Director, the Director may impose any or all of the following punishments:
 
 (i) reduction of diet to No. I punishment diet for any period not exceeding fourteen consecutive days;
+
+*Cap.*
+
+11:01
 
 (ii) reduction of diet to No. II punishment diet for any period not exceeding twenty-one consecutive days;
 
@@ -2116,13 +2114,9 @@ hours, after his reception.
 
 and his cell are specially searched once every fortnight at uncertain intervals and shall ensure that no prisoner has prior knowledge of such search.
 
-*Delegation of*
+*Delegation of duties of officer in charge. [R. 1/1975]*
 
-**91.** The officer in charge may delegate to a
-
-*in charge. [R. 1/1975]*
-
-duties of officer Superintendent, an Assistant Superintendent or a Chief Officer such duties as the Director may from time to time authorise to be delegated.
+**91.** The officer in charge may delegate to a Superintendent, an Assistant Superintendent or a Chief Officer such duties as the Director may from time to time authorise to be delegated.
 
 *Conduct.*
 
@@ -2190,11 +2184,9 @@ Storekeeper
 
 *Stores Regulations.*
 
-**106.** The Storekeeper shall observe and comply with the Stores Regulations, 1953, and any Regulations amending
-
 *Requisitions.*
 
-or replacing the same.
+**106.** The Storekeeper shall observe and comply with the Stores Regulations, 1953, and any Regulations amending or replacing the same.
 
 **107.** Every officer shall forward through the officer in charge to the Storekeeper a requisition for all articles and stores required in his department.
 
@@ -2992,13 +2984,9 @@ authorise the reduction of any period of imprisonment to a period less than thir
 
 (2) The minimum number of days to be served shall be ascertained by deducting from the number of days comprised in the sentence one-third of that number to the nearest whole number. The earliest day of release shall be the day after the minimum number of days has been served.
 
-*Earliest day of*
+*Earliest day of discharge to be recorded within 48 hours.*
 
-**257.** The earliest day of discharge shall be entered on
-
-*recorded within 48 hours.*
-
-discharge to be the record of each prisoner who is eligible for remission not later than forty-eight hours after he has been admitted to prison.
+**257.** The earliest day of discharge shall be entered on the record of each prisoner who is eligible for remission not later than forty-eight hours after he has been admitted to prison.
 
 *Forfeiture of remission to be calculated in days.*
 
@@ -3342,11 +3330,9 @@ Untried Prisoners
 
 *Untried prisoners.*
 
-**311.** In the following rules, “untried prisoners” means a prisoner committed to prison on commitment for trial for an indictable offence or pending or in course of the hearing before a court of summary jurisdiction of a charge for an indictable offence or pending or in course of the hearing of an
-
 *c. 14:02*
 
-information or complaint, or a person detained in prison under the Immigration Act or on commitment to await extradition or to await return to any place under the applied Act entitled Fugitive Offenders Act,
+**311.** In the following rules, “untried prisoners” means a prisoner committed to prison on commitment for trial for an indictable offence or pending or in course of the hearing before a court of summary jurisdiction of a charge for an indictable offence or pending or in course of the hearing of an information or complaint, or a person detained in prison under the Immigration Act or on commitment to await extradition or to await return to any place under the applied Act entitled Fugitive Offenders Act,
 
 *Separation.*
 
@@ -3502,11 +3488,9 @@ Prisoners under Sentence of Death
 
 **336.** The following rules apply to civil prisoners, that is to say, persons detained in a prison who are not serving a sentence, are not imprisoned in default of payment of a sum adjudged to be paid on conviction, and are not the subject of special treatment under any of the foregoing provisions in this part these Rules.
 
-**337.** (1) Civil prisoners may associate among
-
 *and separation.*
 
-themselves at such times and in such manner as the Director determines.
+**337.** (1) Civil prisoners may associate among themselves at such times and in such manner as the Director determines.
 
 (2) Where owing to the small number of civil prisoners or otherwise suitable arrangements for association of such prisoners cannot be made, such prisoner may if he so desires, with the approval of the officer in charge, be allowed to associate with untried prisoners at such times and in such manner as the Director determines.
 
@@ -3598,11 +3582,9 @@ was placed on Punishment Diet No. I shall not count as part of the period origin
 
 Provided that no prisoner who has been on Punishment Diet No. II for a period of 21 days continuously shall again be placed on any punishment diet until after the expiration of one week.
 
-### PRISON OFFICERS’ (UNIFORM) RULES
-
 *R. 3/1960*
 
-made under section 56
+PRISON OFFICERS’ (UNIFORM) RULES made under section 56
 
 *Citation.*
 
@@ -3766,11 +3748,9 @@ made under section 56
 
 **2.** In these Rules, a “prohibited association” means –
 
-(a) any trade union as defined by the Trade Unions
-
 *c.98:03*
 
-Act, whether or not the union is registered or incorporated or anybody or association affiliated thereto;
+(a) any trade union as defined by the Trade Unions Act, whether or not the union is registered or incorporated or anybody or association affiliated thereto;
 
 (b) anybody or association, any of the objects of which may be subversive of good discipline on the part of a prison officer, and which the Director shall, with the approval of the Minister, declare to be a prohibited association and any declaration made under this paragraph shall be final and conclusive.
 

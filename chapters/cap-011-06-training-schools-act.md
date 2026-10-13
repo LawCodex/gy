@@ -388,10 +388,8 @@ GUYANA.
 
 ...................................DISTRICT.
 
-Be it remembered that on the ....................... day of ...............................20........... in pursuance of the Training
-
 *c. 11:06*
 
-Schools Act, I, the undersigned magistrate of the ........................................district, do order that A.B., being a person apparently of the age of ...................years, and subject to the provisions of the said Act, be sent to the .................................. school, and that he be detained there until the ......................day of .............................20.......
+Be it remembered that on the ....................... day of ...............................20........... in pursuance of the Training Schools Act, I, the undersigned magistrate of the ........................................district, do order that A.B., being a person apparently of the age of ...................years, and subject to the provisions of the said Act, be sent to the .................................. school, and that he be detained there until the ......................day of .............................20.......
 
 Magistrate. _________________

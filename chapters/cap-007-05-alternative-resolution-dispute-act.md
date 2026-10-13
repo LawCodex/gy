@@ -72,9 +72,9 @@ This Chapter contains no subsidiary legislation
 
 **13.** Regulations.
 
-*24 of 2010*
+*24 of*
 
-An Act to provide for the mediation of disputes as an alternative to litigation.
+2010 An Act to provide for the mediation of disputes as an alternative to litigation.
 
 ### [10 TH MAY, 2010]
 

@@ -64,7 +64,9 @@ This Chapter contains no subsidiary legislation.
 
 __________________________ 1953 Ed.
 
-c. 358
+*c.*
+
+358
 
 _______________________________________________________
 
@@ -98,11 +100,9 @@ and has not attained the age of forty-five years; and
 
 shall be liable for national service to be performed within Guyana:
 
-Provided that any member of the classes specified in
-
 *Schedule.*
 
-the Schedule shall be exempted from such service.
+Provided that any member of the classes specified in the Schedule shall be exempted from such service.
 
 (2) For the purposes of this Act a person residing in Guyana shall be deemed to be ordinarily resident therein unless he proves that he is residing there only for the purpose of attending a course of education or that the circumstances of his residence in Guyana are otherwise such as to show that he is residing there for a temporary purpose only.
 

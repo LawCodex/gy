@@ -76,9 +76,9 @@ This Chapter contains no subsidiary legislation.
 
 **18.** Extension of certain defences to broadcasting.
 
-*17 of 1959*
+*17 of*
 
-An Act to consolidate and amend the law of Slander and Libel.
+1959 An Act to consolidate and amend the law of Slander and Libel.
 
 ### [15 TH AUGUST, 1959]
 
@@ -88,11 +88,9 @@ An Act to consolidate and amend the law of Slander and Libel.
 
 Interpretation. 2. In this Act—
 
-“broadcasting by means of wireless telegraphy” means publication for general reception by means of wireless
-
 *c. 47:01*
 
-telegraphy within the meaning of the Post and Telegraph Act and
+“broadcasting by means of wireless telegraphy” means publication for general reception by means of wireless telegraphy within the meaning of the Post and Telegraph Act and
 
 “broadcast by means of wireless telegraphy” shall be construed accordingly;
 
@@ -192,11 +190,9 @@ and in either case that the publisher exercised all reasonable care in relation 
 
 **13.** A fair and accurate report in any newspaper of proceedings publicly heard before any court exercising judicial authority shall, if published contemporaneously with such proceedings, be privileged:
 
-Provided that nothing in this section shall authorise the
-
 *Cap. 29 1953 Ed.*
 
-publication of any matter prohibited by the Judicial Proceedings (Regulation of Reports) Ordinance.
+Provided that nothing in this section shall authorise the publication of any matter prohibited by the Judicial Proceedings (Regulation of Reports) Ordinance.
 
 *Newspaper reports of proceedings of public meetings privileged.*
 
@@ -238,8 +234,6 @@ original libel was broadcast a full apology for the said libel.
 
 (3) Section 11(2) shall apply to any plea under subsection (2) of this section.
 
-(4) In this section “broadcasting station” means any station in respect of which a licence granted by the
-
 *c. 47:01*
 
-Minister under the Post and Telegraph Act is in force, being a licence which (by whatever form of words) authorises the use of the station for the purpose of providing broadcasting services for general reception.
+(4) In this section “broadcasting station” means any station in respect of which a licence granted by the Minister under the Post and Telegraph Act is in force, being a licence which (by whatever form of words) authorises the use of the station for the purpose of providing broadcasting services for general reception.

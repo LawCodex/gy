@@ -48,15 +48,19 @@ This Chapter contains no subsidiary legislation.
 
 **3.** Functions vested in Minister.
 
-**4.** General powers of trustees.
+*General*
+
+**4.** powers of trustees.
 
 **5.** Cancellation of appointment.
 
-**6.** Power of investment.
+*Power of Audit of Annual*
 
-**7.** Audit of accounts.
+**6.** investment.
 
-**8.** Annual report by trustees.
+**7.** accounts.
+
+**8.** report by trustees.
 
 **9.** Unofficial trustee.
 
@@ -86,11 +90,9 @@ An Act to provide for the administration of the Trust Fund created under the Wil
 
 administer the fund by the will established and to be called the Patoir fund, and other the person or persons from time to time appointed under the powers in that behalf conferred by this Act;
 
-“the fund” means the patoir fund aforesaid, now consisting of
-
 *Schedule*
 
-the property set forth in the Schedule.
+“the fund” means the patoir fund aforesaid, now consisting of the property set forth in the Schedule.
 
 *Functions vested in Minister [4 of 1972]*
 
@@ -113,6 +115,10 @@ the property set forth in the Schedule.
 *Audit of accounts.*
 
 **7.** The accounts of the trustees shall be from time to
+
+*1/2012*
+
+L.R.O.
 
 time audited by an officer of the audit department, and the fee therefor shall be a sum to be fixed by the Minister responsible for finance.
 

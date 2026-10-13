@@ -46,7 +46,9 @@ This Chapter contains no subsidiary legislation.
 
 **4.** Register to be kept.
 
-**5.** Fees not to be in excess of those prescribed.
+*Fees*
+
+**5.** not to be in excess of those prescribed.
 
 **6.** Proceedings in case of misconduct of notary.
 
@@ -66,11 +68,9 @@ An Act to provide for the appointment of Notaries and for the registration of No
 
 **1.** This Act may be cited as the Public Notaries Act.
 
-**2.** (1) The President may by warrant under his hand Appointment
+*Appointment of public notary.*
 
-*of public notary.*
-
-and seal appoint a legal practitioner of not less than ten years’ standing to be a public notary, hereinafter referred to as a
+**2.** (1) The President may by warrant under his hand and seal appoint a legal practitioner of not less than ten years’ standing to be a public notary, hereinafter referred to as a
 
 “notary”.
 
@@ -97,6 +97,10 @@ and seal appoint a legal practitioner of not less than ten years’ standing to 
 (2) If any person shall make a complaint on oath charging a notary with misconduct in his office the President may appoint a fit and proper person to inquire into the facts and report thereon to the President and if the President is of opinion that the notary has been guilty of misconduct he may suspend him from practice for a specified time or revoke his warrant of appointment and direct the Registrar to remove his name from the register.
 
 (3) When a notary has been suspended from
+
+*1/2022*
+
+L.R.O.
 
 practice or the Registrar in pursuance of a direction by the President removes the name of a notary from the register he shall cause notice of the fact to be published in the Gazette.
 

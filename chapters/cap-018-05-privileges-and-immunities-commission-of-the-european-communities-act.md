@@ -38,43 +38,53 @@ Subsidiary Legislation
 
 This Chapter contains no subsidiary legislation.
 
-### CHAPTER 18:05 PRIVILEGES AND IMMUNITIES (COMMISSION OF THE EUROPEAN COMMUNITIES) ACT
+### CHAPTER 18:05
+
+### PRIVILEGES AND IMMUNITIES (COMMISSION OF THE EUROPEAN COMMUNITIES) ACT
 
 ## ARRANGEMENT OF SECTIONS
 
-### SECTION
+*SECTION*
 
-**1.** Short title.
+*\1. Short*
+
+title.
 
 **2.** Interpretation.
 
 **3.** Incorporation of the European Communities.
 
-**4.** Articles 2 and 3 given force of law.
+*\4. Articles*
+
+2 and 3 given force of law.
 
 **5.** [Omitted]
 
-## SCHEDULE
+*SCHEDULE*
 
 __________________________
 
-28 of 1992 An Act to provide for the implementation of the Agreement between the Government of the Co-operative Republic of Guyana and the Commission of the European Communities and for purposes connected therewith.
+*28 of 1992*
+
+An Act to provide for the implementation of the Agreement between the Government of the Co-operative Republic of Guyana and the Commission of the European Communities and for purposes connected therewith.
 
 ### [14TH NOVEMBER 1990]
 
-Short title. 1. This Act may be cited as the Privileges and Immunities (Commission of the European Communities) Act.
+*Short title.*
 
-Interpretation.
+**1.** This Act may be cited as the Privileges and Immunities (Commission of the European Communities) Act.
+
+*Interpretation.*
 
 **2.** In this Act “Agreement” means the Agreement between the Government of the Co-operative Republic of Guyana and the Commission of the European Communities the text of which is set out in the Schedule.
 
-Incorporation 3. The European Communities shall be deemed to be of the European
+*Incorporation of the European Communities.*
 
-a body corporate established by this Act.
+**3.** The European Communities shall be deemed to be a body corporate established by this Act.
 
-Communities.
+*Articles 2 and*
 
-Articles 2 and 4. The provisions of Article 2 and Article 3 (to the
+**4.** The provisions of Article 2 and Article 3 (to the
 
 *3 given force of law.*
 

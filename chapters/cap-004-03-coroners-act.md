@@ -552,11 +552,9 @@ Provided that the evidence shall be subject to any deduction from its weight the
 
 **53.** (1) The Director of Public Prosecutions may direct what forms shall be used in any proceedings under this Act, and those forms, when sanctioned by the Minister and published in the Gazette, may be used for and in respect of the several matters therein mentioned.
 
-(2) Until otherwise ordered, the several forms in the
-
 *Second Schedule*
 
-Second Schedule may be used for and in respect of the several matters therein mentioned.
+(2) Until otherwise ordered, the several forms in the Second Schedule may be used for and in respect of the several matters therein mentioned.
 
 ____________________
 
@@ -566,59 +564,41 @@ s. 45
 
 ### TABLE OF FEES
 
-**1.** To every coroner (not being in the receipt of any public pay or emolument) holding and completing any inquest or enquiry and thereafter duly transmitting the record of the proceedings in terms of
-
 *$325.00*
 
-the Act
-
-**2.** To every qualified medical practitioner who is in receipt of any salary or remuneration from the public revenues, for making an examination of the dead body of the deceased person, where it is not necessary to make any dissection of the body, making the report
+**1.** To every coroner (not being in the receipt of any public pay or emolument) holding and completing any inquest or enquiry and thereafter duly transmitting the record of the proceedings in terms of the Act
 
 *$130.00*
 
-required by the Act, and certifying the cause of death
-
-**3.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional
+**2.** To every qualified medical practitioner who is in receipt of any salary or remuneration from the public revenues, for making an examination of the dead body of the deceased person, where it is not necessary to make any dissection of the body, making the report required by the Act, and certifying the cause of death
 
 *$195.00*
 
-sum of
-
-**4.** To every qualified medical practitioner who is in receipt of any salary or remuneration from the public revenues, for making a complete post mortem examination of the dead body of the deceased person, including the dissection of the body, either with or without an analysis of the contents of the stomach and intestines or preparing them for transmission to the Government Analyst, making the report required by
+**3.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional sum of
 
 *$390.00*
 
-the Act, and certifying the cause of death
-
-**5.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional
+**4.** To every qualified medical practitioner who is in receipt of any salary or remuneration from the public revenues, for making a complete post mortem examination of the dead body of the deceased person, including the dissection of the body, either with or without an analysis of the contents of the stomach and intestines or preparing them for transmission to the Government Analyst, making the report required by the Act, and certifying the cause of death
 
 *$260.00*
 
-sum of
-
-**6.** To every qualified medical practitioner who is not in receipt of any salary or remuneration from the public revenues, for making an examination of the dead body of a deceased person, where it is not necessary to make any dissection of the body, making the report required by the Act, and certifying the
+**5.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional sum of
 
 *$195.00*
 
-cause of death
-
-**7.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional
+**6.** To every qualified medical practitioner who is not in receipt of any salary or remuneration from the public revenues, for making an examination of the dead body of a deceased person, where it is not necessary to make any dissection of the body, making the report required by the Act, and certifying the cause of death
 
 *$260.00*
 
-sum of
-
-**8.** To every qualified medical practitioner who is not in the receipt of any salary or remuneration from the public revenues, for making a complete post mortem examination of the dead body of the deceased person, including the dissection of the body, either with or without an analysis of the contents of the stomach and intestines or preparing them for transmission to the Government Analyst, making the report required by
+**7.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional sum of
 
 *$520.00*
 
-the Act, and certifying the cause of death
-
-**9.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional
+**8.** To every qualified medical practitioner who is not in the receipt of any salary or remuneration from the public revenues, for making a complete post mortem examination of the dead body of the deceased person, including the dissection of the body, either with or without an analysis of the contents of the stomach and intestines or preparing them for transmission to the Government Analyst, making the report required by the Act, and certifying the cause of death
 
 *$455.00*
 
-sum of
+**9.** To every such practitioner, where it is necessary in any such case to attend to give evidence, an additional sum of
 
 N.B.—No mileage or travelling expenses to be allowed, but in special cases it shall be lawful for the Minister responsible for finance to order the payment of such extra remuneration for travelling expenses, or otherwise, as he may deem just and reasonable.
 

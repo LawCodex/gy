@@ -74,11 +74,9 @@ Police (Discipline) Standing Orders 30 (L.S.10 Sept. 1977)
 
 __________________________
 
-### CHAPTER 17:01 POLICE (DISCIPLINE) ACT
-
 *16 of 1985 [O. 80/1980]*
 
-An Act to enable members of the Police Force to appeal to the Police Service Commission in disciplinary matters pursuant to article 212(5) of the Constitution and to make provision for the exercise of disciplinary powers in the Police Force.
+CHAPTER 17:01 POLICE (DISCIPLINE) ACT An Act to enable members of the Police Force to appeal to the Police Service Commission in disciplinary matters pursuant to article 212(5) of the Constitution and to make provision for the exercise of disciplinary powers in the Police Force.
 
 ### [14TH MAY, 1975]
 
@@ -94,17 +92,13 @@ An Act to enable members of the Police Force to appeal to the Police Service Com
 
 “assistant commissioner”, “branch”, “division”, “inspector”,
 
-“officer”, and “station” have the respective meanings
-
 *c. 16:01*
 
-assigned to them by section 2 of the Police Act;
-
-“Commission” means the Police Service Commission
+“officer”, and “station” have the respective meanings assigned to them by section 2 of the Police Act;
 
 *c. 1:01*
 
-established by article 137 of the Constitution;
+“Commission” means the Police Service Commission established by article 137 of the Constitution;
 
 “Commissioner” means the Commissioner of Police;
 
@@ -302,17 +296,13 @@ premises used in connection with the Force;
 
 (y) fails to comply with or disobeys any regulation relating to the Force or order issued by the Commissioner; or
 
-(z) is guilty of any other act, conduct or neglect, to the prejudice of good order or discipline, including the breach of any regulations made under this Act
-
 *c. 16:01*
 
-or the Police Act, or of any standing orders made by the Commissioner,
-
-commits an offence against discipline, and is liable to such punishment as may be imposed upon him, by the Commission, the Commissioner or the disciplinary authority in accordance with the provisions of the Schedule except that no punishment provided in subparagraph (d), (e), (f) or (g) or
+(z) is guilty of any other act, conduct or neglect, to the prejudice of good order or discipline, including the breach of any regulations made under this Act or the Police Act, or of any standing orders made by the Commissioner,
 
 *Schedule*
 
-paragraph 1 of the Schedule shall be imposed on a special constable who has not been called out for full-time service.
+commits an offence against discipline, and is liable to such punishment as may be imposed upon him, by the Commission, the Commissioner or the disciplinary authority in accordance with the provisions of the Schedule except that no punishment provided in subparagraph (d), (e), (f) or (g) or paragraph 1 of the Schedule shall be imposed on a special constable who has not been called out for full-time service.
 
 *Investigation of offences against discipline.*
 
@@ -374,11 +364,9 @@ and any person who fails to comply with any requirement made under this subsecti
 
 (8) If the defaulter wilfully refuses to plead or will not answer directly, the officer conducting the inquiry shall enter a plea of not guilty, and the plea so entered shall have the same force and effect as if the defaulter had actually so pleaded.
 
-(9) Where the defaulter has pleaded guilty to the charge, the officer conducting the inquiry if he is not the disciplinary authority shall submit the record of the proceedings to the Commission or the disciplinary authority, as the case may be, for the purpose of imposing an appropriate punishment in accordance with the provisions of
-
 *Schedule*
 
-the Schedule.
+(9) Where the defaulter has pleaded guilty to the charge, the officer conducting the inquiry if he is not the disciplinary authority shall submit the record of the proceedings to the Commission or the disciplinary authority, as the case may be, for the purpose of imposing an appropriate punishment in accordance with the provisions of the Schedule.
 
 (10) Where the defaulter pleads not guilty to the charge, the evidence shall be taken down in writing by the officer conducting the inquiry who shall record submissions made on behalf of the defaulter, or by the presenting officer, and particulars of adjournments and other relevant matters.
 
@@ -388,37 +376,29 @@ evidence to the officer conducting the inquiry, and in such order as the officer
 
 (12) Where the defaulter pleads not guilty to the charge, at the conclusion of the inquiry, the officer conducting the inquiry shall, if he is not the disciplinary authority, submit a copy of the record of the proceedings together with his recommendations to the Commission or the disciplinary authority, as the case may be, as to whether the defaulter is guilty or not guilty of any offence charged.
 
-(13) Where the officer conducting the inquiry is not the disciplinary authority and has recommended that the defaulter be found guilty or not guilty of any offence charged, the Commission or the disciplinary authority, as the case may be, may confirm the recommendation and in any case where the Commission or the disciplinary authority confirms a recommendation of guilty of an offence charged, an appropriate punishment in accordance with the provisions
-
 *Schedule*
 
-of the Schedule shall be imposed by the Commission or the disciplinary authority, as the case may be.
+(13) Where the officer conducting the inquiry is not the disciplinary authority and has recommended that the defaulter be found guilty or not guilty of any offence charged, the Commission or the disciplinary authority, as the case may be, may confirm the recommendation and in any case where the Commission or the disciplinary authority confirms a recommendation of guilty of an offence charged, an appropriate punishment in accordance with the provisions of the Schedule shall be imposed by the Commission or the disciplinary authority, as the case may be.
 
 (14) At the conclusion of any inquiry, the officer conducting the inquiry if he is the disciplinary authority shall impose an appropriate punishment in accordance with the provisions of the Schedule.
 
 (15) Anything in this section or in section 5 to the contrary notwithstanding, the Commission may, in any case where it thinks fit, direct that a disciplinary offence alleged to have been committed by a member of the Force of or above the rank of Inspector shall be inquired into by such other person or authority as may be determined by the Commission and the procedure to be adopted at such an inquiry shall, subject to subsection (16), be determined by that person or authority.
 
-(16) Nothing in section 5 or this section shall be construed as affecting the power of the Commission to make
-
 *c.1:01*
 
-rules in pursuance of article 226 of the Constitution for any of the matters for which provision is made by section 5 or this section and if any such provision is inconsistent with any such rule, the rule shall prevail.
+(16) Nothing in section 5 or this section shall be construed as affecting the power of the Commission to make rules in pursuance of article 226 of the Constitution for any of the matters for which provision is made by section 5 or this section and if any such provision is inconsistent with any such rule, the rule shall prevail.
 
 *Absence without leave. [O.80/1980]*
 
 **7.** In addition to any punishment which may be imposed for absence without leave, pay may be forfeited for the period of absence—
 
-(a) if the member of the Force is of or above the rank of Inspector by the Commission, or by the disciplinary authority under article 212(2) of the
+*c.1:01*
+
+(a) if the member of the Force is of or above the rank of Inspector by the Commission, or by the disciplinary authority under article 212(2) of the Constitution;
 
 *c.1:01*
 
-Constitution;
-
-(b) if the member of the Force is below the rank of Inspector by the Commissioner, or by the disciplinary authority under article 212(4) of the
-
-*c.1:01*
-
-Constitution,
+(b) if the member of the Force is below the rank of Inspector by the Commissioner, or by the disciplinary authority under article 212(4) of the Constitution,
 
 and in the computation of such period of absence, any part of a day shall count as a whole day.
 
@@ -426,11 +406,9 @@ and in the computation of such period of absence, any part of a day shall count 
 
 **8.** Any member of the Force who has been charged with an offence against discipline may, pending the determination of the inquiry into the charge (including the determination of any appeal) be interdicted from duty—
 
-(a) if he is of or above the rank of Inspector, by the Commission, or by the disciplinary authority under
-
 *c.1:01*
 
-article 212(2) of the Constitution if the power is delegated to the disciplinary
+(a) if he is of or above the rank of Inspector, by the Commission, or by the disciplinary authority under article 212(2) of the Constitution if the power is delegated to the disciplinary
 
 authority;
 
@@ -450,13 +428,9 @@ and paid at such rate of pay, being not less than half-pay as the Commission, th
 
 expunged from his defaulter sheet at the discretion of the Commissioner in recognition of a subsequent act of good service performed by him, or if no disciplinary offence is committed by him as mentioned in paragraph (a).
 
-*Arrest of members of the*
+*Arrest of members of the arrest— Force.*
 
 **10.** (1) Any member of the Force may be placed under
-
-*arrest—*
-
-*Force.*
 
 (a) if he is under the influence of intoxicating liquor to such an extent as to be incapable of performing his duty;
 
@@ -584,7 +558,9 @@ The following will be read with the Police (Discipline) Act.
 
 **2.** Trifling irregularities by members of the force will be dealt with by immediate verbal warning or advice from the senior rank concerned, rather than by reporting them for disciplinary action to the officer in charge. Any verbal warning or advice given should be noted otherwise than in personal file. Irregularities which continue in spite of verbal commands must under no circumstances be ignored, otherwise the authority of the senior rank will be flouted and discipline undermined. In such case, the rank concerned will be reported for disciplinary action to be taken.
 
-**3.** In cases of a serious nature, the matter will be reported immediately to the officer in charge of the division, subdivision or branch.
+*\3. In reported subdivision or*
+
+cases of a serious nature, the matter will be immediately to the officer in charge of the division, branch.
 
 ### APPEALS TO THE COMMISSIONER
 
@@ -634,9 +610,13 @@ In all particulars of offence, care must be taken to ensure that the ingredients
 
 (b) Two or more offences against one member of the force may be entered on the same charge sheet, but not more
 
-than one member shall be named on the charge sheet unless such member and another are together concerned in the commission of the same offence. Form A. 30 must be prepared in quadruplicate.
+*than one such member commission of prepared in*
 
-(c) Two offences arising out of the same set of circumstances must not be recorded on the one charge. For example, if a member of the Force acts in a disorderly manner, contrary to section 4 (d) (vi) it will be incorrect to allege that he acted in a manner likely to bring discredit on the reputation of the Force, contrary to section 4 (d) (vii).
+member shall be named on the charge sheet unless and another are together concerned in the the same offence. Form A. 30 must be quadruplicate.
+
+*Two circumstances example, if a manner, allege that he the reputation*
+
+(c) offences arising out of the same set of must not be recorded on the one charge. For member of the Force acts in a disorderly contrary to section 4 (d) (vi) it will be incorrect to acted in a manner likely to bring discredit on of the Force, contrary to section 4 (d) (vii).
 
 ### RESPONSIBILITIES OF OFFICER
 
@@ -652,7 +632,9 @@ inferior in rank to the defaulter. The member of the Force who has served the do
 
 (e) Officers when dealing with offences against discipline must ensure that the facts disclosed by the evidence are relevant to the charge, or charges. At all times the procedures set out in the Police (Discipline) Act 1975 must be complied with.
 
-### INQUIRIES INTO OFFENCES AGAINST DISCIPLINE
+*INQUIRIES*
+
+### INTO OFFENCES AGAINST DISCIPLINE
 
 **10.** (a) In cases where an offence against discipline is alleged to have been committed in the presence of an officer or has been detected by him, the statement of offence may be served on the defaulter by the officer and he may conduct the inquiry, unless the defaulter objects to the inquiry being conducted by him. The officer must inform the defaulter of his right to object to the inquiry being conducted by him.
 
@@ -662,9 +644,7 @@ they must not wear their caps or handcuff, or carry batons.
 
 ### FINDINGS AND PUNISHMENT
 
-*Plea of Guilty.*
-
-*\11. (a)*
+*Plea of Guilty. 11. (a)*
 
 If a defaulter pleads guilty, the officer conducting the inquiry must ask him if he has anything to say regarding the incident, and this must be recorded in the book containing the officer’s notes of evidence. A resume of the proceedings will be entered on the reverse side of Form A.30 covering the facts, in support of the charge, and the defaulter’s explanation, with the officer’s recommendation. This must be forwarded to the disciplinary authority for punishment to be awarded. If the Officer conducting the inquiry is the disciplinary authority, he will award an appropriate punishment.
 
@@ -686,11 +666,15 @@ noted, for example “adjournment at 10.10 a.m. on (date) to a date to be fixed�
 
 *Evidence.*
 
-**12.** Officers conducting inquiries should be guided by the rules of evidence as they are set out in the Evidence Act, Cap 5:03.
+*the rules of Cap 5:03.*
 
-*Register of Charges.*
+**12.** Officers conducting inquiries should be guided by evidence as they are set out in the Evidence Act,
 
-**13.** A register must be maintained at each station or branch in which a record shall be kept of the particulars of all charges against members of the Force for alleged commission of offences against discipline in the following manner:
+*Register of 13. A Charges.*
+
+*branch in which charges against of offences*
+
+register must be maintained at each station or a record shall be kept of the particulars of all members of the Force for alleged commission against discipline in the following manner:
 
 Serial No. Rank Offence Date on which Date Date Remarks No. and defaulter Inquiry Inquiry Name of charged with Commenced Conclu-Defaulter an offence ed against
 
@@ -730,9 +714,7 @@ and the fact that he has been so informed, together with the date on which he wa
 
 Rank Name
 
-*Offence*
-
-*Plea*
+*Offence Plea*
 
 Finding Punishment
 

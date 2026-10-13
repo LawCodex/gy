@@ -38,9 +38,9 @@ This Chapter contains no subsidiary legislation.
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-**1.** Short title.
+**1.** title.
 
 **2.** Validation of certain awards.
 
@@ -56,10 +56,10 @@ An Act to validate certain awards of titles purported to have been made under th
 
 *Validation of certain awards.*
 
-**2.** Notwithstanding anything to the contrary contained in the Land Registry Act, all awards of title purported to have been made thereunder by a Commissioner of Title in respect of the lands situated in the area described in
-
 *c. 5:02*
 
-the Schedule of the Land Registry (Registration Area) (Demerara River) (No. 2) (Amendment) Order* shall, with effect from the respective dates of those awards, be deemed for all purposes to be valid and effectual in law as though the awards were made in compliance with the provisions of that Act.
+**2.** Notwithstanding anything to the contrary contained in the Land Registry Act, all awards of title purported to have been made thereunder by a Commissioner of Title in respect of the lands situated in the area described in the Schedule of the Land Registry (Registration Area) (Demerara River) (No. 2) (Amendment) Order* shall, with effect from the respective dates of those awards, be deemed for all purposes to be valid and effectual in law as though the awards were made in compliance with the provisions of that Act.
 
-\*O. 47/1972. See Cap. 5:02 Subsidiary Legislation, Land Registry (Registration Areas) Order.
+*\\*O. 47/1972. See*
+
+Cap. 5:02 Subsidiary Legislation, Land Registry (Registration Areas) Order.

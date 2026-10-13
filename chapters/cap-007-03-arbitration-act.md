@@ -138,11 +138,9 @@ General SECTION
 
 ### CHAPTER 7:03
 
-### ARBITRATION ACT
-
 *17 of 1916*
 
-An Act to provide for the Arbitration of Disputes.
+ARBITRATION ACT An Act to provide for the Arbitration of Disputes.
 
 ### [2 ND SEPTEMBER, 1916]
 
@@ -194,13 +192,17 @@ References by Consent Out of Court
 
 incapable of acting, or dies, and the submission does not show that it was intended that the vacancy should not be supplied, and the parties or arbitrators do not supply the vacancy;
 
-any party may serve the other parties or the arbitrators, as the case may be, with a written notice to appoint an arbitrator, umpire, or third arbitrator.
+*any party may case may be,*
 
-(2) If the appointment is not made within seven clear days after the service of the notice, the Court or a Judge may, on application by the party who gave the notice, appoint an arbitrator, umpire, or third arbitrator, who shall have the like powers to act in the reference and make an award as if he had been appointed by consent of all parties.
+serve the other parties or the arbitrators, as the with a written notice to appoint an arbitrator, umpire, or third arbitrator.
 
-*Power for parties in certain cases to supply vacancy.*
+*clear days after may, on an arbitrator, like powers to had been*
 
-**7.** Where a submission provides that the reference shall be to two arbitrators, one to be appointed by each party, then, unless the submission expresses a contrary intention—
+(2) If the appointment is not made within seven the service of the notice, the Court or a Judge application by the party who gave the notice, appoint umpire, or third arbitrator, who shall have the act in the reference and make an award as if he appointed by consent of all parties.
+
+*Power for parties in shall be to two certain cases to then, unless the supply vacancy.*
+
+**7.** Where a submission provides that the reference arbitrators, one to be appointed by each party, submission expresses a contrary intention—
 
 (a) if either of the appointed arbitrators refuses to act, or is incapable of acting, or dies, the party who appointed him may appoint a new arbitrator in his place;
 
@@ -262,13 +264,9 @@ the Court or a judge may at any time order the whole cause or matter, or any que
 
 tried before a special referee or arbitrator respectively agreed on by the parties, or before an officer of the Court.
 
-*Powers and*
+*Powers and remuneration of referees and arbitrators.*
 
-**16.** (1) In all cases of reference to any special referee or
-
-*referees and arbitrators.*
-
-remuneration of arbitrator under an order of the Court or a judge in any cause or matter, the special referee or arbitrator shall be deemed to be an officer of the Court, and shall have the authority, and conduct the reference in the manner prescribed by rules of court, and subject thereto as the Court or a judge directs.
+**16.** (1) In all cases of reference to any special referee or arbitrator under an order of the Court or a judge in any cause or matter, the special referee or arbitrator shall be deemed to be an officer of the Court, and shall have the authority, and conduct the reference in the manner prescribed by rules of court, and subject thereto as the Court or a judge directs.
 
 (2) The report or award of any special referee or arbitrator on the reference shall, unless set aside by the Court or a judge, be equivalent to the judgment of the Court.
 
@@ -306,11 +304,9 @@ arbitrator or umpire.
 
 **23.** This Act shall, except as in this Act expressly mentioned, apply to any arbitration to which the State is a party, but nothing in this Act shall empower the Court or a judge to order any proceedings to which the State is a party, or any question or issue in those proceedings, to be tried before any referee, arbitrator, or officer, without the consent of the Attorney-General, or affect the law as to costs payable by the State.
 
-## PART II
-
 *Cap.24 of 1939Ed.*
 
-### PROVISIONS RELATING TO THE PROTOCOL SET
+## PART II PROVISIONS RELATING TO THE PROTOCOL SET
 
 ### FORTH IN THE SECOND SCHEDULE
 
@@ -334,21 +330,17 @@ an agreement to which the protocol applies, or anyone claiming through or under 
 
 **25.** In this Part—
 
-“the Convention” means the Convention on the Execution of Foreign Arbitral Awards signed at Geneva on behalf of
-
 *Third Schedule.*
 
-the British Crown on the 26th September, 1927, which convention is set forth in the Third Schedule.
+“the Convention” means the Convention on the Execution of Foreign Arbitral Awards signed at Geneva on behalf of the British Crown on the 26th September, 1927, which convention is set forth in the Third Schedule.
 
 *Application.*
 
 **26.** This Part applies to any awards made after the 28th July, 1924—
 
-(a) in pursuance of an agreement for arbitration
-
 *Second Schedule.*
 
-to which the protocol set out in the Second Schedule applies; and
+(a) in pursuance of an agreement for arbitration to which the protocol set out in the Second Schedule applies; and
 
 (b) between the persons of whom one is subject to the jurisdiction of some one of such Powers as the President, being satisfied that reciprocal provisions have been made, may by order declare to be parties to the Convention, and of whom the other is
 
@@ -410,11 +402,9 @@ nonexistence of the conditions specified in subsection (1)(a),
 
 (2) In any case where any document required to be produced under subsection (1) is in a foreign language, it shall be the duty of the party seeking to enforce the award to produce a translation certified as correct by a diplomatic or consular agent of the country to which that party belongs, or certified as correct in such other manner as may be sufficient according to the law of Guyana.
 
-(3) Subject to this section, rules of court may be
-
 *c. 3:02*
 
-made under section 67 of the High Court Act with respect to the evidence which must be furnished by a party seeking to
+(3) Subject to this section, rules of court may be made under section 67 of the High Court Act with respect to the evidence which must be furnished by a party seeking to
 
 enforce an award under this Part.
 
@@ -502,9 +492,13 @@ The Contracting States may also denounce the Protocol separately on behalf of an
 
 In the territories of any High Contracting Party to which the present Convention applies, an arbitral award made in pursuance of an agreement, whether relating to existing or future differences (hereinafter called “a submission to arbitration”) covered by the Protocol on Arbitration Clauses, opened at Geneva on 24th September,1923, shall be recognised as binding and shall be enforced in accordance with the rules of the procedure of the territory where the award is relied upon, provided that the said award has been made in a territory of one of the High Contracting Parties to which the present Convention applies and between persons
 
-who are subject to the jurisdiction of one of the High Contracting Parties.
+*who are Contracting*
 
-To obtain such recognition or enforcement it shall, further, be necessary—
+subject to the jurisdiction of one of the High Parties.
+
+*To obtain further, be*
+
+such recognition or enforcement it shall, necessary—
 
 (a) That the award has been made in pursuance of a submission to arbitration which is valid under the law applicable thereto;
 

@@ -164,11 +164,9 @@ An Act to establish the Deeds and Commercial Registries Authority as a corporate
 
 *c. 5:01. c. 5:08.*
 
-(i) the Deeds Registry Act; (ii) the Powers of Attorney Act;
-
 *c. 6:01.*
 
-(iii) the Civil Law of Guyana Act; (iv) any other Law;
+(i) the Deeds Registry Act; (ii) the Powers of Attorney Act; (iii) the Civil Law of Guyana Act; (iv) any other Law;
 
 (b) the Registrar of the Commercial Registry and the Commercial Registry under–
 
@@ -202,11 +200,9 @@ ensure the proper performance of its functions; and
 
 (ii) the Registrar of Deeds; (iii) the Registrar of the Commercial Registry; (iv) a nominee of the Ministry of Finance;
 
-(v) another nominee of the Ministry of Finance who is a valuation officer under the
-
 *c. 28:04.*
 
-Valuation for Rating Purposes Act;
+(v) another nominee of the Ministry of Finance who is a valuation officer under the Valuation for Rating Purposes Act;
 
 (vi) a nominee of the Ministry of Communities;
 
@@ -342,33 +338,23 @@ Commercial Registry
 
 (2) The functions of the Registrar of the Commercial Registry shall be as follows–
 
-(a) the functions of the Registrar of Companies and the Companies
-
 *c. 89:01.*
-
-Registry under the Companies Act; (b) the functions of the Registrar of joint-stock companies or the officer performing the duties of that office
 
 *c. 90:05.*
 
-under the Business Names (Registration) Act;
-
-the functions of the Registrar of Patents, Designs and Trade Marks (the Registrar of Deeds) and the Deeds Registry under the Patents
+(a) the functions of the Registrar of Companies and the Companies Registry under the Companies Act; (b) the functions of the Registrar of joint-stock companies or the officer performing the duties of that office under the Business Names (Registration) Act;
 
 *c. 90:03. c. 90:01.*
 
-and Designs Act and the Trade Marks Act;
-
-(d) the functions of the Registrar of
+the functions of the Registrar of Patents, Designs and Trade Marks (the Registrar of Deeds) and the Deeds Registry under the Patents and Designs Act and the Trade Marks Act;
 
 *c. 90:12.*
 
-Deeds under the Bills of Sale Act;
-
-(e) the functions of the Registrar of
+(d) the functions of the Registrar of Deeds under the Bills of Sale Act;
 
 *c. 98:03.*
 
-Trade Unions under the Trade Unions Act;
+(e) the functions of the Registrar of Trade Unions under the Trade Unions Act;
 
 (f) the functions under any other law.
 
@@ -382,11 +368,9 @@ Trade Unions under the Trade Unions Act;
 
 **17.** The Governing Board may appoint notaries public, clerks, assistant clerks and other officers or employees as may be necessary to carry out the efficient performance of the functions of the Commercial Registry:
 
-Provided that no person shall be appointed a notary public or to act as a notary public unless he holds a certificate of
-
 *c. 5:01.*
 
-competency issued under section 3 of the Deeds Registry Act.
+Provided that no person shall be appointed a notary public or to act as a notary public unless he holds a certificate of competency issued under section 3 of the Deeds Registry Act.
 
 ### FINANCE
 
@@ -430,11 +414,9 @@ respect of its functions or by reason of any connected matter.
 
 *Annual Report.*
 
-**23.** The Authority shall submit to the Minister an annual report concerning its activities during the financial year which shall include information on the financial affairs, operations and performance during that financial year, and the Minister shall cause a copy of the report to be presented to the National
-
 *c. 73:02.*
 
-Assembly, in accordance with section 80 of the Fiscal Management and Accountabilty Act.
+**23.** The Authority shall submit to the Minister an annual report concerning its activities during the financial year which shall include information on the financial affairs, operations and performance during that financial year, and the Minister shall cause a copy of the report to be presented to the National Assembly, in accordance with section 80 of the Fiscal Management and Accountabilty Act.
 
 *Budget Agency. c. 73:02.*
 
@@ -492,11 +474,9 @@ Provided that, where any person is exempt from liability by reason only of the p
 
 **30.** (1) Without prejudice to the powers of any other Minister under the laws mentioned in section 4(1), the Minister may make regulations necessary for carrying out the purpose of this Act and otherwise for the good and efficient order and management of the Authority and for the preservation of the records of the Authority.
 
-(2) The Minister shall make rules and regulations required to be made by the Chancellor under section 9 of the
-
 *c. 5:01.*
 
-Deeds Registry Act.
+(2) The Minister shall make rules and regulations required to be made by the Chancellor under section 9 of the Deeds Registry Act.
 
 **31.** Omitted.
 

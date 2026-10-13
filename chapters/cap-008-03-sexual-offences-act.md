@@ -990,11 +990,9 @@ Supplementary and general
 
 (b) the file relating to the report and investigation shall be sent to the Director of Public Prosecutions for advice.
 
-(3) Failure to comply with subsection (2) constitutes neglect of duty by the Investigating Rank and the Investigating Rank shall be liable to answer disciplinary charges in accordance
-
 *c. 17:01*
 
-with the Police (Discipline) Act.
+(3) Failure to comply with subsection (2) constitutes neglect of duty by the Investigating Rank and the Investigating Rank shall be liable to answer disciplinary charges in accordance with the Police (Discipline) Act.
 
 (4) A person who makes a false complaint to the police may, on the advice of the Director of Public Prosecutions, be charged for the offence of making a false complaint and is liable on summary conviction to a fine of fifty thousand dollars and to imprisonment for three years.
 
@@ -1010,11 +1008,9 @@ with the Police (Discipline) Act.
 
 *Paper committals.*
 
-**43.** Where a person is charged with an offence under this Act, there shall be no oral preliminary inquiry and instead a paper committal shall be held in accordance with the procedure set out
-
 *First Schedule*
 
-in the First Schedule.
+**43.** Where a person is charged with an offence under this Act, there shall be no oral preliminary inquiry and instead a paper committal shall be held in accordance with the procedure set out in the First Schedule.
 
 *Sex offences court.*
 
@@ -1128,11 +1124,9 @@ treated in connection with such an application and in particular as to its being
 
 **56.** (1) A special measures direction may provide for the witness to give evidence by means of audio visual link facilities.
 
-(2) Where a special measures direction is given under
-
 *c. 5:03*
 
-subsection (1), sections 73A and 73B of the Evidence Act shall apply, except that–
+(2) Where a special measures direction is given under subsection (1), sections 73A and 73B of the Evidence Act shall apply, except that–
 
 (a) section 73A(3)(b) shall not apply; and
 
@@ -1404,11 +1398,9 @@ Evidence of sexual activity
 
 *Evidence of sexual activity where complainant under 16 years.*
 
-**77.** (1) Where the complainant in proceedings for an offence under this Act is under 16 years of age, no evidence shall be adduced that the complainant has engaged in any sexual activity (with the accused or with any other person) other than the sexual activity that forms the subject matter of the charge unless the Court determines in accordance with the procedure set out in
-
 *Second Schedule.*
 
-the Second Schedule, that the evidence–
+**77.** (1) Where the complainant in proceedings for an offence under this Act is under 16 years of age, no evidence shall be adduced that the complainant has engaged in any sexual activity (with the accused or with any other person) other than the sexual activity that forms the subject matter of the charge unless the Court determines in accordance with the procedure set out in the Second Schedule, that the evidence–
 
 (a) is of criminal sexual activity involving the complainant, and there is evidence of a conviction of a third party for this criminal sexual activity;
 
@@ -1430,11 +1422,9 @@ the Second Schedule, that the evidence–
 
 *Evidence of sexual activity in general.*
 
-**79.** (1) Where the complainant in proceedings for an offence under this Act is sixteen years of age or over, no evidence shall be adduced that the complainant has engaged in sexual activity (with the accused or with any other person) other than the sexual activity that forms the subject-matter of the charge, unless the Court determines, in accordance with the procedure set out in
-
 *Second Schedule.*
 
-the Second Schedule, that the evidence–
+**79.** (1) Where the complainant in proceedings for an offence under this Act is sixteen years of age or over, no evidence shall be adduced that the complainant has engaged in sexual activity (with the accused or with any other person) other than the sexual activity that forms the subject-matter of the charge, unless the Court determines, in accordance with the procedure set out in the Second Schedule, that the evidence–
 
 (a) is of specific instances of sexual activity; and
 
@@ -1762,15 +1752,11 @@ before the statement of the prosecution is tendered in evidence, a copy of the s
 
 (a) before the committal proceedings begin, the prosecutor notifies the magistrate and the accused that the prosecutor believes–
 
-(i) that the statement might by virtue of section 91 or section
+*c. 5:03.*
 
 *c. 5:03.*
 
-92 of the Evidence Act be admissible as evidence if the case came to trial; or (ii) that the statement would not be admissible as evidence otherwise than by virtue of section 91 or section 92 of the
-
-*c. 5:03.*
-
-Evidence Act if the case came to trial;
+(i) that the statement might by virtue of section 91 or section 92 of the Evidence Act be admissible as evidence if the case came to trial; or (ii) that the statement would not be admissible as evidence otherwise than by virtue of section 91 or section 92 of the Evidence Act if the case came to trial;
 
 (b) the prosecutor's belief is based on information available to the prosecutor at the time of the notification;
 

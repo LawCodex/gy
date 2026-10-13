@@ -236,11 +236,9 @@ shall be prima facie evidence that the notice was given at the time stated in th
 
 **13.** (1) On payment of an annual or other fee from time to time prescribed by the Commissioner, anyone entitled to use a brand may have that brand with his name and address entered on a list to be kept by the Commissioner, of which a copy shall be kept at every police station.
 
-(2) Whenever an animal bearing a brand contained in that list passes any police station, or when any butcher notifies to the officer in charge of a station under
-
 *c. 80:04*
 
-section 23 of the Miscellaneous Licences Act his intention to slaughter any such animal, the officer in charge of the station shall forthwith give notice thereof by the next post to the person entitled to use the brand, and the notice shall contain a description of the animal in question:
+(2) Whenever an animal bearing a brand contained in that list passes any police station, or when any butcher notifies to the officer in charge of a station under section 23 of the Miscellaneous Licences Act his intention to slaughter any such animal, the officer in charge of the station shall forthwith give notice thereof by the next post to the person entitled to use the brand, and the notice shall contain a description of the animal in question:
 
 Provided that it shall not be necessary to send the notice if a written authority describing the animal and signed by the person entitled to use the brand with which it is marked is produced by the person in charge of the animal, stating that he is lawfully in charge of it.
 

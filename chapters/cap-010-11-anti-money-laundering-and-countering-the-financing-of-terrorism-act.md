@@ -296,27 +296,29 @@ Supplementary for disclosure order.
 
 ## PART VIII MISCELLANEOUS
 
-**108.** Money laundering an offence for extradition purposes.
+*Money*
+
+**108.** laundering an offence for extradition purposes.
 
 **109.** Moneys paid into Consolidated Fund.
 
-**110.** Annual Report to Parliament.
+*Annual Secrecy Disclosure Prosecution Subsidiary*
 
-**111.** Secrecy obligations overridden.
+**110.** Report to Parliament.
 
-**112.** Disclosure protected.
+**111.** obligations overridden.
 
-**113.** Prosecution of offences.
+**112.** protected.
 
-**114.** Subsidiary legislation.
+**113.** of offences.
 
-## FIRST SCHEDULE
+**114.** legislation.
 
-## SECOND SCHEDULE
+*FIRST SCHEDULE SECOND THIRD SCHEDULE FOURTH*
 
-## THIRD SCHEDULE
+## SCHEDULE
 
-## FOURTH SCHEDULE
+## SCHEDULE
 
 __________________________
 
@@ -324,9 +326,9 @@ __________________________
 
 ### ANTI-MONEY LAUNDERING AND COUNTERING THE FINANCING OF TERRORISM ACT
 
-*13 of 2009*
+*13 of 2009 An*
 
-An Act to provide for the establishment and management of a Financial Intelligence Unit; to provide for unlawful proceeds of all serious offences to be identified, traced, frozen, seized and forfeited; to provide for comprehensive powers for the prosecution of money laundering, terrorist financing and other financial crimes; and the forfeiture of the proceeds of crime and terrorist property; to require reporting entities to take preventive measures to help combat money laundering and terrorist financing; to provide for civil forfeiture of assets and for matters connected therewith.
+Act to provide for the establishment and management of a Financial Intelligence Unit; to provide for unlawful proceeds of all serious offences to be identified, traced, frozen, seized and forfeited; to provide for comprehensive powers for the prosecution of money laundering, terrorist financing and other financial crimes; and the forfeiture of the proceeds of crime and terrorist property; to require reporting entities to take preventive measures to help combat money laundering and terrorist financing; to provide for civil forfeiture of assets and for matters connected therewith.
 
 ### [9 TH NOVEMBER 2009]
 
@@ -372,11 +374,9 @@ anything from which sounds, images or writing can be produced, with or without t
 
 “Financial Intelligence Unit” means the Financial Intelligence Unit established pursuant to section 9 of this Act;
 
-“financial institution” means a bank or financial institution
-
 *c. 85:03 First Schedule.*
 
-as defined in the Financial Institutions Act or other financial institutions as specified in the First Schedule;
+“financial institution” means a bank or financial institution as defined in the Financial Institutions Act or other financial institutions as specified in the First Schedule;
 
 “forfeiture” means the permanent deprivation of property by order of a court;
 
@@ -426,17 +426,13 @@ as defined in the Financial Institutions Act or other financial institutions as 
 
 any offence listed in Second Schedule;
 
-a law of a foreign state, in relation to an act or omission, which had it occurred in Guyana, would have constituted an offence for which the maximum penalty is death, or imprisonment for life or other deprivation of liberty for a period of not less than six months and includes money laundering and terrorist
-
 *Second Schedule.*
 
-financing or an offence listed in the Second Schedule;
-
-“supervisory authority” means the authority set out in
+a law of a foreign state, in relation to an act or omission, which had it occurred in Guyana, would have constituted an offence for which the maximum penalty is death, or imprisonment for life or other deprivation of liberty for a period of not less than six months and includes money laundering and terrorist financing or an offence listed in the Second Schedule;
 
 *Fourth Schedule.*
 
-column 2 of the Fourth Schedule who has compliance oversight over the reporting entity set out in column 1 of the Schedule,
+“supervisory authority” means the authority set out in column 2 of the Fourth Schedule who has compliance oversight over the reporting entity set out in column 1 of the Schedule,
 
 “tainted property” means property—
 
@@ -454,11 +450,9 @@ organises or directs others to commit terrorist acts; or
 
 contributes to the commission of terrorist acts by a group of persons acting with a common purpose where the contribution is made intentionally and with the aim of furthering the terrorist act or with the knowledge of the intention of the group to commit a terrorist act;
 
-“terrorist act” shall have the same meaning assigned to it as
-
 *c. 8:01*
 
-in the Criminal Law (Offences) Act and includes—
+“terrorist act” shall have the same meaning assigned to it as in the Criminal Law (Offences) Act and includes—
 
 (a) any act which constitutes an offence within the scope of, and as defined in any of the following treaties—
 
@@ -682,11 +676,15 @@ relevant to investigating prosecuting a money laundering offence or terrorist fi
 
 (o) shall, in respect of the entities for which it has been designated, exercise the powers set out in section 18 and in relation to this, may enter the premises of any reporting entity during ordinary business hours to inspect any record kept by the reporting entity, and ask any question relating to such record, make notes and take copies of whole or any part of the record.
 
-(5) The Director shall advise the Minister responsible for Finance on matters relating to money laundering or terrorist financing that may affect public policy and national security.
+*and*
+
+(5) The Director shall advise the Minister responsible for Finance on matters relating to money laundering or terrorist financing that may affect public policy national security.
 
 (6) The funds and resources of the Financial Intelligence Unit shall consist of such sums as may be appropriated by Parliament.
 
-(7) The Director shall be responsible for the control and use of the funds and resources of the Financial Intelligence Unit.
+*and use*
+
+(7) The Director shall be responsible for the control of the funds and resources of the Financial Intelligence Unit.
 
 (8) The Director shall keep proper accounts and
 
@@ -842,6 +840,8 @@ verification of any class of customers or applicants; or
 
 (d) where at the end of the final period of extension under paragraph (c) a reporting entity is unable to verify the identity of a customer, the reporting entity shall terminate the business relationship with the customer.
 
+Financing of Terrorism
+
 *Obligations of reporting entities.*
 
 **16.** (1) Reporting entities shall establish and maintain—
@@ -852,9 +852,13 @@ verification of any class of customers or applicants; or
 
 (c) records of account files and business correspondence in relation to paragraphs (a) and (b);
 
-(2) Customer accounts of a reporting entity shall be kept in the true name of the account holder.
+*kept in*
 
-(3) Records required under subsection (1) (a) shall contain particulars sufficient to identify—
+(2) Customer accounts of a reporting entity shall be the true name of the account holder.
+
+*contain*
+
+(3) Records required under subsection (1) (a) shall particulars sufficient to identify—
 
 (a) the name, date of birth, address and occupation or where appropriate, business or principal activity of each person—
 
@@ -1030,23 +1034,17 @@ the Court may make an order authorising the Financial Intelligence Unit to enter
 
 **22.** (1) The supervisory authority responsible for supervising each reporting entity shall supervise compliance by the reporting entity with the requirements of sections 15, 16, 18, 19 and 20,and—
 
-(a) the Governor of the Bank of Guyana appointed under section 9 of the Bank
-
 *c. 85:02*
 
-of Guyana Act;
-
-(b) the Commissioner of Insurance appointed under section 3 of the
+(a) the Governor of the Bank of Guyana appointed under section 9 of the Bank of Guyana Act;
 
 *c. 91:02*
 
-Insurance Act;
-
-(c) the Guyana Securities Council established under section 4 of the
+(b) the Commissioner of Insurance appointed under section 3 of the Insurance Act;
 
 *c. 73:04*
 
-Securities Industry Act;
+(c) the Guyana Securities Council established under section 4 of the Securities Industry Act;
 
 (d) a supervisory authority whose member or members shall be appointed by the Minister responsible for Finance,
 
@@ -1318,11 +1316,9 @@ relation to the forfeiture of the proceeds of crime or terrorist property under 
 
 *currency.*
 
-the amount is more than the sum specified in this Act or section 6 of the Foreign Exchange (Miscellaneous
-
 *c. 86:01.*
 
-Provisions) Act; and
+the amount is more than the sum specified in this Act or section 6 of the Foreign Exchange (Miscellaneous Provisions) Act; and
 
 (b) such person has reasonable grounds for suspecting that it is—
 
@@ -1444,11 +1440,9 @@ living expenses of the person’s dependants, if any) and reasonable business ex
 
 **41.** (1) A copy of a restraining order which affects transported land shall be registered with the Registrar of Deeds and where the restraining order affects registered land, the order shall be lodged with the Registrar of Lands who shall make the appropriate entry in the Register kept for that purpose in the Land Registry.
 
-(2) A restraining order is of no effect with respect to land unless it is registered as a charge under the Deeds
-
 *c. 5:01 c. 5:02*
 
-Registry Act or the Land Registry Act, as the case may be.
+(2) A restraining order is of no effect with respect to land unless it is registered as a charge under the Deeds Registry Act or the Land Registry Act, as the case may be.
 
 (3) Where particulars of a restraining order are registered under the Deeds Registry Act or the Land Registry Act, as the case may be, a person who subsequently deals with the property shall, for the purposes of this section be deemed to have notice of the order at the time of the dealing.
 
@@ -1554,11 +1548,9 @@ person from sources unrelated to criminal activity of that person cannot reasona
 
 (4) In this section—
 
-“registrable property” means property the title to which is
-
 *c. 5:02 c. 5:01*
 
-passed by registration in accordance with the provisions of the Land Registry Act or the Deeds Registry Act;
+“registrable property” means property the title to which is passed by registration in accordance with the provisions of the Land Registry Act or the Deeds Registry Act;
 
 “relevant appeal date” used in relation to a forfeiture order made in consequence of a person's conviction of a serious offence means—
 
@@ -2196,11 +2188,9 @@ the property is terrorist property.
 
 (c) the Director of Public Prosecutions has power on behalf of the Government to do or authorise the doing of anything necessary or convenient to obtain the registration of the State as owner, including the execution of any instrument to be executed by a person transferring an interest in property of that kind.
 
-(3) In this section, “registrable property” means property the title to which is passed by registration in
-
 *c. 5:02*
 
-accordance with the provisions of the Land Registry Act.
+(3) In this section, “registrable property” means property the title to which is passed by registration in accordance with the provisions of the Land Registry Act.
 
 ## PART VI INTERNATIONAL COOPERATION
 
@@ -2252,11 +2242,9 @@ judgment; and
 
 (2) “Corresponding law”—
 
-(a) in relation to proceedings relating to drug trafficking has the meaning given in section 2 of the Narcotic Drugs and Psychotropic Substances
-
 *c. 10:10*
 
-(Control)Act and;
+(a) in relation to proceedings relating to drug trafficking has the meaning given in section 2 of the Narcotic Drugs and Psychotropic Substances (Control)Act and;
 
 in any other case, means a law which
 
@@ -2506,11 +2494,9 @@ Lands with notice to that effect and the Registrar of Lands shall cancel the ent
 
 (6) Where notice of an order has been given under subsection (4) and the order is discharged or lapses, the Registrar of the Supreme Court shall furnish the Registrar of Deeds with notice to that effect and the Registrar of Deeds shall thereupon cancel the registration made under subsection (4).
 
-(7) Where an interim order or an restraint order is made which applies to an interest in a company or to the property of a company, the Registrar of the Supreme Court shall furnish the Registrar of Companies with notice of the order and the Registrar of Companies shall thereupon cause the notice to be entered in the Register of Companies
-
 *c. 89:01*
 
-maintained under the Companies Act.
+(7) Where an interim order or an restraint order is made which applies to an interest in a company or to the property of a company, the Registrar of the Supreme Court shall furnish the Registrar of Companies with notice of the order and the Registrar of Companies shall thereupon cause the notice to be entered in the Register of Companies maintained under the Companies Act.
 
 (8) Where notice of an order has been given under subsection (7) and the order is varied, the Registrar of the Supreme Court shall furnish the Registrar of Companies with notice to that effect and the Registrar of Companies shall thereupon cause the notice entered under subsection (7) to be varied to that effect.
 
@@ -2642,11 +2628,9 @@ institution or reporting entity jointly with him; and
 
 (c) a description of any business which the person carries on;
 
-(d) the country or territory in which it is incorporated or otherwise established
-
 *c. 89:01*
 
-and any number allocated to it under the Companies Act or corresponding legislation of any country or territory outside Guyana;
+(d) the country or territory in which it is incorporated or otherwise established and any number allocated to it under the Companies Act or corresponding legislation of any country or territory outside Guyana;
 
 (e) any number assigned to it for the purposes of value added tax or other tax in Guyana;
 
@@ -2710,11 +2694,9 @@ makes a statement which it knows to be false or misleading in a material particu
 
 (2) But subsection (1) shall not apply—
 
-(a) on a prosecution for an offence of perjury under section 99 of the
-
 *c. 5:03*
 
-Evidence Act; or
+(a) on a prosecution for an offence of perjury under section 99 of the Evidence Act; or
 
 (b) on a prosecution for some other offence where, in giving evidence, the reporting entity makes a statement inconsistent with the statement mentioned m subsection (1).
 
@@ -2816,11 +2798,9 @@ produce documents, or documents of a description, specified in the notice, eithe
 
 (2) But subsection (1) shall not apply—
 
-(a) on a prosecution for an offence of perjury under section 99 of the
-
 *c. 5:03*
 
-Evidence Act; or
+(a) on a prosecution for an offence of perjury under section 99 of the Evidence Act; or
 
 on a prosecution for some other offence where, in giving evidence, the person makes a statement inconsistent with the statement mentioned in subsection (1).
 
@@ -3146,35 +3126,17 @@ Acceptance of deposits and other repayable funds from the public.
 
 Lending, including consumer credit, mortgage credit, factoring (with or without recourse) and financing of commercial transactions.
 
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance Supervisory Authority appointed by the Minister responsible for Finance Governor of the Bank of Guyana*
 
 Financial leasing.
 
-*responsible*
-
-*for*
-
-*Finance Supervisory Authority appointed by the Minister*
-
 Money transfer agencies.
-
-*responsible*
-
-*for*
-
-*Finance Governor of the Bank of Guyana*
 
 Dealers in foreign currency, money exchangers e.g. cambios.
 
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance Governor of the Bank of Guyana*
 
 Pawn brokers.
-
-*responsible*
-
-*for*
-
-*Finance Governor of the Bank of Guyana*
 
 Issuing and administering means of payment (such as credit cards, travellers’ cheques and bankers’ drafts).
 
@@ -3182,15 +3144,9 @@ Issuing and administering means of payment (such as credit cards, travellers’ 
 
 Guarantees and commitments.
 
-*Guyana*
+*Guyana Securities Council*
 
-*Securities*
-
-Trading for own account or for account
-
-*Council*
-
-of customers in money market instruments (such as cheques, bills, certificates of deposit), foreign
+Trading for own account or for account of customers in money market instruments (such as cheques, bills, certificates of deposit), foreign
 
 *Supervisory Authority*
 
@@ -3198,115 +3154,47 @@ Reporting Entity that carries on the following activity or business
 
 exchange, financial futures and options, exchange and interest rate instruments, and transferable securities.
 
-*Guyana*
+*Guyana Securities Council*
 
-*Securities*
+Underwriting share issues and participation in such issue.
 
-Underwriting share issues and
+*Guyana Securities Council*
 
-*Council*
+Advice to undertakings on capital structure, industrial strategy and related questions, and advice and services relating to mergers and the purchase of undertakings.
 
-participation in such issue.
-
-*Guyana*
-
-*Securities*
-
-Advice to undertakings on capital
-
-*Council*
-
-structure, industrial strategy and related questions, and advice and services relating to mergers and the purchase of undertakings.
-
-*Guyana*
-
-*Securities*
+*Guyana Securities Council*
 
 Money-broking.
 
-*Council*
-
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance Guyana Securities Council Guyana Securities Council Supervisory Authority appointed by the Minister responsible for Finance Supervisory Authority appointed by the Minister responsible for Finance Commissioner of Insurance*
 
 Credit union.
 
-*responsible*
-
-*for*
-
-*Finance Guyana*
-
-*Securities*
-
 Portfolio management and advice.
 
-*Council Guyana*
-
-*Securities*
-
-Safekeeping and administration of
-
-*Council Supervisory Authority appointed by the Minister*
-
-securities.
+Safekeeping and administration of securities.
 
 Casinos, betting shops and lotteries.
 
-*responsible*
-
-*for*
-
-*Finance Supervisory Authority appointed by the Minister*
-
 Buying or selling of gold bullion.
 
-*responsible*
+Insurance business, domestic and international.
 
-*for*
-
-*Finance Commissioner*
-
-*of*
-
-Insurance business, domestic and
-
-*Insurance*
-
-international.
-
-*Guyana*
-
-*Securities*
+*Guyana Securities Council*
 
 Venture risk capital.
-
-*Council*
 
 *Supervisory Authority*
 
 Reporting Entity that carries on the following activity or business
 
-*Guyana*
-
-*Securities*
+*Guyana Securities Council*
 
 Unit trusts.
 
-*Council*
+*Supervisory Authority appointed by the Minister responsible for Finance*
 
-*Supervisory Authority appointed by the Minister*
-
-A trust or company service provider which as a business, provide any of the following services to third parties as
-
-*responsible*
-
-*for*
-
-covered under the Civil Law of Guyana
-
-*Finance*
-
-Act, Cap 6:01:
+A trust or company service provider which as a business, provide any of the following services to third parties as covered under the Civil Law of Guyana Act, Cap 6:01:
 
 (i) acting as a formation, registration or management agent of legal persons, acting as, or arranging for another person to act as, as a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;
 
@@ -3316,19 +3204,9 @@ Act, Cap 6:01:
 
 (iv) acting as, or arranging for another person to act as, a nominee shareholder for another person.
 
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance*
 
-Attorneys-at-law, notaries, other independent legal professionals and accountants when they prepare for or
-
-*responsible*
-
-*for*
-
-carry out transactions for their client
-
-*Finance*
-
-concerning the following activities:
+Attorneys-at-law, notaries, other independent legal professionals and accountants when they prepare for or carry out transactions for their client concerning the following activities:
 
 (i) buying and selling of real estate,
 
@@ -3344,51 +3222,21 @@ Reporting Entity that carries on the following activity or business
 
 (v) creation, operation or management of legal persons or arrangements, and buying and selling of business entities.
 
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance*
 
-Dealing in real estate when the persons dealing are involved in transactions for their client concerning the buying and
+Dealing in real estate when the persons dealing are involved in transactions for their client concerning the buying and selling of real estate.
 
-*responsible*
+*Supervisory Authority appointed by the Minister responsible for Finance*
 
-*for*
+Dealing in precious metals stones— when the persons dealing engage in any cash transaction with a customer equal to or above the applicable designated threshold.
 
-selling of real estate.
-
-*Finance*
-
-*Supervisory Authority appointed by the Minister*
-
-Dealing in precious metals stones— when the persons dealing engage in any cash transaction with a customer equal
-
-*responsible*
-
-*for*
-
-to or above the applicable designated
-
-*Finance*
-
-threshold.
-
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance*
 
 Registered Charities.
 
-*responsible*
-
-*for*
-
-*Finance*
-
-*Supervisory Authority appointed by the Minister*
+*Supervisory Authority appointed by the Minister responsible for Finance*
 
 Cooperatives.
-
-*responsible*
-
-*for*
-
-*Finance*
 
 ### SUBSIDIARY LEGISLATION
 
@@ -3421,6 +3269,10 @@ made under section 15(10)(c)
 *Citation.*
 
 **1.** This Order may be cited as the Anti-Money Laundering and Countering the Financing of Terrorism (Extension of Time for Verification of Identity (No.2) Order
+
+*1/2012*
+
+L.R.O.
 
 Anti-Money Laundering and Countering the Financing of Terrorism Anti- Money Laundering and Countering the Financing of Terrorism (Extension of Time for Verification of Identity) (No. 3) Order
 
@@ -3516,11 +3368,9 @@ ANTI-MONEY LAUNDERING AND COUNTERING THE FINANCING OF TERRORISM REGULATIONS.
 
 **2.** (1) In these Regulations, unless the context otherwise requires—
 
-“Act” means the Anti-Money Laundering and Countering the
-
 *c. 10:11.*
 
-Financing of Terrorism Act;
+“Act” means the Anti-Money Laundering and Countering the Financing of Terrorism Act;
 
 “applicant for business” means a person seeking to form a business relationship or to carry out a one-off transaction with reporting entity which is carrying on a relevant business in or out of Guyana;
 
@@ -3694,11 +3544,7 @@ transaction was carried out.
 
 **11.** (1) A reporting entity shall establish written internal reporting procedures which, in relation to its relevant
 
-*for recognising*
-
-*business, will—*
-
-*and reporting suspicious transactions.*
+*for recognising business, will— and reporting suspicious transactions.*
 
 (a) enable all its directors or, as the case may be, partners, all other persons involved in its management, and all key staff to know to whom they should report any knowledge or suspicion of money laundering, proceeds of crime or terrorist financing activity;
 

@@ -70,7 +70,9 @@ An Act to provide a system whereby offenders guilty of minor offences may be mad
 
 **1.** This Act may be cited as the Extra-Mural Work Act.
 
-Interpretation. 2. In this Act—
+*Interpretation.*
+
+**2.** In this Act—
 
 “Commissioner” means the Commissioner of Police;
 

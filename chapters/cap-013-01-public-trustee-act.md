@@ -84,13 +84,11 @@ Res. of Leg. XXI/1956, 4of 1972
 
 (3) Right of persons to moneys paid to Accountant General barred.
 
-### SECTION
+*SECTION*
 
-(4) Moneys paid to Accountant General under Indian Labour Act.
+Moneys paid to Accountant General under Indian Labour Act.
 
-**14.** (1) Moneys received by Public Trustee to be paid into bank.
-
-(2) Payments to be made as directed by the Minister.
+**14.** (1) Moneys received by Public Trustee to be paid into bank. (2) Payments to be made as directed by the Minister.
 
 **15.** Sales at public auction.
 
@@ -102,21 +100,25 @@ Res. of Leg. XXI/1956, 4of 1972
 
 **18.** Rules.
 
-____________________________ 1929 Ed.
+____________________________
 
-c. 245 CHAPTER 13:01 1953 Ed.
+*1929 Ed. c. 245 1953 Ed. c. 48*
 
-c. 48 PUBLIC TRUSTEE ACT _______________________________________________________
+### CHAPTER 13:01 PUBLIC TRUSTEE ACT _______________________________________________________
 
-15 of 1910
+*15 of 1910*
 
 An Act to provide for the appointment of a Public Trustee.
 
 [10 th SEPTEMBER, 1910]
 
-Short title. 1. This Act may be cited as the Public Trustee Act.
+*Short title.*
 
-Interpretation. 2. In this Act—
+**1.** This Act may be cited as the Public Trustee Act.
+
+*Interpretation.*
+
+**2.** In this Act—
 
 “Court” means the High Court or any judge thereof;
 
@@ -156,7 +158,7 @@ guardian or committee, or receiver, other than the Public Trustee;
 
 (b) act as executor or administrator of a will;
 
-(c) act as guardian or committee, or receiver, of the property of any infant or other person under disability, as the case may be; and
+act as guardian or committee, or receiver, of the property of any infant or other person under disability, as the case may be; and
 
 (d) take possession of and administer the estate of any person who is absent from Guyana and who is not fully represented by any attorney in Guyana, and who has left debts unpaid.
 
@@ -232,11 +234,9 @@ distribute them amongst the creditors of the person in the same manner as if he 
 
 (7) Until the Public Trustee receives directions from the Court, he shall administer the estate or property according to the usual legal course of administration in Guyana by attorneys of absent parties:
 
-Provided that, where it appears that the owner has committed an act of insolvency or that the claims on the estate exceed the assets, the Public Trustee shall forthwith apply to the Court, and the Court, if satisfied of the fact, shall thereupon adjudge the estate to be insolvent, and it shall then be administered not under this Act but under, and in
-
 *c. 12:21*
 
-accordance with, the Insolvency Act as if the owner thereof had been adjudged insolvent.
+Provided that, where it appears that the owner has committed an act of insolvency or that the claims on the estate exceed the assets, the Public Trustee shall forthwith apply to the Court, and the Court, if satisfied of the fact, shall thereupon adjudge the estate to be insolvent, and it shall then be administered not under this Act but under, and in accordance with, the Insolvency Act as if the owner thereof had been adjudged insolvent.
 
 ### FINANCIAL PROVISIONS
 
@@ -352,17 +352,15 @@ made under section 18
 
 (i) where all the heirs join in the application;
 
-(ii) where the heirs are unknown; (iii) where the heirs are absent from Guyana and unrepresented; (iv) where the heirs are under
+(ii) where the heirs are unknown; where the heirs are absent from Guyana and unrepresented; where the heirs are under
 
 disability;
 
 (v) where their whereabouts are unknown; or
 
-(vi) in any case in which the Court would in the opinion of the Public Trustee be empowered to appoint an administrator under the Deceased Persons
-
 *c. 12:01*
 
-Estates’ Administration Act.
+(vi) in any case in which the Court would in the opinion of the Public Trustee be empowered to appoint an administrator under the Deceased Persons Estates’ Administration Act.
 
 (c) Save and except as provided by section 5(4) of the Act, and by this rule he shall not accept or undertake any trust, administration or duty which involves the management or carrying on of any business except where such management or carrying on is necessary only for the beneficial winding up of such business.
 
@@ -398,11 +396,9 @@ be likely to be put to, and any costs he may incur or be ordered to pay by reaso
 
 **8.** A separate account shall be kept of every trust or estate administered by the Public Trustee.
 
-**9.** The provisions of section 46 of the Deceased
-
 *c. 12:01*
 
-Persons Estates Administration Act shall not apply to the Public Trustee when administering any estate under section 6 or 7 of the Act.
+**9.** The provisions of section 46 of the Deceased Persons Estates Administration Act shall not apply to the Public Trustee when administering any estate under section 6 or 7 of the Act.
 
 *Inspection of register and the taking of copies of any entry.*
 
@@ -442,11 +438,9 @@ In other cases the accounts of the Public Trustee shall be audited and the secur
 
 *Application for direction of the Court.*
 
-**15.** The Public Trustee may apply to the Court for the opinion, advice and direction of the Court on any question respecting the management or administration of the property under his charge and save as hereinafter provided, the
-
 *c. 3:02*
 
-provisions of section 37 of the High Court Act shall apply to any such application.
+**15.** The Public Trustee may apply to the Court for the opinion, advice and direction of the Court on any question respecting the management or administration of the property under his charge and save as hereinafter provided, the provisions of section 37 of the High Court Act shall apply to any such application.
 
 *Hearing by single judge.*
 

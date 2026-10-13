@@ -136,11 +136,9 @@ Provided that that jurisdiction shall only be exercised where it is proved, to t
 
 (8) The Court may, if it thinks fit, decline to commit, and in lieu thereof, with the consent of the judgment creditor, his counsel or solicitor, and on payment by him of any necessary fees, make a receiving order against the debtor, and in that case the judgment debtor shall be deemed to have committed an act of insolvency at the time the order is made.
 
-(9) Where a receiving order is made against a judgment debtor under this section, the insolvency of the debtor shall be deemed to have relation back to and to commence at the time of the order, or, if the insolvent is proved to have committed any previous act of insolvency, then to have relation back to and to commence at the time of the first of the acts of insolvency proved to have been committed by the debtor within three months next preceding
-
 *c. 12:21*
 
-the date of the order, and section 46 of the Insolvency Act, or any corresponding provision in any Act for the time being in force relating to insolvency, shall apply as if the debtor had been adjudged insolvent on an insolvency petition presented at the date of the receiving order.
+(9) Where a receiving order is made against a judgment debtor under this section, the insolvency of the debtor shall be deemed to have relation back to and to commence at the time of the order, or, if the insolvent is proved to have committed any previous act of insolvency, then to have relation back to and to commence at the time of the first of the acts of insolvency proved to have been committed by the debtor within three months next preceding the date of the order, and section 46 of the Insolvency Act, or any corresponding provision in any Act for the time being in force relating to insolvency, shall apply as if the debtor had been adjudged insolvent on an insolvency petition presented at the date of the receiving order.
 
 *Saving of power of imprisonment*
 

@@ -64,15 +64,17 @@ AN ACT to enable the implementation by Guyana of the Protocol to the Agreement E
 
 *Interpretation.*
 
-**2.** In this Act “Protocol” means the Protocol to the Agreement Establishing the Caribbean Court of Justice, signed at Montego Bay, Jamaica on 4th July, 2003, the text of
-
 *Schedule*
 
-which is set out in the Schedule.
+**2.** In this Act “Protocol” means the Protocol to the Agreement Establishing the Caribbean Court of Justice, signed at Montego Bay, Jamaica on 4th July, 2003, the text of which is set out in the Schedule.
 
 *Protocol given the force o f law*
 
 **3.** The Protocol shall have the force of law in Guyana.
+
+*3:09*
+
+Cap.
 
 *5.2 .*
 
@@ -95,6 +97,10 @@ Have Agreed as follows:
 ### ARTICLE I JURIDICAL PERSONALITY AND LEGAL CAPACITY OF THE COURT
 
 **1.** The Court shall have full juridical personality.
+
+*1/2022*
+
+L.R.O.
 
 **2.** Each Contacting party to the Agreement shall, in its territory, accord to the Court the most extensive legal capacity accorded to legal persons under its municipal law.
 

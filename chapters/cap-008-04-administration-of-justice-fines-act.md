@@ -42,9 +42,9 @@ Administration of Justice (Fines)
 
 ## ARRANGEMENT OF SECTIONS
 
-*SECTION*
+*SECTION Short*
 
-1 Short title.
+1 title.
 
 **2.** Imprisonment in default of payment of fine not to be imposed in certain cases.
 
